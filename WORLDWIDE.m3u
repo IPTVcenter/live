@@ -247,7 +247,7 @@ https://itvoign.multitvsolution.com/idvo/tlchdhindi.m3u8
 https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
 #EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="NEWS",NEWS X (IN)
 https://itvoign.multitvsolution.com/hls/newsx.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="INTERNET -- TV",ANIMAL PLANET HD (IN)
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="INFOTAINMENT",ANIMAL PLANET HD (IN)
 https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png"  group-title="INFOTAINMENT",DISCOVERY (IN)
 https://itvoign.multitvsolution.com/idvo/discoveryhindi.m3u8
@@ -562,7 +562,7 @@ https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="MOVIES",& PICTURES HD (IN)
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-#EXTINF:-1 ch-id="& PICTURES (IN)" tvg-logo=" "  group-title="INTERNET -- TV",& PICTURES (IN)
+#EXTINF:-1 ch-id="& PICTURES (IN)" tvg-logo=" "  group-title="MOVIES",& PICTURES (IN)
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 ch-id="& FLIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-uSTchAxwVV0/YJ8RbAx4cDI/AAAAAAAAAv0/CmQkYjiSpl8vZ8ENFf6iYBChT3qfxSZUgCLcBGAsYHQ/s0/PicsArt_05-15-05.10.43.jpg"   group-title="MOVIES",& FLIX HD (IN)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
