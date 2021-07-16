@@ -433,9 +433,55 @@ http://212.224.98.196:2200/EX/zeecinema-in/tracks-v1a1/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/HINDI_ZEE_ANMOL_CINEMA-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-1 ch-id="ENTER 10 MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-3J8m9DvCnCg/YPDfSydWUdI/AAAAAAAAAhU/VdYRoRElBJUutr_wiSCgmr0AvW-hCtvrACLcBGAsYHQ/s200/images%2B%25286%2529.jpeg"  group-title="MOVIES",ENTER 10 MOVIES (IN)
 http://212.224.98.196:2200/R-EX/HINDI_ENTER_10_MOVIES-in/tracks-v1a1/index.m3u8?token=
-#EXTINF:-1 ch-id="SONY MAX 2 (IN)" tvg-logo=" "  group-title="MOVIES",SONY MAX 2 (IN)
+#EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo=" "  group-title="MOVIES",UTV MOVIES (IN)
+http://212.224.98.207:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=  
+#EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-wE4h8GYmfG4/YO47Ci2kTgI/AAAAAAAAAcc/L9PUKzFmLyosWJKyjU9UWBowkzjMnaWrQCLcBGAsYHQ/s200/images%2B%252813%2529%25282%2529.jpeg"  group-title="MOVIES",UTV ACTION (IN)      
+http://212.224.98.207:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY MAX HD (UK)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="MOVIES",SONY MAX HD (UK)
+http://212.224.98.207:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY MAX (UK)" tvg-logo="https://1.bp.blogspot.com/-Ps2mk4yk_c0/YPDe06VkWcI/AAAAAAAAAg8/Hc_6zEU6X54LHDsGNB1w1HjfsK0PlzDkACLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="MOVIES",SONY MAX (UK)
+http://212.224.98.196:2200/EX/sonysetmax-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="MOVIES",STAR GOLD HD (IN)
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="MOVIES",ZEE ACTION (IN)
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_ACTION-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="COLORS RISHTEY (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",COLORS RISHTEY (IN)
+http://212.224.98.196:2200/R-EX/COLOR_RISHTEY_-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="USTAV PLUS HD (UK)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",USTAV PLUS HD (UK)
+http://212.224.98.196:2200/EX/UKSD_Star_Plus-uk/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",&TV HD (IN)
+http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="GENERAL ENTERTAINMENT",STAR PLUS HD (IN)
+http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",USTAV PLUS (UK)
+http://212.224.98.196:2200/EX/starplus-in/tracks-v1a1/index.m3u8?token=Samitvhd.com?token=
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",SONY TV (UK)
+http://212.224.98.207:2200/EX/sonytv-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="GENERAL ENTERTAINMENT",COLORS HD (IN)
+http://212.224.98.207:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",SONY TV (UK)
+http://212.224.98.207:2200/NL/sonytvasia-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://1.bp.blogspot.com/-X4BHuDdG6N4/YKWxH-30awI/AAAAAAAAA9A/mtnwTDVYx3kpfc5W73xOjgAABQXHNEeGQCLcBGAsYHQ/w200-h200/5d89baa6c85b7228779305.jpg"   group-title="GENERAL ENTERTAINMENT",SONY SAB (UK)
+http://212.224.98.207:2200/NL/sonysab-uk/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://1.bp.blogspot.com/-EHSVx9PA5qE/YO47YgHZq1I/AAAAAAAAAck/Rm8Ue2Q6hYk7xay45IpoDDNghj4C8phtgCLcBGAsYHQ/s200/images%2B%25283%2529%25282%2529.png"  group-title="GENERAL ENTERTAINMENT",SONY SAB HD (IN)
+http://212.224.98.207:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",STAR BHARAT HD (IN)
+http://212.224.98.207:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s292/PicsArt_07-14-06.24.01.png"  group-title="GENERAL ENTERTAINMENT",STAR WORLD HD (IN)
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=samitvhd.com
+#EXTINF:-1 ch-id="MTV BEATS HD (IN)" tvg-logo=" "  group-title="MUSIC",MTV BEATS HD (IN)
+http://212.224.98.207:2200/R-EX/HINDI_MTV_PLUS_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="NAT GEO WILD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-MkCxolIvFQ0/YO54rhfO3II/AAAAAAAAAdE/cxeJrWwNijgApAV7qUSk5SKdg4uJvH_0QCLcBGAsYHQ/s200/PicsArt_07-14-11.09.33.jpg"  group-title="INFOTAINMENT",NAT GEO WILD HD  (IN)
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="INFOTAINMENT",SONY BBC EARTH HD (IN)
+http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/index.m3u8?token=
+
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
 
 
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
 
 
 
