@@ -399,6 +399,47 @@ http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="URDU 1 (PK)" tvg-logo="https://1.bp.blogspot.com/-_94IB0QrIUY/YO46Mc-n5nI/AAAAAAAAAcE/Ol8o5H5q3S8qxwrgog8Hk-H3ONXGgjyYQCLcBGAsYHQ/s200/images%2B%25283%2529%25284%2529.png"  group-title="GENERAL ENTERTAINMENT",URDU 1 (PK)
 http://221.120.204.4/URDU-1-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="MINIPLEX (IN)" tvg-logo="https://1.bp.blogspot.com/-CxtG3vQv8os/YPDZScrozuI/AAAAAAAAAgc/gB9OauWnn3EOXVSjvDfMc2oW57Fr0LoBgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MOVIES",MINIPLEX (IN)
+http://212.224.98.196:2200/R-EX/HINDI_MINIPLEX_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="MOVIES ACTIVE HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CztgsuhVkbw/YPDfx9BtlgI/AAAAAAAAAhg/SvtCm54OjfcsXDQR78TIF68WZ-YniTkqQCLcBGAsYHQ/s200/PicsArt_07-16-06.54.03.jpg"  group-title="MOVIES",MOVIES ACTIVE HD (IN)
+http://212.224.98.196:2200/R-EX/FHD_MOVIES_ACTIVE-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-TAIkarMs08k/YPDdFlIBuZI/AAAAAAAAAgw/Gl5CHmkkfbQMF-iZ0niYpjfgZ0JC_B3WQCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MOVIES",UTV HD (IN)
+http://212.224.98.207:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:-1 ch-id="B4U MOVIES (UK)" tvg-logo="https://1.bp.blogspot.com/-X5qjVKrlQDo/YPDcpwwDXfI/AAAAAAAAAgo/EnC9lkSJDlE8SgPc_W_hOmsGrJO-val7gCLcBGAsYHQ/s250/B4U_MOVIES_2014.png"  group-title="MOVIES",BRU MOVIES (UK)
+http://212.224.98.207:2200/NL/b4umovies-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-Vn4hTEEG7mw/YOwX4s2IULI/AAAAAAAAAYA/klA1po7TX_AdApjNgLU_KMRT0ZHDC-tqACLcBGAsYHQ/s200/PicsArt_07-06-05.31.06.jpg"  group-title="MUSIC",B4U MUSIC (IN)
+http://212.224.98.207:2200/NL/b4umusic-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-42c3l3dUGbo/YO47qGk25yI/AAAAAAAAAcs/wTGh3CGsivkR0wIbPtTZdcIFnSVavVEAwCLcBGAsYHQ/s200/images%2B%252814%2529%25282%2529.jpeg"  group-title="MOVIES",COLORS CINEPLEX HD (IN)
+http://212.224.98.196:2200/R-EX/HINDI_CINEPLEX_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="MOVIES",& PICTURES HD (IN)
+http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="& EXPLOR HD (IN)" tvg-logo="https://1.bp.blogspot.com/-Z-jYHbqNdQg/YPDep13NVcI/AAAAAAAAAg4/VKtungv46icvgDOX-gz69VxAeGo7xbNzACLcBGAsYHQ/s200/%252526xplor_HD_logo.png"  group-title="MOVIES",& EXPLOR HD (IN)
+http://212.224.98.196:2200/R-EX/ANDXPLOR_HD_-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY MAX (UK)" tvg-logo="https://1.bp.blogspot.com/-Ps2mk4yk_c0/YPDe06VkWcI/AAAAAAAAAg8/Hc_6zEU6X54LHDsGNB1w1HjfsK0PlzDkACLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="MOVIES",SONY MAX (UK)
+http://212.224.98.196:2200/EX/sonymaxuk-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY MAX 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-cF8Gl2K8jgs/YPDe-fMh4uI/AAAAAAAAAhE/ivF-QWq2yosZqFTa9pYDSnRiv0D47BYFgCLcBGAsYHQ/s200/images%2B%25282%2529.jpeg"  group-title="MOVIES",SONY MAX 2 (IN)
+http://212.224.98.207:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
+#EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-mtKu2oH0af8/YO46w3AydwI/AAAAAAAAAcQ/dUWtZDVc7oIBA2FM3K0kjU6EuJsMttvFgCLcBGAsYHQ/s200/PicsArt_07-06-05.37.31.jpg"  group-title="MOVIES",STAR GOLD 2 (IN)
+http://212.224.98.196:2200/R-EX/STAR_GOLD_2-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IN)" tvg-logo="https://1.bp.blogspot.com/-TZ-Asn7PDg4/YPDfIwsRhYI/AAAAAAAAAhM/Oyo3RNh_KtM70bd1SBhXPwgEQKGZuvbjQCLcBGAsYHQ/s200/images%2B%25285%2529.jpeg"  group-title="MOVIES",STAR GOLD SELECT HD (IN)
+http://212.102.60.40:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES SELECT HD (IN)" tvg-logo=" "  group-title="MOVIES",STAR MOVIES SELECT HD (IN)
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="MOVIES",ZEE ACTION (IN)
+http://212.224.98.196:2200/EX/zeeaction-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo="https://1.bp.blogspot.com/-ygiSas8IyJI/YMdB4dxrcwI/AAAAAAAABLc/kuphDcjnoqUcsWlNho4cW2Jnbu236j15ACLcBGAsYHQ/s320/IMG_20210308_162943.jpg"   group-title="MOVIES",ZEE CINEMA (UK)
+http://212.224.98.196:2200/EX/zeecinema-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="ZEE ANMOL CINEMA (IND)" tvg-logo="https://1.bp.blogspot.com/-1YG7mXs3-4Q/YMdBGQsfsnI/AAAAAAAABLI/v0uURyrjVrcROIpNTuTNgNRDa30rkCIQgCLcBGAsYHQ/s320/images%2B%25282%2529.png"   group-title="MOVIES",ZEE ANMOL CINEMA (IN)
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_ANMOL_CINEMA-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="ENTER 10 MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-3J8m9DvCnCg/YPDfSydWUdI/AAAAAAAAAhU/VdYRoRElBJUutr_wiSCgmr0AvW-hCtvrACLcBGAsYHQ/s200/images%2B%25286%2529.jpeg"  group-title="MOVIES",ENTER 10 MOVIES (IN)
+http://212.224.98.196:2200/R-EX/HINDI_ENTER_10_MOVIES-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 ch-id="SONY MAX 2 (IN)" tvg-logo=" "  group-title="MOVIES",SONY MAX 2 (IN)
+
+
+
+
+
+
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="MOVIES",STAR GOLD HD (IN)
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-mtKu2oH0af8/YO46w3AydwI/AAAAAAAAAcQ/dUWtZDVc7oIBA2FM3K0kjU6EuJsMttvFgCLcBGAsYHQ/s200/PicsArt_07-06-05.37.31.jpg"  group-title="MOVIES",STAR GOLD 2 (IN)
