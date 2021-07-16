@@ -475,9 +475,8 @@ http://212.224.98.207:2200/R-EX/HINDI_MTV_PLUS_HD-in/tracks-v1a1/index.m3u8?toke
 http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="INFOTAINMENT",SONY BBC EARTH HD (IN)
 http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/index.m3u8?token=
-
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
-
+#EXTINF:-1 ch-id="NICK HD (IN)" tvg-logo=" "  group-title="KIDS",NICK HD (IN)
+http://185.180.15.13:2200/R-EX/FHD_NICK_-in/tracks-a2/mono.m3u8?token=
 
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
 
@@ -570,6 +569,11 @@ http://185.180.221.194:8278/streams/d/Zeenews/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="GENERAL ENTERTAINMENT",ZEE TV HD (IN)
 http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:-1 ch-id="DISNEY HD (ASIA)" tvg-logo=" "  group-title="KIDS",DISNEY XD (ASIA)
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+
+http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="INFOTAINMENT",FOX CRIME HD (US)
 http://51.15.0.141:88/fox_crime/index.m3u8
