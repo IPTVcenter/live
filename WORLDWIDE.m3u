@@ -257,17 +257,17 @@ https://itvoign.multitvsolution.com/idvo/discoverykidshindi.m3u8
 https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 ch-id="WOW CINEMA ONE (IN)" tvg-logo="https://1.bp.blogspot.com/-j7UQ1UiuOnk/YNkVVhd7vAI/AAAAAAAAADw/KaHJbvk00mAJlQofemNk-1kspMpfrMYsACLcBGAsYHQ/s320/download.jpeg"   group-title="MOVIES",WOW CINEMA ONE (IN)
 https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
-#EXTINF:-1 ch-id="DD ASSAM (IND)" tvg-logo="https://1.bp.blogspot.com/-Nnk21xGRDVg/YMdAukcrJdI/AAAAAAAABK8/pXGFjSgFGqEGeHSPPJyAvLltamrrGGPgACLcBGAsYHQ/s320/images%2B%25283%2529%25284%2529.jpeg"   group-title="GENERAL ENTERTAINMENT",DD ASSAM (IN)
+#EXTINF:-1 ch-id="DD ASSAM (IN)" tvg-logo="https://1.bp.blogspot.com/-Nnk21xGRDVg/YMdAukcrJdI/AAAAAAAABK8/pXGFjSgFGqEGeHSPPJyAvLltamrrGGPgACLcBGAsYHQ/s320/images%2B%25283%2529%25284%2529.jpeg"   group-title="GENERAL ENTERTAINMENT",DD ASSAM (IN)
 https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
 #EXTINF:-1 ch-id="BIXFLIX MOVIES (IN)" tvg-logo=""https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg "  group-title="MOVIES",BIXFLIX MOVIES (IN)
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg"  group-title="MOVIES",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
-#EXTINF:-1 ch-id="COLORS CINEPLEX (IND)" tvg-logo="https://1.bp.blogspot.com/-VnkK19wC3zc/YKNxsH4bWdI/AAAAAAAAA3M/CfWHtrwKZe0xQX-3rvnvV16gW-Bpn_WrQCLcBGAsYHQ/w200-h191/PicsArt_05-18-01.18.46.jpg"   group-title="MOVIES",COLORS CINEPLEX (IN)
+#EXTINF:-1 ch-id="COLORS CINEPLEX (IN)" tvg-logo="https://1.bp.blogspot.com/-VnkK19wC3zc/YKNxsH4bWdI/AAAAAAAAA3M/CfWHtrwKZe0xQX-3rvnvV16gW-Bpn_WrQCLcBGAsYHQ/w200-h191/PicsArt_05-18-01.18.46.jpg"   group-title="MOVIES",COLORS CINEPLEX (IN)
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IND)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="GENERAL ENTERTAINMENT",DD NATIONAL (IN)
+#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="GENERAL ENTERTAINMENT",DD NATIONAL (IN)
 https://viacom-b.multitvsolution.com/viacomhls/ddnational.m3u8
-#EXTINF:-1 ch-id="DD RETRO (IND)" tvg-logo="https://1.bp.blogspot.com/-yZRZTCi8L60/YJzX_Th8QnI/AAAAAAAAAsY/PDgCH92fn2QXh3ryx8EGdYUSK8LXnHd4gCLcBGAsYHQ/s320/images%2B%25281%2529%252812%2529.jpeg"   group-title="GENERAL ENTERTAINMENT",DD RETRO (IN)
+#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo="https://1.bp.blogspot.com/-yZRZTCi8L60/YJzX_Th8QnI/AAAAAAAAAsY/PDgCH92fn2QXh3ryx8EGdYUSK8LXnHd4gCLcBGAsYHQ/s320/images%2B%25281%2529%252812%2529.jpeg"   group-title="GENERAL ENTERTAINMENT",DD RETRO (IN)
 https://viacom-b.multitvsolution.com/viacomhls/ddretro.m3u8
 #EXTINF:-1 ch-id="SURYA CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-0kihdPkuDtc/YOv8FXIYURI/AAAAAAAAAXk/01EIq2C9B9AB2_dAVU64jnju8G_ZOLSaQCLcBGAsYHQ/s200/images%2B%252815%2529.jpeg"  group-title="MOVIES",SURYA CINEMA (IN)
 https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
@@ -478,10 +478,90 @@ http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/index.m3u8?t
 #EXTINF:-1 ch-id="NICK HD (IN)" tvg-logo=" "  group-title="KIDS",NICK HD (IN)
 http://185.180.15.13:2200/R-EX/FHD_NICK_-in/tracks-a2/mono.m3u8?token=
 
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=" "  group-title="MOVIES",FILMY (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 ch-id="FIRANGI (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",FIRANGI (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:-1 ch-id="BIXFLIX MOVIES (IN)" tvg-logo=""https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg "  group-title="MOVIES",BIXFLIX MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo=" "  group-title="MOVIES",BOX CINEMA (IN)
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1 ch-id="MANOTANJAN MOVIES (IN)" tvg-logo=" "  group-title="MOVIES",MANORANJAN MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
-
+#EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg"  group-title="MOVIES",MAHA MOVIE (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 ch-id="MOVIE PLUS (IN)" tvg-logo=" "  group-title="MOVIES",MOVIE PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 ch-id="BOLLYWOOD (IN)" tvg-logo=" "  group-title="MOVIES",BOLLYWOOD (IN)
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo=" "  group-title="INFOTAINMENT" ,EPIC (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
+#EXTINF:-1 ch-id="DISHUM (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",DISHUM (UK)
+https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
+#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="GENERAL ENTERTAINMENT",DD NATIONAL (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 ch-id="ANJAN TV (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",ANJAN TV (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="MUSIC",MASTIII (IN)
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:-1 ch-id="SHOW MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-QCYZGo5yQT8/YOwYXEc2FsI/AAAAAAAAAYU/-MnBFY4Gqd0FTouUzmQVuJKejBWoWVjbgCLcBGAsYHQ/s200/PicsArt_07-06-05.30.06.jpg"  group-title="MUSIC",SHOW MUSIC (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="MUSIC",MUSIC INDIA (IN)
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 ch-id="NEWS NATION (IN)" tvg-logo=" "  group-title="NEWS",NEWS NATION (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1 ch-id="INDIA TV (IN)" tvg-logo="https://1.bp.blogspot.com/-SBYqpwbuR2k/YOrMeZg8RiI/AAAAAAAAATA/e-bShHJC24I5-uRH60Oj8r9AhsqswtNlACLcBGAsYHQ/s200/images%2B%252812%2529.jpeg"  group-title="NEWS",INDIA TV (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 ch-id="DD ASSAM (IN)" tvg-logo="https://1.bp.blogspot.com/-Nnk21xGRDVg/YMdAukcrJdI/AAAAAAAABK8/pXGFjSgFGqEGeHSPPJyAvLltamrrGGPgACLcBGAsYHQ/s320/images%2B%25283%2529%25284%2529.jpeg"   group-title="GENERAL ENTERTAINMENT",DD ASSAM (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
+#EXTINF:-1 ch-id="DD KASHIR (IN)" tvg-logo="https://1.bp.blogspot.com/-IpxjszTcnyo/YOv2l0_BukI/AAAAAAAAAWg/UQqce37XA90tE01krGOSEzIU0tPxtPahwCLcBGAsYHQ/s200/images%2B%252810%2529%25281%2529.jpeg"  group-title="GENERAL ENTERTAINMENT",DD KASHIR (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://1.bp.blogspot.com/-cdDRQXILj2g/YOwYHewVryI/AAAAAAAAAYI/-l_iw4GpeBwQPZtKNex-p2SMNUFnrFGlACLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.png"  group-title="MUSIC",9X JALWA (IN)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="MUSIC",9XM (IN)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 ch-id="GULISTAN NEWS (IN)" tvg-logo=" "  group-title="NEWS",GULISTAN NEWS (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
+#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="NEWS",NEWS X (IN)
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+#EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-l9btGw2epVM/YOv2ZdAGNsI/AAAAAAAAAWc/_Ig6xApZ3_QC_8pkd_iSMzCuV5E3gSCWACLcBGAsYHQ/s200/images%2B%25289%2529%25281%2529.jpeg"  group-title="NEWS",NEWS INDIA (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-logo=" "  group-title="NEWS",NEWS INDIA 24X7 (IN)
+https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
+#EXTINF:-1 ch-id="JANATA NEWS (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 
+https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
+
+https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+
+https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
+
+https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT", (UK)
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+
+
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+
+
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
+
+
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 
 
 
@@ -571,9 +651,8 @@ http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:-1 ch-id="DISNEY HD (ASIA)" tvg-logo=" "  group-title="KIDS",DISNEY XD (ASIA)
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-
+#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="INFOTAINMENT",FOX CRIME (ASIA)
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-
 
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="INFOTAINMENT",FOX CRIME HD (US)
 http://51.15.0.141:88/fox_crime/index.m3u8
