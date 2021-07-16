@@ -133,7 +133,6 @@ http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist_w1270613094.m3u8
 #EXTINF:-1 ch-id="RASHI HINDI HD (IN)" tvg-logo=" "  group-title=MOVIES",RASI HINDI HD (IN)
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
-
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://1.bp.blogspot.com/-yn4TPWFU2G4/YJ5V8wG7vII/AAAAAAAAAtI/1nkEh70mVqANdWYxSg-vnodmjV7olKzyQCLcBGAsYHQ/s0/IMG_20210308_172636.jpg"   group-title="MOVIES",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 ch-id="3 ABN KIDS (US)" tvg-logo="https://1.bp.blogspot.com/-yRP_zSm87ic/YJ-q-xDSL0I/AAAAAAAAAx0/51TeAry5Ypwz9ASdLQyPYkYqxJwiEckjgCLcBGAsYHQ/w200-h92/PicsArt_05-15-01.36.40.png"   group-title="KIDS",3 ABN KIDS (US)
@@ -556,9 +555,6 @@ http://212.224.98.207:2200/R-EX/HINDI_MTV_PLUS_HD-in/tracks-v1a1/index.m3u8?toke
 http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="INFOTAINMENT",SONY BBC EARTH HD (IN)
 http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/index.m3u8?token=
-#EXTINF:-1 ch-id="NICK HD (IN)" tvg-logo=" "  group-title="KIDS",NICK HD (IN)
-http://185.180.15.13:2200/R-EX/FHD_NICK_-in/tracks-a2/mono.m3u8?token=
-
 
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="MOVIES",STAR GOLD HD (IN)
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
@@ -644,7 +640,7 @@ http://185.180.221.194:8278/streams/d/Zeenews/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="GENERAL ENTERTAINMENT",ZEE TV HD (IN)
 http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
-#EXTINF:-1 ch-id="DISNEY HD (ASIA)" tvg-logo=" "  group-title="KIDS",DISNEY XD (ASIA)
+#EXTINF:-1 ch-id="DISNEY HD (ASIA)" tvg-logo=" "  group-title="KIDS",DISNEY HD (ASIA)
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="INFOTAINMENT",FOX CRIME (ASIA)
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
