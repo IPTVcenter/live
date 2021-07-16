@@ -130,7 +130,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/chunklist_w192312168.m3u8
 #EXTINF:-1 ch-id="JAN TV (IN)" tvg-logo="https://1.bp.blogspot.com/-l1NLAP1J-R4/YOrLsvISk8I/AAAAAAAAASs/KH49MepMGQYEmK1m8AHIUaDiPUjO61KdwCLcBGAsYHQ/s200/images%2B%25288%2529.jpeg"  group-title="NEWS",JAN TV (IN)
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist_w1270613094.m3u8
-#EXTINF:-1 ch-id="RASHI HINDI HD (IN)" tvg-logo=" "  group-title=MOVIES",RASI HINDI HD (IN)
+#EXTINF:-1 ch-id="RASHI HINDI HD (IN)" tvg-logo=" "  group-title="MOVIES",RASI HINDI HD (IN)
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://1.bp.blogspot.com/-yn4TPWFU2G4/YJ5V8wG7vII/AAAAAAAAAtI/1nkEh70mVqANdWYxSg-vnodmjV7olKzyQCLcBGAsYHQ/s0/IMG_20210308_172636.jpg"   group-title="MOVIES",ZEE AFLAM (ME)
