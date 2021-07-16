@@ -249,7 +249,8 @@ https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
 https://itvoign.multitvsolution.com/hls/newsx.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png"  group-title="KIDS",ANIMAL PLANET HD (IN)
 https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png"  group-title="INFOTAINMENT",DISCOVERY (IN)
+
+#EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo="https://1.bp.blogspot.com/-6JD-IWsIVwk/YKX_wFOQYzI/AAAAAAAAA-Y/BYTJIsVa_NkkGVDRrFCOm1Wic5NQFDcZwCLcBGAsYHQ/w200-h88/images%252825%2529.jpeg"   group-title="INFOTAINMENT",DISCOVERY (IN)
 https://itvoign.multitvsolution.com/idvo/discoveryhindi.m3u8
 #EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo="https://1.bp.blogspot.com/-GeR2PVvFLxs/YOv5jt1YYEI/AAAAAAAAAXE/1bDoBVpdpVEYuPzBabuxK0kIypje4pcAwCLcBGAsYHQ/s200/PicsArt_07-12-01.42.37.png"  group-title="KIDS",DISCOVERY KIDS (IN)
 https://itvoign.multitvsolution.com/idvo/discoverykidshindi.m3u8
@@ -769,8 +770,6 @@ http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/3363
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/8968
 #EXTINF:-1 ch-id="DD NATIONAL (IND)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"  group-title="GENERAL ENTERTAINMENT",DD NATIONAL (IN)
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/3457
-#EXTINF:-1 ch-id="DISCOVERY CHANNEL (HK)" tvg-logo="https://1.bp.blogspot.com/-8T2l47lQ5uY/YKX0Y2wPfjI/AAAAAAAAA9Q/CeAlQbPwajgBt58NCGf7XfGJv5nmu5GNQCLcBGAsYHQ/w200-h200/images%2B%25281%2529.png"  group-title="INFOTAINMENT",DISCOVERY CHANNEL (HK)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/8962
 #EXTINF:-1 ch-id="FOX LIFE HD (ME)" tvg-logo="https://1.bp.blogspot.com/-DOdHU0ANTLs/YNPXG3THyDI/AAAAAAAAAC4/Yw16Tz5O8j0u1AiugXLZBPdCuOjcKOztQCLcBGAsYHQ/w200-h107/PicsArt_06-24-06.21.01.jpg"   group-title="INFOTAINMENT",FOX LIFE HD (ME)
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29491
 #EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo="https://1.bp.blogspot.com/-6JD-IWsIVwk/YKX_wFOQYzI/AAAAAAAAA-Y/BYTJIsVa_NkkGVDRrFCOm1Wic5NQFDcZwCLcBGAsYHQ/w200-h88/images%252825%2529.jpeg"   group-title="INFOTAINMENT",DISCOVERY (IN)
@@ -895,7 +894,7 @@ http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29778
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29784
 #EXTINF:-1 ch-id="NAT GEO (UK)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"   group-title="INFOTAINMENT",NAT GEO (UK)
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29785
-#EXTINF:-1 ch-id="DISCOVERY (UK)" tvg-logo="https://1.bp.blogspot.com/-Pq9fSU0LSpQ/YNxiDJv33nI/AAAAAAAAAGY/eGZBSA24tn4ijQzz3BNt2MStccvda_17ACLcBGAsYHQ/s320/images%25283%2529.png"  group-title="INFOTAINMENT",DISCOVERY (UK)
+#EXTINF:-1 ch-id="DISCOVERY (UK)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="INFOTAINMENT",DISCOVERY (UK)
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29788
 #EXTINF:-1 ch-id="OSN DRAMA (ME)" tvg-logo="https://1.bp.blogspot.com/-aBCHpuWRP28/YN75Sh5X7XI/AAAAAAAAAMI/MiFQLUfEsDkUQPalHhtIEfa3jfUpW_0ZQCLcBGAsYHQ/s200/PicsArt_07-02-04.59.20.png"  group-title="INFOTAINMENT",OSN DRAMA (ME)
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29459
