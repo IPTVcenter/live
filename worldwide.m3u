@@ -250,6 +250,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="TRAVEL XP (IN)" tvg-logo="https://1.bp.blogspot.com/-Tm2LcNPCif0/YNsCjWrIYWI/AAAAAAAAAEY/0IieUTKTj8MhfSNBe7VYd7QQMRKuuajBgCLcBGAsYHQ/s739/PicsArt_06-29-04.49.01.png"  group-title="INFOTAINMENT",TRAVEL XP (IN)
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo=" "  group-title="NEWS",IBC 24 (IN)
+https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
 #EXTINF:-1 ch-id="ENTER 10 (IN)" tvg-logo="https://1.bp.blogspot.com/--ytYzUxFDeg/YOvz-gbFrkI/AAAAAAAAAWE/fWsuQkKiANsJMGBqd3cxhDpLMCO1wpzwgCLcBGAsYHQ/s200/PicsArt_07-12-01.18.53.jpg"  group-title="MOVIES",ENTER 10 (IN)
 https://idvd.multitvsolution.com/idvo/enter10.m3u8
 #EXTINF:-1 ch-id="DANGAL (IND)" tvg-logo="https://1.bp.blogspot.com/-B7w5zNJxgVU/YJzY2zkHmUI/AAAAAAAAAsg/BdbIjCE25n8eZPy1emNHKdXVyT6xPUvwQCLcBGAsYHQ/s320/PicsArt_03-21-05.08.30.jpg"   group-title="GENERAL ENTERTAINMENT",DANGAL (IN)
