@@ -433,6 +433,37 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="NEWS",BBC WORLD NEWS (ASIA)
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 1 HD (IN)
+http://tv.pmcon.net/hls/stream15.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 2 HD (IN)
+http://tv.pmcon.net/hls/stream16.m3u8
+#EXTINF:-1 ch-id="NAT GEO HD (IN)" tvg-logo="https://1.bp.blogspot.com/-K1X6vwQa7Yc/YO552ibNR7I/AAAAAAAAAdM/ChGZ5WG5ua02R6vV8qgm0bLj-hBlw9_yQCLcBGAsYHQ/s200/PicsArt_07-12-04.31.37.png"  group-title="INFOTAINMENT",NAT GEO HD (IN)
+http://tv.pmcon.net/hls/stream13.m3u8
+#EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo=" "  group-title="SPORTS",PTV SPORTS (PK)
+http://tv.pmcon.net/hls/stream11.m3u8
+#EXTINF:-1 ch-id="DISCOVERY HD (IN)" tvg-logo=" "  group-title="INFOTAINMENT",DISCOVERY HD (IN)
+http://tv.pmcon.net/hls/stream9.m3u8
+#EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="MOVIES",& PICTURES HD (IN)
+http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 1 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS SELECT 1 HD (IN)
+http://tv.pmcon.net/hls/stream12.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="MOVIES",STAR GOLD HD (IN)
+http://tv.pmcon.net/hls/stream19.m3u8
+#EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://1.bp.blogspot.com/-xTgySQS_-DU/YOrRW4qp51I/AAAAAAAAAUU/253fzyVw7LIBbSAO2-Pj40oGIfCE1MbZQCLcBGAsYHQ/s200/images%2B%25281%2529%25287%2529.png"  group-title="KIDS",NICK (IN)
+http://tv.pmcon.net/hls/stream23.m3u8
+#EXTINF:-1 ch-id="TEN CRICKET (PK)" tvg-logo=" "  group-title="SPORTS",TEN CRICKET (PK)
+http://tv.pmcon.net/hls/stream34.m3u8
+#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="NEWS",BBC WORLD NEWS (IN)
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1 ch-id="ALJAZEERA (IN)" tvg-logo="https://1.bp.blogspot.com/-WAL9wDyZA60/YKN1VkCQUYI/AAAAAAAAA4Q/Cz8dMt_gkfcmQsGFY0PHkY4qSGHRs33AgCLcBGAsYHQ/w200-h200/eftWK9G.gif"   group-title="NEWS",ALJAZEERA (IN)
+http://tv.pmcon.net/hls/stream35.m3u8
+#EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://1.bp.blogspot.com/-GepvD09BvEI/YNsCncOdAsI/AAAAAAAAAEc/NCgoIsijUNAadCvJQJR4rk2WbzVjzeiYACLcBGAsYHQ/s320/PicsArt_06-29-04.48.24.png"  group-title="INFOTAINMENT",TRAVEL XP HD (IN)
+http://tv.pmcon.net/hls/stream37.m3u8
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2OAiZUC8wj4/YO6CS3hT-9I/AAAAAAAAAfg/j2SVgB6sdwEgQgAlTO7A2cIZaF4oUp-FQCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="SPORTS",SONY TEN 2 HD (IN)
+http://tv.pmcon.net/hls/stream39.m3u8
+#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream40.m3u8
+
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YOwu8aOUKvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="KIDS",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="GENERAL ENTERTAINMENT",COLORS HD (IN)
