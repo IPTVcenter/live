@@ -586,6 +586,8 @@ http://212.224.98.207:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
 http://cdn.gledaitv.co:2200/NL/b4umovies-in/playlist.m3u8?token=
 #EXTINF:-1 ch-id="GOL HD (ASIA)" tvg-logo=" "  group-title="SPORTS",GOL HD (ASIA)
 http://cdn.gledaitv.co:2200/NL/gol-esp/index.m3u8?token=
+#EXTINF:-1 ch-id="PREMIER SPOR 1 HD (UK)" tvg-logo=" "  group-title="SPORTS",PREMIER SPORTS 1 HD (UK)
+http://cdn.gledaitv.co:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
 #EXTINF:-1 ch-id="B4U MUSIC (UK)" tvg-logo="https://1.bp.blogspot.com/-Vn4hTEEG7mw/YOwX4s2IULI/AAAAAAAAAYA/klA1po7TX_AdApjNgLU_KMRT0ZHDC-tqACLcBGAsYHQ/s200/PicsArt_07-06-05.31.06.jpg"  group-title="MUSIC",B4U MUSIC (UK)
 http://212.224.98.207:2200/NL/b4umusic-in/playlist.m3u8?token=
 #EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-42c3l3dUGbo/YO47qGk25yI/AAAAAAAAAcs/wTGh3CGsivkR0wIbPtTZdcIFnSVavVEAwCLcBGAsYHQ/s200/images%2B%252814%2529%25282%2529.jpeg"  group-title="MOVIES",COLORS CINEPLEX HD (IN)
