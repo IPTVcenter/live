@@ -591,16 +591,16 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
-EXTINF:-1 ch-id="bbc (ME)" tvg-logo=" "  group-title="SPORTS",WATAN 2 (ME)
-http://185.180.15.17:2200/NL/bbnews-uk/index.m3u8?token=
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://212.224.98.207:2200/NL/mformula1hd-esp/index.m3u8?token=
 EXTINF:-1 ch-id="WATAN 2 (ME)" tvg-logo=" "  group-title="SPORTS",WATAN 2 (ME)
 http://185.180.15.17:2200/TR/watan2-afg/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
+http://212.224.98.207:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/playlist.m3u8?token=
+http://185.180.15.17:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/playlist.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://212.224.98.196:2200/EX/starsports1hd-in/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
@@ -620,7 +620,7 @@ http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://212.224.98.206:2200/EX/Sky_Sports_Cricket_SD-uk/index.m3u8?token=
 #EXTINF:-1 ch-id="MINIPLEX (IN)" tvg-logo="https://1.bp.blogspot.com/-CxtG3vQv8os/YPDZScrozuI/AAAAAAAAAgc/gB9OauWnn3EOXVSjvDfMc2oW57Fr0LoBgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MOVIES",MINIPLEX (IN)
-http://212.224.98.196:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+http://cdn.gledaitv.co:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
 #EXTINF:-1 ch-id="MOVIES ACTIVE HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CztgsuhVkbw/YPDfx9BtlgI/AAAAAAAAAhg/SvtCm54OjfcsXDQR78TIF68WZ-YniTkqQCLcBGAsYHQ/s200/PicsArt_07-16-06.54.03.jpg"  group-title="MOVIES",MOVIES ACTIVE HD (IN)
 http://212.224.98.196:2200/R-EX/FHD_MOVIES_ACTIVE-in/playlist.m3u8?token=
 #EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-TAIkarMs08k/YPDdFlIBuZI/AAAAAAAAAgw/Gl5CHmkkfbQMF-iZ0niYpjfgZ0JC_B3WQCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MOVIES",UTV HD (IN)
