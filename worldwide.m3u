@@ -812,6 +812,10 @@ http://51.15.0.141:88/fox/index.m3u8
 http://51.15.0.141:88/fox_life/index.m3u8
 #EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="MOVIES",FOX MOVIES (ASIA)
 http://51.15.0.141:88/fox_movies/index.m3u8
+#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-h19WLIfY0Mk/YNPUmM4APuI/AAAAAAAAACk/cqh2udSir78_Lw4-qXI_CXT1Qm4OpQcAQCLcBGAsYHQ/s320/1099077.png"   group-title="KIDS",BABY TV (ASIA)
+http://51.15.0.141:88/baby_tv/index.m3u8
+
+
 
 #EXTINF:-1 ch-id="DISCOVERY (CN)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="INFOTAINMENT",DISCOVERY (CN)
 rtmp://58.200.131.2:1935/livetv/discovery
