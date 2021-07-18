@@ -79,6 +79,8 @@ http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
 https://piratesiptv.shortcm.li/travelxp.m3u8
 #EXTINF:-1 ch-id="VIASAT SPORT HD (SE)" tvg-logo=" "  group-title="SPORTS",VIASAT SPORT HD (SE)
 http://iptv.prosto.tv:7000/ch108/video.m3u8?Token=
+#EXTINF:-1 ch-id="KANSHI TV (UK)" tvg-logo=" "  group-title="MOVIES",KANSHI TV (IN)
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 
 #EXTINF:-1 ch-id="92 NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-l9nmMlQ6GbM/YOrF_dQyWGI/AAAAAAAAAQo/umsnAEYxSBswuvJjBm6RugZHBJsgnY2dgCLcBGAsYHQ/s200/images%2B%252818%2529.jpeg"  group-title="NEWS",92 NEWS (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
@@ -691,8 +693,18 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="GENERAL ENTERTAINMENT",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
-
-
+#EXTINF:-1 ch-id="Zee 1 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 1 (IN)
+http://78.129.241.19:8554/hera/apna/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDU6NTU6NDQgQU0maGFzaF92YWx1ZT1TbFNNdVFCZGo2T2lwaE85NStTMEp3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ch-id="Zee 2 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 2 (IN)
+http://45.58.139.242:9630/toto/dangaaltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDU6NTg6MjQgQU0maGFzaF92YWx1ZT1vWC9TQUJJNXdiQTRuUitBeWhZakdRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ch-id="Zee 3 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 3 (IN)
+http://dpasdl08.tth.cl:8745/eros/arre/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDU6NTk6MzYgQU0maGFzaF92YWx1ZT1YOGM3c2RQcVNvNGRpTXk2akhnVFFBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ch-id="Zee 3 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 4 (IN)
+http://178.128.155.32:5432/xrdctfv/gsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDY6MDE6NDEgQU0maGFzaF92YWx1ZT1YRFh6UjNXRkFVa25qeVR6Vi9SZytBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ch-id="Zee 4 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 5 (IN)
+http://wecrmv.yozh.us:21321/dione/natgeowildin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDY6MDU6MDggQU0maGFzaF92YWx1ZT1sWWQzZzVOaVdlbVlkWGt3cXlONFBnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ch-id="Zee 5 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 5 (IN)
+http://cqwcz.ivi.pl:10920/corpus/disneychhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDY6MDk6MDMgQU0maGFzaF92YWx1ZT1XQlljb3AxdXNiSWRYUnpCdVh2bDNRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 ch-id="NAT GEO (UK)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"   group-title="INFOTAINMENT",NAT GEO (UK)
 http://89.17.204.38/ch54/index.m3u8
