@@ -214,6 +214,8 @@ http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m
 http://cdn.smartstream.video/smartstream-us/tv100/tv100/chunklist.m3u8
 #EXTINF:-1 ch-id="NEWS 11 (IN)" tvg-logo="https://1.bp.blogspot.com/-cs7nFnHrm4c/YOrSkyMiCYI/AAAAAAAAAUw/gMV2cfUYMOc9BmMJ9vzwm8aeTzF8xZ3cACLcBGAsYHQ/s200/Logo_news11.png"  group-title="NEWS",NEWS 11 (IN)
 http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 ch-id="JONAK (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",JONAK (IN)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 
 #EXTINF:-1 ch-id="TV ASIA (USA)" tvg-logo="https://1.bp.blogspot.com/-gluHpNItFno/YJzPLfE03rI/AAAAAAAAAro/2r0yMXNU2aYN3GrFkfxqKZAF83QtXcD7ACLcBGAsYHQ/s320/images%25283%2529.jpeg"   group-title="GENERAL ENTERTAINMENT ",TV ASIA (US)
 https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
