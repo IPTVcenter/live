@@ -497,6 +497,30 @@ http://tv.pmcon.net/hls/stream37.m3u8
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title=" ", (IN)
 http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1 ch-id="&PRIVE HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream1.m3u8
+#EXTINF:-1 ch-id="AXN (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream4.m3u8
+#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream5.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream6.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF:-1 ch-id="ZOOM (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream8.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream25.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream29.m3u8
+#EXTINF:-1 cu-I'd="SONY YAY (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream32.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://tv.pmcon.net/hls/stream38.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YOwu8aOUKvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="KIDS",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
