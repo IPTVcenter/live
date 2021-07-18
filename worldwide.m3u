@@ -417,6 +417,12 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 #EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="NEWS",EURO NEWS (UK)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
+#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo=" "  group-title="GENERAL ENTERTAINMENT",DD RETRO (IN)
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in/index.m3u8
+#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="RELIGIOUS",SANSKAR (IN)
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
+#EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="RELIGIOUS",ISHWAR TV (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 
 #EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://1.bp.blogspot.com/-GkdMu6HsbkE/YOwd4Gk1l6I/AAAAAAAAAYs/EgrMlf9CGjQfdm2ga9S8SIxxssuv4CtLACLcBGAsYHQ/s200/images.png"  group-title="INFOTAINMENT",ANIMAL PLANET (ASIA)
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
