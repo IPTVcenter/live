@@ -540,14 +540,19 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 ch-id="FOX NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="NEWS",FOX NEWS (ASIA)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-EXTINF:-1 ch-id="WATAN 2 (ME)" tvg-logo=" "  group-title="SPORTS",WATAN 2 (ME)
-http://185.180.15.17:2200/TR/watan2-afg/index.m3u8?token=
-#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" " group-title="SPORTS",SKY SPORTS CRICKET (UK)
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://164.68.124.111/acc.m3u8?Token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://134.19.182.131:8080/edg8_2.m3u8?Token=
+
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" " group-title="SPORTS",SKY SPORTS CRICKET (UK)
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://31.220.41.88:8081/live/uk-cbeebies.stream/playlist.m3u8
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 
 #EXTINF:-1 ch-id="FOX SPORTS 1 (US)" tvg-logo=" "  group-title="SPORTS",FOX SPORTS 1 (US)
 http://199.66.95.242/3/3022/index.m3u8?token=test
@@ -586,6 +591,10 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
+EXTINF:-1 ch-id="bbc (ME)" tvg-logo=" "  group-title="SPORTS",WATAN 2 (ME)
+http://185.180.15.17:2200/NL/bbnews-uk/index.m3u8?token=
+EXTINF:-1 ch-id="WATAN 2 (ME)" tvg-logo=" "  group-title="SPORTS",WATAN 2 (ME)
+http://185.180.15.17:2200/TR/watan2-afg/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/index.m3u8?token=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
@@ -814,8 +823,6 @@ http://51.15.0.141:88/fox_life/index.m3u8
 http://51.15.0.141:88/fox_movies/index.m3u8
 #EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-h19WLIfY0Mk/YNPUmM4APuI/AAAAAAAAACk/cqh2udSir78_Lw4-qXI_CXT1Qm4OpQcAQCLcBGAsYHQ/s320/1099077.png"   group-title="KIDS",BABY TV (ASIA)
 http://51.15.0.141:88/baby_tv/index.m3u8
-
-
 
 #EXTINF:-1 ch-id="DISCOVERY (CN)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="INFOTAINMENT",DISCOVERY (CN)
 rtmp://58.200.131.2:1935/livetv/discovery
