@@ -726,36 +726,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="GENERAL ENTERTAINMENT",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
-#EXTINF:-1 ch-id="Zee 1 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 1 (IN)
-http://78.129.241.19:8554/hera/apna/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDU6NTU6NDQgQU0maGFzaF92YWx1ZT1TbFNNdVFCZGo2T2lwaE85NStTMEp3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ch-id="Zee 2 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 2 (IN)
-http://45.58.139.242:9630/toto/dangaaltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDU6NTg6MjQgQU0maGFzaF92YWx1ZT1vWC9TQUJJNXdiQTRuUitBeWhZakdRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ch-id="Zee 3 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 3 (IN)
-http://dpasdl08.tth.cl:8745/eros/arre/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDU6NTk6MzYgQU0maGFzaF92YWx1ZT1YOGM3c2RQcVNvNGRpTXk2akhnVFFBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ch-id="Zee 3 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 4 (IN)
-http://178.128.155.32:5432/xrdctfv/gsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDY6MDE6NDEgQU0maGFzaF92YWx1ZT1YRFh6UjNXRkFVa25qeVR6Vi9SZytBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ch-id="Zee 4 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 5 (IN)
-http://wecrmv.yozh.us:21321/dione/natgeowildin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDY6MDU6MDggQU0maGFzaF92YWx1ZT1sWWQzZzVOaVdlbVlkWGt3cXlONFBnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ch-id="Zee 5 (IN)" tvg-logo=" "  group-title="SPORTS",Zee 5 (IN)
-http://cqwcz.ivi.pl:10920/corpus/disneychhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDY6MDk6MDMgQU0maGFzaF92YWx1ZT1XQlljb3AxdXNiSWRYUnpCdVh2bDNRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 ch-id="NAT GEO (UK)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"   group-title="INFOTAINMENT",NAT GEO (UK)
-http://89.17.204.38/ch54/index.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (UK)" tvg-logo="https://1.bp.blogspot.com/-hUwDck1k-UM/YO579nylchI/AAAAAAAAAdk/Tvv88I63N3UTGzqY3KOqpy0WX4MS-3p1QCLcBGAsYHQ/s200/images%2B%25283%2529%25288%2529.jpeg"  group-title="INFOTAINMENT",NAT GEO WILD (UK)
-http://89.17.204.38/ch55/index.m3u8
-#EXTINF:-1 ch-id="BBC EARTH (UK)" tvg-logo="https://1.bp.blogspot.com/-2FlaVItxaPE/YO58LMvuRVI/AAAAAAAAAdo/kIRWPj5PkpsLPnaGFkwI--AvNgHzy8nhACLcBGAsYHQ/s200/images%2B%25284%2529%25281%2529.png"  group-title="INFOTAINMENT",BBC EARTH (UK)
-http://89.17.204.38/ch41/index.m3u8
-#EXTINF:-1 ch-id="ID (UK)" tvg-logo="https://1.bp.blogspot.com/-vce7o3K6QIc/YO58ZQMs_tI/AAAAAAAAAds/f4GPBmQxiHk7TuE5bUvAuj3_WBkOhqmLACLcBGAsYHQ/s200/images%2B%25285%2529%25281%2529.png"  group-title="INFOTAINMENT",ID (UK)
-http://89.17.204.38/ch91/index.m3u8
-#EXTINF:-1 ch-id="HISTORY 2 (UK)" tvg-logo="https://1.bp.blogspot.com/-OjHWAsDZ0XY/YO59p_IygOI/AAAAAAAAAd4/zcz_UeNqxtUYTxeIk0AwSqQnlkpctEkEwCLcBGAsYHQ/s200/images%252816%2529.jpeg"  group-title="INFOTAINMENT",HISTORY 2 (UK)
-http://89.17.204.38/ch43/index.m3u8
-#EXTINF:-1 ch-id="DISCOVERY (UK)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="INFOTAINMENT",DISCOVERY (UK)
-http://89.17.204.38/ch52/index.m3u8
-#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (UK)" tvg-logo="https://1.bp.blogspot.com/-rdgV0HHKGmo/YO5-qmOvRuI/AAAAAAAAAeA/9E1LzVsM_-E4k9iIAf3UOOvSs-SIYtK1gCLcBGAsYHQ/s200/PicsArt_07-14-11.35.04.png"  group-title="INFOTAINMENT",DISCOVERY SCIENCE HD (UK)
-http://89.17.204.38/ch90/index.m3u8
-#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-c3ETQE-5mfM/YO5-37Hr5sI/AAAAAAAAAeE/NibPVgITAdE0IGOLjR6sQ0plIQU1Ybs8QCLcBGAsYHQ/s200/images%252810%2529.png"  group-title="INFOTAINMENT",TLC (UK)
-http://89.17.204.38/ch53/index.m3u8
-
 #EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-wPzEgOiXUAY/YNHLWJ3lEpI/AAAAAAAAAAk/yFQ_5uSjA5EodLJKIFeJLB3ngNOr35Z-gCLcBGAsYHQ/w200-h173/LogoBabyTV-2021-MAIN_logo.png"   group-title="KIDS",BABY TV (ASIA)
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="GENERAL ENTERTAINMENT",AXN (ASIA)
