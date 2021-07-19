@@ -808,6 +808,8 @@ http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="INFOTAINMENT",FOX CRIME (ASIA)
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+#EXTINF:-1 ch-id="FOX ACTION MOVIES (ASIA)" tvg-logo=" "  group-title="MOVIES",FOX ACTION MOVIES (ASIA)
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="INFOTAINMENT",FOX CRIME HD (US)
 http://51.15.0.141:88/fox_crime/index.m3u8
@@ -1085,5 +1087,59 @@ http://209.145.58.109:25461/omohaktv/App/72
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2OAiZUC8wj4/YO6CS3hT-9I/AAAAAAAAAfg/j2SVgB6sdwEgQgAlTO7A2cIZaF4oUp-FQCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="SPORTS",SONY TEN 2 HD (IN)
 http://209.145.58.109:25461/omohaktv/App/73
 
+#EXTINF:-1 ch-id="B4U AFLAM (ME)" tvg-logo=" "  group-title="MOVIES",B4U AFLAM (ME)
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/2369.m3u8
+#EXTINF:-1 ch-id="BAHRAIN INTERNATIONAL (ME)" tvg-logo=" "  group-title="INFOTAINMENT",BAHRAIN INTERNATIONAL (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4983
+#EXTINF:-1 ch-id="CNN (ME)" tvg-logo=" "  group-title="NEWS",CNN (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4963
+#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2398
+#EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4958
+#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2421
+#EXTINF:-1 ch-id="ACTION HD (ME)" tvg-logo=" "  group-title="MOVIES",ACTION HD (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2418
+#EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo=" "  group-title="MOVIES", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2417
+#EXTINF:-1 ch-id="MBC VARIETY HD (ME)" tvg-logo=" "  group-title="MOVIES",MBC VARIETY HD (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2427
+#EXTINF:-1 ch-id="ANIMAL PLANET (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6945
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6943
+#EXTINF:-1 ch-id="FOX CRIME (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3740
+#EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2387
+#EXTINF:-1 ch-id="NETFLIX ACTION HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80244
+#EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80255
+#EXTINF:-1 ch-id="NETFLIX THRILLER HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80251
+#EXTINF:-1 ch-id="NETFLIX KIDS (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80250
+#EXTINF:-1 ch-id="NETFLIX HORROR HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80249
+#EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80248
+#EXTINF:-1 ch-id="FOX ACTION MOVIES (ME)" tvg-logo=" "  group-title="MOVES",FOX ACTION MOVIES (ME)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6939
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
 
