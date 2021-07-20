@@ -420,6 +420,8 @@ https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 
 
+#EXTINF:-1 ch-id="PARAMOUNT (ASIA)" tvg-logo=" "  group-title="FPT PLAY",PARAMOUNT (ASIA)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (VN)" tvg-logo="https://1.bp.blogspot.com/-Eep12-b7tqA/YMh_x2dADMI/AAAAAAAABM4/Wuhu_922e8oG9TOkm0gJXDyHXRlTwE-HACLcBGAsYHQ/s320/download%25282%2529.png"   group-title="FPT PLAY",AXN (VN)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 ch-id="WB TV (VN)"  tvg-logo="https://1.bp.blogspot.com/-86vIXa2_a1E/YM9mHcmas9I/AAAAAAAAAAM/nTUM7N9YCIkKxmwDqPix8lwNfLubrIG-ACLcBGAsYHQ/s320/images.jpeg"  group-title="FPT PLAY",WB TV (VN)
@@ -1095,29 +1097,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80249
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80248
 #EXTINF:-1 ch-id="FOX ACTION MOVIES (ME)" tvg-logo=" "  group-title="GEN IPTV",FOX ACTION MOVIES (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6939
-
-#EXTINF:-1 ch-id="STAR WORLD HD (ME)" tvg-logo=" "  group-title="MOVIES",STAR WORLD HD (ME)
-http://alphabetagama.ddns.net/osn2019/starworldosn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MDg6NTEgQU0maGFzaF92YWx1ZT1sbjByZFM1VzJHTGQzRUV1UXVoZWlBPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",NAT GEO (ME)
-http://alphabetagama.ddns.net/osn2019/osnnatgeopeople/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MTE6MTMgQU0maGFzaF92YWx1ZT1vNnd3akZRSk9acGZweFlveUMraFhnPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id="OSN (ME)" tvg-logo=" "  group-title="MOVIES",OSN (ME)
-http://alphabetagama.ddns.net/osn2019/osndisney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MTI6NDEgQU0maGFzaF92YWx1ZT05TU5QSDdoeXQ2bkJjdFNsZzJQWkd3PT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id="NICK (ME)" tvg-logo=" "  group-title="MOVIES",NICK (ME)
-http://alphabetagama.ddns.net/uk2020/Disney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MTc6NTQgQU0maGFzaF92YWx1ZT1td2JBQ2RXQVljaXI5ZW40bExqNTJRPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id="CARTOON (ME)" tvg-logo=" "  group-title="MOVIES",CARTOON (ME)
-http://alphabetagama.ddns.net/uk2020/CartoonNetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MTg6NTkgQU0maGFzaF92YWx1ZT0zZCtXY2h2eFZobFJ4ZHpVZFBpcWZBPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id="PLACE (ME)" tvg-logo=" "  group-title="MOVIES",PLACE (ME)
-http://alphabetagama.ddns.net/religious2019/peacetveng/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MjA6MDQgQU0maGFzaF92YWx1ZT05b0R6QmJCdFNEZEYwUllqWHVmZS9BPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id="GEO (ME)" tvg-logo=" "  group-title="MOVIES",GEO (ME)
-http://alphabetagama.ddns.net/pak2020/geoenttme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MjE6NDkgQU0maGFzaF92YWx1ZT03aGs3dTlNZGRmT3BmNE1GaWkyZjRRPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id="HBO (ME)" tvg-logo=" "  group-title="MOVIES",HBO (ME)
-http://alphabetagama.ddns.net/pak2020/hbopak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MjM6MzIgQU0maGFzaF92YWx1ZT1NTkJSbUphOWcwL2d1U0UwWk1BT1NnPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",ARY (ME)
-http://alphabetagama.ddns.net/pak2020/arydigitalme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MzI6MTcgQU0maGFzaF92YWx1ZT05Qm5NejN2V0RlL2pWVjRBaXljdjJ3PT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",HUM (ME)
-http://alphabetagama.ddns.net/pak2020/humtvme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MzM6MjMgQU0maGFzaF92YWx1ZT1qUHYxM2FmRlZUQVIxdnlVYU5VbWZBPT0mdmFsaWRtaW51dGVzPTY=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",DISNEY (ME)
-http://alphabetagama.ddns.net/usa2020/disneychus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MzQ6NTggQU0maGFzaF92YWx1ZT1qRE1SNnVmNk1CelVOdU9Ib0xFWUpnPT0mdmFsaWRtaW51dGVzPTY=
 
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
