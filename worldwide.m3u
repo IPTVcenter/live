@@ -774,6 +774,10 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 ch-id="FOX ACTION MOVIES (ASIA)" tvg-logo=" "  group-title="STREAMING",FOX ACTION MOVIES (ASIA)
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 ch-id="NICK JR (ASIA)" tvg-logo=" "  group-title="STREAMING",NICK JR (ASIA)
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+
+
 
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="ONLINE TV",FOX CRIME HD (US)
 http://51.15.0.141:88/fox_crime/index.m3u8
