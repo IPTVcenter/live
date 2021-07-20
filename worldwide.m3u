@@ -1108,10 +1108,12 @@ http://alphabetagama.ddns.net/religious2019/peacetveng/playlist.m3u8?wmsAuthSign
 http://alphabetagama.ddns.net/pak2020/geoenttme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MjE6NDkgQU0maGFzaF92YWx1ZT03aGs3dTlNZGRmT3BmNE1GaWkyZjRRPT0mdmFsaWRtaW51dGVzPTY=
 #EXTINF:-1 ch-id="HBO (ME)" tvg-logo=" "  group-title="MOVIES",HBO (ME)
 http://alphabetagama.ddns.net/pak2020/hbopak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MjM6MzIgQU0maGFzaF92YWx1ZT1NTkJSbUphOWcwL2d1U0UwWk1BT1NnPT0mdmFsaWRtaW51dGVzPTY=
-
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",ARY (ME)
+http://alphabetagama.ddns.net/pak2020/arydigitalme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MzI6MTcgQU0maGFzaF92YWx1ZT05Qm5NejN2V0RlL2pWVjRBaXljdjJ3PT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",HUM (ME)
+http://alphabetagama.ddns.net/pak2020/humtvme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MzM6MjMgQU0maGFzaF92YWx1ZT1qUHYxM2FmRlZUQVIxdnlVYU5VbWZBPT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="MOVIES",DISNEY (ME)
+http://alphabetagama.ddns.net/usa2020/disneychus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDc6MzQ6NTggQU0maGFzaF92YWx1ZT1qRE1SNnVmNk1CelVOdU9Ib0xFWUpnPT0mdmFsaWRtaW51dGVzPTY=
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
