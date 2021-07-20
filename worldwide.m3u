@@ -419,7 +419,6 @@ https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 #EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",ISHWAR TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 
-
 #EXTINF:-1 ch-id="PARAMOUNT (ASIA)" tvg-logo=" "  group-title="FPT PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (VN)" tvg-logo="https://1.bp.blogspot.com/-Eep12-b7tqA/YMh_x2dADMI/AAAAAAAABM4/Wuhu_922e8oG9TOkm0gJXDyHXRlTwE-HACLcBGAsYHQ/s320/download%25282%2529.png"   group-title="FPT PLAY",AXN (VN)
@@ -591,6 +590,8 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (ME)" tvg-logo=" "  group-title="LOCKLE TV",GEO SUPER (ME)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
+EXTINF:-1 ch-id="BT SPORTS 1 HD (ME)" tvg-logo=" "  group-title="GLENDAI TV",BT SPORTS 1 HD(ME)
+http://212.224.98.206:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=
 EXTINF:-1 ch-id="WATAN 2 (ME)" tvg-logo=" "  group-title="GLENDAI TV",WATAN 2 (ME)
 http://185.180.15.17:2200/TR/watan2-afg/index.m3u8?token=
 #EXTINF:-1 ch-id="STAR SPORTS FIRST (IN)" tvg-logo=" "  group-title="GLENDAI TV",STAR SPORTS FIRST (IN)
