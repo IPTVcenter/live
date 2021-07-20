@@ -337,8 +337,6 @@ https://d1bv41pu1n9g91.cloudfront.net/NDTV_INDIA.m3u8
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 #EXTINF:-1 ch-id="BESTON 25 NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-wIZZ7hQMXBM/YOwbGcpR3uI/AAAAAAAAAYg/X6giLWzGhAAqOhxiwvxT83l3W0qOVcJrACLcBGAsYHQ/s200/images%252811%2529.jpeg"  group-title="NEWS",BESTON 25 NEWS (US)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live_low.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8?Token=
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=" "  group-title="MOVIES",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
@@ -540,18 +538,18 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 ch-id="FOX NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="NEWS",FOX NEWS (ASIA)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="TENNIS TV (ME)" tvg-logo=" "  group-title="SPORTS",TENNIS TV (ME)
 http://164.68.124.111/acc.m3u8?Token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="ESPN (ME)" tvg-logo=" "  group-title="SPORTS",ESPN (ME)
 http://134.19.182.131:8080/edg8_2.m3u8?Token=
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="BOOMERANG (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" " group-title="SPORTS",SKY SPORTS CRICKET (UK)
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="BBC CBEEBIES (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://31.220.41.88:8081/live/uk-cbeebies.stream/playlist.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="ADULT SWIM (ME)" tvg-logo=""  group-title="KIDS",ADULT SWIM (ME)
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 
 #EXTINF:-1 ch-id="FOX SPORTS 1 (US)" tvg-logo=" "  group-title="SPORTS",FOX SPORTS 1 (US)
@@ -586,38 +584,34 @@ http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="URDU 1 (PK)" tvg-logo="https://1.bp.blogspot.com/-_94IB0QrIUY/YO46Mc-n5nI/AAAAAAAAAcE/Ol8o5H5q3S8qxwrgog8Hk-H3ONXGgjyYQCLcBGAsYHQ/s200/images%2B%25283%2529%25284%2529.png"  group-title="GENERAL ENTERTAINMENT",URDU 1 (PK)
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="PTV SPORTS (ME)" tvg-logo=" "  group-title="SPORTS",PTV SPORTS (ME)
 http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="GEO SUPER (ME)" tvg-logo=" "  group-title="SPORTS",GEO SUPER (ME)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://212.224.98.207:2200/NL/mformula1hd-esp/index.m3u8?token=
 EXTINF:-1 ch-id="WATAN 2 (ME)" tvg-logo=" "  group-title="SPORTS",WATAN 2 (ME)
 http://185.180.15.17:2200/TR/watan2-afg/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="STAR SPORTS FIRST (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS FIRST (IN)
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 3 (IN)
 http://212.224.98.207:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 2 HD (IN)
 http://185.180.15.17:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/playlist.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 1 HD (IN)
 http://212.224.98.196:2200/EX/starsports1hd-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 1 HD (IN)
 http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/playlist.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title=" ", (ME)
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" "  group-title=" ", (ME)
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title=" ", (ME)
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="SPORTS",SONY SIX HD (IN)
 http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="WILLOW (US)" tvg-logo=" "  group-title="SPORTS",WILLOW (US)
 http://212.224.98.196:2200/R-EX/WILLOW_CRICKET_HD-in/playlist.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" "  group-title="SPORTS",SKY SPORTS CRICKET (UK)
 http://212.224.98.206:2200/EX/Sky_Sports_Cricket_SD-uk/index.m3u8?token=
 #EXTINF:-1 ch-id="MINIPLEX (IN)" tvg-logo="https://1.bp.blogspot.com/-CxtG3vQv8os/YPDZScrozuI/AAAAAAAAAgc/gB9OauWnn3EOXVSjvDfMc2oW57Fr0LoBgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MOVIES",MINIPLEX (IN)
 http://cdn.gledaitv.co:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
@@ -826,11 +820,11 @@ http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 ch-id="HISTORY (TH)" tvg-logo="https://1.bp.blogspot.com/-oNrrxww0Vk4/YO5_G-RJzKI/AAAAAAAAAeM/tagUSsJ2i2A4IjWHDy2bLXyBOjFxA01xACLcBGAsYHQ/s200/images%2B%25281%2529%252810%2529.jpeg"  group-title="INFOTAINMENT",HISTORY (TH)
 http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="TENNIS HD (IN)" tvg-logo=" "  group-title="SPORTS",TENNIS HD (ME)
 http://77.83.117.60:8888/02_TennisHD_720p/chunklist.m3u8?Token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="ESPN (UK)" tvg-logo=" "  group-title="SPORTS",ESPN (UK)
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8?Token=
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="TURE SPORTS HD (ASIA)" tvg-logo=" "  group-title="SPORTS",TURE SPORTS HD (ASIA)
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="GENERAL ENTERTAINMENT",ZEE TV HD (ME)
