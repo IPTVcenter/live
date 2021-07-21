@@ -38,6 +38,8 @@ http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
 http://stream.tvtap.net:8081/live/us-fx.stream/playlist.m3u8
 #EXTINF:-1 ch-id="CINEMAX (US)" tvg-logo="https://1.bp.blogspot.com/-EkhEGXbTad4/YOrAG4XMCoI/AAAAAAAAAOs/0AI-JnPmM98j4x52lUS0XKnVCrk_FG7uACLcBGAsYHQ/s320/images%2B%25281%2529%25285%2529.png"  group-title="NET TV",CINEMAX (US)
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
+http://stream.tvtap.net:8081/live/bein1.stream/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="PTV HOME (PK)" tvg-logo="https://1.bp.blogspot.com/-Vr6mv7JQniI/YOrAWI2gn7I/AAAAAAAAAO0/A9F5FEMCDp40K2M3pB0411d9bmj4RyC6gCLcBGAsYHQ/s320/images%2B%25285%2529%25283%2529.jpeg"  group-title="LIVE TV",PTV HOME (PK)
 https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/playlist.m3u8
@@ -467,6 +469,11 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="FPT PLAY ",BBC WORLD NEWS (ASIA)
 https://livecdn.fptplay.net/qnetlive/bbcnew_hls.smil/chunklist.m3u8
+
+
+https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+
+
 
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="NET TV",STAR SPORTS 1 HD (IN)
 http://tv.pmcon.net/hls/stream15.m3u8
