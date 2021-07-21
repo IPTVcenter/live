@@ -557,6 +557,25 @@ http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 http://199.66.95.242/3/3022/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2OAiZUC8wj4/YO6CS3hT-9I/AAAAAAAAAfg/j2SVgB6sdwEgQgAlTO7A2cIZaF4oUp-FQCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="TV LOVER",SONY TEN 2 HD (IN)
 http://199.66.95.242/3/3094/index.m3u8?token=test
+EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" "  group-title="",(IN)
+http://199.66.95.242/3/3095/index.m3u8?token=test
+EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title="",(IN)
+http://199.66.95.242/3/3093/index.m3u8?token=test
+EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="", (IN)
+http://199.66.95.242/3/3099/index.m3u8?token=test
+EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="", (IN)
+http://199.66.95.242/3/3098/index.m3u8?token=test
+http://199.66.95.242/3/3023/index.m3u8?token=test
+http://199.66.95.242/3/3024/index.m3u8?token=test
+http://199.66.95.242/3/3025/index.m3u8?token=test
+http://199.66.95.242/3/3021/index.m3u8?token=test
+http://199.66.95.242/3/3020/index.m3u8?token=test
+http://199.66.95.242/3/3026/index.m3u8?token=test
+http://199.66.95.242/3/3027/index.m3u8?token=test
+http://199.66.95.242/3/3030/index.m3u8?token=test
+http://199.66.95.242/3/3031/index.m3u8?token=test
+http://199.66.95.242/3/3010/index.m3u8?token=test
+http://199.66.95.242/3/3001/index.m3u8?token=test
 
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="MY TV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -780,8 +799,6 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1 ch-id="NICK JR (ASIA)" tvg-logo=" "  group-title="STREAMING",NICK JR (ASIA)
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
-
-
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="ONLINE TV",FOX CRIME HD (US)
 http://51.15.0.141:88/fox_crime/index.m3u8
 #EXTINF:-1 ch-id="HUSTLER HD (US)" tvg-logo="https://1.bp.blogspot.com/-WgonY08xq5A/YNPSChcSUkI/AAAAAAAAABQ/3YfNoHsrsLsik__TWeZH0ALEXWj4F1sagCLcBGAsYHQ/s320/images%2B%25281%2529%25281%2529.jpeg"   group-title="ONLINE TV",HUSTLER HD (US)
@@ -882,14 +899,14 @@ https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
 #EXTINF:-1 ch-id="ZEE LIVING (US)" tvg-logo="https://1.bp.blogspot.com/-D2krdpuHD90/YKIl-OorItI/AAAAAAAAA1M/9jJuAYDjT1cxnm5sudfxGFfWDNuR2rLZQCLcBGAsYHQ/w200-h194/IMG_20210308_172607.jpg"   group-title="ZEE5",ZEE LIVING (US)
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
-#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="ZEE5",ZING (IN)
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="ZEE5",ZING (IN)
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
-#EXTINF:-1 ch-id="ZEE5 ORIGINALS (IND)" tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%252811%2529.jpeg"   group-title="ZEE5",ZEE5 ORIGINALS (IN)
+#EXTINF:-1 ch-id="ZEE5 ORIGINALS (IN)" tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%252811%2529.jpeg"   group-title="ZEE5",ZEE5 ORIGINALS (IN)
 https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/index.m3u8 
 
 #EXTINF:-1 ch-id="HALOW MOVIES HD UK)" tvg-logo="https://1.bp.blogspot.com/-zarUbaZil9E/YN1XbywcZkI/AAAAAAAAAII/CQTCB06AzgYVobC8WMsfL2b1GdQ0kqfVQCLcBGAsYHQ/s320/PicsArt_07-01-11.17.21.png"  group-title="ECHO TV",HALOW MOVIES HD (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
-#EXTINF:-1 ch-id="TOP KIDS HD (UK)" tvg-logo="https://1.bp.blogspot.com/-bVIYeuGoOhU/YPDNBAOnFcI/AAAAAAAAAf4/IBlmb0GspPUR5xOU7Fw-zMEBS2ein02IgCLcBGAsYHQ/s200/PicsArt_07-16-05.33.56.png"  group-title="ECHO TV",HELOW KIDS HD (UK)
+#EXTINF:-1 ch-id="HALOW KIDS HD (UK)" tvg-logo="https://1.bp.blogspot.com/-bVIYeuGoOhU/YPDNBAOnFcI/AAAAAAAAAf4/IBlmb0GspPUR5xOU7Fw-zMEBS2ein02IgCLcBGAsYHQ/s200/PicsArt_07-16-05.33.56.png"  group-title="ECHO TV",HALOW KIDS HD (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.m3u8
 #EXTINF:-1 ch-id="HALOW SPORTS (UK)" tvg-logo="https://1.bp.blogspot.com/-2SLJhyxbMjw/YPDL4qbii6I/AAAAAAAAAfw/Am0WEVIh8ngD2Goky1M7HjTyAM93jKVpwCLcBGAsYHQ/s200/PicsArt_07-15-05.36.07.png"  group-title="ECHO TV",HALOW SPORTS (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
@@ -1098,8 +1115,8 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80249
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80248
 #EXTINF:-1 ch-id="FOX ACTION MOVIES (ME)" tvg-logo=" "  group-title="GEN IPTV",FOX ACTION MOVIES (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6939
-
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
