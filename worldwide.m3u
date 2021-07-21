@@ -585,6 +585,8 @@ http://199.66.95.242/3/3030/index.m3u8?token=test
 http://199.66.95.242/3/3031/index.m3u8?token=test
 http://199.66.95.242/3/3010/index.m3u8?token=test
 http://199.66.95.242/3/3001/index.m3u8?token=test
+http://199.66.95.242:80/1/1172/index.m3u8?token=test
+
 
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="ONLINE TV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
