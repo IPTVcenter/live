@@ -431,11 +431,11 @@ https://jio.instream.ml/jio.php?c=Colors_Cineplex_Bollywood&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" tvg-logo=" "  group-title="JIO TV",RISHTEY CINEPLEX (IN)
 https://jio.instream.ml/jio.php?c=Rishtey_Cineplex&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="ABZY MOVIES (IN)" tvg-logo=" "  group-title="JIO TV",ABZY MOVIES (IN)
 https://jio.instream.ml/jio.php?c=ABZY_Movies&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV",BOX CINEMA (IN)
 https://jio.instream.ml/jio.php?c=Box_Cinema&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="ABZY DHAKAD (IN)" tvg-logo=" "  group-title="JIO TV",ABZY DHAKAD (IN)
 https://jio.instream.ml/jio.php?c=ABZY_Dhakad&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Zee_Cinema&q=400&e=.m3u8
@@ -455,17 +455,17 @@ https://jio.instream.ml/jio.php?c=Sony_MAX2&q=100&e=.m3u8
 https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Maha_Movies&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="DHAMAAL TV (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Dhamaal_TV&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ENTERR 10 MOVIES (IN)" tvg-logo=" "  group-title="JIO TV",ENTERR 10 MOVIES (IN)
 https://jio.instream.ml/jio.php?c=Enterr_10&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="INDRADHANU (IN)" tvg-logo=" "  group-title="JIO TV",INDRADHANU (IN)
 https://jio.instream.ml/jio.php?c=Indradhanu&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=""  group-title="JIO TV",SONY PIX HD (IN)
 https://jio.instream.ml/jio.php?c=Sony_PX_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo=" "  group-title="JIO TV",COLORS INFINITY HD (IN)
 https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="ARRE (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Arre&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="JIO TV",ZEE TV HD (IN)
 https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=400&e=.m3u8
@@ -477,7 +477,7 @@ https://jio.instream.ml/jio.php?c=Colors_SD&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Colors_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Dangal&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="ABZY COOL (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=ABZY_Cool&q=100&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Zee_Anmol&q=100&e=.m3u8
@@ -495,19 +495,19 @@ https://jio.instream.ml/jio.php?c=Sony_Pal&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Colors_Rishtey&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=DD_National&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo=" "  group-title="JIO TV",DD KISAN (IN)
 https://jio.instream.ml/jio.php?c=DD_Kisan&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ID (IN)" tvg-logo="https://1.bp.blogspot.com/-Edn11XCcER8/YPlhqjVk5VI/AAAAAAAAAjk/jrkS-PbpbaYIelpbtVtLrrdOy39NsVPJwCLcBGAsYHQ/s200/DCX.png"  group-title="JIO TV",ID (IN)
 https://jio.instream.ml/jio.php?c=ID&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Epic_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="JIO TV",ZEE SALAAM (IN)
 https://jio.instream.ml/jio.php?c=Zee_Salaam&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=MTV&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="MTV HD + (IN)" tvg-logo=" "  group-title="JIO TV",MTV HD + (IN)
 https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="MTV BEATS HD (IN)" tvg-logo=" "  group-title="JIO TV",MTV BEATS HD (IN)
 https://jio.instream.ml/jio.php?c=MTV_Beats_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Mastiii&q=400&e=.m3u8
@@ -523,13 +523,13 @@ https://jio.instream.ml/jio.php?c=Travel_XP&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Animal_Planet_Hindi&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="HISTORY TV 18 (IN)" tvg-logo=" "  group-title="JIO TV",HISTORY TV 18 (IN)
 https://jio.instream.ml/jio.php?c=History_18_Hindi&q=400&e=.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg"  group-title="JIO TV",DISCOVERY (IN)
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Hindi&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Discovery_HD_World&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="DISCOVERY HD (IN)" tvg-logo=" "  group-title="JIO TV",DISCOVERY HD (IN)
 https://jio.instream.ml/jio.php?c=Discovery_Turbo&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=TLC_Hindi&q=400&e=.m3u8
@@ -539,7 +539,7 @@ https://jio.instream.ml/jio.php?c=TLC_HD_World&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Travel_XP_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo="https://1.bp.blogspot.com/-sLTj6wYSuRc/YPlhVswcQMI/AAAAAAAAAjY/z6N5pVm0aDc8JwS8TE5IlFY3OoQ-EmWcgCLcBGAsYHQ/s200/PicsArt_07-16-05.48.14.jpg"  group-title="JIO TV",ANIMAL PLANET HD (IN)
 https://jio.instream.ml/jio.php?c=Animal_Planet_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="HISTORY TV 18 HF (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=History_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Sony_Yay_Hindi&q=400&e=.m3u8
@@ -561,13 +561,13 @@ https://jio.instream.ml/jio.php?c=Pogo_Hindi&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Zee_News&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=DY_365&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="RANG (IN)" tvg-logo=" "  group-title="JIO TV",RANG (IN)
 https://jio.instream.ml/jio.php?c=Rang&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Jonack&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="JIO TV",RENGONI (IN)
 https://jio.instream.ml/jio.php?c=Rengoni&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="RAMDHENU (IN)" tvg-logo=" "  group-title="JIO TV",RAMDHENU (IN)
 https://jio.instream.ml/jio.php?c=Ramdhenu&q=400&e=.m3u8
 #EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo="https://1.bp.blogspot.com/-Vzm92hEmieE/YPleNNsKIdI/AAAAAAAAAiE/KVJwWYDB2PkhGS9Xk_JK5gqTV-BMTcvKwCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="JIO TV",NEWS LIVE (IN)
 https://jio.instream.ml/jio.php?c=Newslive&q=400&e=.m3u8
@@ -577,7 +577,7 @@ https://jio.instream.ml/jio.php?c=Assam_Talks&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Prag_News&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=CNN&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo=" "  group-title="JIO TV",BBC WORLD NEWS (IN)
 https://jio.instream.ml/jio.php?c=BBC_World_News&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Wion&q=400&e=.m3u8
@@ -598,27 +598,27 @@ https://jio.instream.ml/jio.php?c=B4U_Movies&q=400&e=.m3u8
 #EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-MrhHFb2PFxo/YPlgGZRfh0I/AAAAAAAAAi0/EwcX6oFqXjkh2PpbubPlBPaDMoXI79ThwCLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="JIO TV",MUSIC INDIA (IN)
 https://jio.instream.ml/jio.php?c=Music_India&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=9XM&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="VH1 (IN)" tvg-logo=" "  group-title="JIO TV",VH1 (IN)
 https://jio.instream.ml/jio.php?c=VH1&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Aaj_Tak&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="TOTAL TV (IN)" tvg-logo=" "  group-title="JIO TV",TOTAL TV (IN)
 https://jio.instream.ml/jio.php?c=Total_TV&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo=" "  group-title="JIO TV",DD NEWS (IN)
 https://jio.instream.ml/jio.php?c=DD_News&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="SANSKAR TV (IN)" tvg-logo=" "  group-title="JIO TV",SANSKAR TV (IN)
 https://jio.instream.ml/jio.php?c=Sanskar&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="AASTHA (IN)" tvg-logo=" "  group-title="JIO TV",AASTHA (IN)
 https://jio.instream.ml/jio.php?c=Aastha&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=India_Today&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="NEWS 24 (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=News_24&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo=" "  group-title="JIO TV",DD INDIA (IN)
 https://jio.instream.ml/jio.php?c=DD_India&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="KATYAYANI (IN)" tvg-logo=" "  group-title="JIO TV",KATYAYANI (IN)
 https://jio.instream.ml/jio.php?c=Katyayani&q=400&e=.m3u8
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="SADHANA (IN)" tvg-logo=" "  group-title="JIO TV",SADHANA (IN)
 https://jio.instream.ml/jio.php?c=Sadhna&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=News_X&q=400&e=.m3u8
