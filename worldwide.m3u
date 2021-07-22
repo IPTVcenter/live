@@ -423,6 +423,13 @@ https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 #EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="MX TV",ISHWAR TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 
+#EXTINF:-1 ch-id="COLORS CINEPLEX (IN)" tvg-logo=" "  group-title="JIO TV",COLORS CINEPLEX (IN)
+https://jio.instream.ml/jio.php?c=Colors_Cineplex&q=100&e=.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX BOLLYWOOD (IN)" tvg-logo=" "  group-title="JIO TV",COLORS CINEPLEX BOLLYWOOD (IN)
+https://jio.instream.ml/jio.php?c=Colors_Cineplex_Bollywood&q=100&e=.m3u8
+
+
+
 #EXTINF:-1 ch-id="PARAMOUNT (ASIA)" tvg-logo=" "  group-title="FPT PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (VN)" tvg-logo="https://1.bp.blogspot.com/-Eep12-b7tqA/YMh_x2dADMI/AAAAAAAABM4/Wuhu_922e8oG9TOkm0gJXDyHXRlTwE-HACLcBGAsYHQ/s320/download%25282%2529.png"   group-title="FPT PLAY",AXN (VN)
