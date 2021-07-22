@@ -469,7 +469,7 @@ https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Arre&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="JIO TV",ZEE TV HD (IN)
 https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="JIO TV"SONY TV (IN)
+#EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="JIO TV",SONY TV (IN)
 https://jio.instream.ml/jio.php?c=Sony_SD&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=Colors_SD&q=400&e=.m3u8
@@ -622,9 +622,9 @@ https://jio.instream.ml/jio.php?c=Katyayani&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Sadhna&q=400&e=.m3u8
 #EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=News_X&q=400&e=.m3u8
-#EXTINF:-1 group-title="JIO TV",DW (IN)  tvg-logo="https://1.bp.blogspot.com/-5kegp68ZhoA/YPldj3h-HuI/AAAAAAAAAh8/bfJ0U-IWb5U1AloIJS5-vVn-WKn7DFaIwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  
+#EXTINF:-1 ch-id="DW (IN)"  tvg-logo="https://1.bp.blogspot.com/-5kegp68ZhoA/YPldj3h-HuI/AAAAAAAAAh8/bfJ0U-IWb5U1AloIJS5-vVn-WKn7DFaIwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="JIO TV",DW (IN)
 https://jio.instream.ml/jio.php?c=dw&q=400&e=.m3u8
-#EXTINF:-1 group-title="JIO TV",GOD TV (IN)   tvg-logo="https://1.bp.blogspot.com/-7VKCDDLIlP0/YPlc6ykYpfI/AAAAAAAAAh0/nVKFO7ETxQU04KOj9dvis9Kh203pHxMswCLcBGAsYHQ/w200-h200/images.jpeg" 
+#EXTINF:-1 ch-id="GOD TV (IN)"  tvg-logo="https://1.bp.blogspot.com/-7VKCDDLIlP0/YPlc6ykYpfI/AAAAAAAAAh0/nVKFO7ETxQU04KOj9dvis9Kh203pHxMswCLcBGAsYHQ/w200-h200/images.jpeg" group-title="JIO TV",GOD TV (IN)
 https://jio.instream.ml/jio.php?c=God_TV&q=400&e=.m3u8
 
 #EXTINF:-1 ch-id="PARAMOUNT (ASIA)" tvg-logo=" "  group-title="FPT PLAY",PARAMOUNT (ASIA)
