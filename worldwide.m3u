@@ -710,7 +710,7 @@ http://tv.pmcon.net/hls/stream12.m3u8
 http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://1.bp.blogspot.com/-xTgySQS_-DU/YOrRW4qp51I/AAAAAAAAAUU/253fzyVw7LIBbSAO2-Pj40oGIfCE1MbZQCLcBGAsYHQ/s200/images%2B%25281%2529%25287%2529.png"  group-title="NET TV",NICK (IN)
 http://tv.pmcon.net/hls/stream23.m3u8
-#EXTINF:-1 ch-id="TEN CRICKET (PK)" tvg-logo=" "  group-title="NET TV",TEN CRICKET (PK)
+#EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo=" "  group-title="NET TV",SONY SIX (IN)
 http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="NET TV",BBC WORLD NEWS (IN)
 http://tv.pmcon.net/hls/stream36.m3u8
@@ -765,9 +765,9 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 ch-id="FOX NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="IPTV",FOX NEWS (ASIA)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#EXTINF:-1 ch-id="TENNIS TV (ME)" tvg-logo=" "  group-title="IPTV",TENNIS TV (ME)
+#EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo=" "  group-title="IPTV",TENNIS TV (US)
 http://164.68.124.111/acc.m3u8?Token=
-#EXTINF:-1 ch-id="ESPN (ME)" tvg-logo=" "  group-title="IPTV",ESPN (ME)
+#EXTINF:-1 ch-id="ESPN (US)" tvg-logo=" "  group-title="IPTV",ESPN (US)
 http://134.19.182.131:8080/edg8_2.m3u8?Token=
 
 #EXTINF:-1 ch-id="BOOMERANG (ME)" tvg-logo=" "  group-title="LIVE TV", (ME)
@@ -791,29 +791,23 @@ EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="ONLINE TV", (
 http://199.66.95.242/3/3099/index.m3u8?token=test
 EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="ONLINE TV", (IN)
 http://199.66.95.242/3/3098/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="AXS TV (US)" tvg-logo=" "  group-title=" ",AXS TV (US)
 http://199.66.95.242/3/3023/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="WILLOW EXTRA (US)" tvg-logo=" "  group-title=" ",WILLOW EXTRA (US)
 http://199.66.95.242/3/3024/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SN (US)" tvg-logo=" "  group-title=" ",SN (US)
 http://199.66.95.242/3/3025/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://199.66.95.242/3/3021/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://199.66.95.242/3/3020/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="WWE (US)" tvg-logo=" "  group-title=" ",WWE (US)
 http://199.66.95.242/3/3026/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="TENNIS (US)" tvg-logo=" "  group-title=" ",TENNIS (US)
 http://199.66.95.242/3/3027/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="TVG (US)" tvg-logo=" "  group-title=" ",TVG (US)
 http://199.66.95.242/3/3030/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-http://199.66.95.242/3/3031/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="WILLOW HD (US)" tvg-logo=" "  group-title=" ",WILLOW HD (US)
 http://199.66.95.242/3/3010/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="CBS SPORTS NETWORK (US)" tvg-logo=" "  group-title=" ",CBS SPORTS NETWORK (US)
 http://199.66.95.242/3/3001/index.m3u8?token=test
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="FOX BUSINESS (US)" tvg-logo=" "  group-title=" ",FOX BUSINESS (US)
 http://199.66.95.242:80/1/1172/index.m3u8?token=test
 
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="ONLINE TV",ONE GOLF (PK)
