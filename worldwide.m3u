@@ -5,8 +5,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_b
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ch-id="SCREAMFEST (UK)" tvg-logo="https://1.bp.blogspot.com/-2Ha0lEutmwU/YKRaoCnxdEI/AAAAAAAAA40/ufBn0eSlxMYEd5-zXVvS08cDkUGm1jrfgCLcBGAsYHQ/w200-h100/images%2B%25281%2529%252810%2529.jpeg"  group-title="LIVE TV",SCREAMGEST (UK)
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_360p.m3u8
-#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="LIVE TV",TLC (UK)
-https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="LIVE TV",EURO NEWS (UK)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="REPUBLIC BHARAT (IN)" tvg-logo="https://1.bp.blogspot.com/-UDGRN8zIZPA/YNx847iU8uI/AAAAAAAAAHQ/9iahWYpQtXE3su4Nxa_FxRJJcecqa7PxACLcBGAsYHQ/s214/PicsArt_06-30-07.46.07.png"  group-title="LIVE TV",REPUBLIC BHARAT (IN)
@@ -21,8 +19,23 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (PK)" tvg-logo=" "  group-title="LIVE TV",GEO SUPER (PK)
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani2/playlist.m3u8
+
 #EXTINF:-1 ch-id="FX (US)" tvg-logo=" "  group-title="LIVE TV",FX (US)
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:-1 ch-id="TLC (US)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="LIVE TV",TLC (US)
+https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+#EXTINF:-1 ch-id="BOUNCE (US)" tvg-logo=" "  group-title="LIVE TV",BOUNC (US)
+https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
+#EXTINF:-1 ch-id="MAV TV (US)" tvg-logo=" "  group-title="LIVE TV",MAV TV (US)
+https://bozztv.com/teleyupp/teleup-mavtv/mono.m3u8
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="LIVE TV", (US)
+https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+#EXTINF:-1 ch-id="SYFY (US)" tvg-logo=" "  group-title="LIVE TV",SYFY (US)
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="LIVE TV",FX (US)
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
+#EXTINF:-1 ch-id="REVOLT (US)" tvg-logo=" "  group-title="LIVE TV",REVOLT (US)
+https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 
 #EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="https://1.bp.blogspot.com/-XunvmNTlCwA/YKN1mOsdIDI/AAAAAAAAA4c/6NZYmHGCuEou9BHsGmBsag_aC9GcmgLEgCLcBGAsYHQ/w200-h138/PicsArt_03-16-05.13.39.png"   group-title="LIVE TV",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
@@ -1140,11 +1153,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 ch-id="ZEE5 ORIGINALS (IN)" tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%252811%2529.jpeg"   group-title="ZEE5",ZEE5 ORIGINALS (IN)
 https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/index.m3u8 
 
-#EXTINF:-1 ch-id="HALOW MOVIES HD UK)" tvg-logo="https://1.bp.blogspot.com/-zarUbaZil9E/YN1XbywcZkI/AAAAAAAAAII/CQTCB06AzgYVobC8WMsfL2b1GdQ0kqfVQCLcBGAsYHQ/s320/PicsArt_07-01-11.17.21.png"  group-title="ONLINE TV",HALOW MOVIES HD (UK)
+#EXTINF:-1 ch-id="HALOW MOVIES HD UK)" tvg-logo="https://1.bp.blogspot.com/-zarUbaZil9E/YN1XbywcZkI/AAAAAAAAAII/CQTCB06AzgYVobC8WMsfL2b1GdQ0kqfVQCLcBGAsYHQ/s320/PicsArt_07-01-11.17.21.png"  group-title="HALOW TV",HALOW MOVIES HD (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
-#EXTINF:-1 ch-id="HALOW KIDS HD (UK)" tvg-logo="https://1.bp.blogspot.com/-bVIYeuGoOhU/YPDNBAOnFcI/AAAAAAAAAf4/IBlmb0GspPUR5xOU7Fw-zMEBS2ein02IgCLcBGAsYHQ/s200/PicsArt_07-16-05.33.56.png"  group-title="ONLINE TV",HALOW KIDS HD (UK)
+#EXTINF:-1 ch-id="HALOW KIDS HD (UK)" tvg-logo="https://1.bp.blogspot.com/-bVIYeuGoOhU/YPDNBAOnFcI/AAAAAAAAAf4/IBlmb0GspPUR5xOU7Fw-zMEBS2ein02IgCLcBGAsYHQ/s200/PicsArt_07-16-05.33.56.png"  group-title="HALOW TV",HALOW KIDS HD (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/139.m3u8
-#EXTINF:-1 ch-id="HALOW SPORTS (UK)" tvg-logo="https://1.bp.blogspot.com/-2SLJhyxbMjw/YPDL4qbii6I/AAAAAAAAAfw/Am0WEVIh8ngD2Goky1M7HjTyAM93jKVpwCLcBGAsYHQ/s200/PicsArt_07-15-05.36.07.png"  group-title="ONLINE TV",HALOW SPORTS (UK)
+#EXTINF:-1 ch-id="HALOW SPORTS (UK)" tvg-logo="https://1.bp.blogspot.com/-2SLJhyxbMjw/YPDL4qbii6I/AAAAAAAAAfw/Am0WEVIh8ngD2Goky1M7HjTyAM93jKVpwCLcBGAsYHQ/s200/PicsArt_07-15-05.36.07.png"  group-title="HALOW TV",HALOW SPORTS (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
 
 #EXTINF:-1 ch-id="COLORS (ME)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="GO IPTV",COLORS (ME)
