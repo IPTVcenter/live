@@ -262,6 +262,8 @@ http://cdn.tvmatic.net/crafts.m3u8
 https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
 #EXTINF:-1 ch-id="GAY TUBE (UK)" tvg-logo="https://1.bp.blogspot.com/-J9DG55blf10/YNsDYjLJ4TI/AAAAAAAAAE0/ITLyoM_7zBAUjFhQ4uk1qlufqQVUoSlWwCLcBGAsYHQ/s320/images%2B%25281%2529%25285%2529.png"  group-title="FILMON TV",GAY TUBE (UK)
 https://www.filmon.com/vr-streams/6155.low/playlist.m3u8
+#EXTINF:-1 ch-id="18+ (UK)" tvg-logo=" "  group-title="",18+ (UK)
+http://www.filmon.com/vr-streams/6152.low/playlist.m3u8
   
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="SAMSUNG IPTV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
