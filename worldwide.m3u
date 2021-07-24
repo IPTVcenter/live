@@ -770,8 +770,6 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 #EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="ENGLISH",TLC (UK)
 http://212.102.38.90:8080/TLC/index.m3u8
-#EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo="https://1.bp.blogspot.com/-wK4g4qrvxHs/YNxf1077PFI/AAAAAAAAAFg/9Ld8sckaLxAbqmkpgSNV9DVqYJIhbc9GgCLcBGAsYHQ/s320/PicsArt_06-30-12.21.06.jpg"  group-title="ADULT",EXSTAY HD (UK)
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="ENGLISH",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 ch-id="FOX NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="ENGLISH",FOX NEWS (ASIA)
@@ -1337,37 +1335,37 @@ http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/2369.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4983
 #EXTINF:-1 ch-id="CNN (ME)" tvg-logo=" "  group-title="GEN IPTV",CNN (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4963
-#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "  group-title="GEN IPTV",DUBAI ONE (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2398
-#EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo=" "  group-title="GEN IPTV",DUBAI RACING (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4958
-#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" "  group-title="GEN IPTV",MBC BOLLYWOOD HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2421
 #EXTINF:-1 ch-id="ACTION HD (ME)" tvg-logo=" "  group-title="GEN IPTV",ACTION HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2418
-#EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo=" "  group-title="GEN IPTV",ACTION HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2417
 #EXTINF:-1 ch-id="MBC VARIETY HD (ME)" tvg-logo=" "  group-title="GEN IPTV",MBC VARIETY HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2427
-#EXTINF:-1 ch-id="ANIMAL PLANET (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="ANIMAL PLANET (ME)" tvg-logo=" "  group-title="GEN IPTV",ANIMAL PLANET (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6945
-#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)" tvg-logo=" "  group-title="GEN IPTV",DISCOVERY SCIENCE HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6943
-#EXTINF:-1 ch-id="FOX CRIME (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="FOX CRIME (ME)" tvg-logo=" "  group-title="GEN IPTV",FOX CRIME (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3740
-#EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo=" "  group-title="GEN IPTV",ZEE AFLAM (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2387
-#EXTINF:-1 ch-id="NETFLIX ACTION HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="NETFLIX ACTION HD (ME)" tvg-logo=" "  group-title="GEN IPTV",NETFLIX ACTION HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80244
-#EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo=" "  group-title="GEN IPTV",NETFLIX COMEDY HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80255
-#EXTINF:-1 ch-id="NETFLIX THRILLER HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="NETFLIX THRILLER HD (ME)" tvg-logo=" "  group-title="GEN IPTV",NETFLIX THRILLER HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80251
-#EXTINF:-1 ch-id="NETFLIX KIDS (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="NETFLIX KIDS (ME)" tvg-logo=" "  group-title="GEN IPTV",NETFLIX KIDS (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80250
-#EXTINF:-1 ch-id="NETFLIX HORROR HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="NETFLIX HORROR HD (ME)" tvg-logo=" "  group-title="GEN IPTV",NETFLIX HORROR HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80249
-#EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo=" "  group-title="GEN IPTV", (ME)
+#EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo=" "  group-title="GEN IPTV",NETFLIX DRAMA HD (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/80248
 #EXTINF:-1 ch-id="FOX ACTION MOVIES (ME)" tvg-logo=" "  group-title="GEN IPTV",FOX ACTION MOVIES (ME)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6939
