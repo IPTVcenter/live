@@ -20,51 +20,51 @@ https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (PK)" tvg-logo=" "  group-title="HINDI",GEO SUPER (PK)
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani2/playlist.m3u8
 
-#EXTINF:-1 ch-id="FX (US)" tvg-logo=" "  group-title="LIVE TV",FX (US)
+#EXTINF:-1 ch-id="FX (US)" tvg-logo=" "  group-title="ENGLISH",FX (US)
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-#EXTINF:-1 ch-id="TLC (US)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="LIVE TV",TLC (US)
+#EXTINF:-1 ch-id="TLC (US)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="ENGLISH",TLC (US)
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
-#EXTINF:-1 ch-id="BOUNCE (US)" tvg-logo=" "  group-title="LIVE TV",BOUNC (US)
+#EXTINF:-1 ch-id="BOUNCE (US)" tvg-logo=" "  group-title="ENGLISH",BOUNC (US)
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
-#EXTINF:-1 ch-id="MAV TV (US)" tvg-logo=" "  group-title="LIVE TV",MAV TV (US)
-https://bozztv.com/teleyupp/teleup-mavtv/mono.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="LIVE TV", (US)
+#EXTINF:-1 ch-id="MAV TV (US)" tvg-logo=" "  group-title="ENGLISH",MAV TV (US)
+https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ENGLISH", (US)
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
-#EXTINF:-1 ch-id="SYFY (US)" tvg-logo=" "  group-title="LIVE TV",SYFY (US)
+#EXTINF:-1 ch-id="SYFY (US)" tvg-logo=" "  group-title="ENGLISH",SYFY (US)
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
-#EXTINF:-1 ch-id="CTV (US)" tvg-logo=" "  group-title="LIVE TV",CTV (US)
+#EXTINF:-1 ch-id="CTV (US)" tvg-logo=" "  group-title="ENGLISH",CTV (US)
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 ch-id="REVOLT (US)" tvg-logo=" "  group-title="LIVE TV",REVOLT (US)
+#EXTINF:-1 ch-id="REVOLT (US)" tvg-logo=" "  group-title="ENGLISH",REVOLT (US)
 https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 
-#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="https://1.bp.blogspot.com/-XunvmNTlCwA/YKN1mOsdIDI/AAAAAAAAA4c/6NZYmHGCuEou9BHsGmBsag_aC9GcmgLEgCLcBGAsYHQ/w200-h138/PicsArt_03-16-05.13.39.png"   group-title="LIVE TV",DUBAI ONE  (ME)
+#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="https://1.bp.blogspot.com/-XunvmNTlCwA/YKN1mOsdIDI/AAAAAAAAA4c/6NZYmHGCuEou9BHsGmBsag_aC9GcmgLEgCLcBGAsYHQ/w200-h138/PicsArt_03-16-05.13.39.png"   group-title="ENGLISH",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo=" "  group-title="IPTV",DUBAI RACING (ME)
+#EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo=" "  group-title="ENGLISH",DUBAI RACING (ME)
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
-#EXTINF:-1 ch-id="LIFESTYLE TV (US)" tvg-logo="https://1.bp.blogspot.com/-HUwzmUzvzfM/YOq-0Yctk-I/AAAAAAAAAOI/oIRgNHi1GwsiSKJ3J-oZcHwLmdncbSPvgCLcBGAsYHQ/s320/PicsArt_07-11-03.07.34.png"  group-title="LIVE TV",LIFESTYLE TV (US)
+#EXTINF:-1 ch-id="LIFESTYLE TV (US)" tvg-logo="https://1.bp.blogspot.com/-HUwzmUzvzfM/YOq-0Yctk-I/AAAAAAAAAOI/oIRgNHi1GwsiSKJ3J-oZcHwLmdncbSPvgCLcBGAsYHQ/s320/PicsArt_07-11-03.07.34.png"  group-title="ENGLISH",LIFESTYLE TV (US)
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
-#EXTINF:-1 ch-id="SUBRANG (US)" tvg-logo="https://1.bp.blogspot.com/-BX8qkjZ48Mk/YOq_j5puKNI/AAAAAAAAAOU/SjisxmP6tvcRERUTtXUfLvSh00yFCDxfQCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="LIVE TV",SUBRANG (US)
+#EXTINF:-1 ch-id="SUBRANG (US)" tvg-logo="https://1.bp.blogspot.com/-BX8qkjZ48Mk/YOq_j5puKNI/AAAAAAAAAOU/SjisxmP6tvcRERUTtXUfLvSh00yFCDxfQCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="HINDI",SUBRANG (US)
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
-#EXTINF:-1 ch-id="SYFY (US)" tvg-logo="https://1.bp.blogspot.com/-mCuSzi1xQLo/YOq_xtVNz0I/AAAAAAAAAOc/Pt6W3mrsDZkYeHfBIEE-wu4M83wGimHUACLcBGAsYHQ/s320/images%25282%2529.png"  group-title="NET TV",SYFY (US)
+#EXTINF:-1 ch-id="SYFY (US)" tvg-logo="https://1.bp.blogspot.com/-mCuSzi1xQLo/YOq_xtVNz0I/AAAAAAAAAOc/Pt6W3mrsDZkYeHfBIEE-wu4M83wGimHUACLcBGAsYHQ/s320/images%25282%2529.png"  group-title="HINDI",SYFY (US)
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
-#EXTINF:-1 ch-id="FX (US)" tvg-logo="https://1.bp.blogspot.com/-Pind-Bviutk/YOq_8yTlSJI/AAAAAAAAAOk/lvE7Lz8hAQwl85Im0yp3NCSlo_oig7lCACLcBGAsYHQ/s320/images%2B%25283%2529%25286%2529.jpeg"  group-title="NET TV",FX (US)
+#EXTINF:-1 ch-id="FX (US)" tvg-logo="https://1.bp.blogspot.com/-Pind-Bviutk/YOq_8yTlSJI/AAAAAAAAAOk/lvE7Lz8hAQwl85Im0yp3NCSlo_oig7lCACLcBGAsYHQ/s320/images%2B%25283%2529%25286%2529.jpeg"  group-title="ENGLISH",FX (US)
 http://stream.tvtap.net:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1 ch-id="CINEMAX (US)" tvg-logo="https://1.bp.blogspot.com/-EkhEGXbTad4/YOrAG4XMCoI/AAAAAAAAAOs/0AI-JnPmM98j4x52lUS0XKnVCrk_FG7uACLcBGAsYHQ/s320/images%2B%25281%2529%25285%2529.png"  group-title="NET TV",CINEMAX (US)
+#EXTINF:-1 ch-id="CINEMAX (US)" tvg-logo="https://1.bp.blogspot.com/-EkhEGXbTad4/YOrAG4XMCoI/AAAAAAAAAOs/0AI-JnPmM98j4x52lUS0XKnVCrk_FG7uACLcBGAsYHQ/s320/images%2B%25281%2529%25285%2529.png"  group-title="ENGLISH",CINEMAX (US)
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 ch-id="BEIN SPORTS 1 (ME)" tvg-logo=" "  group-title="NET TV",BEIN SPORTS 1 (ME)
+#EXTINF:-1 ch-id="BEIN SPORTS 1 (ME)" tvg-logo=" "  group-title="ENGLISH",BEIN SPORTS 1 (ME)
 http://stream.tvtap.net:8081/live/bein1.stream/playlist.m3u8
 
-#EXTINF:-1 ch-id="PTV HOME (PK)" tvg-logo="https://1.bp.blogspot.com/-Vr6mv7JQniI/YOrAWI2gn7I/AAAAAAAAAO0/A9F5FEMCDp40K2M3pB0411d9bmj4RyC6gCLcBGAsYHQ/s320/images%2B%25285%2529%25283%2529.jpeg"  group-title="LIVE TV",PTV HOME (PK)
+#EXTINF:-1 ch-id="PTV HOME (PK)" tvg-logo="https://1.bp.blogspot.com/-Vr6mv7JQniI/YOrAWI2gn7I/AAAAAAAAAO0/A9F5FEMCDp40K2M3pB0411d9bmj4RyC6gCLcBGAsYHQ/s320/images%2B%25285%2529%25283%2529.jpeg"  group-title="HINDI",PTV HOME (PK)
 https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/playlist.m3u8
-#EXTINF:-1 ch-id="FILM WORLD (PK)" tvg-logo="https://1.bp.blogspot.com/-zvbU5Gnu7zk/YOrAfWiqpGI/AAAAAAAAAO8/_R8yChiAhwMvwblUojpLR0TZaXqH1205gCLcBGAsYHQ/s200/images%2B%25286%2529%25283%2529.jpeg"  group-title="LIVE TV",FLIM WORLD (PK)
+#EXTINF:-1 ch-id="FILM WORLD (PK)" tvg-logo="https://1.bp.blogspot.com/-zvbU5Gnu7zk/YOrAfWiqpGI/AAAAAAAAAO8/_R8yChiAhwMvwblUojpLR0TZaXqH1205gCLcBGAsYHQ/s200/images%2B%25286%2529%25283%2529.jpeg"  group-title="HINDI",FLIM WORLD (PK)
 https://streams.simpaisa.com:8443/pitvlive4/filmworld.smil/playlist.m3u8
-#EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo="https://1.bp.blogspot.com/-8ACpjCCDeNY/YOrApjj-9CI/AAAAAAAAAPE/2w22Y7_ReDod9co7s2rMLKpchLbABx5KgCLcBGAsYHQ/s200/images%2B%25287%2529%25282%2529.jpeg"  group-title="LIVE TV",CARTOON NETWORK (IN)
+#EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo="https://1.bp.blogspot.com/-8ACpjCCDeNY/YOrApjj-9CI/AAAAAAAAAPE/2w22Y7_ReDod9co7s2rMLKpchLbABx5KgCLcBGAsYHQ/s200/images%2B%25287%2529%25282%2529.jpeg"  group-title="HINDI",CARTOON NETWORK (IN)
 https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/playlist.m3u8
-#EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png"  group-title="LIVE TV",DISCOVERY KIDS (IN)
+#EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png"  group-title="HINDI",DISCOVERY KIDS (IN)
 https://streams.simpaisa.com:8443/pitvlive4/discoverykid.smil/playlist.m3u8
-#EXTINF:-1 ch-id="ATV (PK)" tvg-logo="https://1.bp.blogspot.com/-V-falvDSp4Y/YOrBFLHqc-I/AAAAAAAAAPU/WgJUSJ-3v0AHwr06tlBPgeROm4TCKsLvgCLcBGAsYHQ/s200/atv_pk-logo-PNG-Images.png"  group-title="LIVE TV ",ATV (PK)
+#EXTINF:-1 ch-id="ATV (PK)" tvg-logo="https://1.bp.blogspot.com/-V-falvDSp4Y/YOrBFLHqc-I/AAAAAAAAAPU/WgJUSJ-3v0AHwr06tlBPgeROm4TCKsLvgCLcBGAsYHQ/s200/atv_pk-logo-PNG-Images.png"  group-title=" ",ATV (PK)
 https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8
 #EXTINF:-1 ch-id="A PLUS (PK)"  tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png"   group-title="STREAM TV",A PLUS (PK)
 https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8
