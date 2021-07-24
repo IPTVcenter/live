@@ -882,8 +882,6 @@ http://212.224.98.196:2200/R-EX/FHD_MOVIES_ACTIVE-in/playlist.m3u8?token=
 http://212.224.98.207:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
 #EXTINF:-1 ch-id="B4U MOVIES (UK)" tvg-logo="https://1.bp.blogspot.com/-X5qjVKrlQDo/YPDcpwwDXfI/AAAAAAAAAgo/EnC9lkSJDlE8SgPc_W_hOmsGrJO-val7gCLcBGAsYHQ/s250/B4U_MOVIES_2014.png"  group-title="",B4U MOVIES (UK)
 http://cdn.gledaitv.co:2200/NL/b4umovies-in/playlist.m3u8?token=
-#EXTINF:-1 ch-id="GOL HD (ASIA)" tvg-logo=" "  group-title="GLENDAI TV",GOL HD (ASIA)
-http://cdn.gledaitv.co:2200/NL/gol-esp/index.m3u8?token=
 #EXTINF:-1 ch-id="PREMIER SPOR 1 HD (UK)" tvg-logo=" "  group-title="GLENDAI TV",PREMIER SPORTS 1 HD (UK)
 http://cdn.gledaitv.co:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
 #EXTINF:-1 ch-id="B4U MUSIC (UK)" tvg-logo="https://1.bp.blogspot.com/-Vn4hTEEG7mw/YOwX4s2IULI/AAAAAAAAAYA/klA1po7TX_AdApjNgLU_KMRT0ZHDC-tqACLcBGAsYHQ/s200/PicsArt_07-06-05.31.06.jpg"  group-title="GLENDAI TV",B4U MUSIC (UK)
