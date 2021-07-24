@@ -1060,6 +1060,8 @@ http://51.15.0.141:88/fox_movies/index.m3u8
 http://51.15.0.141:88/baby_tv/index.m3u8
 #EXTINF:-1 ch-id="HARD X (UK)" tvg-logo=" "  group-title=" TV",HARD X (UK)
 http://51.15.0.141:88/blacked_hd/index.m3u8
+#EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo=" "  group-title=" TV",AXN HD (UK)
+http://51.15.0.141:88/axn/index.m3u8
 
 #EXTINF:-1 ch-id="DISCOVERY (CN)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="LIVE TV",DISCOVERY (CN)
 rtmp://58.200.131.2:1935/livetv/discovery
