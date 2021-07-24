@@ -710,13 +710,13 @@ http://tv.pmcon.net/hls/stream9.m3u8
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS SELECT 1 HD (IN)" tvg-logo=" "  group-title="ENGLISH",STAR SPORTS SELECT 1 HD (IN)
 http://tv.pmcon.net/hls/stream12.m3u8
-#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="NET TV",STAR GOLD HD (IN)
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="HINDI",STAR GOLD HD (IN)
 http://tv.pmcon.net/hls/stream19.m3u8
-#EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://1.bp.blogspot.com/-xTgySQS_-DU/YOrRW4qp51I/AAAAAAAAAUU/253fzyVw7LIBbSAO2-Pj40oGIfCE1MbZQCLcBGAsYHQ/s200/images%2B%25281%2529%25287%2529.png"  group-title="NET TV",NICK (IN)
+#EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://1.bp.blogspot.com/-xTgySQS_-DU/YOrRW4qp51I/AAAAAAAAAUU/253fzyVw7LIBbSAO2-Pj40oGIfCE1MbZQCLcBGAsYHQ/s200/images%2B%25281%2529%25287%2529.png"  group-title="HINDI",NICK (IN)
 http://tv.pmcon.net/hls/stream23.m3u8
-#EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo=" "  group-title="NET TV",SONY SIX (IN)
+#EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo=" "  group-title="ENGLISH",SONY SIX (IN)
 http://tv.pmcon.net/hls/stream34.m3u8
-#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="NET TV",BBC WORLD NEWS (IN)
+#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="HINDI",BBC WORLD NEWS (IN)
 http://tv.pmcon.net/hls/stream36.m3u8
 #EXTINF:-1 ch-id="ALJAZEERA (IN)" tvg-logo="https://1.bp.blogspot.com/-WAL9wDyZA60/YKN1VkCQUYI/AAAAAAAAA4Q/Cz8dMt_gkfcmQsGFY0PHkY4qSGHRs33AgCLcBGAsYHQ/w200-h200/eftWK9G.gif"   group-title="ENGLISH",ALJAZEERA (IN)
 http://tv.pmcon.net/hls/stream35.m3u8
@@ -734,93 +734,90 @@ http://tv.pmcon.net/hls/stream2.m3u8
 http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="HINDI",9XM (IN)
 http://tv.pmcon.net/hls/stream4.m3u8
-#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo=" "  group-title="ENGLISH",SONY BBC EARTH HD (IN)
 http://tv.pmcon.net/hls/stream5.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="ENGLISH",ANIMAL PLANET HD (IN)
 http://tv.pmcon.net/hls/stream6.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo=" "  group-title="ENGLISH",STAR MOVIES (IN)
 http://tv.pmcon.net/hls/stream7.m3u8
-#EXTINF:-1 ch-id="ZOOM (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="ZOOM (IN)" tvg-logo=" "  group-title="HINDI",ZOOM (IN)
 http://tv.pmcon.net/hls/stream8.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="HINDI",ZEE CINEMA HD (IN)
 http://tv.pmcon.net/hls/stream25.m3u8
-#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="HINDI",COLORS CINEPLEX HD (IN)
 http://tv.pmcon.net/hls/stream29.m3u8
-#EXTINF:-1 cu-I'd="SONY YAY (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 cu-I'd="SONY YAY (IN)" tvg-logo=" "  group-title="HINDI",SONY YAY (IN)
 http://tv.pmcon.net/hls/stream32.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title="NET TV", (IN)
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title="HINDI",STAR PLUS HD (IN)
 http://tv.pmcon.net/hls/stream38.m3u8
 
-#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YOwu8aOUKvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="ONLINE TV",KIDS ZONE HD (PK)
+#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YOwu8aOUKvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="ENGLISH",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="ONLINE TV ",COLORS HD (IN)
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="HINDI",COLORS HD (IN)
 http://51.79.84.156:8082/ColorsIn/index.m3u8
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="ONLINE TV",9XM (IN)
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="HINDI",9XM (IN)
 http://84.17.41.7:80/9XM-Hin/playlist.m3u8
-#EXTINF:-1 ch-id="ONE SPORTS (PH)" tvg-logo="https://1.bp.blogspot.com/-3mlX-fVlDZw/YNxgo9R0zRI/AAAAAAAAAF0/rJlzedGVgYQ7X8mC6KIq1GwVgvWd7IONgCLcBGAsYHQ/s320/images%2B%25282%2529%25281%2529.png"  group-title="ONLINE TV",ONE SPORTS (PH)
+#EXTINF:-1 ch-id="ONE SPORTS (PH)" tvg-logo="https://1.bp.blogspot.com/-3mlX-fVlDZw/YNxgo9R0zRI/AAAAAAAAAF0/rJlzedGVgYQ7X8mC6KIq1GwVgvWd7IONgCLcBGAsYHQ/s320/images%2B%25282%2529%25281%2529.png"  group-title="ENGLISH",ONE SPORTS (PH)
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="IPTV",HORNBILL TV (IN)
+#EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="ENGLISH",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
-#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="IPTV",TLC (UK)
+#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="ENGLISH",TLC (UK)
 http://212.102.38.90:8080/TLC/index.m3u8
-#EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo="https://1.bp.blogspot.com/-wK4g4qrvxHs/YNxf1077PFI/AAAAAAAAAFg/9Ld8sckaLxAbqmkpgSNV9DVqYJIhbc9GgCLcBGAsYHQ/s320/PicsArt_06-30-12.21.06.jpg"  group-title="IPTV",EXSTAY HD (UK)
+#EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo="https://1.bp.blogspot.com/-wK4g4qrvxHs/YNxf1077PFI/AAAAAAAAAFg/9Ld8sckaLxAbqmkpgSNV9DVqYJIhbc9GgCLcBGAsYHQ/s320/PicsArt_06-30-12.21.06.jpg"  group-title="ADULT",EXSTAY HD (UK)
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="IPTV",CNN (US)
+#EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="ENGLISH",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
-#EXTINF:-1 ch-id="FOX NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="IPTV",FOX NEWS (ASIA)
+#EXTINF:-1 ch-id="FOX NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="ENGLISH",FOX NEWS (ASIA)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo=" "  group-title="IPTV",TENNIS TV (US)
+#EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo=" "  group-title="ENGLISH",TENNIS TV (US)
 http://164.68.124.111/acc.m3u8?Token=
-#EXTINF:-1 ch-id="ESPN (US)" tvg-logo=" "  group-title="IPTV",ESPN (US)
+#EXTINF:-1 ch-id="ESPN (US)" tvg-logo=" "  group-title="ENGLISH",ESPN (US)
 http://134.19.182.131:8080/edg8_2.m3u8?Token=
-#EXTINF:-1 ch-id="ESPN (US)" tvg-logo=" "  group-title="IPTV",ESPN (US)
+#EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo=" "  group-title="ENGLISH",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-
-#EXTINF:-1 ch-id="BOOMERANG (ME)" tvg-logo=" "  group-title="LIVE TV", (ME)
+#EXTINF:-1 ch-id="BOOMERANG (ME)" tvg-logo=" "  group-title="ENGLISH", (ME)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
-#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" " group-title="LIVE TV",SKY SPORTS CRICKET (UK)
+#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" " group-title="ENGLISH",SKY SPORTS CRICKET (UK)
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (ME)" tvg-logo=" "  group-title="LIVE TV", (ME)
+#EXTINF:-1 ch-id="BBC CBEEBIES (ME)" tvg-logo=" "  group-title="ENGLISH", (ME)
 http://31.220.41.88:8081/live/uk-cbeebies.stream/playlist.m3u8
-#EXTINF:-1 ch-id="ADULT SWIM (ME)" tvg-logo=""  group-title="LIVE TV",ADULT SWIM (ME)
+#EXTINF:-1 ch-id="ADULT SWIM (ME)" tvg-logo=""  group-title="ENGLISH",ADULT SWIM (ME)
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 
-#EXTINF:-1 ch-id="FOX SPORTS 1 (US)" tvg-logo="TV LOVER"  group-title="ONLINE TV",FOX SPORTS 1 (US)
+#EXTINF:-1 ch-id="FOX SPORTS 1 (US)" tvg-logo="TV LOVER"  group-title="ENGLISH",FOX SPORTS 1 (US)
 http://199.66.95.242/3/3022/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2OAiZUC8wj4/YO6CS3hT-9I/AAAAAAAAAfg/j2SVgB6sdwEgQgAlTO7A2cIZaF4oUp-FQCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="ONLINE TV",SONY TEN 2 HD (IN)
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2OAiZUC8wj4/YO6CS3hT-9I/AAAAAAAAAfg/j2SVgB6sdwEgQgAlTO7A2cIZaF4oUp-FQCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="ENGLISH",SONY TEN 2 HD (IN)
 http://199.66.95.242/3/3094/index.m3u8?token=test
-EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" "  group-title="ONLINE TV",(IN)
+EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" "  group-title="HINDI",SONY TEN 3 HD (IN)
 http://199.66.95.242/3/3095/index.m3u8?token=test
-EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title="ONLINE TV",(IN)
+EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title="ENGLISH",SONY TEN 1 HD (IN)
 http://199.66.95.242/3/3093/index.m3u8?token=test
-EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="ONLINE TV", (IN)
+EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="ENGLISH",STAR SPORTS 2 HD (IN)
 http://199.66.95.242/3/3099/index.m3u8?token=test
-EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="ONLINE TV", (IN)
+EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="ENGLISH",STAR SPORTS 1 HD (IN)
 http://199.66.95.242/3/3098/index.m3u8?token=test
-#EXTINF:-1 ch-id="AXS TV (US)" tvg-logo=" "  group-title=" ",AXS TV (US)
+#EXTINF:-1 ch-id="AXS TV (US)" tvg-logo=" "  group-title="ENGLISH",AXS TV (US)
 http://199.66.95.242/3/3023/index.m3u8?token=test
-#EXTINF:-1 ch-id="WILLOW EXTRA (US)" tvg-logo=" "  group-title=" ",WILLOW EXTRA (US)
+#EXTINF:-1 ch-id="WILLOW EXTRA (US)" tvg-logo=" "  group-title="ENGLISH",WILLOW EXTRA (US)
 http://199.66.95.242/3/3024/index.m3u8?token=test
-#EXTINF:-1 ch-id="SN (US)" tvg-logo=" "  group-title=" ",SN (US)
+#EXTINF:-1 ch-id="SN (US)" tvg-logo=" "  group-title="ENGLISH",SN (US)
 http://199.66.95.242/3/3025/index.m3u8?token=test
-#EXTINF:-1 ch-id="WWE (US)" tvg-logo=" "  group-title=" ",WWE (US)
+#EXTINF:-1 ch-id="WWE (US)" tvg-logo=" "  group-title="ENGLISH",WWE (US)
 http://199.66.95.242/3/3026/index.m3u8?token=test
-#EXTINF:-1 ch-id="TENNIS (US)" tvg-logo=" "  group-title=" ",TENNIS (US)
+#EXTINF:-1 ch-id="TENNIS (US)" tvg-logo=" "  group-title="ENGLISH",TENNIS (US)
 http://199.66.95.242/3/3027/index.m3u8?token=test
-#EXTINF:-1 ch-id="TVG (US)" tvg-logo=" "  group-title=" ",TVG (US)
+#EXTINF:-1 ch-id="TVG (US)" tvg-logo=" "  group-title="ENGLISH",TVG (US)
 http://199.66.95.242/3/3030/index.m3u8?token=test
-#EXTINF:-1 ch-id="WILLOW HD (US)" tvg-logo=" "  group-title=" ",WILLOW HD (US)
+#EXTINF:-1 ch-id="WILLOW HD (US)" tvg-logo=" "  group-title="ENGLISH",WILLOW HD (US)
 http://199.66.95.242/3/3010/index.m3u8?token=test
-#EXTINF:-1 ch-id="CBS SPORTS NETWORK (US)" tvg-logo=" "  group-title=" ",CBS SPORTS NETWORK (US)
+#EXTINF:-1 ch-id="CBS SPORTS NETWORK (US)" tvg-logo=" "  group-title="ENGLISH",CBS SPORTS NETWORK (US)
 http://199.66.95.242/3/3001/index.m3u8?token=test
-#EXTINF:-1 ch-id="FOX BUSINESS (US)" tvg-logo=" "  group-title=" ",FOX BUSINESS (US)
+#EXTINF:-1 ch-id="FOX BUSINESS (US)" tvg-logo=" "  group-title="ENGLISH",FOX BUSINESS (US)
 http://199.66.95.242:80/1/1172/index.m3u8?token=test
 
-#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="ONLINE TV",ONE GOLF (PK)
+#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="ENGLISH",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ch-id="A1TV (UK)" tvg-logo="https://1.bp.blogspot.com/-dTYbBW-Ln2c/YKN1MRCD6LI/AAAAAAAAA4M/-62Fm9liYVs7BwEObt8tsa1XGZ8mFHWpQCLcBGAsYHQ/w200-h143/images%2B%25282%2529%252813%2529.jpeg"   group-title="ONLINE TV",A1TV (UK)
-http://162.250.201.58:6211/uk/A1TV/playlist.m3u8
 
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="LOCKLE TV",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
@@ -962,91 +959,91 @@ http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
 #EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo=" "  group-title=" ",COLORS INFINITY HD (IN)
 http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=
 
-#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="ITV",STAR GOLD HD (IN)
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="HINDI",STAR GOLD HD (IN)
 http://84.17.41.7/StarGoldHD-Hin/index.m3u8
-#EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-mtKu2oH0af8/YO46w3AydwI/AAAAAAAAAcQ/dUWtZDVc7oIBA2FM3K0kjU6EuJsMttvFgCLcBGAsYHQ/s200/PicsArt_07-06-05.37.31.jpg"  group-title="ITV",STAR GOLD 2 (IN)
+#EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-mtKu2oH0af8/YO46w3AydwI/AAAAAAAAAcQ/dUWtZDVc7oIBA2FM3K0kjU6EuJsMttvFgCLcBGAsYHQ/s200/PicsArt_07-06-05.37.31.jpg"  group-title="HINDI",STAR GOLD 2 (IN)
 http://84.17.41.7/JS_MoviesOK_Hin/playlist.m3u8
-#EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-wE4h8GYmfG4/YO47Ci2kTgI/AAAAAAAAAcc/L9PUKzFmLyosWJKyjU9UWBowkzjMnaWrQCLcBGAsYHQ/s200/images%2B%252813%2529%25282%2529.jpeg"  group-title="ITV",UTV ACTION (IN)
+#EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-wE4h8GYmfG4/YO47Ci2kTgI/AAAAAAAAAcc/L9PUKzFmLyosWJKyjU9UWBowkzjMnaWrQCLcBGAsYHQ/s200/images%2B%252813%2529%25282%2529.jpeg"  group-title="HINDI",UTV ACTION (IN)
 http://84.17.41.7/UTVACTION-Hin/index.m3u8
-#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-42c3l3dUGbo/YO47qGk25yI/AAAAAAAAAcs/wTGh3CGsivkR0wIbPtTZdcIFnSVavVEAwCLcBGAsYHQ/s200/images%2B%252814%2529%25282%2529.jpeg"  group-title="ITV",COLORS CINEPLEX HD (IN)
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-42c3l3dUGbo/YO47qGk25yI/AAAAAAAAAcs/wTGh3CGsivkR0wIbPtTZdcIFnSVavVEAwCLcBGAsYHQ/s200/images%2B%252814%2529%25282%2529.jpeg"  group-title="HINDI",COLORS CINEPLEX HD (IN)
 http://84.17.41.7/Rishtey_Cineplex_IND/playlist.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="ITV",STAR MOVIES HD (IN)
+#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="ENGLISH",STAR MOVIES HD (IN)
 http://84.17.41.7/StarMoviesHD-Hin/index.m3u8
-#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s292/PicsArt_07-14-06.24.01.png"  group-title="ITV",STAR WORLD HD (IN)
+#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s292/PicsArt_07-14-06.24.01.png"  group-title="ENGLISH",STAR WORLD HD (IN)
 http://84.17.41.7/StarWorldHD-Hin/playlist.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-MkCxolIvFQ0/YO54rhfO3II/AAAAAAAAAdE/cxeJrWwNijgApAV7qUSk5SKdg4uJvH_0QCLcBGAsYHQ/s200/PicsArt_07-14-11.09.33.jpg"  group-title="IPTV",NAT GEO WILD HD  (IN)
+#EXTINF:-1 ch-id="NAT GEO WILD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-MkCxolIvFQ0/YO54rhfO3II/AAAAAAAAAdE/cxeJrWwNijgApAV7qUSk5SKdg4uJvH_0QCLcBGAsYHQ/s200/PicsArt_07-14-11.09.33.jpg"  group-title="ENGLISH",NAT GEO WILD HD  (IN)
 http://84.17.41.7/NATGEOWILD/INDI/HIN/index.m3u8
-#EXTINF:-1 ch-id="NAT GEO HD (IN)" tvg-logo="https://1.bp.blogspot.com/-K1X6vwQa7Yc/YO552ibNR7I/AAAAAAAAAdM/ChGZ5WG5ua02R6vV8qgm0bLj-hBlw9_yQCLcBGAsYHQ/s200/PicsArt_07-12-04.31.37.png"  group-title="IPTV",NAT GEO HD (IN)
+#EXTINF:-1 ch-id="NAT GEO HD (IN)" tvg-logo="https://1.bp.blogspot.com/-K1X6vwQa7Yc/YO552ibNR7I/AAAAAAAAAdM/ChGZ5WG5ua02R6vV8qgm0bLj-hBlw9_yQCLcBGAsYHQ/s200/PicsArt_07-12-04.31.37.png"  group-title="ENGLISH",NAT GEO HD (IN)
 http://84.17.41.7/Nat_Geo_Hin/playlist.m3u8
-#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="ITV",SONY BBC EARTH HD (IN)
+#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="ENGLISH",SONY BBC EARTH HD (IN)
 http://84.17.41.7/SONYEARTH/HD/HIN/index.m3u8
 
-#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="LIVE",DD SPORTS (IN)
+#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="HINDI",DD SPORTS (IN)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="LIVE",BBC WORLD NEWS (IN)
+#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="ENGLISH",BBC WORLD NEWS (IN)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="LIVE",DD NATIONAL (IN)
+#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="HINDI",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
-#EXTINF:-1 ch-id="WWE (ASIA)" tvg-logo=" "  group-title=" ",WWE (ASIA)
+#EXTINF:-1 ch-id="WWE (ASIA)" tvg-logo=" "  group-title="ENGLISH",WWE (ASIA)
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-#EXTINF:-1 ch-id="ASTRO ARENA (ASIA)" tvg-logo=" "  group-title=" ",ASTRO ARENA (ASIA)
+#EXTINF:-1 ch-id="ASTRO ARENA (ASIA)" tvg-logo=" "  group-title="ENGLISH",ASTRO ARENA (ASIA)
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-wPzEgOiXUAY/YNHLWJ3lEpI/AAAAAAAAAAk/yFQ_5uSjA5EodLJKIFeJLB3ngNOr35Z-gCLcBGAsYHQ/w200-h173/LogoBabyTV-2021-MAIN_logo.png"   group-title="STREAMING TV",BABY TV (ASIA)
+#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-wPzEgOiXUAY/YNHLWJ3lEpI/AAAAAAAAAAk/yFQ_5uSjA5EodLJKIFeJLB3ngNOr35Z-gCLcBGAsYHQ/w200-h173/LogoBabyTV-2021-MAIN_logo.png"   group-title="ENGLISH",BABY TV (ASIA)
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="STREAMING TV",AXN (ASIA)
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="ENGLISH",AXN (ASIA)
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vSAExx8PwY0/YNHLA9IBGgI/AAAAAAAAAAU/VIjHTa-dX0EWHo6QspfSgKnqLlcnJ1i7wCLcBGAsYHQ/w200-h120/images.png"   group-title="STREAMING TV",HBO (ASIA)
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vSAExx8PwY0/YNHLA9IBGgI/AAAAAAAAAAU/VIjHTa-dX0EWHo6QspfSgKnqLlcnJ1i7wCLcBGAsYHQ/w200-h120/images.png"   group-title="ENGLISH",HBO (ASIA)
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ch-id="NAT GEO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"   group-title="STREAMING TV",NAT GEO (ASIA)
+#EXTINF:-1 ch-id="NAT GEO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"   group-title="ENGLISH",NAT GEO (ASIA)
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 ch-id="BOOMERANG (ASIA)" tvg-logo="https://1.bp.blogspot.com/-tNiS6nl6LO0/YNHLJNb1SnI/AAAAAAAAAAY/QCoJH_m0jIMfTTNLxq0UmnsuRUCVMUcgACLcBGAsYHQ/w200-h152/1200px-Boomerang_2014_logo.svg.png"   group-title="STREAMING TV",BOOMERANG (ASIA)
+#EXTINF:-1 ch-id="BOOMERANG (ASIA)" tvg-logo="https://1.bp.blogspot.com/-tNiS6nl6LO0/YNHLJNb1SnI/AAAAAAAAAAY/QCoJH_m0jIMfTTNLxq0UmnsuRUCVMUcgACLcBGAsYHQ/w200-h152/1200px-Boomerang_2014_logo.svg.png"   group-title="ENGLISH",BOOMERANG (ASIA)
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo="https://1.bp.blogspot.com/-jyYUkGesSM4/YNPZcAX0qRI/AAAAAAAAADY/-gMvHGh5S_Ejk6iw-4KRGW2XWyCsjwDGACLcBGAsYHQ/s320/images%2B%25281%2529%25282%2529.png"   group-title="STREAMING TV",TLC (ASIA)
+#EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo="https://1.bp.blogspot.com/-jyYUkGesSM4/YNPZcAX0qRI/AAAAAAAAADY/-gMvHGh5S_Ejk6iw-4KRGW2XWyCsjwDGACLcBGAsYHQ/s320/images%2B%25281%2529%25282%2529.png"   group-title="ENGLISH",TLC (ASIA)
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="STREAMING TV",FOX MOVIES (ASIA)
+#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="ENGLISH",FOX MOVIES (ASIA)
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 ch-id="WB TV (ASIA)"  tvg-logo="https://1.bp.blogspot.com/-86vIXa2_a1E/YM9mHcmas9I/AAAAAAAAAAM/nTUM7N9YCIkKxmwDqPix8lwNfLubrIG-ACLcBGAsYHQ/s320/images.jpeg"  group-title="STREAMING TV",WB TV (ASIA)
+#EXTINF:-1 ch-id="WB TV (ASIA)"  tvg-logo="https://1.bp.blogspot.com/-86vIXa2_a1E/YM9mHcmas9I/AAAAAAAAAAM/nTUM7N9YCIkKxmwDqPix8lwNfLubrIG-ACLcBGAsYHQ/s320/images.jpeg"  group-title="ENGLISH",WB TV (ASIA)
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
-#EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="https://1.bp.blogspot.com/-mvSGYPafN4c/YNPZ074-cBI/AAAAAAAAADk/ytxx-PxxBAQ2rR3T47OUZ67z573MMTtKACLcBGAsYHQ/s320/images%2B%25283%2529%25281%2529.jpeg"   group-title="STREAMING TV",FOX (ASIA)
+#EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="https://1.bp.blogspot.com/-mvSGYPafN4c/YNPZ074-cBI/AAAAAAAAADk/ytxx-PxxBAQ2rR3T47OUZ67z573MMTtKACLcBGAsYHQ/s320/images%2B%25283%2529%25281%2529.jpeg"   group-title="ENGLISH",FOX (ASIA)
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 ch-id="CBEEBIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-eb-miyRRKhA/YNPSpEcMFEI/AAAAAAAAABg/USUQS3UUr1cRtm9UHi-hbVpL-kcYwOGKwCLcBGAsYHQ/s320/images%2B%25281%2529%25281%2529.png"   group-title="STREAMING TV",CBEEBIES (ASIA)
+#EXTINF:-1 ch-id="CBEEBIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-eb-miyRRKhA/YNPSpEcMFEI/AAAAAAAAABg/USUQS3UUr1cRtm9UHi-hbVpL-kcYwOGKwCLcBGAsYHQ/s320/images%2B%25281%2529%25281%2529.png"   group-title="ENGLISH",CBEEBIES (ASIA)
 http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-h19WLIfY0Mk/YNPUmM4APuI/AAAAAAAAACk/cqh2udSir78_Lw4-qXI_CXT1Qm4OpQcAQCLcBGAsYHQ/s320/1099077.png"   group-title="STREAMING TV",BABY TV (ASIA)
+#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-h19WLIfY0Mk/YNPUmM4APuI/AAAAAAAAACk/cqh2udSir78_Lw4-qXI_CXT1Qm4OpQcAQCLcBGAsYHQ/s320/1099077.png"   group-title="ENGLISH",BABY TV (ASIA)
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 ch-id="HITS MOVIE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-PIBQDYjFyPs/YNPTDmKYTBI/AAAAAAAAABs/aB-hxlqoLZgzNAVOet7wB1bK4GD-HUhLACLcBGAsYHQ/s320/logo-HITSMOVIES.png"   group-title="STREAMING TV",HITS MOVIE (ASIA)
+#EXTINF:-1 ch-id="HITS MOVIE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-PIBQDYjFyPs/YNPTDmKYTBI/AAAAAAAAABs/aB-hxlqoLZgzNAVOet7wB1bK4GD-HUhLACLcBGAsYHQ/s320/logo-HITSMOVIES.png"   group-title="ENGLISH",HITS MOVIE (ASIA)
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:-1 ch-id="HISTORY (ASIA)" tvg-logo="https://1.bp.blogspot.com/-qoD-dzMk4Xc/YNPTQRaPOMI/AAAAAAAAAB0/dAi2v3Mpn7sTLIMe0kjm52vjaJuhoFsKgCLcBGAsYHQ/s320/images%2B%25286%2529.jpeg"   group-title="STREAMING TV",HISTORY (ASIA)
+#EXTINF:-1 ch-id="HISTORY (ASIA)" tvg-logo="https://1.bp.blogspot.com/-qoD-dzMk4Xc/YNPTQRaPOMI/AAAAAAAAAB0/dAi2v3Mpn7sTLIMe0kjm52vjaJuhoFsKgCLcBGAsYHQ/s320/images%2B%25286%2529.jpeg"   group-title="ENGLISH",HISTORY (ASIA)
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-#EXTINF:-1 ch-id="CARTOON NETWORK HD (ASIA)" tvg-logo="https://1.bp.blogspot.com/-8gnLKuPOoAo/YNPUZLIpFII/AAAAAAAAACc/eqvkNxSMvuMb1tzJoTKbgn50R3dOVWFHwCLcBGAsYHQ/s320/1811px-Cartoon_Network_HD_logo.svg.png"   group-title="STREAMING TV",CARTOON NETWORK HD (ASIA)
+#EXTINF:-1 ch-id="CARTOON NETWORK HD (ASIA)" tvg-logo="https://1.bp.blogspot.com/-8gnLKuPOoAo/YNPUZLIpFII/AAAAAAAAACc/eqvkNxSMvuMb1tzJoTKbgn50R3dOVWFHwCLcBGAsYHQ/s320/1811px-Cartoon_Network_HD_logo.svg.png"   group-title="ENGLISH",CARTOON NETWORK HD (ASIA)
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo="https://1.bp.blogspot.com/--UhyVfdoDXA/YNPT6QpBwXI/AAAAAAAAACM/gwrvFedHVZEpdWTnSI5R49OxrTVTbuypgCLcBGAsYHQ/s320/images%2B%25281%2529.png"   group-title="STREAMING TV",NAT GEO WILD (ASIA)
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo="https://1.bp.blogspot.com/--UhyVfdoDXA/YNPT6QpBwXI/AAAAAAAAACM/gwrvFedHVZEpdWTnSI5R49OxrTVTbuypgCLcBGAsYHQ/s320/images%2B%25281%2529.png"   group-title="ENGLISH",NAT GEO WILD (ASIA)
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5I8cYM1nsy4/YNPTfXPq5XI/AAAAAAAAAB8/kxXFG-nNl1w3wsXWNJCp_-qoSz1r0ximgCLcBGAsYHQ/s320/2019_animal_planet_logo-204x150.png"   group-title="STREAMING TV",ANIMAL PLANET (ASIA)
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5I8cYM1nsy4/YNPTfXPq5XI/AAAAAAAAAB8/kxXFG-nNl1w3wsXWNJCp_-qoSz1r0ximgCLcBGAsYHQ/s320/2019_animal_planet_logo-204x150.png"   group-title="ENGLISH",ANIMAL PLANET (ASIA)
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 ch-id="NAT GEO PEOPLE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-aIyyqTxSsKg/YNPULliPnzI/AAAAAAAAACY/rZNoq4nthbY9M8w-LByWxTrwY6W_He4DACLcBGAsYHQ/s320/images%2B%25282%2529.png"   group-title="STREAMING TV",NAT GEO PEOPLE (ASIA)
+#EXTINF:-1 ch-id="NAT GEO PEOPLE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-aIyyqTxSsKg/YNPULliPnzI/AAAAAAAAACY/rZNoq4nthbY9M8w-LByWxTrwY6W_He4DACLcBGAsYHQ/s320/images%2B%25282%2529.png"   group-title="ENGLISH",NAT GEO PEOPLE (ASIA)
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1 ch-id="LIFETIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-YzUkNR1dygY/YNPS2nZpXtI/AAAAAAAAABk/POs5OwG8dRszwVlKxDLhirZ6xAxSypxmgCLcBGAsYHQ/s320/images%25281%2529.png"   group-title="STREAMING TV",LIFETIME (ASIA)
+#EXTINF:-1 ch-id="LIFETIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-YzUkNR1dygY/YNPS2nZpXtI/AAAAAAAAABk/POs5OwG8dRszwVlKxDLhirZ6xAxSypxmgCLcBGAsYHQ/s320/images%25281%2529.png"   group-title="ENGLISH",LIFETIME (ASIA)
 http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
-#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="STREAMING TV",FOX CRIME (ASIA)
+#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="ENGLISH",FOX CRIME (ASIA)
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-rtyFaprDgQI/YNPRsawsICI/AAAAAAAAABE/ZXA4lpIao14S1KoJdi4waW5L-qLbxGs8ACLcBGAsYHQ/s320/images%25281%2529.jpeg"   group-title="STREAMING TV",FOX LIFE (ASIA)
+#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-rtyFaprDgQI/YNPRsawsICI/AAAAAAAAABE/ZXA4lpIao14S1KoJdi4waW5L-qLbxGs8ACLcBGAsYHQ/s320/images%25281%2529.jpeg"   group-title="ENGLISH",FOX LIFE (ASIA)
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="STREAMING TV",ZEE ACTION (IN)
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="HINDI",ZEE ACTION (IN)
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg"   group-title="STREAMING TV",ZEE NEWS (IN)
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg"   group-title="HINDI",ZEE NEWS (IN)
 http://185.180.221.194:8278/streams/d/Zeenews/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="STREAMING TV",STAR PLUS HD (IN)
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="HINDI",STAR PLUS HD (IN)
 http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="STREAMING TV",ZEE TV HD (IN)
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="HINDI",ZEE TV HD (IN)
 http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
-#EXTINF:-1 ch-id="DISNEY HD (ASIA)" tvg-logo=" "  group-title="STREAMING TV",DISNEY HD (ASIA)
+#EXTINF:-1 ch-id="DISNEY HD (ASIA)" tvg-logo=" "  group-title="ENGLISH",DISNEY HD (ASIA)
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="STREAMING TV",FOX CRIME (ASIA)
+#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://1.bp.blogspot.com/-5II3zB-OKNc/YNPSOWHq5NI/AAAAAAAAABU/dNTRW18ivTcniq3XICwOJ6u6qX2Mq86wQCLcBGAsYHQ/s320/1197px-Fox_Crime_2017.svg.png"   group-title="ENGLISH",FOX CRIME (ASIA)
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-#EXTINF:-1 ch-id="FOX ACTION MOVIES (ASIA)" tvg-logo=" "  group-title="STREAMING TV",FOX ACTION MOVIES (ASIA)
+#EXTINF:-1 ch-id="FOX ACTION MOVIES (ASIA)" tvg-logo=" "  group-title="ENGLISH,FOX ACTION MOVIES (ASIA)
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 ch-id="NICK JR (ASIA)" tvg-logo=" "  group-title="STREAMING TV",NICK JR (ASIA)
+#EXTINF:-1 ch-id="NICK JR (ASIA)" tvg-logo=" "  group-title="ENGLISH",NICK JR (ASIA)
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="ONLINE TV",FOX CRIME HD (US)
@@ -1055,37 +1052,37 @@ http://51.15.0.141:88/fox_crime/index.m3u8
 http://51.15.0.141:88/hustlerhd/playlist.m3u8
 #EXTINF:-1 ch-id="REDLIGHT HD (US)" tvg-logo="https://1.bp.blogspot.com/-LMMHKlm33Zs/YNPR4G1flGI/AAAAAAAAABM/kVV-Qng8qUoVVsyg4j6jaAzWle226afeACLcBGAsYHQ/s320/images%2B%25282%2529%25281%2529.jpeg"   group-title="ONLINE TV",REDLIGHT HD (US)
 http://51.15.0.141:88/redlightHD/playlist.m3u8
-#EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="https://1.bp.blogspot.com/-mvSGYPafN4c/YNPZ074-cBI/AAAAAAAAADk/ytxx-PxxBAQ2rR3T47OUZ67z573MMTtKACLcBGAsYHQ/s320/images%2B%25283%2529%25281%2529.jpeg"   group-title="ONLINE TV",FOX (ASIA)
+#EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="https://1.bp.blogspot.com/-mvSGYPafN4c/YNPZ074-cBI/AAAAAAAAADk/ytxx-PxxBAQ2rR3T47OUZ67z573MMTtKACLcBGAsYHQ/s320/images%2B%25283%2529%25281%2529.jpeg"   group-title="FOX",FOX (ASIA)
 http://51.15.0.141:88/fox/index.m3u8
-#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-G035KqyKk-8/YO44Sb_GA7I/AAAAAAAAAbc/wpgANACCUDEcMWijtZqjILsxR5tyt5-7QCLcBGAsYHQ/s200/PicsArt_07-14-06.22.35.jpg"  group-title="ONLINE TV",FOX LIFE (ASIA)
+#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-G035KqyKk-8/YO44Sb_GA7I/AAAAAAAAAbc/wpgANACCUDEcMWijtZqjILsxR5tyt5-7QCLcBGAsYHQ/s200/PicsArt_07-14-06.22.35.jpg"  group-title="ENGLISH",FOX LIFE (ASIA)
 http://51.15.0.141:88/fox_life/index.m3u8
-#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="ONLINE TV",FOX MOVIES (ASIA)
+#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="ENGLISH",  (ASIA)
 http://51.15.0.141:88/fox_movies/index.m3u8
-#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-h19WLIfY0Mk/YNPUmM4APuI/AAAAAAAAACk/cqh2udSir78_Lw4-qXI_CXT1Qm4OpQcAQCLcBGAsYHQ/s320/1099077.png"   group-title="ONLINE TV",BABY TV (ASIA)
+#EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-h19WLIfY0Mk/YNPUmM4APuI/AAAAAAAAACk/cqh2udSir78_Lw4-qXI_CXT1Qm4OpQcAQCLcBGAsYHQ/s320/1099077.png"   group-title="ENGLISH",BABY TV (ASIA)
 http://51.15.0.141:88/baby_tv/index.m3u8
-#EXTINF:-1 ch-id="HARD X (UK)" tvg-logo=" "  group-title=" TV",HARD X (UK)
+#EXTINF:-1 ch-id="HARD X (UK)" tvg-logo=" "  group-title="ADULT",HARD X (UK)
 http://51.15.0.141:88/blacked_hd/index.m3u8
-#EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo=" "  group-title=" TV",AXN HD (UK)
+#EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo=" "  group-title="ENGLISH",AXN HD (UK)
 http://51.15.0.141:88/axn/index.m3u8
 
-#EXTINF:-1 ch-id="DISCOVERY (CN)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="LIVE TV",DISCOVERY (CN)
+#EXTINF:-1 ch-id="DISCOVERY (CN)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="ENGLISH",DISCOVERY (CN)
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 ch-id="CHANNEL V (CN)" tvg-logo="https://1.bp.blogspot.com/-KOTH-9qUIPQ/YNx6uS-c3aI/AAAAAAAAAG4/_pf5t4qpV7kwacTSemYMJqjQFKrv0WOdACLcBGAsYHQ/s320/PicsArt_06-30-07.34.38.jpg"  group-title="LIVE TV",CHANNEL V (CN)
+#EXTINF:-1 ch-id="CHANNEL V (CN)" tvg-logo="https://1.bp.blogspot.com/-KOTH-9qUIPQ/YNx6uS-c3aI/AAAAAAAAAG4/_pf5t4qpV7kwacTSemYMJqjQFKrv0WOdACLcBGAsYHQ/s320/PicsArt_06-30-07.34.38.jpg"  group-title="ENGLISH",CHANNEL V (CN)
 rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1 ch-id="NAT GEO (CN)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"  group-title="LIVE TV",NAT GEO (CN)
+#EXTINF:-1 ch-id="NAT GEO (CN)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"  group-title="ENGLISH",NAT GEO (CN)
 rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1 ch-id="STAR SPORTS (HK)" tvg-logo="https://1.bp.blogspot.com/-HnGMQ1N71V4/YKTzOFKEh8I/AAAAAAAAA7Q/Cf24O1GntVgvIFlBFQ1KL6a-xZQUyccxgCLcBGAsYHQ/w200-h107/PicsArt_05-19-04.44.09.png"  group-title="LIVE TV",STAR SPORTS (HK)
+#EXTINF:-1 ch-id="STAR SPORTS (HK)" tvg-logo="https://1.bp.blogspot.com/-HnGMQ1N71V4/YKTzOFKEh8I/AAAAAAAAA7Q/Cf24O1GntVgvIFlBFQ1KL6a-xZQUyccxgCLcBGAsYHQ/w200-h107/PicsArt_05-19-04.44.09.png"  group-title="ENGLISH",STAR SPORTS (HK)
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
-#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="ONLINE TV",BBC NEWS (UK)
+#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="ENGLISH",BBC NEWS (UK)
 http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
-#EXTINF:-1 ch-id="FOX MOVIES (UK)" tvg-logo="https://1.bp.blogspot.com/-Q3-0ZrS5_tY/YNx8_xtkZhI/AAAAAAAAAHU/Oj8MJNP51rwd4VSkLfGvz6riPDFhTpHnACLcBGAsYHQ/s320/images%25283%2529.jpeg"  group-title="ONLINE TV",FOX MOVIES (UK)
+#EXTINF:-1 ch-id="FOX MOVIES (UK)" tvg-logo="https://1.bp.blogspot.com/-Q3-0ZrS5_tY/YNx8_xtkZhI/AAAAAAAAAHU/Oj8MJNP51rwd4VSkLfGvz6riPDFhTpHnACLcBGAsYHQ/s320/images%25283%2529.jpeg"  group-title="ENGLISH",FOX MOVIES (UK)
 http://62.112.9.63:88/fox_movies/index.m3u8?token=test
-#EXTINF:-1 ch-id="HOT VIDEO (UK)" tvg-logo="https://1.bp.blogspot.com/-PFoFkTVGAZo/YNxgj_j_VcI/AAAAAAAAAFw/0nmrUH8IGokOJNGOKGocgN83R9xCX5Z2QCLcBGAsYHQ/s320/PicsArt_06-30-10.54.12.jpg"  group-title="ONLINE TV",HOT VIDEO (UK)
+#EXTINF:-1 ch-id="HOT VIDEO (UK)" tvg-logo="https://1.bp.blogspot.com/-PFoFkTVGAZo/YNxgj_j_VcI/AAAAAAAAAFw/0nmrUH8IGokOJNGOKGocgN83R9xCX5Z2QCLcBGAsYHQ/s320/PicsArt_06-30-10.54.12.jpg"  group-title="ADULT",HOT VIDEO (UK)
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
-#EXTINF:-1 ch-id="SKY NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-HR8Go53lpp8/YNx_AWlMfnI/AAAAAAAAAHk/GlFeQUjAn5UBDot_qv4NUm-Av0LwlEGhwCLcBGAsYHQ/s320/images%25286%2529.png"  group-title="ONLINE TV",SKY NEWS (UK)
+#EXTINF:-1 ch-id="SKY NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-HR8Go53lpp8/YNx_AWlMfnI/AAAAAAAAAHk/GlFeQUjAn5UBDot_qv4NUm-Av0LwlEGhwCLcBGAsYHQ/s320/images%25286%2529.png"  group-title="ENGLISH",SKY NEWS (UK)
 http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
-#EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="ONLINE TV",CNN (UK)
+#EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="ENGLISH",CNN (UK)
 http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
 
 #EXTINF:-1 ch-id="BT SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-SNiNPhn9ei8/YNx98Jrgj1I/AAAAAAAAAHc/j4-B7PkkJUA2vxBSpmiicjbyQQMg23t8QCLcBGAsYHQ/s320/PicsArt_06-30-07.51.11.png"  group-title="ONLINE TV",BT SPORTS 1 (UK)
