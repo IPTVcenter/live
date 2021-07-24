@@ -781,11 +781,11 @@ http://134.19.182.131:8080/edg8_2.m3u8?Token=
 #EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo=" "  group-title="ENGLISH",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 ch-id="BOOMERANG (ME)" tvg-logo=" "  group-title="ENGLISH", (ME)
+#EXTINF:-1 ch-id="BOOMERANG (ME)" tvg-logo=" "  group-title="ENGLISH",BOOMERANG (ME)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo=" " group-title="ENGLISH",SKY SPORTS CRICKET (UK)
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (ME)" tvg-logo=" "  group-title="ENGLISH", (ME)
+#EXTINF:-1 ch-id="BBC CBEEBIES (ME)" tvg-logo=" "  group-title="ENGLISH",BBC CBEEBIES (ME)
 http://31.220.41.88:8081/live/uk-cbeebies.stream/playlist.m3u8
 #EXTINF:-1 ch-id="ADULT SWIM (ME)" tvg-logo=""  group-title="ENGLISH",ADULT SWIM (ME)
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
