@@ -30,7 +30,7 @@ https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
 #EXTINF:-1 ch-id="MAV TV (US)" tvg-logo=" "  group-title="ENGLISH",MAV TV (US)
 https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ENGLISH", (US)
+#EXTINF:-1 ch-id="TMZ (US)" tvg-logo=" "  group-title="ENGLISH",TMZ (US)
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1 ch-id="SYFY (US)" tvg-logo=" "  group-title="ENGLISH",SYFY (US)
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
@@ -129,7 +129,7 @@ https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish
 #EXTINF:-1 ch-id="BKIDS HD (ID)" tvg-logo="https://1.bp.blogspot.com/-EEOuyLzbGF4/YJ-rK76_UvI/AAAAAAAAAyA/clQ2xpHtXVYitEeunDLGMkERUDSKjjlCACLcBGAsYHQ/w200-h69/images%2B%25281%2529%25283%2529.png"   group-title="ENGLISH",BKIDS HD (ID)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 ch-id="ALJAZEERA (USA)" tvg-logo="https://1.bp.blogspot.com/-WAL9wDyZA60/YKN1VkCQUYI/AAAAAAAAA4Q/Cz8dMt_gkfcmQsGFY0PHkY4qSGHRs33AgCLcBGAsYHQ/w200-h200/eftWK9G.gif"   group-title="ENGLISH",ALJAZEERA (US)
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 ch-id="ZINDAGI TV (UK)" tvg-logo="https://1.bp.blogspot.com/-YPk5UBdWzNs/YOrItRzWEnI/AAAAAAAAARw/sVjlV9asyGAdzMlGc5DqGfZiIVSGD4QKACLcBGAsYHQ/s200/images%25287%2529.jpeg"  group-title="HINDI",ZINDAGI TV (UK)
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 ch-id="BEIN SPORTS EXTRA (ME)" tvg-logo=" "  group-title="ENGLISH",BEIN SPORTS EXTRA (ME)
@@ -853,7 +853,7 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (ME)" tvg-logo=" "  group-title="HINDI",GEO SUPER (ME)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
-#EXTINF:-1 ch-id="SKY NATURE (UK)" tvg-logo=" "  group-title="GLENDAI TV"SKY NATURE (UK)
+#EXTINF:-1 ch-id="SKY NATURE (UK)" tvg-logo=" "  group-title="GLENDAI TV",SKY NATURE (UK)
 http://212.224.98.207:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
 #EXTINF:-1 ch-id="S CRICKET (AZ)" tvg-logo=" "  group-title="GLENDAI TV",S CRICKET (AZ)
 http://185.180.15.15:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/playlist.m3u8?token=
