@@ -834,7 +834,7 @@ http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png"  group-title="ENGLISH",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="ENGLISH",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="HINDI",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="HINDI",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
