@@ -844,9 +844,11 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (ME)" tvg-logo=" "  group-title="LOCKLE TV",GEO SUPER (ME)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
-#EXTINF:-1 ch-id="S CRICKET (AZ)" tvg-logo=" "  group-title="LOCKLE TV",S CRICKET (AZ)
+#EXTINF:-1 ch-id="SKY NATURE (UK)" tvg-logo=" "  group-title="GLENDAI TV"SKY NATURE (UK)
+http://212.224.98.207:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
+#EXTINF:-1 ch-id="S CRICKET (AZ)" tvg-logo=" "  group-title=" TV",S CRICKET (AZ)
 http://185.180.15.15:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/playlist.m3u8?token=
-#EXTINF:-1 ch-id="EURO SPORT 1 (UK)" tvg-logo=" "  group-title="LOCKLE TV",EURO SPORT 1 (UK)
+#EXTINF:-1 ch-id="EURO SPORT 1 (UK)" tvg-logo=" "  group-title="GLENDAI TV",EURO SPORT 1 (UK)
 http://212.224.98.205:2200/EX/Eurosport_1_HD-uk/playlist.m3u8?token=
 EXTINF:-1 ch-id="BT SPORTS 1 HD (ME)" tvg-logo=" "  group-title="GLENDAI TV",BT SPORTS 1 HD(ME)
 http://212.224.98.206:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=
