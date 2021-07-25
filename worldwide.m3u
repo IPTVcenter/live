@@ -19,7 +19,7 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (PK)" tvg-logo=" "  group-title="HINDI",GEO SUPER (PK)
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani2/playlist.m3u8
-#EXTINF:-1 ch-id="GEO SUPER (PK)" tvg-logo=" "  group-title="HINDI",GEO SUPER (PK)
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="ENGLISH",HBO (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 
 #EXTINF:-1 ch-id="FX (US)" tvg-logo=" "  group-title="ENGLISH",FX (US)
