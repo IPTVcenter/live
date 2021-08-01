@@ -476,75 +476,75 @@ https://jio.instream.ml/jio.php?c=Sony_MAX2&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Sony_Wah&q=400&e=.m3u8
 #EXTINF:-1 ch-id="&PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-1RIsooSV8BY/YP_3tloWp9I/AAAAAAAAAtA/eTHKdSauk4Mg0j-mVP3mPY4G2UKETs1yACLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="JIO TV",&PICTURES HD (IN)
 https://jio.instream.ml/jio.php?c=And_Pictures_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="MAHA MOVIES (IN)" tvg-logo=" "  group-title="JIO TV",MAHA MOVIES (IN)
+#EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg"  group-title="JIO TV",MAHA MOVIE (IN)
 https://jio.instream.ml/jio.php?c=Maha_Movies&q=400&e=.m3u8
-#EXTINF:-1 ch-id="DHAMAAL TV (IN)" tvg-logo=" "  group-title="JIO TV",DHAMAAL (IN)
+#EXTINF:-1 ch-id="DHAMAAL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-8EQNwQKhpXQ/YQZ-CxbuO_I/AAAAAAAAAtI/HewQq3vAvAkKOSAMPk4uhGpUa1fYQN48QCLcBGAsYHQ/w200-h200/images%2B%252818%2529%25281%2529.jpeg"  group-title="JIO TV",DHAMAAL (IN)
 https://jio.instream.ml/jio.php?c=Dhamaal_TV&q=400&e=.m3u8
-#EXTINF:-1 ch-id="ENTERR 10 MOVIES (IN)" tvg-logo=" "  group-title="JIO TV",ENTERR 10 MOVIES (IN)
+#EXTINF:-1 ch-id="ENTERR 10 MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-5Ke-u8RqPnk/YQZ-1Pbx_hI/AAAAAAAAAtQ/ufm68tFbLDYPR_nx_4I44aXS4uSwMZHhgCLcBGAsYHQ/s200/images%2B%25286%2529.jpeg"  group-title="JIO TV",ENTERR 10 MOVIES (IN)
 https://jio.instream.ml/jio.php?c=Enterr_10&q=400&e=.m3u8
-#EXTINF:-1 ch-id="INDRADHANU (IN)" tvg-logo=" "  group-title="JIO TV",INDRADHANU (IN)
+#EXTINF:-1 ch-id="INDRADHANU (IN)" tvg-logo="https://1.bp.blogspot.com/-mINvsdLYd3Q/YQZ_aylwxmI/AAAAAAAAAtY/-LgCL1MCg0k9lk05cbtBWe2114NAN0YnQCLcBGAsYHQ/s200/images%2B%252819%2529%25281%2529.jpeg"  group-title="JIO TV",INDRADHANU (IN)
 https://jio.instream.ml/jio.php?c=Indradhanu&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=""  group-title="JIO TV",SONY PIX HD (IN)
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-Zl2m9VPWdMA/YQZ_xtsoKiI/AAAAAAAAAtg/l05-JPkTxVYVfYlj3Y1FATtHwoKZbsKsQCLcBGAsYHQ/s200/images%2B%25288%2529.png"  group-title="JIO TV",SONY PIX HD (IN)
 https://jio.instream.ml/jio.php?c=Sony_PX_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo=" "  group-title="JIO TV",COLORS INFINITY HD (IN)
+#EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-wmJxD2oDUIk/YQaAiVlXSZI/AAAAAAAAAto/gU0XjfL8GlsBl0eujIS696-Q4FfwbD_gwCLcBGAsYHQ/s200/PicsArt_08-01-04.37.15.jpg"  group-title="JIO TV",COLORS INFINITY HD (IN)
 https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="ARRE (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="ARRE (IN)" tvg-logo="https://1.bp.blogspot.com/-eXy19t1PO2Q/YQaBE2_lKoI/AAAAAAAAAtw/VNl1OgsVbwYfGZIhqnbdbG54h-uqQqZWwCLcBGAsYHQ/s200/images%2B%25289%2529.png"  group-title="JIO TV",ARRE (IN)
 https://jio.instream.ml/jio.php?c=Arre&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="JIO TV",ZEE TV HD (IN)
 https://jio.instream.ml/jio.php?c=Zee_TV_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="JIO TV",SONY TV (IN)
 https://jio.instream.ml/jio.php?c=Sony_SD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="COLORS (IN)" tvg-logo=" "  group-title="JIO TV",COLORS (IN)
+#EXTINF:-1 ch-id="COLORS (IN)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="JIO TV",COLORS (IN)
 https://jio.instream.ml/jio.php?c=Colors_SD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo=" "  group-title="JIO TV",COLORS HD (IN)
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="JIO TV",COLORS HD (IN)
 https://jio.instream.ml/jio.php?c=Colors_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="DANGAL (IN)" tvg-logo=" "  group-title="JIO TV",DANGAL (IN)
+#EXTINF:-1 ch-id="DANGAL (IN)" tvg-logo="https://1.bp.blogspot.com/-B7w5zNJxgVU/YJzY2zkHmUI/AAAAAAAAAsg/BdbIjCE25n8eZPy1emNHKdXVyT6xPUvwQCLcBGAsYHQ/s320/PicsArt_03-21-05.08.30.jpg"   group-title="JIO TV",DANGAL (IN)
 https://jio.instream.ml/jio.php?c=Dangal&q=400&e=.m3u8
-#EXTINF:-1 ch-id="ABZY COOL (IN)" tvg-logo=" "  group-title="JIO TV",ABZY COOL (IN)
+#EXTINF:-1 ch-id="ABZY COOL (IN)" tvg-logo="https://1.bp.blogspot.com/-G4o1ZGEr2h0/YQaD8n2ceQI/AAAAAAAAAt4/wtY40KtyOYAf1DVYmBMYEsJmu__E-KtUACLcBGAsYHQ/s200/images%2B%252823%2529%25281%2529.jpeg"  group-title="JIO TV",ABZY COOL (IN)
 https://jio.instream.ml/jio.php?c=ABZY_Cool&q=400&e=.m3u8
-#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="JIO TV",ZEE ANMOL (IN)
+#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo="https://1.bp.blogspot.com/-ONYLsHGW7_4/YQaElgZAxbI/AAAAAAAAAuA/YRqgaHtaNVEtjhzd0FSfc_uAxQqLkn-ZQCLcBGAsYHQ/s200/Zee_Anmol_India.png"  group-title="JIO TV",ZEE ANMOL (IN)
 https://jio.instream.ml/jio.php?c=Zee_Anmol&q=400&e=.m3u8
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-43b0M7aLCsk/YPlgm7yH7WI/AAAAAAAAAjE/p1an2T7LPFs0sPgeXzWqm3Rc1PAdZ9oqgCLcBGAsYHQ/s200/images%2B%252828%2529.jpeg"  group-title="JIO TV",&TV HD (IN)
 https://jio.instream.ml/jio.php?c=And_TV_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="JIO TV",SONY HD (IN)
 https://jio.instream.ml/jio.php?c=Sony_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo=" "  group-title="JIO TV",SONY SAB (IN)
+#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://1.bp.blogspot.com/-XsgvyKTDMcI/YQaFYZJmVMI/AAAAAAAAAuI/3O0m2zbciHwTnbEK_0OnGSqs8siXWDNIQCLcBGAsYHQ/s200/images.png"  group-title="JIO TV",SONY SAB (IN)
 https://jio.instream.ml/jio.php?c=Sony_SAB&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo=" "  group-title="JIO TV",SONY SAB HD (IN)
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://1.bp.blogspot.com/-GSNteIERvGA/YQaGcxe0gkI/AAAAAAAAAuQ/M2KgF5AHcJEOiLvt91TuemgTQAWvlTuNgCLcBGAsYHQ/s200/4867316278001.png"  group-title="JIO TV",SONY SAB HD (IN)
 https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SONY PAL (IN)" tvg-logo=" "  group-title="JIO TV",SONY PAL (IN)
+#EXTINF:-1 ch-id="SONY PAL (IN)" tvg-logo="https://1.bp.blogspot.com/-8bCNTlw2iGs/YQaG-_XKdbI/AAAAAAAAAuY/NjcqNGmOd2oucoI0dOqTQmmGjTlYiYRAQCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="JIO TV",SONY PAL (IN)
 https://jio.instream.ml/jio.php?c=Sony_Pal&q=400&e=.m3u8
 #EXTINF:-1 ch-id="COLORS RISHTEY (IN)" tvg-logo="https://1.bp.blogspot.com/-CWX5ftLHF1o/YPlg6kqx75I/AAAAAAAAAjM/36wmmlFOoV0tH6B5ADPnC9gWUCBZVsMsACLcBGAsYHQ/s200/PicsArt_07-16-05.19.06.jpg"  group-title="JIO TV",COLORS RISHTEY (IN)
 https://jio.instream.ml/jio.php?c=Colors_Rishtey&q=400&e=.m3u8
-#EXTINF:-1 ch-id="DD 1 (IN)" tvg-logo=" "  group-title="JIO TV",DD 1 (IN)
+#EXTINF:-1 ch-id="DD 1 (IN)" tvg-logo="https://1.bp.blogspot.com/-8yfUoSwuu9s/YQaIGInOE2I/AAAAAAAAAug/5mAfz4kICUYUPYRw5lQ-H-AerVoHRdCRwCLcBGAsYHQ/s200/images%2B%25282%2529.jpeg"  group-title="JIO TV",DD 1 (IN)
 https://jio.instream.ml/jio.php?c=DD_National&q=400&e=.m3u8
-#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo=" "  group-title="JIO TV",DD KISAN (IN)
+#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo="https://1.bp.blogspot.com/-D5t3oEnbuok/YQaJP_MjdHI/AAAAAAAAAuo/g5Y-DZsArY4JD0mhOB27vRrBOY4twvTZACLcBGAsYHQ/s200/download.jpeg"  group-title="JIO TV",DD KISAN (IN)
 https://jio.instream.ml/jio.php?c=DD_Kisan&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ID (IN)" tvg-logo="https://1.bp.blogspot.com/-Edn11XCcER8/YPlhqjVk5VI/AAAAAAAAAjk/jrkS-PbpbaYIelpbtVtLrrdOy39NsVPJwCLcBGAsYHQ/s200/DCX.png"  group-title="JIO TV",ID (IN)
 https://jio.instream.ml/jio.php?c=ID&q=400&e=.m3u8
-#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo=" "  group-title="JIO TV",EPIC (IN)
+#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo="https://1.bp.blogspot.com/-PTiV7ye5ysU/YQaJ2fr86pI/AAAAAAAAAuw/Iv62OuQVjJQWZqWiKyP8W0GezecXcJO7ACLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="JIO TV",EPIC (IN)
 https://jio.instream.ml/jio.php?c=Epic_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="JIO TV",ZEE SALAAM (IN)
+#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo="https://1.bp.blogspot.com/-fF5DvJxFrsU/YQaKc219jbI/AAAAAAAAAvA/_4dpxaSBgvM4kxP6VkYSMome4u7DR1FDACLcBGAsYHQ/s200/images%2B%25286%2529.jpeg"  group-title="JIO TV",ZEE SALAAM (IN)
 https://jio.instream.ml/jio.php?c=Zee_Salaam&q=400&e=.m3u8
-#EXTINF:-1 ch-id="MTV (IN)" tvg-logo=" "  group-title="JIO TV",MTB (IN)
+#EXTINF:-1 ch-id="MTV (IN)" tvg-logo="https://1.bp.blogspot.com/-EUP80mXjck4/YQaK8UPT1VI/AAAAAAAAAvQ/JjDcWCPTUXIlN-N5Sq4vBpD29hlO10Y_wCLcBGAsYHQ/s200/images%2B%25281%2529.png"  group-title="JIO TV",MTV (IN)
 https://jio.instream.ml/jio.php?c=MTV&q=400&e=.m3u8
-#EXTINF:-1 ch-id="MTV HD + (IN)" tvg-logo=" "  group-title="JIO TV",MTV HD + (IN)
+#EXTINF:-1 ch-id="MTV HD + (IN)" tvg-logo="https://1.bp.blogspot.com/-G_RkkGno6xI/YQaLoVb9AHI/AAAAAAAAAvY/E-aJJFLtuZoo4W3lv1YjgfxQeAD4VQPhQCLcBGAsYHQ/s200/images%2B%252810%2529.png"  group-title="JIO TV",MTV HD + (IN)
 https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=400&e=.m3u8
-#EXTINF:-1 ch-id="MTV BEATS HD (IN)" tvg-logo=" "  group-title="JIO TV",MTV BEATS HD (IN)
+#EXTINF:-1 ch-id="MTV BEATS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-gdto932z-L8/YQaMP_kUzwI/AAAAAAAAAvo/OBsQYm7FhzMZCUpyNgcr3xt5ysXMp6hAgCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg"  group-title="JIO TV",MTV BEATS HD (IN)
 https://jio.instream.ml/jio.php?c=MTV_Beats_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="JIO TV",MASTIII (IN)
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="https://1.bp.blogspot.com/-gyLzyJAQd5U/YQaQerxHtFI/AAAAAAAAAwE/SRjzwZHCx8I0xwjee0tZH93IbSR9n3O0gCLcBGAsYHQ/s200/PicsArt_08-01-05.45.33.jpg"  group-title="JIO TV",MASTIII (IN)
 https://jio.instream.ml/jio.php?c=Mastiii&q=400&e=.m3u8
-#EXTINF:-1 ch-id="E24 (IN)" tvg-logo=" "  group-title="JIO TV",E24 (IN)
+#EXTINF:-1 ch-id="E24 (IN)" tvg-logo="https://1.bp.blogspot.com/-vDqxuVenT94/YQaPNTBgytI/AAAAAAAAAv0/K7jq_nMydBsYWw13ncMb_DYxGeCdflVrgCLcBGAsYHQ/s200/unnamed.png"  group-title="JIO TV",E24 (IN)
 https://jio.instream.ml/jio.php?c=E_24&q=400&e=.m3u8
-#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "  group-title="JIO TV",ZING (IN)
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-ImHUelBQ26w/YQaP2sRqNoI/AAAAAAAAAv8/0MW6hVZarQMnudNpaWwwFX-1PdIKvtYPACLcBGAsYHQ/s200/Zing_300x300.png"  group-title="JIO TV",ZING (IN)
 https://jio.instream.ml/jio.php?c=Zing&q=400&e=.m3u8
-#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="JIO TV",MUSIC INDIA (IN)
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-gZlH4XyApPw/YQaQ9otteBI/AAAAAAAAAwM/lGib1u4Ln8cLXWMveFASeibUvmNAUxFLgCLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="JIO TV",MUSIC INDIA (IN)
 https://jio.instream.ml/jio.php?c=Music_India&q=400&e=.m3u8
-#EXTINF:-1 ch-id="TRAVEL XP (IN)" tvg-logo=" "  group-title="JIO TV",TRAVEL XP (IN)
+#EXTINF:-1 ch-id="TRAVEL XP (IN)" tvg-logo="https://1.bp.blogspot.com/-Tm2LcNPCif0/YNsCjWrIYWI/AAAAAAAAAEY/0IieUTKTj8MhfSNBe7VYd7QQMRKuuajBgCLcBGAsYHQ/s739/PicsArt_06-29-04.49.01.png"  group-title="JIO TV",TRAVEL XP (IN)
 https://jio.instream.ml/jio.php?c=Travel_XP&q=400&e=.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo="https://1.bp.blogspot.com/-T27u-iPOK9c/YPlfhwnY7wI/AAAAAAAAAik/d75IgdHXwO8mUUshLgSMmxcUXvEkOCmRQCLcBGAsYHQ/s200/images.jpeg"  group-title="JIO TV",ANIMAL PLANET (IN)
 https://jio.instream.ml/jio.php?c=Animal_Planet_Hindi&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo=" "  group-title="JIO TV",SONY BBC EARTH HD (IN)
+#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="JIO TV",SONY BBC EARTH HD (IN)
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="HISTORY TV 18 (IN)" tvg-logo=" "  group-title="JIO TV",HISTORY TV 18 (IN)
 https://jio.instream.ml/jio.php?c=History_18_Hindi&q=400&e=.m3u8
