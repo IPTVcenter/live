@@ -632,25 +632,23 @@ https://jio.instream.ml/jio.php?c=DD_News&q=400&e=.m3u8
 https://jio.instream.ml/jio.php?c=Sanskar&q=400&e=.m3u8
 #EXTINF:-1 ch-id="AASTHA (IN)" tvg-logo="https://1.bp.blogspot.com/-XtRtD2mSsIw/YQfh38qhj9I/AAAAAAAAAzc/eUU5MHtKG6k5em5kgHTAAytOf5Z-8dgiwCLcBGAsYHQ/s200/aastha_logo_white.png"  group-title="JIO TV",AASTHA (IN)
 https://jio.instream.ml/jio.php?c=Aastha&q=400&e=.m3u8
-#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="JIO TV",INDIA TODAY (IN)
+#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-00vHCWf4lPs/YQkcs8Fo9fI/AAAAAAAAAzk/nlEpsQBZew0-xnRLk_9TEN00SUz8bhUHgCLcBGAsYHQ/s200/images%2B%25281%2529.png"  group-title="JIO TV",INDIA TODAY (IN)
 https://jio.instream.ml/jio.php?c=India_Today&q=400&e=.m3u8
-#EXTINF:-1 ch-id="NEWS 24 (IN)" tvg-logo=" "  group-title="JIO TV", (IN)
+#EXTINF:-1 ch-id="NEWS 24 (IN)" tvg-logo="https://1.bp.blogspot.com/-NItLFUSFaWw/YQkc-b33ctI/AAAAAAAAAzs/TsXMd2AYdRULr0JnpTnBMaYO9d8RtdLHwCLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="JIO TV", (IN)
 https://jio.instream.ml/jio.php?c=News_24&q=400&e=.m3u8
-#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo=" "  group-title="JIO TV",DD INDIA (IN)
+#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-QgHseIN0SmI/YQkdOvX3EtI/AAAAAAAAAz0/dpSRnO7CNWUHh0ZQTyiYlywuE4RLZRe4QCLcBGAsYHQ/s200/images%2B%25288%2529.jpeg"  group-title="JIO TV",DD INDIA (IN)
 https://jio.instream.ml/jio.php?c=DD_India&q=400&e=.m3u8
-#EXTINF:-1 ch-id="KATYAYANI (IN)" tvg-logo=" "  group-title="JIO TV",KATYAYANI (IN)
+#EXTINF:-1 ch-id="KATYAYANI (IN)" tvg-logo="https://1.bp.blogspot.com/-UvFbcGlOPnw/YQkdfskJloI/AAAAAAAAAz8/K8kXafelpGgi1wSraIM94b9oE8IXFSpKACLcBGAsYHQ/s200/images%2B%252830%2529%25281%2529.jpeg"  group-title="JIO TV",KATYAYANI (IN)
 https://jio.instream.ml/jio.php?c=Katyayani&q=400&e=.m3u8
-#EXTINF:-1 ch-id="SADHANA (IN)" tvg-logo=" "  group-title="JIO TV",SADHANA (IN)
+#EXTINF:-1 ch-id="SADHANA (IN)" tvg-logo="https://1.bp.blogspot.com/-kBd8veBULdY/YQkexZuAuzI/AAAAAAAAA0E/TePqoVsmzCYp5yf-2WYIR4dVfSP9iqLfgCLcBGAsYHQ/s200/images%2B%25289%2529.jpeg"  group-title="JIO TV",SADHANA (IN)
 https://jio.instream.ml/jio.php?c=Sadhna&q=400&e=.m3u8
-#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo=" "  group-title="JIO TV",NEWS X (IN)
+#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo="https://1.bp.blogspot.com/-QaC7cWuZjdM/YQkfEp-8SEI/AAAAAAAAA0M/b5l4XeO91h0YsjLTHhf_iqQDKbnADGQ0ACLcBGAsYHQ/s200/NewsX-Logo-3-1.png"  group-title="JIO TV",NEWS X (IN)
 https://jio.instream.ml/jio.php?c=News_X&q=400&e=.m3u8
 #EXTINF:-1 ch-id="DW (IN)"  tvg-logo="https://1.bp.blogspot.com/-5kegp68ZhoA/YPldj3h-HuI/AAAAAAAAAh8/bfJ0U-IWb5U1AloIJS5-vVn-WKn7DFaIwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="JIO TV",DW (IN)
 https://jio.instream.ml/jio.php?c=dw&q=400&e=.m3u8
 #EXTINF:-1 ch-id="GOD TV (IN)"  tvg-logo="https://1.bp.blogspot.com/-7VKCDDLIlP0/YPlc6ykYpfI/AAAAAAAAAh0/nVKFO7ETxQU04KOj9dvis9Kh203pHxMswCLcBGAsYHQ/w200-h200/images.jpeg" group-title="JIO TV",GOD TV (IN)
 https://jio.instream.ml/jio.php?c=God_TV&q=400&e=.m3u8
-#EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo=" "  group-title="JIO TV",COLORS INFINITY HD (IN)
-https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=400&e=.m3u8
-#EXTINF:-1 ch-id="COMEDY CENTRAL HD (IN)" tvg-logo=" "  group-title="JIO TV",COMEDY CENTRAL HD (IN)
+#EXTINF:-1 ch-id="COMEDY CENTRAL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-m06c3JVwbQA/YQkgltZmxFI/AAAAAAAAA0U/Vu1mEdFAEFM25w8sOUIqOD9wwWBe_LoZwCLcBGAsYHQ/s200/images%2B%252810%2529.jpeg"  group-title="JIO TV",COMEDY CENTRAL HD (IN)
 https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=400&e=.m3u8
 
 #EXTINF:-1 ch-id="PARAMOUNT (VN)" tvg-logo=" "  group-title="FPT PLAY",PARAMOUNT (ASIA)
