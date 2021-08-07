@@ -1067,33 +1067,15 @@ http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29788
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/29459.m3u8
 
 #EXTINF:-1 ch-id="NETFLIX MOVIES HD (ME)" tvg-logo="https://1.bp.blogspot.com/-3W31tNGmc7E/YO5_2H62yDI/AAAAAAAAAeo/RhzF-MP30cwJmI433F_10Jz2zSR-kX85wCLcBGAsYHQ/s200/PicsArt_07-08-05.38.33.png"  group-title="OMOHAK TV",NETFLIX MOVIES HD (ME)
-http://209.145.58.109:25461/live/omohaktv/App/105.m3u8
-
-
 #EXTINF:-1 ch-id="NETFLIX KIDS HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX KIDS HD (ME)
-http://209.145.58.109:25461/omohaktv/App/121
-
-
 #EXTINF:-1 ch-id="NETFLIX HORROR HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX HORROR HD (ME)
-http://209.145.58.109:25461/omohaktv/App/122
-
 #EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX DRAMA HD (ME)
-http://209.145.58.109:25461/omohaktv/App/107
-
 #EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo="https://1.bp.blogspot.com/-omKm5yMREzI/YO6Bss51F3I/AAAAAAAAAfM/x5689hDbnUULcRuveA2RM-TdwG_VD4rjgCLcBGAsYHQ/s200/PicsArt_07-08-05.37.48.png"  group-title="OMOHAK TV",NETFLIX COMEDY HD (ME)
-http://209.145.58.109:25461/omohaktv/App/148
-
-#EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://1.bp.blogspot.com/-FbIUiyIozbQ/YO6B8Fi1jZI/AAAAAAAAAfY/NQfXRiy4TwMWSEcG6m4DJrY0KWWIttMsACLcBGAsYHQ/s200/images%25283%2529.jpeg"  group-title="OMOHAK TV",SONY TEN 1 (IN)
-http://209.145.58.109:25461/omohaktv/App/72
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2OAiZUC8wj4/YO6CS3hT-9I/AAAAAAAAAfg/j2SVgB6sdwEgQgAlTO7A2cIZaF4oUp-FQCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="OMOHAK TV",SONY TEN 2 HD (IN)
-http://209.145.58.109:25461/omohaktv/App/73
-
-
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
