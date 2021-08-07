@@ -1072,13 +1072,18 @@ http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/29459.m3u8
 #EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX DRAMA HD (ME)
 #EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo="https://1.bp.blogspot.com/-omKm5yMREzI/YO6Bss51F3I/AAAAAAAAAfM/x5689hDbnUULcRuveA2RM-TdwG_VD4rjgCLcBGAsYHQ/s200/PicsArt_07-08-05.37.48.png"  group-title="OMOHAK TV",NETFLIX COMEDY HD (ME)
 
+#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo=" "  group-title="IPTVESUN", (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6146
+#EXTINF:-1 ch-id="CBBC (UK)" tvg-logo=" "  group-title="IPTVESUN", (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6147
+#EXTINF:-1 ch-id="BBC WORLD NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN", (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26106
+#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN", (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/915
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
