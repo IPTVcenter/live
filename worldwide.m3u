@@ -1072,21 +1072,49 @@ http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/29459.m3u8
 #EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX DRAMA HD (ME)
 #EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo="https://1.bp.blogspot.com/-omKm5yMREzI/YO6Bss51F3I/AAAAAAAAAfM/x5689hDbnUULcRuveA2RM-TdwG_VD4rjgCLcBGAsYHQ/s200/PicsArt_07-08-05.37.48.png"  group-title="OMOHAK TV",NETFLIX COMEDY HD (ME)
 
-#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo=" "  group-title="IPTVESUN", (ME)
+#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo=" "  group-title="IPTVESUN",BBC CBEEBIES (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6146
-#EXTINF:-1 ch-id="CBBC (UK)" tvg-logo=" "  group-title="IPTVESUN", (ME)
+#EXTINF:-1 ch-id="CBBC (UK)" tvg-logo=" "  group-title="IPTVESUN",CBBC (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6147
-#EXTINF:-1 ch-id="BBC WORLD NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN", (ME)
+#EXTINF:-1 ch-id="BBC WORLD NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN",BBC WORLD NEWS (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26106
-#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN", (UK)
+#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN",BBC NEWS (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/915
+#EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo=" "  group-title="IPTVESUN",DUBAI RACING (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6627
+#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "  group-title="IPTVESUN",DUBAI ONE (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6628
+#EXTINF:-1 ch-id="B4U PLUS (ME)" tvg-logo=" "  group-title="IPTVESUN",B4U PLUS (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6653
+#EXTINF:-1 ch-id="B4U AFLAM (ME)" tvg-logo=" "  group-title="IPTVESUN",B4U AFLAM (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6654
+#EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo=" "  group-title="IPTVESUN",ZEE AFLAM (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6507
+#EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo=" "  group-title="IPTVESUN",MBC MAX HD (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5121
+#EXTINF:-1 ch-id="MBC ACTION (ME)" tvg-logo=" "  group-title="IPTVESUN",MBC ACTION (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5122
+#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="IPTVESUN",ITV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/268
+#EXTINF:-1 ch-id="SKY SPORTS MIX (UK)" tvg-logo=" "  group-title="IPTVESUN",SKY SPORTS MIX (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
+#EXTINF:-1 ch-id="BT SPORTS 1 HD (UK)" tvg-logo=" "  group-title="IPTVESUN",BT SPORT 1 HD (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/374
+#EXTINF:-1 ch-id="EURO SPORT 1 (UK)" tvg-logo=" "  group-title="IPTVESUN",EURO SPORTS 1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1634
+#EXTINF:-1 ch-id="PARAMOUNT NETWORK (UK)" tvg-logo=" "  group-title="IPTVESUN",PARAMOUNT NETWORK (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74208
+#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo=" "  group-title="IPTVESUN",AAJ TAK (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2858
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
-
-
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
