@@ -1106,10 +1106,32 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1634
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74208
 #EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo=" "  group-title="IPTVESUN",AAJ TAK (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2858
-
+#EXTINF:-1 ch-id="ANIMAL.PLANET (UK)" tvg-logo=" "  group-title="IPTVESUN",ANIMAL PLANET (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74144
+#EXTINF:-1 ch-id="B4U MUSIC (UK)" tvg-logo=" "  group-title="IPTVESUN",B4U MUSIC (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2853
+#EXTINF:-1 ch-id="BABY TV (UK)" tvg-logo=" "  group-title="IPTVESUN",BABY TV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2232
+#EXTINF:-1 ch-id="BOOMERANG (UK)" tvg-logo=" "  group-title="IPTVESUN",BOOMERANG (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1285
+#EXTINF:-1 ch-id="CARTOON NETWORK (UK)" tvg-logo=" "  group-title="IPTVESUN",CARTOON NETWORK (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2231
+#EXTINF:-1 ch-id="CBS DRAMA (UK)" tvg-logo=" "  group-title="IPTVESUN",CBS DRAMA (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/924
+#EXTINF:-1 ch-id="CNBC (UK)" tvg-logo=" "  group-title="IPTVESUN",CNBC (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12365
+#EXTINF:-1 ch-id="CNN (UK)" tvg-logo=" "  group-title="IPTVESUN",CNN (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/31078
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title="IPTVESUN",COLORS (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2845
+#EXTINF:-1 ch-id="COMEDY CENTRAL (UK)" tvg-logo=" "  group-title="IPTVESUN",COMEDY CENTRAL (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2219
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (UK)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY SCIENCE (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74156
+#EXTINF:-1 ch-id="DISCO (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1637
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
