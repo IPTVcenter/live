@@ -808,6 +808,9 @@ http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 ch-id="BABY TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-wPzEgOiXUAY/YNHLWJ3lEpI/AAAAAAAAAAk/yFQ_5uSjA5EodLJKIFeJLB3ngNOr35Z-gCLcBGAsYHQ/w200-h173/LogoBabyTV-2021-MAIN_logo.png"   group-title="KIDS",BABY TV (ASIA)
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 ch-id="FOOD NETWORK (ASIA)" tvg-logo=" "  group-title="INFOTAINMENT",FOOD NETWORK (ASIA)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="FOX CRIME HD (US)" tvg-logo="https://1.bp.blogspot.com/-m8N0DHCONxY/YNPXRwQLkLI/AAAAAAAAAC8/agvC7mnVNZ4-3zfe7DVMGTmRjWm0rE_NwCLcBGAsYHQ/w200-h114/PicsArt_06-24-06.19.33.jpg"   group-title="ENTERTAINMENT",FOX CRIME HD (US)
 http://51.15.0.141:88/fox_crime/index.m3u8
