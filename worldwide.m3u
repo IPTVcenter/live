@@ -1216,7 +1216,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5404
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5410
 #EXTINF:-1 ch-id="TENNIS (US)" tvg-logo=" "  group-title="IPTVESUN",TENNIS (US)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5407
-#EXTINF:-1 ch-id="DISCOVERY LIFE (US)" tvg-logo=" "  group-title=" ",DISCOVERY LIFE (US)
+#EXTINF:-1 ch-id="DISCOVERY LIFE (US)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY LIFE (US)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5409
 #EXTINF:-1 ch-id="DISCOVERY (US)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY (US)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5408
@@ -1246,7 +1246,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7902
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23634
 #EXTINF:-1 ch-id="HISTORY (RS)" tvg-logo=" "  group-title="IPTVESUN",HISTORY (RS)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7901
-#EXTINF:-1 ch-id="TLC (RS)" tvg-logo=" "  group-title="IPTVESUNTLC", (RS)
+#EXTINF:-1 ch-id="TLC (RS)" tvg-logo=" "  group-title="IPTVESUN",TLC (RS)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/13533
 #EXTINF:-1 ch-id="VIASAT NATURE (RS)" tvg-logo=" "  group-title="IPTVESUN",VIASAT NATURE (RS)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/13540
@@ -1266,7 +1266,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/31559
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="IPTVESUN",STAR SPORTS 2 HD (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="HBO (AL)" tvg-logo=" "  group-title="IPTVESUN",HBO (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21688
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
