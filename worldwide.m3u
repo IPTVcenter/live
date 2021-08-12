@@ -1128,15 +1128,89 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2845
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2219
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (UK)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY SCIENCE (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74156
-#EXTINF:-1 ch-id="DISCO (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="DISCOVERY TURBO (UK)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY TURBO (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1637
+#EXTINF:-1 ch-id="DISCOVERY (UK)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1638
+#EXTINF:-1 ch-id="92 NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN",92 NEWS (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1298
+#EXTINF:-1 ch-id="DISNEY XD (UK)" tvg-logo=" "  group-title="IPTVESUN",DISNEY XD (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12507
+#EXTINF:-1 ch-id="E! (UK)" tvg-logo=" "  group-title="IPTVESUN",E! (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1635
+#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo=" "  group-title="EURO NEWS", (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74163
+#EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="IPTVESUN",FOOD NETWORK (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4389
+#EXTINF:-1 ch-id="FOOD XP (UK)" tvg-logo=" "  group-title="IPTVESUN",FOOD XP (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74167
+#EXTINF:-1 ch-id="FOX NEWS (UK)" tvg-logo=" "  group-title="IPTVESUN",FOX NEWS (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2234
+#EXTINF:-1 ch-id="FRANCE 24 (UK)" tvg-logo=" "  group-title="IPTVESUN",FRANCE 24 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12504
+#EXTINF:-1 ch-id="FREE SPORTS (UK)" tvg-logo=" "  group-title="IPTVESUN",FREE SPORTS (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12505
+#EXTINF:-1 ch-id="GOD TV (UK)" tvg-logo=" "  group-title="IPTVESUN",GOD TV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74169
+#EXTINF:-1 ch-id="HISTORY (UK)" tvg-logo=" "  group-title="IPTVESUN",HISTORY (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2236
+#EXTINF:-1 ch-id="HGTV (UK)" tvg-logo=" "  group-title="IPTVESUN",HGTV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74171
+#EXTINF:-1 ch-id="HIDAYAT (UK)" tvg-logo=" "  group-title="IPTVESUN",HIDAYAT (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74172
+#EXTINF:-1 ch-id="ID (UK)" tvg-logo=" "  group-title="IPTVESUN",ID (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1296
+#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="IPTVESUN",ITV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74189
+#EXTINF:-1 ch-id="LOVE NATURE (UK)" tvg-logo=" "  group-title="IPTVESUN",LOVE NATURE (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74197
+#EXTINF:-1 ch-id="MADANI CHANNEL (UK)" tvg-logo=" "  group-title="IPTVESUN",MADANI CHANNEL (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74201
+#EXTINF:-1 ch-id="MTV (UK)" tvg-logo=" "  group-title="IPTVESUN",MTV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7622
+#EXTINF:-1 ch-id="NAT GEO WILD HD (UK)" tvg-logo=" "  group-title="IPTVESUN",NAT GEO WILD HD (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
+#EXTINF:-1 ch-id="NICK (UK)" tvg-logo=" "  group-title="IPTVESUN",NICK (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1261
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo=" "  group-title="IPTVESUN",SONY SAB HD (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2840
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="IPTVESUN",SONY MAX HD (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2849
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title="IPTVESUN",SONY TV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12482
+#EXTINF:-1 ch-id="USTAV BHARAT (UK)" tvg-logo=" "  group-title="IPTVESUN",USTAV BHARAT (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2842
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo=" "  group-title="IPTVESUN",STAR GOLD (ME)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="IPTVESUN",USTAV PLUS (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2838
+#EXTINF:-1 ch-id="TLC (UK)" tvg-logo=" "  group-title="IPTVESUN",TLC (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74221
+#EXTINF:-1 ch-id="TRAVEL.CHANNEL (UK)" tvg-logo=" "  group-title="IPTVESUN",TRAVEL CHANNEL (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12484
+#EXTINF:-1 ch-id="TRAVEL XP (UK)" tvg-logo=" "  group-title="IPTVESUN",TRAVEL XP (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74223
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo=" "  group-title="IPTVESUN",VENUS TV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74226
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="IPTVESUN",ZEE CINEMA HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2847
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "  group-title="IPTVESUN",ZEE TV HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2837
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "  group-title="IPTVESUN",ZING (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
-
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
