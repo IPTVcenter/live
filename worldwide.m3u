@@ -1271,33 +1271,59 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 ch-id="HBO (AL)" tvg-logo=" "  group-title="IPTVESUN",HBO (AL)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21688
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (AL)" tvg-logo=" "  group-title="IPTVESUN",ANIMAL PLANET HD (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29793
+#EXTINF:-1 ch-id="BABY TV (AL)" tvg-logo=" "  group-title="IPTVESUN",BABY TV (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29844
+#EXTINF:-1 ch-id="BOOMERANG (AL)" tvg-logo=" "  group-title="IPTVESUN",BOOMERANG (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29843
+#EXTINF:-1 ch-id="FOX CRIME (AL)" tvg-logo=" "  group-title="IPTVESUN",FOX CRIME (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
+#EXTINF:-1 ch-id="FOX MOVIES (AL)" tvg-logo=" "  group-title="IPTVESUN",FOX MOVIES (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2120
+#EXTINF:-1 ch-id="NAT GEO (AL)" tvg-logo=" "  group-title="IPTVESUN",NAT GEO (AL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2119
+#EXTINF:-1 ch-id="DISCOVERY (CRO)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23667
+#EXTINF:-1 ch-id="ID (CRO)" tvg-logo=" "  group-title="IPTVESUN",ID (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23666
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (CRO)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY SCIENCE (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23667
+#EXTINF:-1 ch-id="E! (CRO)" tvg-logo=" "  group-title="IPTVESUN",E! (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23670
+#EXTINF:-1 ch-id="FOX (CRO)" tvg-logo=" "  group-title="IPTVESUN",FOX (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2496
+#EXTINF:-1 ch-id="HISTORY (CRO)" tvg-logo=" "  group-title="IPTVESUN",HISTORY (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23660
+#EXTINF:-1 ch-id="NAT GEO WILD (CRO)" tvg-logo=" "  group-title="IPTVESUN",NAT GEO (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23657
+#EXTINF:-1 ch-id="TLC (CRO)" tvg-logo=" "  group-title="IPTVESUN",TLC (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23694
+#EXTINF:-1 ch-id="VIASAT EXPLORE (CRO)" tvg-logo=" "  group-title="IPTVESUN",VIASAT EXPLORE (CRO)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23655
+#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo=" "  group-title="IPTVESUN",SONY TEN 1 HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="IPTVESUN",SONY TEN 2 HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+#EXTINF:-1 ch-id="PRIMER SPORTS 1 (UK)" tvg-logo=" "  group-title="IPTVESUN",PRIMER SPORTS 1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title="IPTVESUN",ZEE TV (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
+#EXTINF:-1 ch-id="ZEE CINEMA (US)" tvg-logo=" "  group-title="IPTVESUN",ZEE CINEMA (US)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/189
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo=" "  group-title="IPTVESUN",ZEE CINEMA (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/183
+#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="IPTVESUN",ZEE ANMOL (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/186
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo=" "  group-title="IPTVESUN",ZEE ACTION (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/187
+#EXTINF:-1 ch-id="STAR PLUS (IN)" tvg-logo=" "  group-title="IPTVESUN",STAR PLUS (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/191
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="IPTVESUN",SONY SIX HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
