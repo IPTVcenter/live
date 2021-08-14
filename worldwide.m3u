@@ -1351,10 +1351,12 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/187
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/191
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="IPTVESUN",SONY SIX HD (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="IPTVESUN",SANSKAR (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16638
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
