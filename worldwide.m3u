@@ -21,6 +21,8 @@ https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani2/playlist.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MOVIES",HBO (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+#EXTINF:-1 ch-id="SHEMAROO KIDS (IN)" tvg-logo=" "  group-title="KIDS",SHEMAROO KIDS (IN)
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 
 #EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="MUSIC",ZING (IN)
 https://aslive.club/altaf/music/zing/chunks.m3u8
@@ -234,6 +236,10 @@ http://pkr.cinepex.tv:8278/sonyyayhindikdin/playlist.m3u8
 http://pkr.cinepex.tv:8278/discoverykidshindikdin/playlist.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo="https://1.bp.blogspot.com/-8ACpjCCDeNY/YOrApjj-9CI/AAAAAAAAAPE/2w22Y7_ReDod9co7s2rMLKpchLbABx5KgCLcBGAsYHQ/s200/images%2B%25287%2529%25282%2529.jpeg"  group-title="KIDS",CARTOON NETWORK (IN)
 http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 ch-id="HUNGMA TV (IN)" tvg-logo=" "  group-title="KIDS",HUNGAMA TV (IN)
+http://pkr.cinepex.tv:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:-1 ch-id="DISNEY JR (IN)" tvg-logo=" "  group-title="KIDS",DISNEY JR (IN)
+http://pkr.cinepex.tv:8278/disneyjuniorhindikdin/playlist.m3u8
 
 #EXTINF:-1 ch-id="DY365 (IND)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
@@ -657,6 +663,21 @@ https://jio.instream.ml/jio.php?c=God_TV&q=400&e=.m3u8
 #EXTINF:-1 ch-id="COMEDY CENTRAL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-m06c3JVwbQA/YQkgltZmxFI/AAAAAAAAA0U/Vu1mEdFAEFM25w8sOUIqOD9wwWBe_LoZwCLcBGAsYHQ/s200/images%2B%252810%2529.jpeg"  group-title="JIO TV",COMEDY CENTRAL HD (IN)
 https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=400&e=.m3u8
 
+#EXTINF:-1 ch-id="DISNEY CHANNEL (IN)" tvg-logo=" "  group-title="FEED PLAY",DISNEY CHANNEL (IN)
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo=" "  group-title="FEED PLAY",MARVEL HQ (IN)
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1 ch-id="NICK HD (IN)" tvg-logo=" "  group-title="FEED PLAY",NICK HD (IN)
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="FEED PLAY",COLORS HD (IN)
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="FEED PLAY",SONY HD (IN)
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="FEED PLAY",SONY TEN 1 HD (IN)
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 ch-id="EUROSPOETS HD (UK)" tvg-logo=" "  group-title="FEED PLAY",EUROSPORTS HD (UK)
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+
 #EXTINF:-1 ch-id="PARAMOUNT (VN)" tvg-logo="https://1.bp.blogspot.com/-rGIb5g-rn5w/YQkjv_CVCrI/AAAAAAAAA0c/HiemyOBPkuw9KKgTwYtQSVMq8okOVUK5QCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="FPT PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (VN)" tvg-logo="https://1.bp.blogspot.com/-Eep12-b7tqA/YMh_x2dADMI/AAAAAAAABM4/Wuhu_922e8oG9TOkm0gJXDyHXRlTwE-HACLcBGAsYHQ/s320/download%25282%2529.png"   group-title="FPT PLAY",AXN (VN)
@@ -725,6 +746,8 @@ http://164.68.124.111/acc.m3u8?Token=
 http://134.19.182.131:8080/edg8_2.m3u8?Token=
 #EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo="https://1.bp.blogspot.com/-HPEimn5FiKE/YQkpdx8A9dI/AAAAAAAAA08/xHSSWtmX16w92nkzKBxDY1DwFFga3ye5wCLcBGAsYHQ/s200/images.jpeg"  group-title="LIFESTYLE",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ch-id="HUNGAMA TV (IN)" tvg-logo=" "  group-title="KIDS",HUNGAMA TV (IN)
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="KIDS",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
@@ -820,6 +843,8 @@ http://209.126.120.91/hls/arydigital.m3u8
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="MUSIC",9XM (IN)
 http://209.126.120.91/hls/9xm.m3u8
 
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="STREAMS",COLORS HD (IN)
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="STREAMS",AXN (ASIA)
 http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="STREAMS",STAR PLUS HD (IN)
