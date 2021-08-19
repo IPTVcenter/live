@@ -663,7 +663,7 @@ https://jio.instream.ml/jio.php?c=God_TV&q=400&e=.m3u8
 #EXTINF:-1 ch-id="COMEDY CENTRAL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-m06c3JVwbQA/YQkgltZmxFI/AAAAAAAAA0U/Vu1mEdFAEFM25w8sOUIqOD9wwWBe_LoZwCLcBGAsYHQ/s200/images%2B%252810%2529.jpeg"  group-title="JIO TV",COMEDY CENTRAL HD (IN)
 https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=400&e=.m3u8
 
-#EXTINF:-1 ch-id="DISNEY CHANNEL (IN)" tvg-logo=" "  group-title="FEED PLAY",DISNEY CHANNEL (IN)
+#EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo=" "  group-title="FEED PLAY",DISNEY CHANNEL (IN)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo=" "  group-title="FEED PLAY",MARVEL HQ (IN)
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
@@ -794,6 +794,8 @@ http://84.17.41.7/StarGoldHD-Hin/index.m3u8
 http://84.17.41.7/JS_MoviesOK_Hin/playlist.m3u8
 #EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-wE4h8GYmfG4/YO47Ci2kTgI/AAAAAAAAAcc/L9PUKzFmLyosWJKyjU9UWBowkzjMnaWrQCLcBGAsYHQ/s200/images%2B%252813%2529%25282%2529.jpeg"  group-title="MOVIES",UTV ACTION (IN)
 http://84.17.41.7/UTVACTION-Hin/index.m3u8
+#EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo="MOVIES"  group-title="",UTV MOVIES (IN)
+http://84.17.41.7/UTVMOVIES-Hin/playlist.m3u8
 #EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-42c3l3dUGbo/YO47qGk25yI/AAAAAAAAAcs/wTGh3CGsivkR0wIbPtTZdcIFnSVavVEAwCLcBGAsYHQ/s200/images%2B%252814%2529%25282%2529.jpeg"  group-title="MOVIES",COLORS CINEPLEX HD (IN)
 http://84.17.41.7/Rishtey_Cineplex_IND/playlist.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="MOVIES",STAR MOVIES HD (IN)
@@ -1434,17 +1436,22 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2379
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/909
 #EXTINF:-1 ch-id="HISTORY (NL)" tvg-logo=" "  group-title="IPTVESUN",HISTORY (NL)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2383
-#EXTINF:-1 ch-id="HORSE & COUNTRY (NL)" tvg-logo=" "  group-title=" ",HORSE & COUNTRY (NL)
+#EXTINF:-1 ch-id="HORSE & COUNTRY (NL)" tvg-logo=" "  group-title="IPTVESUN",HORSE & COUNTRY (NL)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14607
+#EXTINF:-1 ch-id="DISCOVERY (NL)" tvg-logo=" "  group-title="IPTVESUN",DISCOVERY (NL)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/910
+#EXTINF:-1 ch-id="BOOMERANG (CZ)" tvg-logo=" "  group-title="IPTVESUN",BOOMERANG (CZ)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12739
+#EXTINF:-1 ch-id="DUCK (CZ)" tvg-logo=" "  group-title="IPTVESUN",DUCK (CZ)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7086
+#EXTINF:-1 ch-id="E (CZ)" tvg-logo=" "  group-title="IPTVESUN",E (CZ)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12734
+#EXTINF:-1 ch-id="NAT GEO WILD (CZ)" tvg-logo=" "  group-title="IPTVESUN",NAT GEO WILD (CZ)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12724
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 
-
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
