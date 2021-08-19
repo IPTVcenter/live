@@ -1449,10 +1449,12 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12734
 #EXTINF:-1 ch-id="NAT GEO WILD (CZ)" tvg-logo=" "  group-title="IPTVESUN",NAT GEO WILD (CZ)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12724
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SMASH 7 NEWS (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH 7 NEWS (US)
+http://a3.smashmalta.com:82/live/smash/smash/32.ts
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (US)
+http://a3.smashmalta.com:82/live/smash/smash/58.ts
 
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
