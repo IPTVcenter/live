@@ -1245,16 +1245,22 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12724
 
 #EXTINF:-1 ch-id="SMASH 7 NEWS (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH 7 NEWS (US)
 http://a3.smashmalta.com:82/live/smash/smash/32.ts
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (US)
+#EXTINF:-1 ch-id="SAMASH EXPLORE (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH EXPLORE (US)
 http://a3.smashmalta.com:82/live/smash/smash/58.ts
+#EXTINF:-1 ch-id="SAMASH MUSIC (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH MUSIC (US)
+http://a3.smashmalta.com:82/live/smash/smash/9.ts
+#EXTINF:-1 ch-id="SMASH COUNTRY (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH COUNTRY (US)
+http://a3.smashmalta.com:82/live/smash/smash/13.ts
+#EXTINF:-1 ch-id="SMASH MOVIES (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH MOVIES (US)
+http://a3.smashmalta.com:82/live/smash/smash/28.ts
+#EXTINF:-1 ch-id="SMASH FOOD (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH FOOD (US)
+http://a3.smashmalta.com:82/live/smash/smash/16.ts
+#EXTINF:-1 ch-id="SMASH SPORT (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH SPORT (US)
+http://a3.smashmalta.com:82/live/smash/smash/18.ts
+
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
