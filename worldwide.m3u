@@ -629,6 +629,8 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png"  group-title="FEED PLAY",INDIA TODAY (IN)
 https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-vrE2qLPiNkc/YP_tK49ei9I/AAAAAAAAAro/uSoOD5CeZWU_KQpInK4ZI7kWeawZCS0aQCLcBGAsYHQ/s200/download.jpeg"  group-title="FEED PLAY",COLORS CINEPLEX HD (IN)
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 
 #EXTINF:-1 ch-id="PARAMOUNT (VN)" tvg-logo="https://1.bp.blogspot.com/-rGIb5g-rn5w/YQkjv_CVCrI/AAAAAAAAA0c/HiemyOBPkuw9KKgTwYtQSVMq8okOVUK5QCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="FPT PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
