@@ -506,9 +506,9 @@ https://tvstream.space/jtv/jioliveexe.php?c=Colors_SD&=300&e=.m3u8
 https://tvstream.space/jtv/jioliveexe.php?c=Colors_HD&=300&e=.m3u8
 #EXTINF:-1 ch-id="DANGAL (IN)" tvg-logo="https://1.bp.blogspot.com/-B7w5zNJxgVU/YJzY2zkHmUI/AAAAAAAAAsg/BdbIjCE25n8eZPy1emNHKdXVyT6xPUvwQCLcBGAsYHQ/s320/PicsArt_03-21-05.08.30.jpg"   group-title="JIO TV",DANGAL (IN)
 https://tvstream.space/jtv/jioliveexe.php?c=Dangal&=300&e=.m3u8
-
-
-
+#EXTINF:-1 ch-id ="ABZY COOL (IN)" tvg-logo ="https://1.bp.blogspot.com/-G4o1ZGEr2h0/YQaD8n2ceQI/AAAAAAAAAt4/wtY40KtyOYAf1DVYmBMYEsJmu__E-KtUACL 252823% 2529% 25281% 2529.jpeg "group-title ="JIO TV",ABZY COOL (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=ABZY_Cool&=600&e=.m3u8
+#EXTINF:-1 ch-id = "ZEE ANMOL (IN)" tvg-logo = "https://1.bp.blogspot.com/-ONYLsHGW7_4/YQaElgZAxbI/AAAAAAAAAuA/YRqgaHtaNVEtjhzd0FSfc_uAxQqLkn- group-title = "JIO TV", ZEE ANMOL (IN)
 
 
 
