@@ -456,6 +456,60 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 https://tvstream.space/jtv/jioliveexe.php?c=Colors_Cineplex&=300&e=.m3u8
 #EXTINF:-1 ch-id="COLORS CINEPLEX BOLLYWOOD (IN)" tvg-logo="https://1.bp.blogspot.com/-M4vgPF-Kxmc/YP_rgGDJaeI/AAAAAAAAArg/xljr700heO4dVdEli9RExAdLvprZHHLJgCLcBGAsYHQ/s200/images%2B%25282%2529.jpeg"  group-title="JIO TV",COLORS CINEPLEX BOLLYWOOD (IN)
 https://tvstream.space/jtv/jioliveexe.php?c=Colors_Cineplex_Bollywood&=300&e=.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-vrE2qLPiNkc/YP_tK49ei9I/AAAAAAAAAro/uSoOD5CeZWU_KQpInK4ZI7kWeawZCS0aQCLcBGAsYHQ/s200/download.jpeg"  group-title="JIO TV",COLORS CINEPLEX HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_Cineplex_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" tvg-logo="https://1.bp.blogspot.com/-4cf9JKN5QnA/YP_tr0x0mSI/AAAAAAAAArw/pvVkaUmjg7sR-Xyof8PyH-DfhHaB8JzMwCLcBGAsYHQ/s200/download+%281%29.jpeg"  group-title="JIO TV",RISHTEY CINEPLEX (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Rishtey_Cineplex&=300&e=.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-ygiSas8IyJI/YMdB4dxrcwI/AAAAAAAABLc/kuphDcjnoqUcsWlNho4cW2Jnbu236j15ACLcBGAsYHQ/s320/IMG_20210308_162943.jpg"   group-title="JIO TV",ZEE CINEMA (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Zee_Cinema&=300&e=.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="JIO TV",ZEE CINEMA HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Zee_Cinema_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="ZEE ANMOL CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-SvMc2BKYpdY/YP_zNdr86uI/AAAAAAAAAsQ/llxj9K3HEFcW7emIqCt9OYG82hlXmscNQCLcBGAsYHQ/s368/09zeeanmolcinemazeeanmolci.png"  group-title="JIO TV",ZEE ANMOL CINEMA (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Zee_Anmol_Cinema&=300&e=.m3u8
+#EXTINF:-1 ch-id="ABZY MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-LuIcBwHUOV4/YP_u2MVaDUI/AAAAAAAAAr4/q7_hnAsfd2cnx_TCE2NHeOJO1h1WUKCcwCLcBGAsYHQ/s200/download+%282%29.jpeg"  group-title="JIO TV",ABZY MOVIES (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=ABZY_Movies&=300&e=.m3u8
+#EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-dkyiL4-RHOE/YP1NNPfwtWI/AAAAAAAAAoI/tchV3tQG1tkV8kUcoYxWuQO9QZY8EgbxgCLcBGAsYHQ/s200/images+%2821%29.jpeg"  group-title="JIO TV",BOX CINEMA (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Box_Cinema&=300&e=.m3u8
+#EXTINF:-1 ch-id="ABZY DHAKAD (IN)" tvg-logo="https://1.bp.blogspot.com/-edPpzudrwRQ/YP_vbKDYiaI/AAAAAAAAAsA/rab6fqwsy-INNb-Zd9Mf82njjIHfXTAHgCLcBGAsYHQ/s200/download%2B%25283%2529.jpeg"  group-title="JIO TV",ABZY DHAKAD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=ABZY_Dhakad&=300&e=.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-YeMv2_ePRlU/YP_zkL_N5rI/AAAAAAAAAsY/ZTBuKVAs0LoCaVLxccquq1fcQWLpuqCngCLcBGAsYHQ/s200/09zeeactionzeeaction.png"  group-title="JIO TV",ZEE ACTION (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Zee_Action&=300&e=.m3u8
+#EXTINF:-1 ch-id="ZEE BOLLYWOOD (IN)" tvg-logo="https://1.bp.blogspot.com/-5I3f6TYpnJo/YP_0TBXbAMI/AAAAAAAAAsg/WP9TtGh1OxUsg65uxmq9wB6wz2RybF4MgCLcBGAsYHQ/s200/images%2B%25285%2529.jpeg"  group-title="JIO TV",ZEE BOLLYWOOD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Zee_Classic&=300&e=.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-J4QZ-XvZ3OQ/YP_2YPq-zcI/AAAAAAAAAso/ftZr_5WpuXEOI22RXyiUOANaCN_1GAHEQCLcBGAsYHQ/s200/PicsArt_07-27-05.34.26.png"  group-title="JIO TV",SONY MAX HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_Max_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="SONY MAX 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-Fzjw1hyvdDk/YP_2qIDD4pI/AAAAAAAAAsw/kwg4p6INXm8v-rI7sCVgvGL3GECNX4zIwCLcBGAsYHQ/s200/images.jpeg"  group-title="JIO TV",SONY MAX 2 (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_MAX2&=300&e=.m3u8
+#EXTINF:-1 ch-id="SONY WAH (IN)" tvg-logo="https://1.bp.blogspot.com/-I5SKGhmA5HA/YP_27IS8IFI/AAAAAAAAAs4/Oz0ue1QOE9kPOZNs6qx7qvOkneg2WWBcwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="JIO TV",SONY WAH (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_Wah&=300&e=.m3u8
+#EXTINF:-1 ch-id="&PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-1RIsooSV8BY/YP_3tloWp9I/AAAAAAAAAtA/eTHKdSauk4Mg0j-mVP3mPY4G2UKETs1yACLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="JIO TV",&PICTURES HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=And_Pictures_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg"  group-title="JIO TV",MAHA MOVIE (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Maha_Movies&=300&e=.m3u8
+#EXTINF:-1 ch-id="ENTERR 10 MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-5Ke-u8RqPnk/YQZ-1Pbx_hI/AAAAAAAAAtQ/ufm68tFbLDYPR_nx_4I44aXS4uSwMZHhgCLcBGAsYHQ/s200/images%2B%25286%2529.jpeg"  group-title="JIO TV",ENTERR 10 MOVIES (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Enterr_10&=300&e=.m3u8
+#EXTINF:-1 ch-id="INDRADHANU (IN)" tvg-logo="https://1.bp.blogspot.com/-mINvsdLYd3Q/YQZ_aylwxmI/AAAAAAAAAtY/-LgCL1MCg0k9lk05cbtBWe2114NAN0YnQCLcBGAsYHQ/s200/images%2B%252819%2529%25281%2529.jpeg"  group-title="JIO TV",INDRADHANU (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Indradhanu&=300&e=.m3u8
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-Zl2m9VPWdMA/YQZ_xtsoKiI/AAAAAAAAAtg/l05-JPkTxVYVfYlj3Y1FATtHwoKZbsKsQCLcBGAsYHQ/s200/images%2B%25288%2529.png"  group-title="JIO TV",SONY PIX HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_Pix_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-wmJxD2oDUIk/YQaAiVlXSZI/AAAAAAAAAto/gU0XjfL8GlsBl0eujIS696-Q4FfwbD_gwCLcBGAsYHQ/s200/PicsArt_08-01-04.37.15.jpg"  group-title="JIO TV",COLORS INFINITY HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_Infinity_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="ARRE (IN)" tvg-logo="https://1.bp.blogspot.com/-eXy19t1PO2Q/YQaBE2_lKoI/AAAAAAAAAtw/VNl1OgsVbwYfGZIhqnbdbG54h-uqQqZWwCLcBGAsYHQ/s200/images%2B%25289%2529.png"  group-title="JIO TV",ARRE (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Arre&=300&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="JIO TV",ZEE TV HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Zee_TV_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="JIO TV",SONY TV (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_SD&=300&e=.m3u8
+#EXTINF:-1 ch-id="COLORS (IN)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="JIO TV",COLORS (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_SD&=300&e=.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="JIO TV",COLORS HD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_HD&=300&e=.m3u8
+#EXTINF:-1 ch-id="DANGAL (IN)" tvg-logo="https://1.bp.blogspot.com/-B7w5zNJxgVU/YJzY2zkHmUI/AAAAAAAAAsg/BdbIjCE25n8eZPy1emNHKdXVyT6xPUvwQCLcBGAsYHQ/s320/PicsArt_03-21-05.08.30.jpg"   group-title="JIO TV",DANGAL (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Dangal&=300&e=.m3u8
+
+
+
+
 
 
 
