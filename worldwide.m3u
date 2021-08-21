@@ -1,7 +1,7 @@
 #EXTM3U TV
 #EXTINF:-1 ch-id="TG JUNIOR (US)" tvg-logo="https://1.bp.blogspot.com/-sCt4UiRRlsQ/YJ-rE46biqI/AAAAAAAAAx4/DkD-xQidNr8K9r8HzORrH1v3qsJOAG1ZgCLcBGAsYHQ/w200-h120/PicsArt_05-15-01.39.14.png"   group-title="WORLD IPTV",TG JUNIOR (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:-1 ch-id="TRT WORLD (US)" tvg-logo="https://1.bp.blogspot.com/-goQFWbkis40/YKOxU3EhfeI/AAAAAAAAA4s/yXSRUucG9-IeNFlkBf0j3XcO8YPa2rMGgCLcBGAsYHQ/w200-h100/share-1000x500.png"   group-title="MIX IPTV",TRT WORLD  (US)
+#EXTINF:-1 ch-id="TRT WORLD (US)" tvg-logo="https://1.bp.blogspot.com/-goQFWbkis40/YKOxU3EhfeI/AAAAAAAAA4s/yXSRUucG9-IeNFlkBf0j3XcO8YPa2rMGgCLcBGAsYHQ/w200-h100/share-1000x500.png"   group-title="WORLD IPTV",TRT WORLD  (US)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ch-id="SCREAMFEST (UK)" tvg-logo="https://1.bp.blogspot.com/-2Ha0lEutmwU/YKRaoCnxdEI/AAAAAAAAA40/ufBn0eSlxMYEd5-zXVvS08cDkUGm1jrfgCLcBGAsYHQ/w200-h100/images%2B%25281%2529%252810%2529.jpeg"  group-title="WORLD IPTV",SCREAMGEST (UK)
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_360p.m3u8
@@ -451,6 +451,14 @@ https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 #EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo=" "  group-title="MX TV",SHEMAROO TV (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+
+#EXTINF:-1 ch-id="COLORS CINEPLEX (IN)" tvg-logo="https://1.bp.blogspot.com/-F9PWXjEG2ic/YP_rT-2dr9I/AAAAAAAAArc/9A4xqD9XZ38uEN5w02jueAcnztUKl6zYACLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="JIO TV",COLORS CINEPLEX (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_Cineplex&=300&e=.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX BOLLYWOOD (IN)" tvg-logo="https://1.bp.blogspot.com/-M4vgPF-Kxmc/YP_rgGDJaeI/AAAAAAAAArg/xljr700heO4dVdEli9RExAdLvprZHHLJgCLcBGAsYHQ/s200/images%2B%25282%2529.jpeg"  group-title="JIO TV",COLORS CINEPLEX BOLLYWOOD (IN)
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_Cineplex_Bollywood&=300&e=.m3u8
+
+
+
 
 #EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo=" "  group-title="FEED PLAY",DISNEY CHANNEL (IN)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
