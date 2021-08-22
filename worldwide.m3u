@@ -363,6 +363,8 @@ https://d1bv41pu1n9g91.cloudfront.net/NDTV_INDIA.m3u8
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 #EXTINF:-1 ch-id="BESTON 25 NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-wIZZ7hQMXBM/YOwbGcpR3uI/AAAAAAAAAYg/X6giLWzGhAAqOhxiwvxT83l3W0qOVcJrACLcBGAsYHQ/s200/images%252811%2529.jpeg"  group-title="CLOUDFRONT NET",BESTON 25 NEWS (US)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live_low.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-ygiSas8IyJI/YMdB4dxrcwI/AAAAAAAABLc/kuphDcjnoqUcsWlNho4cW2Jnbu236j15ACLcBGAsYHQ/s320/IMG_20210308_162943.jpg"   group-title="CLOUDFRONT NET",ZEE CINEMA (IN)
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
