@@ -131,14 +131,14 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 
 #EXTINF:-1 ch-id="BEIN SPORTS EXTRA (US)" tvg-logo="https://1.bp.blogspot.com/-wSi7eKjodCk/YP1EogtfHzI/AAAAAAAAAmM/W9gcWIifeJc6OPFxLFuXZ2c-j01niyhWwCLcBGAsYHQ/s200/beIN-SPORTS-XTRA_LOGO%2B%25281%2529.png"  group-title="PLUTO TV",BEIN SPORTS EXTRA (ME)
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="PLUTO TV", (US)
+#EXTINF:-1 ch-id="MTV (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPmvMBx0DUhcqwhzOEDQRHllKXSk0j3_zCA78OPmNlVD9KkknZU0MS9Wovi0sx1OOgj2uNZlQW_dJa_fpWkPljeFSY_3aMTvij_o2vAMSysJn1ZsKSpgozcRL-_dDPAov170VTaqU7txYiVqLKYFmyceIUWwYk4vnN1JpfSjK0AXiqOsGh1r2n-Itp=s200"  group-title="PLUTO TV",MTV (US)
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 #EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo="https://1.bp.blogspot.com/-bdguSM3gryU/YMc93QEJ7mI/AAAAAAAABJo/azOp0pqWrvk1w5SH2PLh7o5kHUSplSWZQCLcBGAsYHQ/s320/images%252810%2529.png"   group-title="SHAHID TV",MBC BOLLYWOOD HD (ME)
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo="https://1.bp.blogspot.com/-r-HTk_p6dUw/YN79W4mGc9I/AAAAAAAAANY/v8Jy2Tx60Asgw_CBNx9litz5pBZEopqzQCLcBGAsYHQ/s200/mbc-max-hd.png"  group-title="SHAHID TV",MBC MAX HD (ME)
 https://shls-mbcmax-prod-dub.shahid.net:443/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:-1 ch-id="MBC ACTION (ME)" tvg-logo=" "  group-title="SHAHID TV",MBC ACTION (ME)
+#EXTINF:-1 ch-id="MBC ACTION (ME)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtTENlTSsWKEVXD7DDA59JqdUeDkFCBURusCScxPbzkZIe7K-UouYrimgM0zLV7dSLWjg5T13H7OX7mOGukYy_s2Cbg0MdvW9r80zhSUF-aNzL1Cj4956f2daGPkXlFf9rtcV84OO6jUgxBH-rya2rHTl6XcFaMiNEy8vGDClqA_-husK6BlsyOnwO=s200"  group-title="SHAHID TV",MBC ACTION (ME)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
 #EXTINF:-1 ch-id="RT (UK)" tvg-logo="https://1.bp.blogspot.com/-f9o8yjYLXCA/YOrJtGFphSI/AAAAAAAAASA/y32B_1KOUQUIW1AxidtTjA83m9lYPNMGQCLcBGAsYHQ/s200/images%25284%2529.png"  group-title="FOOTPRINT NET",RT (UK)
