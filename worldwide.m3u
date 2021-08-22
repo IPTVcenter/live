@@ -197,7 +197,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 ch-id="MLGC SRT (UK)" tvg-logo="https://1.bp.blogspot.com/-mOfs1V0SQec/YP1FN0JuWRI/AAAAAAAAAmc/WpfbbBo0w58bgXCl7_tK_BTcGGGqFXYhwCLcBGAsYHQ/s200/images%2B%25281%2529%25281%2529.png"  group-title="AKAMAI TV",MLGC SRT (UK)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8?Token=
-#EXTINF:-1 ch-id="HBTV 1 (US)" tvg-logo=" "  group-title="AKAMAI TV",HBTV 1 (US)
+#EXTINF:-1 ch-id="HBTV 1 (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZ_Xwmg3Mwsc86elNe9NjG05xbk2bOm3r4r_v7nMwlqu93yqHqg3SbpQSlOshUPjFT68vxoRA288SyI6wUkun77bSas1y2fGu1U1Fon6cg63D2axgWmnFGDYt-_s8KP3okrLVFrZlytycnEJqOCRy-NsJSLqkPrQRO4fXxI-aIz48ZUVy3oxCw_CB3=s200"  group-title="AKAMAI TV",HBTV 1 (US)
 https://betamg-i.akamaihd.net/hls/live/513429/bettingtv/0_tklzcakd_1_2/chunklist.m3u8?Token=
 #EXTINF:-1 ch-id="RACING AND SPORTS (UK)" tvg-logo="https://1.bp.blogspot.com/-jwY4arVuPY0/YP1IDl_menI/AAAAAAAAAmw/wXpzrKoYzFgyXpokDp0Kl1yiEqcMZoMywCLcBGAsYHQ/s200/rns-logo-white%25281%2529.png"  group-title="AKAMAI TV",RACING AND SPORTS (UK)
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8?Token=
@@ -224,9 +224,9 @@ http://pkr.cinepex.tv:8278/sonyyayhindikdin/playlist.m3u8
 http://pkr.cinepex.tv:8278/discoverykidshindikdin/playlist.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo="https://1.bp.blogspot.com/-8ACpjCCDeNY/YOrApjj-9CI/AAAAAAAAAPE/2w22Y7_ReDod9co7s2rMLKpchLbABx5KgCLcBGAsYHQ/s200/images%2B%25287%2529%25282%2529.jpeg"  group-title="CINEPEX TV",CARTOON NETWORK (IN)
 http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 ch-id="HUNGMA TV (IN)" tvg-logo=" "  group-title="CINEPEX TV",HUNGAMA TV (IN)
+#EXTINF:-1 ch-id="HUNGAMA TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvw_CCE0qPkMvYCtFZ7Va3xkaARmZK1ri43ZKC-ZZh3xSm3dHMR1SHwPx5YW7hGicuppyIXMZ8Cw1Fm8pUXWUNVS2BP-AcmulQjf7hdqLlHL53BG8p7y6L6HbHBsXxCUEG500BZSUhfPHcGNl2T48abcZfQU3CBr1MjCxZQJeLKgjPLdtz59OSB18p=s200"  group-title="CINEPEX TV",HUNGAMA TV (IN)
 http://pkr.cinepex.tv:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:-1 ch-id="DISNEY JR (IN)" tvg-logo=" "  group-title="CINEPEX TV",DISNEY JR (IN)
+#EXTINF:-1 ch-id="DISNEY JR (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiTtZ4wzkBFRnHKebXm7WaBHOXlb4QWTvwYTBdXK_0m23QyhUVz1lfjfIDZgAlSCIdP0UQ1xOzpINDwvCqItI8eKBMOrsGUZicBuBZEnDvg32B7KtqEVnhfhQGkg8CRTUnh3pBvDPuqoWgFfL7ZkG8V-sm1jYw8NR9Iwnla6XYyyii-PDr68Qi6W5In=s200"  group-title="CINEPEX TV",DISNEY JR (IN)
 http://pkr.cinepex.tv:8278/disneyjuniorhindikdin/playlist.m3u8
 
 #EXTINF:-1 ch-id="DY365 (IND)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="SMARTSTREAM",DY 365 (IN)
@@ -451,14 +451,14 @@ https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in/index.m3u8
 https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 #EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo="https://1.bp.blogspot.com/-NOBjZCLGszM/YP_pb-k4B2I/AAAAAAAAArU/K-zF7ya8SXgzs4DOUIzbRMn1x-HD3CJbgCLcBGAsYHQ/s200/download%25283%2529.png"  group-title="MX TV",ISHWAR TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
-#EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo=" "  group-title="MX TV",SHEMAROO TV (IN)
+#EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200"  group-title="MX TV",SHEMAROO TV (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 
-#EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo=" "  group-title="FEED PLAY",DISNEY CHANNEL (IN)
+#EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgds-kepoBbWYVDRqUwKf0aocXxRPKvlZBi_46roIYI4XYrarduKimOnqxVfYd1dJ0TUncButWeLRe2rnN_lvpW7l-u0MESDJEBMC78o6l6odljpcxtqoIsjv_94Tayyqzio9Aje4LmD5YayEFpPWKq1-Mz1PRySIGwAbvj-wveT2b8pcUq_QJdGwwQ=s200"  group-title="FEED PLAY",DISNEY CHANNEL (IN)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo=" "  group-title="FEED PLAY",MARVEL HQ (IN)
+#EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjK-3EYJmXJKIMzG_18jaDbJrD9CN_GsDF4Da4cPiPnnlvlJ1vSOhGl0WTNnDod6A0NJqtZ0DkhXd9fMpqZNSSy22S26tMexcvmAh2NzerUf5PBQroHvT757iTvm-RTirsLiCsRamQn6LKnIqbNnkXlk0ajUp_DvTz8FcDBWt0Z38ykDXwtGhqszGWv=s200"  group-title="FEED PLAY",MARVEL HQ (IN)
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:-1 ch-id="NICK HD (IN)" tvg-logo=" "  group-title="FEED PLAY",NICK HD (IN)
+#EXTINF:-1 ch-id="NICK HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjw0_4I25bldgfonT_2jfihjPaeJAoZhD_R-k_RwlDisddQf3OxzOMQrlh3XNYL6xIjDehkwnM3JQG3LG1k-vHWa5C8X6Q8mcotAINRqMYSTJAYMdkJjnaM7tFxj0M4W4zJ2gmO3BcYhnAb06nXShNd4Us4hoRzRPZc_26457Kzqp5aVfdhH2eqHFzb=s200"  group-title="FEED PLAY",NICK HD (IN)
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="FEED PLAY",COLORS HD (IN)
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
@@ -466,7 +466,7 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="FEED PLAY",SONY TEN 1 HD (IN)
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 ch-id="EUROSPOETS HD (UK)" tvg-logo=" "  group-title="FEED PLAY",EUROSPORTS HD (UK)
+#EXTINF:-1 ch-id="EUROSPORTS HD (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh8leFH4WiCnlPPRPmEIiSXgHEt38gTOJJM1iE_MFSbO6h4HcbNRW6pXSAdpVCMRRtFD8zCXieLg-dRsef07nFs9Fy3G6zbMWg1zaWCgu6HjeMeu0IGxrloeJHDPnJOub6ZoQwOyXcT2p0p0PdliGdjqdLtYpDuLMJ0exgRRvje-eKUHwGpFmQkBk1e=s200"  group-title="FEED PLAY",EUROSPORTS HD (UK)
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://1.bp.blogspot.com/-fxawguqORj8/YJ91HV0t7XI/AAAAAAAAAxQ/hdB9zscYt9I_HorBM1z6gSt4aqTrPhMhgCLcBGAsYHQ/s320/PicsArt_03-16-05.13.30.jpg"  group-title="FEED PLAY",AAJ TAK HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -520,7 +520,7 @@ https://livecdn.fptplay.net/qnetlive/bbcnew_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 ch-id="EUROSPORT 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-w7-KHjsvCeQ/YQkmbdXP9-I/AAAAAAAAA0k/w1Yyahmp4GMIinNgqWZUhnYPIAeTL4WbwCLcBGAsYHQ/s200/images%2B%25285%2529%25282%2529.png"  group-title="LIVE DOO",EUROSPORT 1 (UK)
 https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 ch-id="HISTORY (UK)" tvg-logo=" "  group-title="LIVE DOO",HISTORY (UK)
+#EXTINF:-1 ch-id="HISTORY (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9uiIQrRdewtY1dMvA8qF6jcwRFkvQCqSWx0NbxMo-sMb-PBahFELkqJ-Ea1P76oySn1UyqkDVA6BI7qUIoVYH8QJvUBHmXV2VaSmw9Kr9K3lwTKb8KyqqrmLz-rqKmLNqAWQPSxqrI4h-9TOF-IPP82kWjY9LSJX1J8t9_bwVA6lYk7vACfgrt6eV=s200"  group-title="LIVE DOO",HISTORY (UK)
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="GLOBAL IPTV",KIDS ZONE HD (PK)
@@ -545,7 +545,7 @@ http://164.68.124.111/acc.m3u8?Token=
 http://134.19.182.131:8080/edg8_2.m3u8?Token=
 #EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo="https://1.bp.blogspot.com/-HPEimn5FiKE/YQkpdx8A9dI/AAAAAAAAA08/xHSSWtmX16w92nkzKBxDY1DwFFga3ye5wCLcBGAsYHQ/s200/images.jpeg"  group-title="GLOBAL IPTV",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ch-id="HUNGAMA TV (IN)" tvg-logo="GLOBAL IPTV"  group-title="",HUNGAMA TV (IN)
+#EXTINF:-1 ch-id="HUNGAMA TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvw_CCE0qPkMvYCtFZ7Va3xkaARmZK1ri43ZKC-ZZh3xSm3dHMR1SHwPx5YW7hGicuppyIXMZ8Cw1Fm8pUXWUNVS2BP-AcmulQjf7hdqLlHL53BG8p7y6L6HbHBsXxCUEG500BZSUhfPHcGNl2T48abcZfQU3CBr1MjCxZQJeLKgjPLdtz59OSB18p=s200"  group-title="GLOBAL IPTV",HUNGAMA TV (IN)
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="GLOBAL IPTV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -924,12 +924,6 @@ http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29788
 #EXTINF:-1 ch-id="OSN DRAMA (ME)" tvg-logo="https://1.bp.blogspot.com/-aBCHpuWRP28/YN75Sh5X7XI/AAAAAAAAAMI/MiFQLUfEsDkUQPalHhtIEfa3jfUpW_0ZQCLcBGAsYHQ/s200/PicsArt_07-02-04.59.20.png"  group-title="GO IPTV",OSN DRAMA (ME)
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/29459.m3u8
 
-#EXTINF:-1 ch-id="NETFLIX MOVIES HD (ME)" tvg-logo="https://1.bp.blogspot.com/-3W31tNGmc7E/YO5_2H62yDI/AAAAAAAAAeo/RhzF-MP30cwJmI433F_10Jz2zSR-kX85wCLcBGAsYHQ/s200/PicsArt_07-08-05.38.33.png"  group-title="OMOHAK TV",NETFLIX MOVIES HD (ME)
-#EXTINF:-1 ch-id="NETFLIX KIDS HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX KIDS HD (ME)
-#EXTINF:-1 ch-id="NETFLIX HORROR HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX HORROR HD (ME)
-#EXTINF:-1 ch-id="NETFLIX DRAMA HD (ME)" tvg-logo="https://1.bp.blogspot.com/-gDexih-Pvms/YO6AAzgswtI/AAAAAAAAAes/IpX6WAYjjx4sCrFBMutLif1qIk0JaU3yACLcBGAsYHQ/s200/PicsArt_07-08-05.36.38.png"  group-title="OMOHAK TV",NETFLIX DRAMA HD (ME)
-#EXTINF:-1 ch-id="NETFLIX COMEDY HD (ME)" tvg-logo="https://1.bp.blogspot.com/-omKm5yMREzI/YO6Bss51F3I/AAAAAAAAAfM/x5689hDbnUULcRuveA2RM-TdwG_VD4rjgCLcBGAsYHQ/s200/PicsArt_07-08-05.37.48.png"  group-title="OMOHAK TV",NETFLIX COMEDY HD (ME)
-
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://1.bp.blogspot.com/-mdSCw1x86tI/YRZZSueRhMI/AAAAAAAAA24/nPoSNjjTywUMHWrs_0Tg9M51wPVB6UWUQCLcBGAsYHQ/s320/images%2B%25281%2529%252816%2529.jpeg"  group-title="IPTVESUN",BBC CBEEBIES (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6146
 #EXTINF:-1 ch-id="CBBC (UK)" tvg-logo="https://1.bp.blogspot.com/-1mJmi_0Ospc/YRZby-9hPOI/AAAAAAAAA3A/dOg1o951BkQhzTvOWEsnSwAzgGi-8_SrwCLcBGAsYHQ/s200/logo.png"  group-title="IPTVESUN",CBBC (UK)
@@ -948,11 +942,11 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6653
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6654
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://1.bp.blogspot.com/-yn4TPWFU2G4/YJ5V8wG7vII/AAAAAAAAAtI/1nkEh70mVqANdWYxSg-vnodmjV7olKzyQCLcBGAsYHQ/s0/IMG_20210308_172636.jpg"   group-title="IPTVESUN",ZEE AFLAM (ME)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6507
-#EXTINF:-1 ch-id="MBC MAX (ME)" tvg-logo=" "  group-title="IPTVESUN",MBC MAX (ME)
+#EXTINF:-1 ch-id="MBC MAX (ME)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhe1Hc1KGHypv7wZbF00I23J3oBsLW9uru2yu7zP0X9lhnOj760ojRyaKY9RanOI7K8XZGY5at-kts4MiEBE4qCC9XeW8-oLLqGoBleZubqg-55KY9tpWtydRPIGTEBDphbVSIKs2dji8-97E8zEtUPe3tijj1it6poBURGFQ8Ly-gTL8ImH-RuieAK=s200"  group-title="IPTVESUN",MBC MAX (ME)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5121
-#EXTINF:-1 ch-id="MBC ACTION (ME)" tvg-logo=" "  group-title="IPTVESUN",MBC ACTION (ME)
+#EXTINF:-1 ch-id="MBC ACTION (ME)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiV_VWlFmzMWlndS6LQURG4kwEpoQjvNrey7yL9V1woZGbiDTgqgYxdKnSMYI64gu3nboeZS-ofKFpuEzBkmzsj-U3cMsxQVGX3gihJ989Yp-kZU83hmmKC3t0HHIgIiG-DHrjjUlMnzr9_rgNbuXzSQXGYhAmDSXv-PvzeqGR6codRoPZ_oAhrhE1w=s200"  group-title="IPTVESUN",MBC ACTION (ME)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5122
-#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="IPTVESUN",ITV (UK)
+#EXTINF:-1 ch-id="ITV (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiK3U19u0xUjlxFwPsBcphlqTHMvVY2056nRz6yqHnFT1ASqgDLjoOYugq6eYomrFgM1W2nRNB0zBXBy2IMPnf6pUyX4Y1qXVWGoID7EvCDF5pGRePRSgSI5L3pGk9pwiD4RfXcZq7E935wba2oh5lvJsKlZSa3BBsfVrluhHqEezGjODFLaeu-8pdh=s200"  group-title="IPTVESUN",ITV (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/268
 #EXTINF:-1 ch-id="SKY SPORTS MIX (UK)" tvg-logo=" "  group-title="IPTVESUN",SKY SPORTS MIX (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
