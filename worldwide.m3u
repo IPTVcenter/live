@@ -32,6 +32,8 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
 
 https://www.ast.tv/stream/2/ultra.m3u8
 https://www.ast.tv/stream/1/master.m3u8
@@ -413,7 +415,7 @@ https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX TV",FILMY (IN)
@@ -524,6 +526,10 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-vrE2qLPiNkc/YP_tK49ei9I/AAAAAAAAAro/uSoOD5CeZWU_KQpInK4ZI7kWeawZCS0aQCLcBGAsYHQ/s200/download.jpeg"  group-title="FEED PLAY",COLORS CINEPLEX HD (IN)
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
+
+
 
 #EXTINF:-1 ch-id="PARAMOUNT (VN)" tvg-logo="https://1.bp.blogspot.com/-rGIb5g-rn5w/YQkjv_CVCrI/AAAAAAAAA0c/HiemyOBPkuw9KKgTwYtQSVMq8okOVUK5QCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="FPT PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
