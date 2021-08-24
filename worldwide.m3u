@@ -25,22 +25,32 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 ch-id="PTV HOME (PK)" tvg-logo="https://1.bp.blogspot.com/-Vr6mv7JQniI/YOrAWI2gn7I/AAAAAAAAAO0/A9F5FEMCDp40K2M3pB0411d9bmj4RyC6gCLcBGAsYHQ/s320/images%2B%25285%2529%25283%2529.jpeg"  group-title="WORLD IPTV",PTV HOME (PK)
 https://live.ptv.com.pk/live/stream/ptvhome/chunklist.m3u8
+#EXTINF:-1 ch-id="A (UK)" tvg-logo=" "  group-title=" ", (UK)
 http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 http://vspnmy3kvpzu7q.data.mediastore.eu-central-1.amazonaws.com/liveHD.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-#EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 2 (UK)
+#EXTINF:-1 ch-id="AST TV 2 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 2 (UK)
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 1 (UK)
 https://www.ast.tv/stream/1/master.m3u8
 
 #EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png"  group-title="TVFLIX",STAR WORLD HD (IN)
 http://tvflix03.ddns.net/ENC-2/playlist.m3u8
+
+
 http://tvflix03.ddns.net/ENC-3/playlist.m3u8
 http://tvflix03.ddns.net/ENC-4/playlist.m3u8
 http://tvflix03.ddns.net/ENC-4/playlist.m3u8
