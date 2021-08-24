@@ -34,9 +34,32 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-
+#EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 2 (UK)
 https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 1 (UK)
 https://www.ast.tv/stream/1/master.m3u8
+
+#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png"  group-title="TVFLIX",STAR WORLD HD (IN)
+http://tvflix03.ddns.net/ENC-2/playlist.m3u8
+http://tvflix03.ddns.net/ENC-3/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+http://tvflix03.ddns.net/ENC-4/playlist.m3u8
+
+
 
 #EXTINF:-1 ch-id="LIFESTYLE TV (US)" tvg-logo="https://1.bp.blogspot.com/-HUwzmUzvzfM/YOq-0Yctk-I/AAAAAAAAAOI/oIRgNHi1GwsiSKJ3J-oZcHwLmdncbSPvgCLcBGAsYHQ/s320/PicsArt_07-11-03.07.34.png"  group-title="WORLD IPTV",LIFESTYLE TV (US)
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
@@ -53,9 +76,9 @@ https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 
-
-
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="TULIX TV", (US)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="TULIX TV", (US)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
 
@@ -581,25 +604,36 @@ https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 ch-id="HISTORY (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9uiIQrRdewtY1dMvA8qF6jcwRFkvQCqSWx0NbxMo-sMb-PBahFELkqJ-Ea1P76oySn1UyqkDVA6BI7qUIoVYH8QJvUBHmXV2VaSmw9Kr9K3lwTKb8KyqqrmLz-rqKmLNqAWQPSxqrI4h-9TOF-IPP82kWjY9LSJX1J8t9_bwVA6lYk7vACfgrt6eV=s200"  group-title="LIVE DOO",HISTORY (UK)
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 
-http://allutv.xyz/zee.php?q=0-9-255
+#EXTINF:-1 ch-id="COLORS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="IHUB",COLORS (ASIA)
+http://cdn.ihub.live:8080/Colors/index.m3u8
+http://cdn.ihub.live:8080/ZeeTV/playlist.m3u8
+http://cdn.ihub.live:8080/SonyPix/index.m3u8
+http://cdn.ihub.live:8080/ZeeCinema/index.m3u8
+http://cdn.ihub.live:8080/SonyYay/playlist.m3u8
+http://cdn.ihub.live:8080/TLCHD/index.m3u8
+http://cdn.ihub.live:8080/SonySix/playlist.m3u8
+http://cdn.ihub.live:8080/SonyTen1/index.m3u8
+http://cdn.ihub.live:8080/SonyTen2/index.m3u8
+http://cdn.ihub.live:8080/SonyTen3/index.m3u8
 
 
+#EXTINF:-1 ch-id=" (US)" tvg-logo="ROKU"  group-title=" ", (US)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6248/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
 
-
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 
-
-
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
@@ -864,6 +898,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-nD9u2qNibps/YReloVq6yJI/AAAAAAAAA3w/3xPIEyUiZQgYGtAGfoYOCskxg6673C05QCLcBGAsYHQ/s200/images.png"  group-title="ZEE5",ZEE MUSIC (IN)
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:-1 ch-id="TEZ (IN)" tvg-logo=" "  group-title="ZEE5",TEZ (IN)
+http://allutv.xyz/zee.php?q=0-9-255
+http://allutv.xyz/zee.php?q=0-9-348
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-209
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-tvhd_0
 
 #EXTINF:-1 ch-id="HALOW MOVIES HD UK)" tvg-logo="https://1.bp.blogspot.com/-zarUbaZil9E/YN1XbywcZkI/AAAAAAAAAII/CQTCB06AzgYVobC8WMsfL2b1GdQ0kqfVQCLcBGAsYHQ/s320/PicsArt_07-01-11.17.21.png"  group-title="ECHO TV",HALOW MOVIES HD (UK)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/138.m3u8
