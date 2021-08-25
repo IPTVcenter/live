@@ -661,36 +661,36 @@ http://cdn.ihub.live:8080/SonyTen2/index.m3u8
 #EXTINF:-1 ch-id="SONY TEN 3 (IN)" tvg-logo=" "  group-title="IHUB",SONY TEN 3 (IN)
 http://cdn.ihub.live:8080/SonyTen3/index.m3u8
 
-#EXTINF:-1 ch-id=" (US)" tvg-logo="ROKU"  group-title=" ", (US)
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ROKU", (US)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ROKU", (US)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="EDMONST NET", (ME)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="EDMONST NET", (ME)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6248/index.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="EDMONST NET", (ME)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (US)
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="DAI", (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="GLOBAL IPTV",KIDS ZONE HD (PK)
@@ -719,15 +719,15 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="GLOBAL IPTV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://203.154.243.89:11208
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://58.65.171.202:8000/play/4334/index.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://185.99.253.46:8000/play/a02u
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://45.5.8.78:8000/play/a03c
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8.kokot.di.o.ostanes.vlad.nefilim
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
