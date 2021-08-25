@@ -1494,6 +1494,19 @@ http://a3.smashmalta.com:82/live/smash/smash/18.ts
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17206
 #EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo="https://1.bp.blogspot.com/-RpUmMIMVruQ/YQkoIE3BKzI/AAAAAAAAA0s/Q-GT5AMwqRkoersP3zb9JyxTaswO8xKUACLcBGAsYHQ/s200/PicsArt_08-03-04.57.08.jpg"  group-title="USA IPTV",TENNIS TV (US)
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
+
+#EXTINF:-1 ch-id="GEO TV (UK)" tvg-logo=" "  group-title="LUCK-ONLINE",GEO TV (UK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/674
+#EXTINF:-1 ch-id="HUM (UK)" tvg-logo=" "  group-title="LUCK-ONLINE",HUM (UK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/936
+#EXTINF:-1 ch-id="ARY DIGITAL HD (UK)" tvg-logo=" "  group-title="LUCK-ONLINE",ARY DIGITAL HD (UK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/701
+#EXTINF:-1 ch-id="APNA CHANNEL (PK)" tvg-logo=" "  group-title="LUCK-ONLINE",APNA CHANNEL (PK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/734
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "  group-title=" ", ()
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/597
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/790
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 
 
@@ -1511,10 +1524,7 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+
+
+
 #EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
