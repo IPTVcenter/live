@@ -661,36 +661,34 @@ http://cdn.ihub.live:8080/SonyTen2/index.m3u8
 #EXTINF:-1 ch-id="SONY TEN 3 (IN)" tvg-logo=" "  group-title="IHUB",SONY TEN 3 (IN)
 http://cdn.ihub.live:8080/SonyTen3/index.m3u8
 
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ROKU", (US)
+#EXTINF:-1 ch-id="EURO NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="ROKU",EURO NEWS (US)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ROKU", (US)
+#EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="ROKU",LOVE NATURE (US)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="EDMONST NET", (ME)
+#EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo=" "  group-title="EDMONST NET",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="EDMONST NET", (ME)
+#EXTINF:-1 ch-id="REALITYKINGS (UK)" tvg-logo=" "  group-title="EDMONST NET",REALITYKINGS (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6248/index.m3u8
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title="EDMONST NET", (ME)
+#EXTINF:-1 ch-id="PENTHOUSE QUICKIES (UK)" tvg-logo=" "  group-title="EDMONST NET",PENTHOUSE QUICKIES (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="BROADCAST", (US)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
+#EXTINF:-1 ch-id="CHIVE TV (US)" tvg-logo=" "  group-title="BROADCAST",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="BROADCAST", (UK)
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="BROADCAST", (US)
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="DAI", (US)
+#EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="DAI",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="DAI", (US)
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
+#EXTINF:-1 ch-id="CINE LIFE (US)" tvg-logo=" "  group-title="DAI",CINE LIFE (US)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
+#EXTINF:-1 ch-id="COMET (US)" tvg-logo=" "  group-title="DAI",COMET (US)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="DAI", (UK)
+#EXTINF:-1 ch-id="CBSN (US)" tvg-logo=" "  group-title="DAI",CBSN (US)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="GLOBAL IPTV",KIDS ZONE HD (PK)
@@ -721,13 +719,13 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://203.154.243.89:11208
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
+#EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",DISCOVERY HD HGTV (UK)
 http://58.65.171.202:8000/play/4334/index.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
+#EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",FOOD NETWORK (UK)
 http://185.99.253.46:8000/play/a02u
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
+#EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",VENUS (UK)
 http://45.5.8.78:8000/play/a03c
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
+#EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",EXTASY HD (UK)
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8.kokot.di.o.ostanes.vlad.nefilim
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
@@ -848,7 +846,7 @@ http://51.15.0.141:88/fox_movies/index.m3u8
 http://51.15.0.141:88/baby_tv/index.m3u8
 #EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="GLOBAL IPTV",AXN HD (UK)
 http://51.15.0.141:88/axn/index.m3u8
-#EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="GLOBAL TV",REDLIGHT HD (UK)
+#EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",REDLIGHT HD (UK)
 http://51.15.0.141:88/redlightHD/index.m3u8
 
 #EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="TEST IPTV",BBC NEWS (UK)
@@ -973,13 +971,19 @@ https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeecafehd
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-aajtak
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo="https://1.bp.blogspot.com/-Fy2nyi63qLA/YJ8VC693_oI/AAAAAAAAAwY/6JvP557RWck7yGqLeAEuUd-oSYWatFWVACLcBGAsYHQ/s206/PicsArt_05-15-05.50.53.png"   group-title="ZEE5",ZEE ZEST HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-348
+#EXTINF:-1 ch-id="TEZ (IN)" tvg-logo=" "  group-title="ZEE5",TEZ (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-255
+#EXTINF:-1 ch-id="DIVYA TV (IN)" tvg-logo=" "  group-title="ZEE5",DIVYA TV (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-divyatv
 #EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png"  group-title="ZEE5",INDIA TODAY (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-indiatoday
+#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo=" "  group-title="ZEE5",DD NEWS (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddnews
+#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo=" "  group-title="ZEE5",DD INDIA (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddindia
+#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo=" "  group-title="ZEE5",DD KISAN (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddkisan
+#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="ZEE5",ZEE SALAAM (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeesalaam
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ZEE5",&TV HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-tvhd_0
