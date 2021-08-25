@@ -960,27 +960,48 @@ https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 http://allutv.xyz/zee.php?q=0-9-255
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo="https://1.bp.blogspot.com/-Fy2nyi63qLA/YJ8VC693_oI/AAAAAAAAAwY/6JvP557RWck7yGqLeAEuUd-oSYWatFWVACLcBGAsYHQ/s206/PicsArt_05-15-05.50.53.png"   group-title="ZEE5",ZEE ZEST HD (IN)
 http://allutv.xyz/zee.php?q=0-9-348
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ZEE5",ZEE TV (IN)
 http://allutv.xyz/zee.php?q=0-9-zeetv
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ZEE5",ZEE TV HD (IN)
 http://allutv.xyz/zee.php?q=0-9-zeetvhd
+#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo="https://1.bp.blogspot.com/-cbVp67EtzxY/YMdCki2cT4I/AAAAAAAABLs/AFfWfQ2JR-cAOR3E-9ClesErMAt5MikZQCLcBGAsYHQ/s320/images%2B%25281%2529%25284%2529.png"   group-title="GO IPTV",ZEE ANMOL (IN)
 http://allutv.xyz/zee.php?q=0-9-zeeanmol
 #EXTINF:-1 ch-id="&EXPLORE HD (IN)" tvg-logo=" "  group-title="ZEE5",&EXPLORE HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-209
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ZEE5",ZEE TV (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetv
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ZEE5",ZEE TV HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetvhd
+#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo="https://1.bp.blogspot.com/-cbVp67EtzxY/YMdCki2cT4I/AAAAAAAABLs/AFfWfQ2JR-cAOR3E-9ClesErMAt5MikZQCLcBGAsYHQ/s320/images%2B%25281%2529%25284%2529.png"   group-title="GO IPTV",ZEE ANMOL (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeeanmol
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="ZEE5",ZING (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zing
+#EXTINF:-1 ch-id="WION (IN)" tvg-logo="https://1.bp.blogspot.com/-zhLWeHSVJg4/YQfb9ICkHsI/AAAAAAAAAyc/G9DmQdbQ9UcGKfleMsZ_XIeKIGl5DmAMgCLcBGAsYHQ/s200/1200px-WION_news_Logo.svg.png"  group-title="ZEE5",WION (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-wion
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-ygiSas8IyJI/YMdB4dxrcwI/AAAAAAAABLc/kuphDcjnoqUcsWlNho4cW2Jnbu236j15ACLcBGAsYHQ/s320/IMG_20210308_162943.jpg"   group-title="ZEE5",ZEE CINEMA (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeecinema
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="ZEE5",ZEE CINEMA HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeecinemahd
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg"   group-title="ZEE5",ZEE NEWS (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeenews
+#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo="https://1.bp.blogspot.com/-wvMvwQfSjew/YMdDZ0bf0VI/AAAAAAAABL0/Ujii02MCZbkVblHccTaz4KJPwOqxuQQNQCLcBGAsYHQ/s320/09zeebusinesszeebusiness.jpg"   group-title="ZEE5",ZEE BUSINESS (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeebusiness
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="ZEE5",ZEE ACTION (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeeaction
+#EXTINF:-1 ch-id="ZEE BOLLYWOOD (IN)" tvg-logo="https://1.bp.blogspot.com/-o3-eFbk52xU/YMc9inAxOxI/AAAAAAAABJg/XSk5Rccqwuwfg8HmRdZuGc6XK6LHveqwQCLcBGAsYHQ/s320/download%25281%2529.jpeg"   group-title="ZEE5",ZEE BOLLYWOOD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeeclassic
+#EXTINF:-1 ch-id="ZEE CAFE HD (IN)" tvg-logo="https://1.bp.blogspot.com/-U8q6EyVygn8/YJ9y5JH_2II/AAAAAAAAAw0/Bje-1ljeg6k2n_XstF0Zmkh_76Jr6JRFwCLcBGAsYHQ/s0/PicsArt_05-15-06.27.36.png"  group-title="ZEE5",ZEE CAFE HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeecafehd
+#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://1.bp.blogspot.com/-IAStdDQeMlM/YOwWnTAWiwI/AAAAAAAAAXs/tdBkaDx-PNIItP-63cyog5YabqBjjOBfACLcBGAsYHQ/s200/AT-New-Logo-800x600.png"  group-title="ZEE5",AAJ TAK (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-aajtak
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-255
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-divyatv
-
-
+#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png"  group-title="ZEE5",INDIA TODAY (IN)
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-indiatoday
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddnews
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddindia
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddkisan
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeesalaam
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ZEE5",&TV HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-tvhd_0
 
