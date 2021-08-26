@@ -1488,26 +1488,122 @@ http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/701
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/734
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "  group-title=" ", ()
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/597
-#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo=" "  group-title="LUCK-ONLINE", (ME)
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/790
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="PTV WORLD (PK)" tvg-logo=" "  group-title="LUCK-ONLINE",PTV WORLD (PK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/680
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1364
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/598
+#EXTINF:-1 ch-id="BIG BOSS OTT (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1368
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/584
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/596
+#EXTINF:-1 ch-id="AAPKA COLORS HD (US)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/594
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1365
+#EXTINF:-1 ch-id="USTAV PLUS HD (IN)" tvg-logo=" "  group-title="LUCK-ONLINE",USTAV PLUS HD (UK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/587
+#EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/586
+#EXTINF:-1 ch-id="USTAV BHARAT (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/657
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/742
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/592
+#EXTINF:-1 ch-id="SONY HD (US)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/593
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/440
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1037
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/603
+#EXTINF:-1 ch-id="SONY MAX (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/601
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1366
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/747
+#EXTINF:-1 ch-id="SONY MAX 2 (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/602
+#EXTINF:-1 ch-id="USTAV GOLD HD (UK)" tvg-logo=" "  group-title=" ",USTAV GOLD HD (UK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/604
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/946
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/605
+#EXTINF:-1 ch-id="MOVIES ACTIVE HD (IN)" tvg-logo=" "  group-title="LUCK-ONLINE",MOVIES ACTIVE HD (IN)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/630
+#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IN)" tvg-logo=" "  group-title="LUCK-ONLINE",STAR GOLD SELECT HD (IN)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/631
+#EXTINF:-1 ch-id="MINIPLEX (IN)" tvg-logo=" "  group-title=" ", (IN)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1281
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/599
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1000
+#EXTINF:-1 ch-id="STAR USTAV (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/373
+#EXTINF:-1 ch-id="COLORS RISHTEY (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1287
+#EXTINF:-1 ch-id="COLORS CINEPLEX (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/623
+#EXTINF:-1 ch-id="&PICTURES HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/618
+#EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1311
+#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/621
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/632
+#EXTINF:-1 ch-id="ZEE CINEMA (US)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/583
+#EXTINF:-1 ch-id="MTV HD+ (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/600
+#EXTINF:-1 ch-id="ZOOM (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/612
+#EXTINF:-1 ch-id="VUNES TV (UK)" tvg-logo=" "  group-title=" ",VENUS TV (UK)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1995
+#EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo=" "  group-title=" ", (ME)
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1372
+
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
-
-
-#EXTINF:-1 ch-id=" (ME)" tvg-logo=" "  group-title=" ", (ME)
