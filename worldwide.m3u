@@ -737,6 +737,8 @@ http://45.5.8.78:8000/play/a03c
 #EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",EXTASY HD (UK)
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8.kokot.di.o.ostanes.vlad.nefilim
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
+
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
