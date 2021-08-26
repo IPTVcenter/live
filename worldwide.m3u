@@ -1573,10 +1573,22 @@ http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1995
 #EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo=" "  group-title=" ", (ME)
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1372
 
+
+
+#EXTINF:-1 ch-id="3 ABN KIDS (US)" tvg-logo="https://1.bp.blogspot.com/-yRP_zSm87ic/YJ-q-xDSL0I/AAAAAAAAAx0/51TeAry5Ypwz9ASdLQyPYkYqxJwiEckjgCLcBGAsYHQ/w200-h92/PicsArt_05-15-01.36.40.png"   group-title="USA IPTV",3 ABN KIDS (US)
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17206
+#EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo="https://1.bp.blogspot.com/-RpUmMIMVruQ/YQkoIE3BKzI/AAAAAAAAA0s/Q-GT5AMwqRkoersP3zb9JyxTaswO8xKUACLcBGAsYHQ/s200/PicsArt_08-03-04.57.08.jpg"  group-title="USA IPTV",TENNIS TV (US)
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
+#EXTINF:-1 ch-id="ANIMAL PLANET (US)" tvg-logo=" "  group-title="LUCK-ONLINE",ANIMAL PLANET (US)
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17257
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (ME)
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17
+#EXTINF:-1 ch-id="BLOOMBERG (US)" tvg-logo=" "  group-title=" ", (ME)
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17301
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+
+
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
