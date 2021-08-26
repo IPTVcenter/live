@@ -41,6 +41,10 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 ch-id="GLOBAL NEWS (US)" tvg-logo=" "  group-title="WORLD IPTV",GLOBAL NEWS (US)
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
+
+
 
 #EXTINF:-1 ch-id="AST TV 2 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 2 (UK)
 https://www.ast.tv/stream/2/ultra.m3u8
@@ -240,6 +244,8 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (US)
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
+
 
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://1.bp.blogspot.com/-yn4TPWFU2G4/YJ5V8wG7vII/AAAAAAAAAtI/1nkEh70mVqANdWYxSg-vnodmjV7olKzyQCLcBGAsYHQ/s0/IMG_20210308_172636.jpg"   group-title="AKAMAI TV",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -305,6 +311,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
 #EXTINF:-1 ch-id="EXPO (US)" tvg-logo=" "  group-title="AKAMAI TV",EXPO (US)
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="CINEPEX TV",MARVEL HQ (IN)
 http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
@@ -382,6 +389,8 @@ https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="SAMSUNG IPTV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 
+
+https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
 #EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo="https://1.bp.blogspot.com/-2EjBwYc1amI/YP1MGMkRqcI/AAAAAAAAAnw/U9tN5XE4d4QErhASB_V393Hs_Y19DtuUgCLcBGAsYHQ/s200/images%2B%25289%2529%25282%2529.jpeg"  group-title="MULTI TV",IBC 24 (IN)
 https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
 #EXTINF:-1 ch-id="ENTER 10 (IN)" tvg-logo="https://1.bp.blogspot.com/--ytYzUxFDeg/YOvz-gbFrkI/AAAAAAAAAWE/fWsuQkKiANsJMGBqd3cxhDpLMCO1wpzwgCLcBGAsYHQ/s200/PicsArt_07-12-01.18.53.jpg"  group-title="MULTI TV",ENTER 10 (IN)
@@ -727,6 +736,7 @@ http://185.99.253.46:8000/play/a02u
 http://45.5.8.78:8000/play/a03c
 #EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",EXTASY HD (UK)
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8.kokot.di.o.ostanes.vlad.nefilim
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
