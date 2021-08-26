@@ -44,8 +44,6 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 
-
-
 #EXTINF:-1 ch-id="AST TV 2 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 2 (UK)
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 1 (UK)
@@ -246,7 +244,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
 http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
 
-
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://1.bp.blogspot.com/-yn4TPWFU2G4/YJ5V8wG7vII/AAAAAAAAAtI/1nkEh70mVqANdWYxSg-vnodmjV7olKzyQCLcBGAsYHQ/s0/IMG_20210308_172636.jpg"   group-title="AKAMAI TV",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 ch-id="3 ABN KIDS (US)" tvg-logo="https://1.bp.blogspot.com/-yRP_zSm87ic/YJ-q-xDSL0I/AAAAAAAAAx0/51TeAry5Ypwz9ASdLQyPYkYqxJwiEckjgCLcBGAsYHQ/w200-h92/PicsArt_05-15-01.36.40.png"   group-title="AKAMAI TV",3 ABN KIDS (US)
@@ -389,7 +386,6 @@ https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="SAMSUNG IPTV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 
-
 https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
 #EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo="https://1.bp.blogspot.com/-2EjBwYc1amI/YP1MGMkRqcI/AAAAAAAAAnw/U9tN5XE4d4QErhASB_V393Hs_Y19DtuUgCLcBGAsYHQ/s200/images%2B%25289%2529%25282%2529.jpeg"  group-title="MULTI TV",IBC 24 (IN)
 https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
@@ -484,6 +480,7 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 ch-id="TNA (US)" tvg-logo=" "  group-title="CLOUDFRONT NET",TNA (US)
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
+http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
@@ -739,7 +736,6 @@ http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8.kokot.di.o.ostanes.v
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
 
-
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo="https://1.bp.blogspot.com/-tnSjEx3FH98/YQktsw-ODzI/AAAAAAAAA1M/134jCv3fdvEs7aIPljCrDJuLb-5P0tNGwCLcBGAsYHQ/s200/PicsArt_08-03-05.20.54.jpg"  group-title="LIVE",SKY SPORTS CRICKET (UK)
@@ -784,33 +780,35 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="BDIX TV",SONY TEN 1 HD (IN)
-http://209.126.120.91/hls/ten1.m3u8
+http://173.199.120.51/hls/ten1.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-99BKfD9PBPQ/YRemh1YfodI/AAAAAAAAA4A/5qqvGjnhT_4_KP17JNbgI7Ev3v1Q-jbnACLcBGAsYHQ/s200/SonyTEN2_Masthead_Logo.png"  group-title="BDIX TV",SONY TEN 2 (IN)
-http://209.126.120.91/hls/ten2.m3u8
+http://173.199.120.51/hls/ten2.m3u8
 #EXTINF:-1 ch-id="&TV (IN)" tvg-logo="https://1.bp.blogspot.com/-jImgLtNoOE8/YRenJeyjdqI/AAAAAAAAA4I/1T28D1EetdYYnkPQdZtT2ehXIsrPpfTVQCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="BDIX TV",&TV (IN)
-http://209.126.120.91/hls/andtv.m3u8
+http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-ImHUelBQ26w/YQaP2sRqNoI/AAAAAAAAAv8/0MW6hVZarQMnudNpaWwwFX-1PdIKvtYPACLcBGAsYHQ/s200/Zing_300x300.png"  group-title="BDIX TV",ZING (IN)
-http://209.126.120.91/hls/zing.m3u8
+http://173.199.120.51/hls/zing.m3u8
 #EXTINF:-1 ch-id="COLORS (IN)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="BDIX TV",COLORS (IN)
-http://209.126.120.91/hls/chc.m3u8
+http://173.199.120.51/hls/chc.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (IN)" tvg-logo="https://1.bp.blogspot.com/-3xvP4LRQ4MA/YReoDvX0saI/AAAAAAAAA4Q/l7MF9wNHtT4-XmyVMH3SYdGMAKLTBW6VQCLcBGAsYHQ/s200/PicsArt_08-14-04.54.42.jpg"  group-title="BDIX TV",STAR PLUS (IN)
-http://209.126.120.91/hls/chsp.m3u8
+http://173.199.120.51/hls/chsp.m3u8
 #EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-sdJ9hyWUGS4/YQfVEz0XeSI/AAAAAAAAAxE/GqQ23nCWRKElnq970RmxFpmllxrt14rSwCLcBGAsYHQ/s200/images.jpeg"  group-title="BDIX TV",ZEE NEWS (IN)
-http://209.126.120.91/hls/zeenews.m3u8
+http://173.199.120.51/hls/zeenews.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="BDIX TV",SONY TV (IN)
-http://209.126.120.91/hls/chs.m3u8
+http://173.199.120.51/hls/chs.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="BDIX TV",ARY NEWS (PK)
-http://209.126.120.91/hls/arynews.m3u8
+http://173.199.120.51/hls/arynews.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="BDIX TV",BBC WORLD NEWS (UK)
-http://209.126.120.91/hls/bbcnews.m3u8
+http://173.199.120.51/hls/bbcnews.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CIcJ9Y0whPw/YReq1FJTfeI/AAAAAAAAA4s/KjIIgk_dcjcF-S_lg1ySvqEziqCPTXzsgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="BDIX TV",STAR SPORTS 2 HD (IN)
-http://209.126.120.91/hls/chss2.m3u8
+http://173.199.120.51/hls/chss2.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-5rhJCS4e6A0/YReqpBO7mGI/AAAAAAAAA4o/juC9pqEjR-47YGkwfVdU2xOcKXi8v09KgCLcBGAsYHQ/s200/images.jpeg"  group-title="BDIX TV",STAR SPORTS 1 HD (IN)
-http://209.126.120.91/hls/chss1.m3u8
+http://173.199.120.51/hls/chss1.m3u8
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="BDIX TV",ARY DIGITAL (PK)
-http://209.126.120.91/hls/arydigital.m3u8
+http://173.199.120.51/hls/arydigital.m3u8
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="BDIX TV",9XM (IN)
-http://209.126.120.91/hls/9xm.m3u8
+http://173.199.120.51/hls/9xm.m3u8
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="BDIX TV",HBO (ASIA)
+http://173.199.120.51/hls/hbo.m3u8
 
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="STREAMS",COLORS HD (IN)
