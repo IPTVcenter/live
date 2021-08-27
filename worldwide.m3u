@@ -309,6 +309,7 @@ https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
 #EXTINF:-1 ch-id="EXPO (US)" tvg-logo=" "  group-title="AKAMAI TV",EXPO (US)
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630026751~hmac=2cfb5060cf019ef8c0eb178225a24639eb11914977e8d1f3c1cc0cdb45ffeb54
 
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="CINEPEX TV",MARVEL HQ (IN)
 http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
@@ -607,7 +608,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo="https://1.bp.blogspot.com/-IhNKColG-HQ/YOwegXoAaXI/AAAAAAAAAY0/SB9xqMj5vOYsMxLQ6BRAnvvCIxVeJtHbwCLcBGAsYHQ/s200/images.png"  group-title="FPT PLAY",TLC (ASIA)
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC EARTH (ASIA)" tvg-logo="https://1.bp.blogspot.com/-t91CCkj1VlU/YOwfXhpS9AI/AAAAAAAAAY8/iB5B5iKBaNsLBxH4e0G6Oxp0VNVp2Dv0ACLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="FPT PLAY",BBC EARTH (ASIA)
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="NAT GEO HD (ASIA)" tvg-logo="https://1.bp.blogspot.com/-UZKwV79pAw8/YOwhJ7aJkeI/AAAAAAAAAZE/i23-wxQzWTY0oi6lmiR4G7hESX2Gv8BRwCLcBGAsYHQ/s200/PicsArt_07-12-04.31.37.png"  group-title="FPT PLAY",NAT GEO HD (ASIA)
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="FPT PLAY",FOX MOVIES (ASIA)
@@ -621,7 +622,7 @@ https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 ch-id="OUTDOOR CHANNEL (ASIA)" tvg-logo="https://1.bp.blogspot.com/-Spfoa-4v6xA/YOwiy6qA9nI/AAAAAAAAAZc/fs004Ej2YlozPOe7sIeMvdwhV6kNEa1gQCLcBGAsYHQ/s200/images%2B%25281%2529.png"  group-title="FPT PLAY",OUTDOOR CHANNEL (ASIA)
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="DISCOVERY ASIA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vot4sSl5X9Q/YOwmlexjkMI/AAAAAAAAAZ0/TAmdKrV72ncVaYIQO0ZyUN1XhnQIKbmEwCLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="FPT PLAY",DISCOVERY ASIA (ASIA)
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="BOOMERANG (ASIA)" tvg-logo="https://1.bp.blogspot.com/-z52FL-ZFk_U/YN8E-sNqwcI/AAAAAAAAANo/sF3gGeZ98Io-f9uoJ2aIWTjhjRw5kYpnACLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="FPT PLAY",BOOMERANG (ASIA)
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 ch-id="CHANNEL V HD (ASIA)" tvg-logo="https://1.bp.blogspot.com/-QCY1QRGGxYA/YOwozKudqqI/AAAAAAAAAZ8/v7fQhyeXAFA1E3UiYGSZAi2VUEUekW2XACLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="FPT PLAY",CHANNEL V HD (ASIA)
@@ -633,13 +634,17 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC LIFESTYLE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-aHucX9eDgbM/YOwqjBy7VGI/AAAAAAAAAaU/uGTfIoVQrpwC2wdr1MbLSKb6RHYsIxstACLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="FPT PLAY ",BBC LIFESTYLE (ASIA)
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="FPT PLAY",DISCOVERY (ASIA)
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo="https://1.bp.blogspot.com/-U7XXxUIj2Us/YOwsVUQaWMI/AAAAAAAAAac/YFDOtwS6kq4Yo42vZwqjgrTbvd-k_timACLcBGAsYHQ/s200/images%2B%25285%2529.jpeg"  group-title="FPT PLAY",BABY FIRST (ASIA)
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="FPT PLAY ",BBC WORLD NEWS (ASIA)
 https://livecdn.fptplay.net/qnetlive/bbcnew_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="CINEMAX (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjZIR1G3ccHXeM2KZcDL_bCuugKuTYqGgu3QLcKU0SUx1X5LsAt2WZCrzca_U4RaoPNgbkt6FZQYsZtBUVWPPIaSNZr62bvJ53GOy3PYFqnAHB6ED4AbYVtinxoo26MwHcW00eggQhIKgl2RSa8kk0QX7GLi-BmtSpJ8h8K32nrEBPVfKR-SkhMybC_=s200"  group-title="FPT PLAY",CINEMAX (ASIA)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/master.m3u8
+#EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-NleWSEb_YOA/YOwpb4StdXI/AAAAAAAAAaE/mO5W2USq7cYJgtCQ19TX2KiSDDvdA8kugCLcBGAsYHQ/s200/FOX_Sports_logo.svg%2B%25281%2529.png"  group-title="FPT PLAY",FOX SPORTS (ASIA)
+https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
+
 
 #EXTINF:-1 ch-id="EUROSPORT 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-w7-KHjsvCeQ/YQkmbdXP9-I/AAAAAAAAA0k/w1Yyahmp4GMIinNgqWZUhnYPIAeTL4WbwCLcBGAsYHQ/s200/images%2B%25285%2529%25282%2529.png"  group-title="LIVE DOO",EUROSPORT 1 (UK)
 https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
