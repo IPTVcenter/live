@@ -398,6 +398,7 @@ https://insighttv-samsungau.amagi.tv/playlist.m3u8
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -668,6 +669,9 @@ https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
 https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 ch-id="HISTORY (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9uiIQrRdewtY1dMvA8qF6jcwRFkvQCqSWx0NbxMo-sMb-PBahFELkqJ-Ea1P76oySn1UyqkDVA6BI7qUIoVYH8QJvUBHmXV2VaSmw9Kr9K3lwTKb8KyqqrmLz-rqKmLNqAWQPSxqrI4h-9TOF-IPP82kWjY9LSJX1J8t9_bwVA6lYk7vACfgrt6eV=s200"  group-title="LIVE DOO",HISTORY (UK)
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8?Token=Samitvhd.com
+
+
 
 #EXTINF:-1 ch-id="COLORS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="IHUB",COLORS (ASIA)
 http://cdn.ihub.live:8080/Colors/index.m3u8
@@ -766,8 +770,9 @@ http://200.194.238.229:8000/udp/227.0.0.64:1234
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 http://89.187.185.100/WWE/index.m3u8
 http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8?Token=Samitvhd.com
-
+http://103.153.39.34:8000/play/a05r/index.m3u8 
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+http://30a-tv.com/beachy.m3u8
 
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
@@ -844,6 +849,7 @@ http://173.199.120.51/hls/9xm.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="BDIX TV",HBO (ASIA)
 http://173.199.120.51/hls/hbo.m3u8
 http://173.199.120.51/hls/ptv.m3u8
+http://103.153.39.34:8000/play/a05r/index.m3u8 
 
 
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
