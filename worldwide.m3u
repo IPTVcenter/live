@@ -143,6 +143,7 @@ http://stream.tvtap.net:8081/live/us-fx.stream/playlist.m3u8
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 ch-id="BEIN SPORTS 1 (ME)" tvg-logo="https://1.bp.blogspot.com/-JeIAg8Zs-90/YP1AF1KDEjI/AAAAAAAAAlU/av-9hWPgtb4PwX5JZLkWuinCBUb5-2JGgCLcBGAsYHQ/s200/images%2B%25284%2529%25284%2529.jpeg"  group-title="TVTAP",BEIN SPORTS 1 (ME)
 http://stream.tvtap.net:8081/live/bein1.stream/playlist.m3u8
+http://stream.tvtap.net:8081/live/us-cinemaxaction.stream/playlist.m3u8
 
 #EXTINF:-1 ch-id="PTV HOME (PK)" tvg-logo="https://1.bp.blogspot.com/-Vr6mv7JQniI/YOrAWI2gn7I/AAAAAAAAAO0/A9F5FEMCDp40K2M3pB0411d9bmj4RyC6gCLcBGAsYHQ/s320/images%2B%25285%2529%25283%2529.jpeg"  group-title="PITV",PTV HOME (PK)
 https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/playlist.m3u8
@@ -714,6 +715,8 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 ch-id="CBSN (US)" tvg-logo=" "  group-title="DAI",CBSN (US)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="GLOBAL IPTV",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
