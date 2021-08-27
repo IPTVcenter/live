@@ -46,6 +46,7 @@ http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+
 #EXTINF:-1 ch-id="AST TV 2 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 2 (UK)
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo=" "  group-title="AST TV",AST TV 1 (UK)
@@ -496,6 +497,9 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:-1 ch-id="TNA (US)" tvg-logo=" "  group-title="CLOUDFRONT NET",TNA (US)
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
@@ -705,6 +709,7 @@ https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="BROADCAST", (US)
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 
+
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="DAI",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="DAI", (US)
@@ -759,7 +764,9 @@ http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
 http://170.178.189.66:1935/live/Stream1/.m3u8
 http://200.194.238.229:8000/udp/227.0.0.64:1234
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
-
+http://89.187.185.100/WWE/index.m3u8
+http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8?Token=Samitvhd.com
 
 
 
@@ -836,6 +843,7 @@ http://173.199.120.51/hls/arydigital.m3u8
 http://173.199.120.51/hls/9xm.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="BDIX TV",HBO (ASIA)
 http://173.199.120.51/hls/hbo.m3u8
+http://173.199.120.51/hls/ptv.m3u8
 
 
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
