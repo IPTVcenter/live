@@ -838,6 +838,8 @@ http://173.199.120.51/hls/9xm.m3u8
 http://173.199.120.51/hls/hbo.m3u8
 #EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo=" "  group-title="BDIX TV",PTV SPORTS (PK)
 http://173.199.120.51/hls/ptv.m3u8
+http://173.199.120.51/hls/andpicture.m3u8
+
 
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
