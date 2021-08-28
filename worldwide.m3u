@@ -1168,22 +1168,6 @@ http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29471
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29472
 #EXTINF:-1 ch-id="STAR WORLD (IN)" tvg-logo="https://1.bp.blogspot.com/-nDFHpBAIZJQ/YN77K-f30DI/AAAAAAAAANE/7clR67cQUwsMyPzOdOA0J_cts0899CWZgCLcBGAsYHQ/s200/images%25282%2529.jpeg"  group-title="GO IPTV",STAR WORLD (IN)
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29473
-#EXTINF:-1 ch-id="OSN MOVIES (ME)" tvg-logo="https://1.bp.blogspot.com/-o1iQeA12qpc/YN8uyU1pryI/AAAAAAAAANw/9MWseu7q2FAwY87t31KuQT0A2PFnAylOgCLcBGAsYHQ/s200/OPR.png"  group-title="GO IPTV",OSN MOVIES (ME)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29448
-#EXTINF:-1 ch-id="FOX LIFE HD (ME)" tvg-logo="https://1.bp.blogspot.com/-ORhgWPzeBrQ/YN7799O_-7I/AAAAAAAAANQ/CL4iQnE-VM8V6VxaoaRkmMXdUC76solsACLcBGAsYHQ/s200/PicsArt_07-02-05.13.30.png"  group-title="GO IPTV",FOX LIFE HD (ME)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29491
-#EXTINF:-1 ch-id="FOX CRIME HD (ME)" tvg-logo="https://1.bp.blogspot.com/--LDyT_VMUMs/YN75xuQQGGI/AAAAAAAAAMc/0WsAHL1v5TMx0o2z3Lye97g9VPGPq8eXQCLcBGAsYHQ/s200/PicsArt_07-02-03.56.50.png"  group-title="GO IPTV",FOX CRIME HD (ME)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29493
-#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="GO IPTV",TLC (UK)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29778
-#EXTINF:-1 ch-id="NAT GEO WILD (UK)" tvg-logo="https://1.bp.blogspot.com/-L0Et7N2T-L4/YKT885O7ZjI/AAAAAAAAA8g/i6hBFZENQfItYiYhj0I4lETZhttvH07cACLcBGAsYHQ/w200-h113/images%2B%25287%2529%25281%2529.jpeg"  group-title="GO IPTV",NAT GEO WILD (UK)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29784
-#EXTINF:-1 ch-id="NAT GEO (UK)" tvg-logo="https://1.bp.blogspot.com/-TxzEpyXZdso/YNHMWMgX9QI/AAAAAAAAAAw/InB2lQYvm9kN5bvlE6keE1QR1vpHQGdUwCLcBGAsYHQ/w200-h48/NationalGeographic_0529-1-Converted.gif"   group-title="GO IPTV",NAT GEO (UK)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29785
-#EXTINF:-1 ch-id="DISCOVERY (UK)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="GO IPTV",DISCOVERY (UK)
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/29788
-#EXTINF:-1 ch-id="OSN DRAMA (ME)" tvg-logo="https://1.bp.blogspot.com/-aBCHpuWRP28/YN75Sh5X7XI/AAAAAAAAAMI/MiFQLUfEsDkUQPalHhtIEfa3jfUpW_0ZQCLcBGAsYHQ/s200/PicsArt_07-02-04.59.20.png"  group-title="GO IPTV",OSN DRAMA (ME)
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/29459.m3u8
 
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://1.bp.blogspot.com/-mdSCw1x86tI/YRZZSueRhMI/AAAAAAAAA24/nPoSNjjTywUMHWrs_0Tg9M51wPVB6UWUQCLcBGAsYHQ/s320/images%2B%25281%2529%252816%2529.jpeg"  group-title="IPTVESUN",BBC CBEEBIES (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6146
@@ -1249,8 +1233,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1638
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1298
 #EXTINF:-1 ch-id="DISNEY XD (UK)" tvg-logo=" "  group-title="IPTVESUN",DISNEY XD (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12507
-#EXTINF:-1 ch-id="E! (UK)" tvg-logo=" "  group-title="IPTVESUN",E! (UK)
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1635
 #EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="IPTVESUN",EURO NEWS (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74163
 #EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="IPTVESUN",FOOD NETWORK (UK)
@@ -1483,8 +1465,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3407
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2388
 #EXTINF:-1 ch-id="COMEDY CENTRAL (NL)" tvg-logo=" "  group-title="IPTVESUN",COMEDY CENTRAL (NL)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2379
-#EXTINF:-1 ch-id="E! (NL)" tvg-logo=" "  group-title="IPTVESUN",E! (NL)
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/909
 #EXTINF:-1 ch-id="HISTORY (NL)" tvg-logo=" "  group-title="IPTVESUN",HISTORY (NL)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2383
 #EXTINF:-1 ch-id="HORSE & COUNTRY (NL)" tvg-logo=" "  group-title="IPTVESUN",HORSE & COUNTRY (NL)
@@ -1495,8 +1475,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/910
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12739
 #EXTINF:-1 ch-id="DUCK (CZ)" tvg-logo=" "  group-title="IPTVESUN",DUCK (CZ)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7086
-#EXTINF:-1 ch-id="E (CZ)" tvg-logo=" "  group-title="IPTVESUN",E (CZ)
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12734
 #EXTINF:-1 ch-id="NAT GEO WILD (CZ)" tvg-logo=" "  group-title="IPTVESUN",NAT GEO WILD (CZ)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12724
 
@@ -1513,10 +1491,6 @@ http://a3.smashmalta.com:82/live/smash/smash/28.ts
 #EXTINF:-1 ch-id="SMASH FOOD (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH FOOD (US)
 http://a3.smashmalta.com:82/live/smash/smash/16.ts
 
-#EXTINF:-1 ch-id="3 ABN KIDS (US)" tvg-logo="https://1.bp.blogspot.com/-yRP_zSm87ic/YJ-q-xDSL0I/AAAAAAAAAx0/51TeAry5Ypwz9ASdLQyPYkYqxJwiEckjgCLcBGAsYHQ/w200-h92/PicsArt_05-15-01.36.40.png"   group-title="USA IPTV",3 ABN KIDS (US)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17206
-#EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo="https://1.bp.blogspot.com/-RpUmMIMVruQ/YQkoIE3BKzI/AAAAAAAAA0s/Q-GT5AMwqRkoersP3zb9JyxTaswO8xKUACLcBGAsYHQ/s200/PicsArt_08-03-04.57.08.jpg"  group-title="USA IPTV",TENNIS TV (US)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
 #EXTINF:-1 ch-id="3 ABN KIDS (US)" tvg-logo="https://1.bp.blogspot.com/-yRP_zSm87ic/YJ-q-xDSL0I/AAAAAAAAAx0/51TeAry5Ypwz9ASdLQyPYkYqxJwiEckjgCLcBGAsYHQ/w200-h92/PicsArt_05-15-01.36.40.png"   group-title="USA IPTV",3 ABN KIDS (US)
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17206
 #EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo="https://1.bp.blogspot.com/-RpUmMIMVruQ/YQkoIE3BKzI/AAAAAAAAA0s/Q-GT5AMwqRkoersP3zb9JyxTaswO8xKUACLcBGAsYHQ/s200/PicsArt_08-03-04.57.08.jpg"  group-title="USA IPTV",TENNIS TV (US)
