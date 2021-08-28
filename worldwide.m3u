@@ -625,6 +625,8 @@ https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="FEED PLAY",SONY PIX HD (IN)
 https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+
 
 #EXTINF:-1 ch-id="PARAMOUNT (VN)" tvg-logo="https://1.bp.blogspot.com/-rGIb5g-rn5w/YQkjv_CVCrI/AAAAAAAAA0c/HiemyOBPkuw9KKgTwYtQSVMq8okOVUK5QCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="FPT PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
