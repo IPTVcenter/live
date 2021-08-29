@@ -527,8 +527,8 @@ http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ch-id="CLERITY 4K (UK)" tvg-logo=" "  group-title="CLOUDFRONT NET",CLERITY 4K (UK)
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo=" "  group-title="CLOUDFRONT NET",DISCOVERY (IN)
 https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8
-
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
