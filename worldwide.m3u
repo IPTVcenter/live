@@ -1083,7 +1083,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2853
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1285
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo=" "  group-title="IPTVESUN",CNN (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/31078
-#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="GO IPTV",COLORS (UK)
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="IPTVESUN",COLORS (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2845
 #EXTINF:-1 ch-id="92 NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-l9nmMlQ6GbM/YOrF_dQyWGI/AAAAAAAAAQo/umsnAEYxSBswuvJjBm6RugZHBJsgnY2dgCLcBGAsYHQ/s200/images%2B%252818%2529.jpeg"  group-title="IPTVESUN",92 NEWS (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1298
@@ -1143,7 +1143,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/189
 #EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg"   group-title="IPTVESUN",ZEE NEWS (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/183
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="GO IPTV",ZEE ACTION (IN)
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="IPTVESUN",ZEE ACTION (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/187
 #EXTINF:-1 ch-id="STAR PLUS (IN)" tvg-logo="https://1.bp.blogspot.com/-3xvP4LRQ4MA/YReoDvX0saI/AAAAAAAAA4Q/l7MF9wNHtT4-XmyVMH3SYdGMAKLTBW6VQCLcBGAsYHQ/s200/PicsArt_08-14-04.54.42.jpg"  group-title="IPTVESUN",STAR PLUS (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/191
@@ -1179,16 +1179,7 @@ http://a3.smashmalta.com:82/live/smash/smash/28.ts
 #EXTINF:-1 ch-id="SMASH FOOD (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH FOOD (US)
 http://a3.smashmalta.com:82/live/smash/smash/16.ts
 
-#EXTINF:-1 ch-id="3 ABN KIDS (US)" tvg-logo="https://1.bp.blogspot.com/-yRP_zSm87ic/YJ-q-xDSL0I/AAAAAAAAAx0/51TeAry5Ypwz9ASdLQyPYkYqxJwiEckjgCLcBGAsYHQ/w200-h92/PicsArt_05-15-01.36.40.png"   group-title="USA IPTV",3 ABN KIDS (US)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17206
-#EXTINF:-1 ch-id="TENNIS TV (US)" tvg-logo="https://1.bp.blogspot.com/-RpUmMIMVruQ/YQkoIE3BKzI/AAAAAAAAA0s/Q-GT5AMwqRkoersP3zb9JyxTaswO8xKUACLcBGAsYHQ/s200/PicsArt_08-03-04.57.08.jpg"  group-title="USA IPTV",TENNIS TV (US)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17242
-#EXTINF:-1 ch-id="ANIMAL PLANET (US)" tvg-logo=" "  group-title="LUCK-ONLINE",ANIMAL PLANET (US)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17257
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (ME)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17
-#EXTINF:-1 ch-id="BLOOMBERG (US)" tvg-logo=" "  group-title=" ", (ME)
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17301
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
