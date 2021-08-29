@@ -321,7 +321,7 @@ https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS NEWS (UK)" tvg-logo=" "  group-title="AKAMAI TV",FOX SPORTS NEWS (UK)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ch-id="HBO (UK)" tvg-logo=" "  group-title="AKAMAI TV",HBO (UK)
+#EXTINF:-1 ch-id="HBO (UK)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="AKAMAI TV",HBO (UK)
 https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630026751~hmac=2cfb5060cf019ef8c0eb178225a24639eb11914977e8d1f3c1cc0cdb45ffeb54
 #EXTINF:-1 ch-id="ABC NEWS (US)" tvg-logo=" "  group-title="AKAMAI TV",ABC NEWS (US)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
