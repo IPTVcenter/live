@@ -45,7 +45,9 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 #EXTINF:-1 ch-id="CGTN DOCUMENTARY (CN)" tvg-logo="https://1.bp.blogspot.com/-sXRuUeF2jow/YMc-GWwMNZI/AAAAAAAABJs/GS4OQEe63YUbLFTIOA-DiPQQvfw7YVH5gCLcBGAsYHQ/s320/images%252831%2529.jpeg"   group-title="WORLD IPTV",CGTN DOCUMENTARY (CN)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+http://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-gccUnjyFA7M/YSt1SjstYBI/AAAAAAAAA9s/P-85zYl9mF0AbXtphWaCD1AobRnbr1ufwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="WORLD IPTV",STAR GOLD 2 (IN)
 https://rb.gy/6uqmnf
@@ -145,6 +147,8 @@ https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 ch-id="DUBAI RACING (ME)" tvg-logo="https://1.bp.blogspot.com/-urd3swDqS6g/YP0_iQfWZSI/AAAAAAAAAlE/NDOMRTlfqx48QrwOcBl55Ea11Zc9aSbtwCLcBGAsYHQ/s200/images%2B%25286%2529%25282%2529.jpeg"  group-title="MANGOMOLO IPTV",DUBAI RACING (ME)
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
+
 
 #EXTINF:-1 ch-id="SYFY (US)" tvg-logo="https://1.bp.blogspot.com/-mCuSzi1xQLo/YOq_xtVNz0I/AAAAAAAAAOc/Pt6W3mrsDZkYeHfBIEE-wu4M83wGimHUACLcBGAsYHQ/s320/images%25282%2529.png"  group-title="TVTAP,SYFY (US)
 http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
@@ -341,6 +345,8 @@ https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630
 #EXTINF:-1 ch-id="ABC NEWS (US)" tvg-logo=" "  group-title="AKAMAI TV",ABC NEWS (US)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
+
+
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="CINEPEX TV",MARVEL HQ (IN)
 http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1 ch-id="SONIC (IN)" tvg-logo="https://1.bp.blogspot.com/-o8d-P5Yt6rg/YOrRBiFf7gI/AAAAAAAAAUE/r4Kms_g926A_3sGY08d-_fWA-7HQ6AZoQCLcBGAsYHQ/s200/Nickelodeon_Sonic_logo.png"  group-title="CINEPEX TV",SONIC (IN)
@@ -410,8 +416,11 @@ http://www.filmon.com/vr-streams/6152.low/playlist.m3u8
 https://www.filmon.com/vr-streams/4121.high/playlist.m3u8
 https://www.filmon.com/vr-streams/27.low/playlist.m3u8
 https://www.filmon.com/vr-streams/316.low/playlist.m3u8
+https://www.filmon.com/vr-streams/2798.low/playlist.m3u8
+https://www.filmon.com/vr-streams/320.low/playlist.m3u8
 
- 
+
+
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="SAMSUNG IPTV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="TRAVEL XP (IN)" tvg-logo="https://1.bp.blogspot.com/-Tm2LcNPCif0/YNsCjWrIYWI/AAAAAAAAAEY/0IieUTKTj8MhfSNBe7VYd7QQMRKuuajBgCLcBGAsYHQ/s739/PicsArt_06-29-04.49.01.png"  group-title="SAMSUNG IPTV",TRAVEL XP (IN)
@@ -432,7 +441,13 @@ https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 https://sofytv-rakuten.amagi.tv/playlist.m3u8
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MULTI TV",DD SPORTS (IN)
@@ -519,7 +534,7 @@ https://d1bv41pu1n9g91.cloudfront.net/NDTV_INDIA.m3u8
 #EXTINF:-1 ch-id="GUBBARE (IN)" tvg-logo="https://1.bp.blogspot.com/-Xu-dsQkAkcE/YOwa6CSh-dI/AAAAAAAAAYc/2kY-YqZuld8lD8f3KEJGHfueu_vHNosgQCLcBGAsYHQ/s200/Gubbare-cl.webp"  group-title="CLOUDFRONT NET",GUBBARE (IN)
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 #EXTINF:-1 ch-id="BESTON 25 NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-wIZZ7hQMXBM/YOwbGcpR3uI/AAAAAAAAAYg/X6giLWzGhAAqOhxiwvxT83l3W0qOVcJrACLcBGAsYHQ/s200/images%252811%2529.jpeg"  group-title="CLOUDFRONT NET",BESTON 25 NEWS (US)
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live_low.m3u8
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-ygiSas8IyJI/YMdB4dxrcwI/AAAAAAAABLc/kuphDcjnoqUcsWlNho4cW2Jnbu236j15ACLcBGAsYHQ/s320/IMG_20210308_162943.jpg"   group-title="CLOUDFRONT NET",ZEE CINEMA (IN)
 https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 #EXTINF:-1 ch-id="BAYWATCH (US)" tvg-logo=" "  group-title="CLOUDFRONT NET",BAYWATCH (US)
@@ -538,6 +553,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo=" "  group-title="CLOUDFRONT NET",DISCOVERY (IN)
 https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8
+
+
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
@@ -726,6 +743,8 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="ROKU",LOVE NATURE (US)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+
 
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="EDMONST NET",21 SEXTURY (UK)
@@ -742,6 +761,7 @@ https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="BROADCAST", (US)
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 
+
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="DAI",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="DAI", (US)
@@ -752,6 +772,11 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 ch-id="CBSN (US)" tvg-logo=" "  group-title="DAI",CBSN (US)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
+
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="GLOBAL IPTV",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
@@ -780,8 +805,6 @@ http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 ch-id="PEACE TV (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",PEACE TV (UK)
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
-http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 ch-id="WWE (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",WWE (UK)
 http://89.187.185.100/WWE/index.m3u8
@@ -791,9 +814,31 @@ http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="GLOBAL IPTV",SONY TEN 2 HD (IN)
 http://103.153.39.34:8000/play/a05r/index.m3u8
+http://51.210.199.17/hls/stream.m3u8
+
+
+
+#EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo="https://1.bp.blogspot.com/-tnSjEx3FH98/YQktsw-ODzI/AAAAAAAAA1M/134jCv3fdvEs7aIPljCrDJuLb-5P0tNGwCLcBGAsYHQ/s200/PicsArt_08-03-05.20.54.jpg"  group-title="LIVE",SKY SPORTS CRICKET (UK)
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://1.bp.blogspot.com/-PcZpL1daJtg/YQkrbnscCEI/AAAAAAAAA1E/62XmSZIGTAgt2JQUeTjf6sTZyhNfn5mcwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="LIVE",BBC CBEEBIES (UK)
+http://31.220.41.88:8081/live/uk-cbeebies.stream/playlist.m3u8
+#EXTINF:-1 ch-id="ADULT SWIM (US)" tvg-logo="https://1.bp.blogspot.com/-mnx-ukAIrNs/YRZMFWrZFrI/AAAAAAAAA1w/onEZ5xCKJI0zNi40XeZRist-hYNXtr5WACLcBGAsYHQ/s200/images.jpeg"  group-title="LIVE",ADULT SWIM (US)
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="GLOBAL IPTV", (UK)
+http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=
+http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
+http://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",GOLF (UK)
 http://203.154.243.89:11208
+http://122.155.180.8:5021/live/440
 #EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",FOOD NETWORK (UK)
 http://185.99.253.46:8000/play/a02u
 #EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",VENUS (UK)
