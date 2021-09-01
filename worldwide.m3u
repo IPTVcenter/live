@@ -1275,30 +1275,39 @@ http://a3.smashmalta.com:82/live/smash/smash/28.ts
 #EXTINF:-1 ch-id="SMASH FOOD (US)" tvg-logo=" "  group-title="SMASH IPTV",SMASH FOOD (US)
 http://a3.smashmalta.com:82/live/smash/smash/16.ts
 
-
 #EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/16881
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD  (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/6525
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/15897
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/15895
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5436
+#EXTINF:-1 ch-id="NAT GEO WILD (NL)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/13116
+#EXTINF:-1 ch-id="ANIMAL PLANET (NL)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/11438
+#EXTINF:-1 ch-id="FOX SPORTS 501 (AU)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/686915
+#EXTINF:-1 ch-id="FOX (NL)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/6489
+#EXTINF:-1 ch-id="BOOMERANG (NL)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5161
+#EXTINF:-1 ch-id="USTAV PLUS HD (UK)" tvg-logo=" "  group-title="MYTV",USTAV PLUS HD (UK)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/671347
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/656983
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
 
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
