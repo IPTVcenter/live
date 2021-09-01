@@ -47,6 +47,16 @@ http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 http://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+http://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist.m3u8
+http://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+http://www.djing.com/tv/live.m3u8
+
+
+http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
+http://dai2-playlistserver.aws.syncbak.com/playlist/13736492/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NDkyLCJtZDUiOiI0MmE1YjYzOTE1NmY3MDc1ODhiMjI5MzU4Y2QxYzMxNSIsImlhdCI6MTUwNDcyNzU3MCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.UfPIgsOM95dpS9ylf6OThcwAqqq5UDgYlq8J31DVq2Y
+http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
+
 
 
 #EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-gccUnjyFA7M/YSt1SjstYBI/AAAAAAAAA9s/P-85zYl9mF0AbXtphWaCD1AobRnbr1ufwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="WORLD IPTV",STAR GOLD 2 (IN)
@@ -101,6 +111,7 @@ http://niazitv.tk:8080/A-Plus-27/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
 #EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://1.bp.blogspot.com/-GepvD09BvEI/YNsCncOdAsI/AAAAAAAAAEc/NCgoIsijUNAadCvJQJR4rk2WbzVjzeiYACLcBGAsYHQ/s320/PicsArt_06-29-04.48.24.png"  group-title="WORLD IPTV",TRAVEL XP HD (IN)
 https://piratesiptv.shortcm.li/travelxp.m3u8
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS (AU)" tvg-logo="https://1.bp.blogspot.com/-zFT1XtyBVLI/YStyKg0gNgI/AAAAAAAAA9Y/mvtOzivyPNo0PVHcF3zSEPZ9ZtO4Q0VGACLcBGAsYHQ/s200/PicsArt_08-29-05.10.02.jpg"  group-title="WORLD-IPTV",FOX SPORTS (AU)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 http://ldt.ddns.me:8081/live/tadka/playlist.m3u8
@@ -224,6 +235,7 @@ https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 ch-id="GUBBARE (IN)" tvg-logo="https://1.bp.blogspot.com/-Xu-dsQkAkcE/YOwa6CSh-dI/AAAAAAAAAYc/2kY-YqZuld8lD8f3KEJGHfueu_vHNosgQCLcBGAsYHQ/s200/Gubbare-cl.webp"  group-title="WORLD-IPTV",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 http://play.iptvxxx.net/gay.m3u8
+https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
 
 
 #EXTINF:-1 ch-id="BEIN SPORTS EXTRA (US)" tvg-logo="https://1.bp.blogspot.com/-wSi7eKjodCk/YP1EogtfHzI/AAAAAAAAAmM/W9gcWIifeJc6OPFxLFuXZ2c-j01niyhWwCLcBGAsYHQ/s200/beIN-SPORTS-XTRA_LOGO%2B%25281%2529.png"  group-title="PLUTO TV",BEIN SPORTS EXTRA (ME)
@@ -346,7 +358,6 @@ https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="CINEPEX TV",MARVEL HQ (IN)
 http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1 ch-id="SONIC (IN)" tvg-logo="https://1.bp.blogspot.com/-o8d-P5Yt6rg/YOrRBiFf7gI/AAAAAAAAAUE/r4Kms_g926A_3sGY08d-_fWA-7HQ6AZoQCLcBGAsYHQ/s200/Nickelodeon_Sonic_logo.png"  group-title="CINEPEX TV",SONIC (IN)
@@ -448,6 +459,13 @@ https://venntv-samsungau.amagi.tv/playlist.m3u8
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MULTI TV",DD SPORTS (IN)
@@ -744,6 +762,7 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+http://209.182.219.50:1935/roku/roku/playlist.m3u8
 
 
 
@@ -773,6 +792,7 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 ch-id="CBSN (US)" tvg-logo=" "  group-title="DAI",CBSN (US)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
 
 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
