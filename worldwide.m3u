@@ -1276,13 +1276,17 @@ http://a3.smashmalta.com:82/live/smash/smash/28.ts
 http://a3.smashmalta.com:82/live/smash/smash/16.ts
 
 
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/16881
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD  (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
