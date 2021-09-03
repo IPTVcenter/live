@@ -59,6 +59,10 @@ https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 http://www.djing.com/tv/live.m3u8
 #EXTINF:-1 ch-id="DIL SE" (IN)" tvg-logo=" "  group-title="WORLD-IPTV",DIL SE (IN)
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+https://stirr.ott-channels.stingray.com/karaoke/master.m3u8
+
+
+
 
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
@@ -67,8 +71,6 @@ http://dai2-playlistserver.aws.syncbak.com/playlist/13736492/master.m3u8?access_
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
 
-#EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-gccUnjyFA7M/YSt1SjstYBI/AAAAAAAAA9s/P-85zYl9mF0AbXtphWaCD1AobRnbr1ufwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="WORLD IPTV",STAR GOLD 2 (IN)
-https://rb.gy/6uqmnf
 
 #EXTINF:-1 ch-id="AST TV 2 (UK)" tvg-logo="https://1.bp.blogspot.com/-Tj4Oa-G8e8w/YSt2ZYJyjmI/AAAAAAAAA94/vvhIcBy0PPcXUt5q2biAtE1qc5-MORgRgCLcBGAsYHQ/s200/PicsArt_08-29-05.28.02.png"  group-title="AST TV",AST TV 2 (UK)
 https://www.ast.tv/stream/2/ultra.m3u8
@@ -126,6 +128,10 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 ch-id="WFC.TV (UK)" tvg-logo=" "  group-title="WORLD-IPTV",WFC.TV (UK)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 
 #EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://1.bp.blogspot.com/-GepvD09BvEI/YNsCncOdAsI/AAAAAAAAAEc/NCgoIsijUNAadCvJQJR4rk2WbzVjzeiYACLcBGAsYHQ/s320/PicsArt_06-29-04.48.24.png"  group-title="WORLD IPTV",TRAVEL XP HD (IN)
 https://piratesiptv.shortcm.li/travelxp.m3u8
@@ -140,6 +146,7 @@ https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%252838%2529.jpeg"  group-title="WORLD IPTV",CNA (ASIA)
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+
 
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="TULIX TV", (US)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
@@ -225,6 +232,9 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+
 
 #EXTINF:-1 ch-id="ASSAM TALKS (IND)" tvg-logo="https://www.magicalassam.com/wp-content/uploads/2015/05/assam-talks-channel.jpg" group-title="V-PRISM",ASSAM TALKS (IN)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
@@ -251,6 +261,8 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 http://play.iptvxxx.net/gay.m3u8
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
 
 #EXTINF:-1 ch-id="BEIN SPORTS EXTRA (US)" tvg-logo="https://1.bp.blogspot.com/-wSi7eKjodCk/YP1EogtfHzI/AAAAAAAAAmM/W9gcWIifeJc6OPFxLFuXZ2c-j01niyhWwCLcBGAsYHQ/s200/beIN-SPORTS-XTRA_LOGO%2B%25281%2529.png"  group-title="PLUTO TV",BEIN SPORTS EXTRA (ME)
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
@@ -369,6 +381,10 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630026751~hmac=2cfb5060cf019ef8c0eb178225a24639eb11914977e8d1f3c1cc0cdb45ffeb54
 #EXTINF:-1 ch-id="ABC NEWS (US)" tvg-logo=" "  group-title="AKAMAI TV",ABC NEWS (US)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+
 
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="CINEPEX TV",MARVEL HQ (IN)
 http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
@@ -859,6 +875,9 @@ http://30a-tv.com/beachy.m3u8
 http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 http://51.210.199.17/hls/stream.m3u8
+http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+http://95.141.143.88:18000/play/a01g/index.m3u8
+
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
@@ -882,12 +901,23 @@ http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 #EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",GOLF (UK)
 http://203.154.243.89:11208
 http://122.155.180.8:5021/live/440
-#EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",FOOD NETWORK (UK)
-http://185.99.253.46:8000/play/a02u
 #EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",VENUS (UK)
 http://45.5.8.78:8000/play/a03c
 #EXTINF:-1 ch-id="SEX PRIVE (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",SEX PRIVE (UK)
 http://200.194.238.229:8000/udp/227.0.0.64:1234
+
+#EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",FOOD NETWORK (UK)
+http://185.99.253.46:8000/play/a02u
+http://185.99.253.46:8000/play/a046
+http://185.99.253.46:8000/play/a027
+http://185.99.253.46:8000/play/a010
+
+#EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-gccUnjyFA7M/YSt1SjstYBI/AAAAAAAAA9s/P-85zYl9mF0AbXtphWaCD1AobRnbr1ufwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="GLOBAL IPTV",STAR GOLD 2 (IN)
+http://103.153.39.34:8000/play/a06p/index.m3u8
+http://103.153.39.34:8000/play/a06g/index.m3u8
+http://103.153.39.34:8000/play/a042/index.m3u8
+
+
 
 ##EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="GLOBAL IPTV",FOX NEWS (US)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
