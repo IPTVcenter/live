@@ -103,25 +103,28 @@ http://tvflix03.ddns.net/ENC-20/playlist.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL (UK)" tvg-logo=" "  group-title="TV-FLIX",DISNEY CHANNEL (UK)
 http://tvflix03.ddns.net/disney_ch-sp/playlist.m3u8
 
+http://tvflix03.ddns.net/StarPlus/video.m3u8
+
+
 http://jupiter.bdcabletv.com/StarPlus/video.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="BDCABLE TV",SONY MAX HD (IN)
 http://jupiter.bdcabletv.com/SonyMax/video.m3u8
-http://jupiter.bdcabletv.com:80/ENC-17/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-16/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-18/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-15/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-14/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-10/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-11/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-9/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-8/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-7/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-5/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-4/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-3/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-2/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-19/mono.m3u8
-http://jupiter.bdcabletv.com:80/ENC-20/mono.m3u8
+http://jupiter.bdcabletv.com:80/ENC-17/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-16/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-18/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-15/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-14/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-10/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-11/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-9/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-8/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-7/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-5/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-4/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-3/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-2/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-19/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-20/index.m3u8
 
 
 
@@ -844,6 +847,7 @@ https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885205
 
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="HINDI",COLORS HD (IN)
 http://148.72.155.84/ENC-8/index.m3u8
+http://148.72.155.84/StarPlus/video.m3u8
 http://148.72.155.84/ENC-11/index.m3u8
 http://148.72.155.84/ENC-10/index.m3u8
 http://148.72.155.84/ENC-9/index.m3u8
