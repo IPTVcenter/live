@@ -85,7 +85,7 @@ http://tvflix03.ddns.net/ENC-9/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="TV-FLIX",STAR GOLD HD (IN)
 http://tvflix03.ddns.net/ENC-10/playlist.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="TV-FLIX",SONY MAX HD (IN)
-http://tvflix03.ddns.net/ENC-11/playlist.m3u8
+http://jupiter.bdcabletv.com/SonyMax/video.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo="https://1.bp.blogspot.com/-r63b_mFZs28/YSt5W5IHtxI/AAAAAAAAA-o/Q_xOzYp0VW4hI-nG7-JaP5KUw556-AG6QCLcBGAsYHQ/s200/PicsArt_08-29-05.40.56.jpg"  group-title="TV-FLIX",STAR BHARAT HD (IN)
 http://tvflix03.ddns.net/ENC-14/playlist.m3u8
 #EXTINF:-1 ch-id="NICK HD+ (IN)" tvg-logo="https://1.bp.blogspot.com/-T1JB3o8gLtQ/YSt5oF5jRVI/AAAAAAAAA-w/5e1xpkQsjewqtOb7paTCB8XlEZYlEYVtACLcBGAsYHQ/s200/hd-plus-logo%25281%2529.png"  group-title="TV-FLIX",NICK HD+ (IN)
@@ -102,31 +102,7 @@ http://tvflix03.ddns.net/ENC-19/playlist.m3u8
 http://tvflix03.ddns.net/ENC-20/playlist.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL (UK)" tvg-logo=" "  group-title="TV-FLIX",DISNEY CHANNEL (UK)
 http://tvflix03.ddns.net/disney_ch-sp/playlist.m3u8
-
-http://tvflix03.ddns.net/StarPlus/video.m3u8
-
-
-http://jupiter.bdcabletv.com/StarPlus/video.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="BDCABLE TV",SONY MAX HD (IN)
-http://jupiter.bdcabletv.com/SonyMax/video.m3u8
-http://jupiter.bdcabletv.com:80/ENC-17/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-16/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-18/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-15/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-14/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-10/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-11/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-9/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-8/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-7/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-5/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-4/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-3/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-2/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-19/index.m3u8
-http://jupiter.bdcabletv.com:80/ENC-20/index.m3u8
-
-
+http://148.72.155.84/StarPlus/video.m3u8
 
 #EXTINF:-1 ch-id="LIFESTYLE TV (US)" tvg-logo="https://1.bp.blogspot.com/-HUwzmUzvzfM/YOq-0Yctk-I/AAAAAAAAAOI/oIRgNHi1GwsiSKJ3J-oZcHwLmdncbSPvgCLcBGAsYHQ/s320/PicsArt_07-11-03.07.34.png"  group-title="WORLD IPTV",LIFESTYLE TV (US)
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
