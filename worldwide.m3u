@@ -855,7 +855,7 @@ http://218.202.220.2:5000/nn_live.ts?id=CNN
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 ch-id="HUNGAMA TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvw_CCE0qPkMvYCtFZ7Va3xkaARmZK1ri43ZKC-ZZh3xSm3dHMR1SHwPx5YW7hGicuppyIXMZ8Cw1Fm8pUXWUNVS2BP-AcmulQjf7hdqLlHL53BG8p7y6L6HbHBsXxCUEG500BZSUhfPHcGNl2T48abcZfQU3CBr1MjCxZQJeLKgjPLdtz59OSB18p=s200"  group-title="HINDI",HUNGAMA TV (IN)
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="GLOBAL IPTV",ONE GOLF (PK)
+#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="ENGLISH",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="ENGLISH",DISCOVERY HD HGTV (UK)
 http://58.65.171.202:8000/play/4334/index.m3u8
@@ -896,7 +896,7 @@ http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=
 #EXTINF:-1 ch-id="ABC (UK)" tvg-logo=" "  group-title="ENGLISH",ABC (UK)
 http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
-#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="EENG",ITV (UK)
+#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="ENGLISH",ITV (UK)
 http://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
 #EXTINF:-1 ch-id="STARZ (UK)" tvg-logo=" "  group-title="ENGLISH",STARZ (UK)
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
@@ -1076,7 +1076,7 @@ http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ZEE5",ZEE TV HD (ME)
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="https://1.bp.blogspot.com/-9XNPAok637I/YJ8RfqYy_tI/AAAAAAAAAv4/qRHzzLw3LUMZYczpBhHL2vlzJNEvePZsQCLcBGAsYHQ/s229/PicsArt_05-15-05.10.22.png"   group-title="ZEE5 ",ZEE TV (CA)
-https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg"   group-title="ZEE5 ",ZEE TV (ASIA)
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg"   group-title="ZEE5",ZEE TV (US)
@@ -1129,7 +1129,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 http://allutv.xyz/zee.php?q=0-9-255
 #EXTINF:-1 ch-id="&EXPLORE HD (IN)" tvg-logo=" "  group-title="ZEE5",&EXPLORE HD (IN)
 http://allutv.xyz/zee.php?q=0-9-209
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="ZEE5", (IN)
 http://allutv.xyz/zee.php?q=0-9-176
 #EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
 http://allutv.xyz/zee.php?q=0-9-ddbharati
@@ -1141,33 +1141,34 @@ http://allutv.xyz/zee.php?q=0-9-zeetv
 http://allutv.xyz/zee.php?q=0-9-zeetvhd
 #EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo="https://1.bp.blogspot.com/-cbVp67EtzxY/YMdCki2cT4I/AAAAAAAABLs/AFfWfQ2JR-cAOR3E-9ClesErMAt5MikZQCLcBGAsYHQ/s320/images%2B%25281%2529%25284%2529.png"   group-title="ZEE5",ZEE ANMOL (IN)
 http://allutv.xyz/zee.php?q=0-9-zeeanmol
+#EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
+http://allutv.xyz/zee.php?q=0-9-322
 #EXTINF:-1 ch-id="&EXPLORE HD (IN)" tvg-logo=" "  group-title="ZEE5",&EXPLORE HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-209
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="ZEE5", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-176
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ZEE5",BIG MAGIC (IN)
+#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="ZEE5",BIG MAGIC (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-bigmagic_1786965389
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ZEE5", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-tvpictureshd
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeeanmolcinema
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-133
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-131
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="9X JHAKAS (IN)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-134
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="&FLIX HD (UK)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-channel_2105335046
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
+#EXTINF:-1 ch-id="DD URDU (UK)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddurdu
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddbharati
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-250
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-322
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
 #EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ZEE5",ZEE TV (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetv
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ZEE5",ZEE TV HD (IN)
