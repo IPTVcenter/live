@@ -101,6 +101,11 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 #EXTINF:-1 ch-id="BETTER HEALTH (US)" tvg-logo=" "  group-title="ENGLISH",BETTER HEALTH (US)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
+#EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://1.bp.blogspot.com/-fxawguqORj8/YJ91HV0t7XI/AAAAAAAAAxQ/hdB9zscYt9I_HorBM1z6gSt4aqTrPhMhgCLcBGAsYHQ/s320/PicsArt_03-16-05.13.30.jpg"  group-title="HINDI",AAJ TAK HD (IN)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png"  group-title="ENGLISH",INDIA TODAY (IN)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
 #EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="HINDI",ZING (IN)
 https://aslive.club/altaf/music/zing/chunks.m3u8
 #EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="https://1.bp.blogspot.com/-gyLzyJAQd5U/YQaQerxHtFI/AAAAAAAAAwE/SRjzwZHCx8I0xwjee0tZH93IbSR9n3O0gCLcBGAsYHQ/s200/PicsArt_08-01-05.45.33.jpg"  group-title="HINDI",MASTIII (IN)
@@ -137,7 +142,7 @@ http://stream.tvtap.net:8081/live/us-fx.stream/playlist.m3u8
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 ch-id="BEIN SPORTS 1 (ME)" tvg-logo="https://1.bp.blogspot.com/-JeIAg8Zs-90/YP1AF1KDEjI/AAAAAAAAAlU/av-9hWPgtb4PwX5JZLkWuinCBUb5-2JGgCLcBGAsYHQ/s200/images%2B%25284%2529%25284%2529.jpeg"  group-title="TVTAP",BEIN SPORTS 1 (ME)
 http://stream.tvtap.net:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1 ch-id="CINEMAX ACTION (US)" tvg-logo=" "  group-title="WORLD-IPTV",CINEMAX ACTION (US)
+#EXTINF:-1 ch-id="CINEMAX ACTION (US)" tvg-logo=" "  group-title="TVTAP",CINEMAX ACTION (US)
 http://stream.tvtap.net:8081/live/us-cinemaxaction.stream/playlist.m3u8
 
 #EXTINF:-1 ch-id="PTV HOME (PK)" tvg-logo="https://1.bp.blogspot.com/-Vr6mv7JQniI/YOrAWI2gn7I/AAAAAAAAAO0/A9F5FEMCDp40K2M3pB0411d9bmj4RyC6gCLcBGAsYHQ/s320/images%2B%25285%2529%25283%2529.jpeg"  group-title="HINDI",PTV HOME (PK)
@@ -184,7 +189,7 @@ https://hls5.zedflix.pk/hls/madanitvweb.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 ch-id="SPOT LIGHT (UK)" tvg-logo="https://1.bp.blogspot.com/-gmR-ofktQXA/YOvx8iCuAmI/AAAAAAAAAV8/HvALZD5O8FAdMuxwhcF7ERg4ELCvWkiZACLcBGAsYHQ/s200/images%25288%2529.png"   group-title="ENGLISH",SPOT LIGHT (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 ch-id="GOOD NEWS TV (UK)" tvg-logo="https://1.bp.blogspot.com/-FCjvYfbJu8c/YP1EBjzxGeI/AAAAAAAAAlw/lTdaJw-K5i06bsXOeG0gEEeR6J03BbnNwCLcBGAsYHQ/s200/images%2B%25285%2529%25284%2529.jpeg"  group-title="ENG",GOOD NEWS TV (UK)
+#EXTINF:-1 ch-id="GOOD NEWS TV (UK)" tvg-logo="https://1.bp.blogspot.com/-FCjvYfbJu8c/YP1EBjzxGeI/AAAAAAAAAlw/lTdaJw-K5i06bsXOeG0gEEeR6J03BbnNwCLcBGAsYHQ/s200/images%2B%25285%2529%25284%2529.jpeg"  group-title="ENGLISH",GOOD NEWS TV (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
 #EXTINF:-1 ch-id="BRITISH MUSLIM TV (UK)" tvg-logo=" "  group-title="ENGLISH",BRITISH MUSLIM TV (UK)
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
@@ -379,19 +384,19 @@ https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
 #EXTINF:-1 ch-id="TV ASIA COMEDY (USA)" tvg-logo="https://1.bp.blogspot.com/-SGuJQYN0CsM/YJ8XHsrGeUI/AAAAAAAAAwk/zGuzv9J_9B89Ipk_v1jyTfownO57koTBgCLcBGAsYHQ/s0/PicsArt_05-15-05.58.36.png"   group-title="HINDI",TV ASIA COMEDY (US)
 https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 
-#EXTINF:-1 ch-id="TIKTOK (BR)" tvg-logo="https://1.bp.blogspot.com/-3PcIn1VJWhg/YOrTE755tFI/AAAAAAAAAU8/7UZCnjaYTjsqY-9j9MEk65UjVrbdTvlXgCLcBGAsYHQ/s200/PicsArt_07-06-03.15.20.png"  group-title="TVMATIC NET",TIKTOK (BR)
+#EXTINF:-1 ch-id="TIKTOK (BR)" tvg-logo="https://1.bp.blogspot.com/-3PcIn1VJWhg/YOrTE755tFI/AAAAAAAAAU8/7UZCnjaYTjsqY-9j9MEk65UjVrbdTvlXgCLcBGAsYHQ/s200/PicsArt_07-06-03.15.20.png"  group-title="ENGLISH",TIKTOK (BR)
 http://cdn.tvmatic.net/tiktok.m3u8
-#EXTINF:-1 ch-id="SPORT (BR)" tvg-logo="https://1.bp.blogspot.com/-ACSjGPI05cQ/YOrVjJb4yUI/AAAAAAAAAVc/5L83TFp2jwsuWzrMBhGii5T7n4A_52BaQCLcBGAsYHQ/s200/PicsArt_07-06-03.19.59.jpg"  group-title="TVMATIC NET",SPORT (BR)
+#EXTINF:-1 ch-id="SPORT (BR)" tvg-logo="https://1.bp.blogspot.com/-ACSjGPI05cQ/YOrVjJb4yUI/AAAAAAAAAVc/5L83TFp2jwsuWzrMBhGii5T7n4A_52BaQCLcBGAsYHQ/s200/PicsArt_07-06-03.19.59.jpg"  group-title="ENGLISH",SPORT (BR)
 http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 ch-id="FIGHT (BR)" tvg-logo="https://1.bp.blogspot.com/-qknA1UMCLVI/YOrUwj7LweI/AAAAAAAAAVI/n6W3S1S3w_smU1OkrOryNmK3vIyfTBbEwCLcBGAsYHQ/s200/PicsArt_07-06-09.27.52.png"  group-title="TVMATIC NET",FIGHT (BR)
+#EXTINF:-1 ch-id="FIGHT (BR)" tvg-logo="https://1.bp.blogspot.com/-qknA1UMCLVI/YOrUwj7LweI/AAAAAAAAAVI/n6W3S1S3w_smU1OkrOryNmK3vIyfTBbEwCLcBGAsYHQ/s200/PicsArt_07-06-09.27.52.png"  group-title="ENGLISH",FIGHT (BR)
 http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 ch-id="FACEBOOK (BR)" tvg-logo="https://1.bp.blogspot.com/-pnnn2KCTKDo/YOrU-zXKnRI/AAAAAAAAAVQ/KBrSOmZBwbI0PVoPcTIVDS2BpOXOA0m5wCLcBGAsYHQ/s200/PicsArt_07-06-03.11.44.jpg"  group-title="TVMATIC NET",FACEBOOK (BR)
+#EXTINF:-1 ch-id="FACEBOOK (BR)" tvg-logo="https://1.bp.blogspot.com/-pnnn2KCTKDo/YOrU-zXKnRI/AAAAAAAAAVQ/KBrSOmZBwbI0PVoPcTIVDS2BpOXOA0m5wCLcBGAsYHQ/s200/PicsArt_07-06-03.11.44.jpg"  group-title="ENGLISH",FACEBOOK (BR)
 http://cdn.tvmatic.net/facebook.m3u8
-#EXTINF:-1 ch-id="COMEDY (BR)" tvg-logo="https://1.bp.blogspot.com/-oQAiiE4Ch1s/YOrVukTe5WI/AAAAAAAAAVg/bl6O2xQbcYguXZrDTvItmr8M2rYJ1CRTQCLcBGAsYHQ/s200/PicsArt_07-06-09.26.14.png"  group-title="TVMATIC NET",COMEDY (BR)
+#EXTINF:-1 ch-id="COMEDY (BR)" tvg-logo="https://1.bp.blogspot.com/-oQAiiE4Ch1s/YOrVukTe5WI/AAAAAAAAAVg/bl6O2xQbcYguXZrDTvItmr8M2rYJ1CRTQCLcBGAsYHQ/s200/PicsArt_07-06-09.26.14.png"  group-title="ENGLISH",COMEDY (BR)
 http://cdn.tvmatic.net/comedy.m3u8
-#EXTINF:-1 ch-id="FUNNY (BR)" tvg-logo="https://1.bp.blogspot.com/-4E48i0CNb3M/YOrV556r9EI/AAAAAAAAAVo/8RtjOqB7lAk3v2IO7cgi3WC1OlYLp0kZACLcBGAsYHQ/s200/PicsArt_07-06-09.25.41.png"  group-title="TVMATIC NET",FUNNY (BR)
+#EXTINF:-1 ch-id="FUNNY (BR)" tvg-logo="https://1.bp.blogspot.com/-4E48i0CNb3M/YOrV556r9EI/AAAAAAAAAVo/8RtjOqB7lAk3v2IO7cgi3WC1OlYLp0kZACLcBGAsYHQ/s200/PicsArt_07-06-09.25.41.png"  group-title="ENGLISH",FUNNY (BR)
 http://cdn.tvmatic.net/funny.m3u8
-#EXTINF:-1 ch-id="CRAFTS (BR)" tvg-logo="https://1.bp.blogspot.com/-O-FWhzzbZok/YOrWEgGHizI/AAAAAAAAAVw/ua_UjjRtwt06G5iO244gaCej69JpGCdiwCLcBGAsYHQ/s200/PicsArt_07-06-09.24.49.png"  group-title="TVMATIC NET",CRAFTS (BR)
+#EXTINF:-1 ch-id="CRAFTS (BR)" tvg-logo="https://1.bp.blogspot.com/-O-FWhzzbZok/YOrWEgGHizI/AAAAAAAAAVw/ua_UjjRtwt06G5iO244gaCej69JpGCdiwCLcBGAsYHQ/s200/PicsArt_07-06-09.24.49.png"  group-title="ENGLISH",CRAFTS (BR)
 http://cdn.tvmatic.net/crafts.m3u8
 
 #EXTINF:-1 ch-id="18+ (UK)" tvg-logo="https://1.bp.blogspot.com/-nSfJGhujWC4/YP1LlV0BG7I/AAAAAAAAAno/Atni2UqBn1MA7qIyn7YhjafSE7mv4t-oACLcBGAsYHQ/s200/PicsArt_07-25-05.01.09.png"  group-title="ADULT",18+ (UK)
@@ -655,10 +660,6 @@ https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 ch-id="EUROSPORTS HD (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh8leFH4WiCnlPPRPmEIiSXgHEt38gTOJJM1iE_MFSbO6h4HcbNRW6pXSAdpVCMRRtFD8zCXieLg-dRsef07nFs9Fy3G6zbMWg1zaWCgu6HjeMeu0IGxrloeJHDPnJOub6ZoQwOyXcT2p0p0PdliGdjqdLtYpDuLMJ0exgRRvje-eKUHwGpFmQkBk1e=s200"  group-title="FEED PLAY",EUROSPORTS HD (UK)
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-#EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://1.bp.blogspot.com/-fxawguqORj8/YJ91HV0t7XI/AAAAAAAAAxQ/hdB9zscYt9I_HorBM1z6gSt4aqTrPhMhgCLcBGAsYHQ/s320/PicsArt_03-16-05.13.30.jpg"  group-title="FEED PLAY",AAJ TAK HD (IN)
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png"  group-title="FEED PLAY",INDIA TODAY (IN)
-https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-vrE2qLPiNkc/YP_tK49ei9I/AAAAAAAAAro/uSoOD5CeZWU_KQpInK4ZI7kWeawZCS0aQCLcBGAsYHQ/s200/download.jpeg"  group-title="FEED PLAY",COLORS CINEPLEX HD (IN)
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="FEED PLAY",SONY BBC EARTH HD (IN)
@@ -906,7 +907,7 @@ http://31.220.41.88:8081/live/discoveryturbo.stream/playlist.m3u8
 http://31.220.41.87:8081/live/5usa.stream/playlist.m3u8
 http://31.220.41.87:8081/live/discovery.stream/playlist.m3u8
 
-#EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="ADULT",GOLF (UK)
+#EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="ENGLISH",GOLF (UK)
 http://203.154.243.89:11208
 #EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="ADULT",VENUS (UK)
 http://45.5.8.78:8000/play/a03c
@@ -1073,23 +1074,6 @@ http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="ENGLISH",CNN (UK)
 http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
-
-#EXTINF:-1 ch-id="BT SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-SNiNPhn9ei8/YNx98Jrgj1I/AAAAAAAAAHc/j4-B7PkkJUA2vxBSpmiicjbyQQMg23t8QCLcBGAsYHQ/s320/PicsArt_06-30-07.51.11.png"  group-title="GLOBAL IPTV",BT SPORTS 1 (UK)
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 ch-id="BEIN SPORTS 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-WY9CYbPGbFo/YNxhlAeQ--I/AAAAAAAAAGM/_9vW-hmgruAwaJ5G-0-ws_LcuXJNITiEgCLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.jpeg"  group-title="GLOBAL IPTV",BEIN SPORTS 1 (UK)
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 ch-id="WB TV (TH)"  tvg-logo="https://1.bp.blogspot.com/-86vIXa2_a1E/YM9mHcmas9I/AAAAAAAAAAM/nTUM7N9YCIkKxmwDqPix8lwNfLubrIG-ACLcBGAsYHQ/s320/images.jpeg"  group-title="GLOBAL IPTV",WB TV (THAI)
-http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 ch-id="FOX (TH)" tvg-logo="https://1.bp.blogspot.com/-KqOf_pKwh8o/YPDSeVT0toI/AAAAAAAAAgI/GUiGCHI4q7cHMsEs4DPbREKAIcNMe9XawCLcBGAsYHQ/s200/PicsArt_07-16-05.49.26.png"  group-title="GLOBAL IPTV",FOX (TH)
-http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 ch-id="HISTORY (TH)" tvg-logo="https://1.bp.blogspot.com/-oNrrxww0Vk4/YO5_G-RJzKI/AAAAAAAAAeM/tagUSsJ2i2A4IjWHDy2bLXyBOjFxA01xACLcBGAsYHQ/s200/images%2B%25281%2529%252810%2529.jpeg"  group-title="GLOBAL IPTV",HISTORY (TH)
-http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 ch-id="ESPN (UK)" tvg-logo="https://1.bp.blogspot.com/-FOBIXHFu6eA/YRZRCPL2j2I/AAAAAAAAA2w/yPm9iREPSWoxzA_nXbNYeT6kNMeIUND1QCLcBGAsYHQ/s200/images%252812%2529.png"  group-title="GLOBAL IPTV",ESPN (UK)
-http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8?Token=
-#EXTINF:-1 ch-id="FOX MOVIES (TH)" tvg-logo=" "  group-title="GLOBAL IPTV",FOX MOVIES (TH)
-http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 ch-id="EURO HD 1 (UK)" tvg-logo=" "  group-title="GLOBAL IPTV",EURO HD 1 (UK)
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ZEE5",ZEE TV HD (ME)
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
