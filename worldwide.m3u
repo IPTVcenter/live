@@ -793,13 +793,13 @@ http://tvflix03.ddns.net/ENC-16/playlist.m3u8
 http://tvflix03.ddns.net/ENC-17/playlist.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK HD+ (IN)" tvg-logo=" "  group-title="BDCABLE TV",CARTOON NETWORK HD+ (IN)
 http://tvflix03.ddns.net/ENC-18/playlist.m3u8
-#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",SONY TEN 1 HD (IN)
+#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="BDCABLE TV",SONY TEN 1 HD (IN)
 http://tvflix03.ddns.net/ENC-19/playlist.m3u8
 #EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo=" "  group-title="BDCABLE TV",UTV MOVIES (IN)
 http://tvflix03.ddns.net/ENC-20/playlist.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL (UK)" tvg-logo=" "  group-title="BDCABLE TV",DISNEY CHANNEL (UK)
 http://tvflix03.ddns.net/disney_ch-sp/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title="BDCABLE TV",STAR PLUS HD (IN)
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="BDCABLE TV",STAR PLUS HD (IN)
 http://148.72.155.84/StarPlus/video.m3u8
 
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="BDCABLE TV",SONY TEN 1 HD (IN)
@@ -884,21 +884,21 @@ http://103.213.238.194:8080/SonySix/index.m3u8
 http://103.213.238.194:8080/ZeeCinema/index.m3u8
 http://103.213.238.194:8080/SonyPix/index.m3u8
 
-#EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="LIVE",BOOMERANG (US)
+#EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="ENGLISH",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
-#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo="https://1.bp.blogspot.com/-tnSjEx3FH98/YQktsw-ODzI/AAAAAAAAA1M/134jCv3fdvEs7aIPljCrDJuLb-5P0tNGwCLcBGAsYHQ/s200/PicsArt_08-03-05.20.54.jpg"  group-title="LIVE",SKY SPORTS CRICKET (UK)
+#EXTINF:-1 ch-id="SKY SPORTS CRICKET (UK)" tvg-logo="https://1.bp.blogspot.com/-tnSjEx3FH98/YQktsw-ODzI/AAAAAAAAA1M/134jCv3fdvEs7aIPljCrDJuLb-5P0tNGwCLcBGAsYHQ/s200/PicsArt_08-03-05.20.54.jpg"  group-title="ENGLISH",SKY SPORTS CRICKET (UK)
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://1.bp.blogspot.com/-PcZpL1daJtg/YQkrbnscCEI/AAAAAAAAA1E/62XmSZIGTAgt2JQUeTjf6sTZyhNfn5mcwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="LIVE",BBC CBEEBIES (UK)
+#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://1.bp.blogspot.com/-PcZpL1daJtg/YQkrbnscCEI/AAAAAAAAA1E/62XmSZIGTAgt2JQUeTjf6sTZyhNfn5mcwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="ENGLISH",BBC CBEEBIES (UK)
 http://31.220.41.88:8081/live/uk-cbeebies.stream/playlist.m3u8
-#EXTINF:-1 ch-id="ADULT SWIM (US)" tvg-logo="https://1.bp.blogspot.com/-mnx-ukAIrNs/YRZMFWrZFrI/AAAAAAAAA1w/onEZ5xCKJI0zNi40XeZRist-hYNXtr5WACLcBGAsYHQ/s200/images.jpeg"  group-title="LIVE",ADULT SWIM (US)
+#EXTINF:-1 ch-id="ADULT SWIM (US)" tvg-logo="https://1.bp.blogspot.com/-mnx-ukAIrNs/YRZMFWrZFrI/AAAAAAAAA1w/onEZ5xCKJI0zNi40XeZRist-hYNXtr5WACLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",ADULT SWIM (US)
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
-#EXTINF:-1 ch-id="CARTOON (UK)" tvg-logo=" "  group-title=" ",CARTOON (UK)
+#EXTINF:-1 ch-id="CARTOON (UK)" tvg-logo=" "  group-title="ENGLISH",CARTOON (UK)
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=
-#EXTINF:-1 ch-id="ABC (UK)" tvg-logo=" "  group-title=" ",ABC (UK)
+#EXTINF:-1 ch-id="ABC (UK)" tvg-logo=" "  group-title="ENGLISH",ABC (UK)
 http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
-#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title=" ",ITV (UK)
+#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="EENG",ITV (UK)
 http://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
-#EXTINF:-1 ch-id="STARZ (UK)" tvg-logo=" "  group-title=" ",STARZ (UK)
+#EXTINF:-1 ch-id="STARZ (UK)" tvg-logo=" "  group-title="ENGLISH",STARZ (UK)
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 http://31.220.41.88:8081/live/history.stream/playlist.m3u8
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
@@ -1008,12 +1008,10 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="HINDI",DD NATIONAL (IN)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo=" "  group-title="STREAMS",ANIMAL PLANET (ASIA)
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="STREAMS",NAT GEO WILD (ASIA)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="STREAMS",BBC WORLD NEWS (ASIA)
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="STREAMS",COLORS HD (IN)
