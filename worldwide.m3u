@@ -465,7 +465,7 @@ https://idvd.multitvsolution.com/idvo/enter10.m3u8
 https://itvoign.multitvsolution.com/idvo/dangal.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo="https://1.bp.blogspot.com/-nrBEJBvMxec/YOv1hwZ6lVI/AAAAAAAAAWM/077qpnr5ij0Br2SLKn8yufv1x8SnpPqhQCLcBGAsYHQ/s200/PicsArt_07-12-01.25.43.jpg"  group-title="MULTI-TV",DISCOVERY SCIENCE (IN)
 https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
-#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="MULTI&TV",DISCOVERY TURBO (IN)
+#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="MULTI-TV",DISCOVERY TURBO (IN)
 https://itvoign.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-l9btGw2epVM/YOv2ZdAGNsI/AAAAAAAAAWc/_Ig6xApZ3_QC_8pkd_iSMzCuV5E3gSCWACLcBGAsYHQ/s200/images%2B%25289%2529%25281%2529.jpeg"  group-title="MULTI-TV",NEWS INDIA (IN)
 https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
@@ -664,7 +664,7 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="FEED-PLAY",SONY BBC EARTH HD (IN)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="FEED PLAY",SONY PIX HD (IN)
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",SONY PIX HD (IN)
 https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 #EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://1.bp.blogspot.com/-X4BHuDdG6N4/YKWxH-30awI/AAAAAAAAA9A/mtnwTDVYx3kpfc5W73xOjgAABQXHNEeGQCLcBGAsYHQ/w200-h200/5d89baa6c85b7228779305.jpg"   group-title="FEED-PLAY",SONY SAB (IN)
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
@@ -709,9 +709,9 @@ https://livecdn.fptplay.net/hda2/discovery_hls.smil/master.m3u8
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="FPT-PLAY",BBC WORLD NEWS (ASIA)
 https://livecdn.fptplay.net/qnetlive/bbcnew_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="CINEMAX (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjZIR1G3ccHXeM2KZcDL_bCuugKuTYqGgu3QLcKU0SUx1X5LsAt2WZCrzca_U4RaoPNgbkt6FZQYsZtBUVWPPIaSNZr62bvJ53GOy3PYFqnAHB6ED4AbYVtinxoo26MwHcW00eggQhIKgl2RSa8kk0QX7GLi-BmtSpJ8h8K32nrEBPVfKR-SkhMybC_=s200"  group-title="FPT PLAY",CINEMAX (ASIA)
+#EXTINF:-1 ch-id="CINEMAX (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjZIR1G3ccHXeM2KZcDL_bCuugKuTYqGgu3QLcKU0SUx1X5LsAt2WZCrzca_U4RaoPNgbkt6FZQYsZtBUVWPPIaSNZr62bvJ53GOy3PYFqnAHB6ED4AbYVtinxoo26MwHcW00eggQhIKgl2RSa8kk0QX7GLi-BmtSpJ8h8K32nrEBPVfKR-SkhMybC_=s200"  group-title="FPT-PLAY",CINEMAX (ASIA)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS 3 (ASIA)" tvg-logo=" "  group-title="FPT PLAY",FOX SPORTS 3 (ASIA)
+#EXTINF:-1 ch-id="FOX SPORTS 3 (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 3 (ASIA)
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-NleWSEb_YOA/YOwpb4StdXI/AAAAAAAAAaE/mO5W2USq7cYJgtCQ19TX2KiSDDvdA8kugCLcBGAsYHQ/s200/FOX_Sports_logo.svg%2B%25281%2529.png"  group-title="FPT-PLAY",FOX SPORTS (ASIA)
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
