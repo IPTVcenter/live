@@ -106,10 +106,33 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png"  group-title="ENGLISH",INDIA TODAY (IN)
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="HINDI",ZING (IN)
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg"   group-title="ASLIVE",ZING (IN)
 https://aslive.club/altaf/music/zing/chunks.m3u8
-#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="https://1.bp.blogspot.com/-gyLzyJAQd5U/YQaQerxHtFI/AAAAAAAAAwE/SRjzwZHCx8I0xwjee0tZH93IbSR9n3O0gCLcBGAsYHQ/s200/PicsArt_08-01-05.45.33.jpg"  group-title="HINDI",MASTIII (IN)
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="https://1.bp.blogspot.com/-gyLzyJAQd5U/YQaQerxHtFI/AAAAAAAAAwE/SRjzwZHCx8I0xwjee0tZH93IbSR9n3O0gCLcBGAsYHQ/s200/PicsArt_08-01-05.45.33.jpg"  group-title="ASLIVE",MASTIII (IN)
 https://aslive.club/altaf/music/musicmasti/chunks.m3u8
+https://aslive.club/altaf/hindi/starplus/chunks.m3u8
+https://aslive.club/altaf/hindi/andpicture/chunks.m3u8
+https://aslive.club/altaf/hindi/risteycineplex/chunks.m3u8
+https://aslive.club/altaf/hindi/bflix/chunks.m3u8
+https://aslive.club/altaf/hindi/boxcinema/chunks.m3u8
+https://aslive.club/altaf/hindi/monoronjon/chunks.m3u8
+https://aslive.club/altaf/music/dilse/chunks.m3u8
+https://aslive.club/altaf/music/9xm/chunks.m3u8
+https://aslive.club/altaf/music/musicindia/chunks.m3u8
+https://aslive.club/altaf/music/9x/chunks.m3u8
+https://aslive.club/altaf/sports/benextra/chunks.m3u8
+https://aslive.club/altaf/sports/edgesports/chunks.m3u8
+https://aslive.club/altaf/sports/foxsports/chunks.m3u8
+https://aslive.club/altaf/documentary/animalplanet/chunks.m3u8
+https://aslive.club/altaf/documentary/discoveryturbo/chunks.m3u8
+https://aslive.club/altaf/documentary/tlc/chunks.m3u8
+https://aslive.club/altaf/english/starmovies/chunks.m3u8
+https://aslive.club/altaf/english/sonypix/chunks.m3u8
+https://aslive.club/altaf/kids/sonic/chunks.m3u8
+https://aslive.club/altaf/kids/hangamakids/chunks.m3u8
+https://aslive.club/altaf/kids/marvelhq/chunks.m3u8
+https://aslive.club/altaf/kids/disney/chunks.m3u8
+https://aslive.club/altaf/kids/pogo/chunks.m3u8
 
 #EXTINF:-1 ch-id="FX (US)" tvg-logo="https://1.bp.blogspot.com/-ACeXWQoGWDQ/YP09rOIvYRI/AAAAAAAAAkI/FAu9mQWD1-EEXK9mqJdZqF4jgrBx98n9QCLcBGAsYHQ/s200/das_our-brands_fx_logo.png"  group-title="BOZZ-TV",FX (US)
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
