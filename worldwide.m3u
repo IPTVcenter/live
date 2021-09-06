@@ -110,28 +110,37 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://aslive.club/altaf/music/zing/chunks.m3u8
 #EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="https://1.bp.blogspot.com/-gyLzyJAQd5U/YQaQerxHtFI/AAAAAAAAAwE/SRjzwZHCx8I0xwjee0tZH93IbSR9n3O0gCLcBGAsYHQ/s200/PicsArt_08-01-05.45.33.jpg"  group-title="ASLIVE",MASTIII (IN)
 https://aslive.club/altaf/music/musicmasti/chunks.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="ASLIVE",STAR PLUS HD (IN)
 https://aslive.club/altaf/hindi/starplus/chunks.m3u8
 https://aslive.club/altaf/hindi/andpicture/chunks.m3u8
 https://aslive.club/altaf/hindi/risteycineplex/chunks.m3u8
+#EXTINF:-1 ch-id="BIXFLIX MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg"  group-title="ASLIVE",BIXFLIX MOVIES (IN)
 https://aslive.club/altaf/hindi/bflix/chunks.m3u8
 https://aslive.club/altaf/hindi/boxcinema/chunks.m3u8
 https://aslive.club/altaf/hindi/monoronjon/chunks.m3u8
 https://aslive.club/altaf/music/dilse/chunks.m3u8
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="ASLIVE",9XM (IN)
 https://aslive.club/altaf/music/9xm/chunks.m3u8
 https://aslive.club/altaf/music/musicindia/chunks.m3u8
 https://aslive.club/altaf/music/9x/chunks.m3u8
+#EXTINF:-1 ch-id="BEIN SPORTS EXTRA (US)" tvg-logo="https://1.bp.blogspot.com/-wSi7eKjodCk/YP1EogtfHzI/AAAAAAAAAmM/W9gcWIifeJc6OPFxLFuXZ2c-j01niyhWwCLcBGAsYHQ/s200/beIN-SPORTS-XTRA_LOGO%2B%25281%2529.png"  group-title="ASLIVE",BEIN SPORTS EXTRA (ME)
 https://aslive.club/altaf/sports/benextra/chunks.m3u8
 https://aslive.club/altaf/sports/edgesports/chunks.m3u8
 https://aslive.club/altaf/sports/foxsports/chunks.m3u8
 https://aslive.club/altaf/documentary/animalplanet/chunks.m3u8
 https://aslive.club/altaf/documentary/discoveryturbo/chunks.m3u8
 https://aslive.club/altaf/documentary/tlc/chunks.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="ASLIVE",STAR MOVIES HD (IN)
 https://aslive.club/altaf/english/starmovies/chunks.m3u8
 https://aslive.club/altaf/english/sonypix/chunks.m3u8
+#EXTINF:-1 ch-id="SONIC (IN)" tvg-logo="https://1.bp.blogspot.com/-o8d-P5Yt6rg/YOrRBiFf7gI/AAAAAAAAAUE/r4Kms_g926A_3sGY08d-_fWA-7HQ6AZoQCLcBGAsYHQ/s200/Nickelodeon_Sonic_logo.png"  group-title="ASLIVE",SONIC (IN)
 https://aslive.club/altaf/kids/sonic/chunks.m3u8
+#EXTINF:-1 ch-id="HUNGAMA TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvw_CCE0qPkMvYCtFZ7Va3xkaARmZK1ri43ZKC-ZZh3xSm3dHMR1SHwPx5YW7hGicuppyIXMZ8Cw1Fm8pUXWUNVS2BP-AcmulQjf7hdqLlHL53BG8p7y6L6HbHBsXxCUEG500BZSUhfPHcGNl2T48abcZfQU3CBr1MjCxZQJeLKgjPLdtz59OSB18p=s200"  group-title="ASLIVE",HUNGAMA TV (IN)
 https://aslive.club/altaf/kids/hangamakids/chunks.m3u8
+#EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="ASLIVE",MARVEL HQ (IN)
 https://aslive.club/altaf/kids/marvelhq/chunks.m3u8
 https://aslive.club/altaf/kids/disney/chunks.m3u8
+#EXTINF:-1 ch-id="POGO (IN)" tvg-logo="https://1.bp.blogspot.com/-0sJ65-yM264/YOrRLWZfXBI/AAAAAAAAAUM/tbLs61VZRUwJu1a_5Ry9K43Groe72M8BgCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg"  group-title="ASLIVE",POGO (IN)
 https://aslive.club/altaf/kids/pogo/chunks.m3u8
 
 #EXTINF:-1 ch-id="FX (US)" tvg-logo="https://1.bp.blogspot.com/-ACeXWQoGWDQ/YP09rOIvYRI/AAAAAAAAAkI/FAu9mQWD1-EEXK9mqJdZqF4jgrBx98n9QCLcBGAsYHQ/s200/das_our-brands_fx_logo.png"  group-title="BOZZ-TV",FX (US)
@@ -802,7 +811,7 @@ http://tvflix03.ddns.net/ENC-8/playlist.m3u8
 http://tvflix03.ddns.net/ENC-9/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="BDCABLE-TV",STAR GOLD HD (IN)
 http://tvflix03.ddns.net/ENC-10/playlist.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="BDCABLE-TV",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="BDCABLE-TV",SONY MAX HD (IN)
 http://jupiter.bdcabletv.com/SonyMax/video.m3u8
 #EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo="https://1.bp.blogspot.com/-yoMpPe16b-I/YStzQkYznjI/AAAAAAAAA9g/K0O3t07Alyw8kh7-X5q38TBYGorAB8tKwCLcBGAsYHQ/s200/Ten-sports.png"  group-title="BDCABLE-TV",TEN SPORTS (PK)
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
@@ -926,6 +935,7 @@ http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 http://31.220.41.88:8081/live/history.stream/playlist.m3u8
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
+#EXTINF:-1 ch-id="DISCOVERY TURBO (US)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",DISCOVERY TURBO (US)
 http://31.220.41.88:8081/live/discoveryturbo.stream/playlist.m3u8
 http://31.220.41.87:8081/live/5usa.stream/playlist.m3u8
 http://31.220.41.87:8081/live/discovery.stream/playlist.m3u8
@@ -985,11 +995,12 @@ http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="ENGLISH",STAR MOVIES HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-
-
+http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
 
 
 ##EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="ENGLISH",FOX NEWS (US)
@@ -1007,7 +1018,7 @@ http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png"  group-title="LOCKLE-TV",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="LOCKLE-TV",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="LOCKLE-TV",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="LOCKLE-TV",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
