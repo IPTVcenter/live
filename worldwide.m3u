@@ -114,21 +114,27 @@ https://aslive.club/altaf/music/musicmasti/chunks.m3u8
 https://aslive.club/altaf/hindi/starplus/chunks.m3u8
 #EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="HINDI",& PICTURES HD (IN)
 https://aslive.club/altaf/hindi/andpicture/chunks.m3u8
+#EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" tvg-logo=" "  group-title="HINDI",RISHTEY CINEPLEX (IN)
 https://aslive.club/altaf/hindi/risteycineplex/chunks.m3u8
 #EXTINF:-1 ch-id="BIXFLIX MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg"  group-title="ASLIVE",BIXFLIX MOVIES (IN)
 https://aslive.club/altaf/hindi/bflix/chunks.m3u8
 #EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-dkyiL4-RHOE/YP1NNPfwtWI/AAAAAAAAAoI/tchV3tQG1tkV8kUcoYxWuQO9QZY8EgbxgCLcBGAsYHQ/s200/images%2B%252821%2529.jpeg"  group-title="ASLIVE",BOX CINEMA (IN)
 https://aslive.club/altaf/hindi/boxcinema/chunks.m3u8
+#EXTINF:-1 ch-id="MANOTANJAN MOVIES (IN)" tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg"  group-title="HINDI",MANORANJAN MOVIES (IN)
 https://aslive.club/altaf/hindi/monoronjon/chunks.m3u8
+#EXTINF:-1 ch-id="DIL SE (IN)" tvg-logo=" "  group-title="HINDI",DIL SE (IN)
 https://aslive.club/altaf/music/dilse/chunks.m3u8
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="ASLIVE",9XM (IN)
 https://aslive.club/altaf/music/9xm/chunks.m3u8
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="HINDI",MUSIC INDIA (IN)
 https://aslive.club/altaf/music/musicindia/chunks.m3u8
 #EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://1.bp.blogspot.com/-cdDRQXILj2g/YOwYHewVryI/AAAAAAAAAYI/-l_iw4GpeBwQPZtKNex-p2SMNUFnrFGlACLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.png"  group-title="ASLIVE",9X JALWA (IN)
 https://aslive.club/altaf/music/9x/chunks.m3u8
 #EXTINF:-1 ch-id="BEIN SPORTS EXTRA (US)" tvg-logo="https://1.bp.blogspot.com/-wSi7eKjodCk/YP1EogtfHzI/AAAAAAAAAmM/W9gcWIifeJc6OPFxLFuXZ2c-j01niyhWwCLcBGAsYHQ/s200/beIN-SPORTS-XTRA_LOGO%2B%25281%2529.png"  group-title="ASLIVE",BEIN SPORTS EXTRA (ME)
 https://aslive.club/altaf/sports/benextra/chunks.m3u8
+#EXTINF:-1 ch-id="EDGE SPORTS (US)" tvg-logo=" "  group-title="ENGLISH",EDGE SPORTS (US)
 https://aslive.club/altaf/sports/edgesports/chunks.m3u8
+#EXTINF:-1 ch-id="FOX SPORTS (US)" tvg-logo=" "  group-title="ENGLISH",FOX SPORTS (US)
 https://aslive.club/altaf/sports/foxsports/chunks.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="ASLIVE",ANIMAL PLANET HD (IN)
 https://aslive.club/altaf/documentary/animalplanet/chunks.m3u8
@@ -138,6 +144,7 @@ https://aslive.club/altaf/documentary/discoveryturbo/chunks.m3u8
 https://aslive.club/altaf/documentary/tlc/chunks.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="ASLIVE",STAR MOVIES HD (IN)
 https://aslive.club/altaf/english/starmovies/chunks.m3u8
+#EXTINF:-1 ch-id="SONY PUX HD (IN)" tvg-logo=" "  group-title="ENGLISH",SONY PIX HD (IN)
 https://aslive.club/altaf/english/sonypix/chunks.m3u8
 #EXTINF:-1 ch-id="SONIC (IN)" tvg-logo="https://1.bp.blogspot.com/-o8d-P5Yt6rg/YOrRBiFf7gI/AAAAAAAAAUE/r4Kms_g926A_3sGY08d-_fWA-7HQ6AZoQCLcBGAsYHQ/s200/Nickelodeon_Sonic_logo.png"  group-title="ASLIVE",SONIC (IN)
 https://aslive.club/altaf/kids/sonic/chunks.m3u8
@@ -923,6 +930,7 @@ http://103.213.238.194:8080/SonyMaxHD/index.m3u8
 http://103.213.238.194:8080/SonySix/index.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://1.bp.blogspot.com/-_pAJRRKhDn0/YJ5ejhcxfKI/AAAAAAAAAt4/vdOFkj-uhbwF650QHhpGUxRdLkbcF_RHgCLcBGAsYHQ/s200/zee-cinema.jpg"   group-title="HINDI",ZEE CINEMA (ME)
 http://103.213.238.194:8080/ZeeCinema/index.m3u8
+#EXTINF:-1 ch-id="SONY PIX (IN)" tvg-logo=" "  group-title="ENGLISH",SONY PIX (IN)
 http://103.213.238.194:8080/SonyPix/index.m3u8
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="ENGLISH",BOOMERANG (US)
@@ -963,24 +971,21 @@ http://200.194.238.229:8000/udp/227.0.0.64:1234
 
 #EXTINF:-1 ch-id="FOOD NETWORK (UK)" tvg-logo=" "  group-title="ENGLISH",FOOD NETWORK (UK)
 http://185.99.253.46:8000/play/a02u
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ENGLISH", (UK)
 http://185.99.253.46:8000/play/a046
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="DEVA JA VU (UK)" tvg-logo=" "  group-title="ENGLISH",DEVA JA VU (UK)
 http://185.99.253.46:8000/play/a027
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ENGLISH", (UK)
 http://185.99.253.46:8000/play/a010
 
 #EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",DISCOVERY TURBO (IN)
 http://103.153.39.34:8000/play/a06l/index.m3u8
-http://103.153.39.34:8000/play/a04q/index.m3u8
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo="https://1.bp.blogspot.com/-nrBEJBvMxec/YOv1hwZ6lVI/AAAAAAAAAWM/077qpnr5ij0Br2SLKn8yufv1x8SnpPqhQCLcBGAsYHQ/s200/PicsArt_07-12-01.25.43.jpg"  group-title="ENGLISH",DISCOVERY SCIENCE (IN)
 http://103.153.39.34:8000/play/a06k/index.m3u8
-http://103.153.39.34:8000/play/a06d/index.m3u8
 
-
-
-
-
+#EXTINF:-1 ch-id="COLORS INFINITY HD (IN)" tvg-logo=" "  group-title="ENGLISH",COLORS INFINITY HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="&PRIVE HD (IN)" tvg-logo=" "  group-title="ENGLISH",&PRIVE HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="& FLIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-uSTchAxwVV0/YJ8RbAx4cDI/AAAAAAAAAv0/CmQkYjiSpl8vZ8ENFf6iYBChT3qfxSZUgCLcBGAsYHQ/s0/PicsArt_05-15-05.10.43.jpg"   group-title="ENGLISH",& FLIX HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
@@ -988,15 +993,19 @@ http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="HINDI",& PICTURES HD (IN)
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="FOX LIFE HD (IN)" tvg-logo=" "  group-title="ENGLISH",FOX LIFE HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES SELECT HD (IN)" tvg-logo=" "  group-title="ENGLISH",STAR MOVIES SELECT HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo="https://1.bp.blogspot.com/-r63b_mFZs28/YSt5W5IHtxI/AAAAAAAAA-o/Q_xOzYp0VW4hI-nG7-JaP5KUw556-AG6QCLcBGAsYHQ/s200/PicsArt_08-29-05.40.56.jpg"  group-title="HINDI",STAR BHARAT HD (IN)
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="ENGLISH",ANIMAL PLANET HD (IN)
 http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="ENGLISH",STAR MOVIES HD (IN)
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="HINDI",STAR PLUS HD (IN)
 http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="ENGLISH",SONY PIX HD (IN)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="ZEE CAFE HD (IN)" tvg-logo="https://1.bp.blogspot.com/-U8q6EyVygn8/YJ9y5JH_2II/AAAAAAAAAw0/Bje-1ljeg6k2n_XstF0Zmkh_76Jr6JRFwCLcBGAsYHQ/s0/PicsArt_05-15-06.27.36.png"  group-title="ENGLISH",ZEE CAFE HD (IN)
@@ -1184,13 +1193,13 @@ https://live.picasotv.xyz/zeetv/index.php?c=0-9-bigmagic_1786965389
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-tvpictureshd
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeeanmolcinema
-#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://1.bp.blogspot.com/-cdDRQXILj2g/YOwYHewVryI/AAAAAAAAAYI/-l_iw4GpeBwQPZtKNex-p2SMNUFnrFGlACLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.png"  group-title="ZEE5",9X JALWA (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-133
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="ZEE5",9XM (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-131
 #EXTINF:-1 ch-id="9X JHAKAS (IN)" tvg-logo=" "  group-title=" ", (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-134
-#EXTINF:-1 ch-id="&FLIX HD (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="& FLIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-uSTchAxwVV0/YJ8RbAx4cDI/AAAAAAAAAv0/CmQkYjiSpl8vZ8ENFf6iYBChT3qfxSZUgCLcBGAsYHQ/s0/PicsArt_05-15-05.10.43.jpg"   group-title="ZEE5",& FLIX HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-channel_2105335046
 #EXTINF:-1 ch-id="DD URDU (UK)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddurdu
