@@ -263,8 +263,6 @@ https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1 ch-id="MTV (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPmvMBx0DUhcqwhzOEDQRHllKXSk0j3_zCA78OPmNlVD9KkknZU0MS9Wovi0sx1OOgj2uNZlQW_dJa_fpWkPljeFSY_3aMTvij_o2vAMSysJn1ZsKSpgozcRL-_dDPAov170VTaqU7txYiVqLKYFmyceIUWwYk4vnN1JpfSjK0AXiqOsGh1r2n-Itp=s200"  group-title="PLUTO-TV",MTV (US)
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 ch-id="BEIN SPORTS EXTRA (UK)" tvg-logo=" "  group-title="PLUTO-TV",BEIN SPORTS EXTRA (UK)
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo=" "  group-title="PLUTO-TV",CNN (UK)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -463,7 +461,7 @@ https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ch-id="YOUNG HOLLYWOOD (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",YOUNG HOLLYWOOD (UK)
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="YAHOO FINANCE (UK)" tvg-logo=""  group-title="SAMSUNG-TV",YAHOO FINANCE (UK)
+#EXTINF:-1 ch-id="YAHOO FINANCE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",YAHOO FINANCE (UK)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ch-id="ZOOMOO (US)" tvg-logo=" "  group-title="SAMSUNG-TV",ZOOMOO (US)
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
