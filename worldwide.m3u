@@ -199,7 +199,7 @@ https://streams.simpaisa.com:8443/pitvlive4/discoverykid.smil/playlist.m3u8
 https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8
 #EXTINF:-1 ch-id="A PLUS (PK)"  tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png"   group-title="HINDI",A PLUS (PK)
 https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8
-#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo=" "  group-title="HINDI",HUM HD (PK)
+#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo="https://1.bp.blogspot.com/-b_fuad7JTZI/YTiLATgkNJI/AAAAAAAABDs/54b8mX8IbZYGM1a7Hax4BNs3uHfgR_stgCLcBGAsYHQ/s200/channels4_profile.jpg"  group-title="HINDI",HUM HD (PK)
 https://streams.simpaisa.com:8443/pitvlive4/humtvnewone.smil/playlist.m3u8
 #EXTINF:-1 ch-id="HUM SITARAY (PK)" tvg-logo="https://1.bp.blogspot.com/-i2DeKu9e3Qg/YOrBvCYtfcI/AAAAAAAAAPw/MP_OIOG0i7gjTbgID5rq_fwoSss9Og3eQCLcBGAsYHQ/s200/Hum_Sitaray_Logo.png"  group-title="HINDI",HUM SITARAY (PK)
 https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8
@@ -299,7 +299,7 @@ http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/chunklist.m3u8
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist.m3u8
 #EXTINF:-1 ch-id="RASHI HINDI HD (IN)" tvg-logo="https://1.bp.blogspot.com/-_d9DrFP3exI/YP1E4CscM0I/AAAAAAAAAmU/r9ijLYnQTWohi38974Jd-rGmV1d1I3F-wCLcBGAsYHQ/s200/PicsArt_07-16-05.16.27.jpg"  group-title="HINDI",RASI HINDI HD (IN)
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1 ch-id="100AUTOMOTO TV (UK)" tvg-logo="WORLD IPTV"  group-title="ENGLISH",100AUTOMOTO TV (UK)
+#EXTINF:-1 ch-id="100AUTOMOTO TV (UK)" tvg-logo="https://1.bp.blogspot.com/-wWfndVPN3Aw/YTiM8Pa_ScI/AAAAAAAABD0/gerjpDor2PAbSKcc31WVeLQcmTCCQ9YHQCLcBGAsYHQ/s200/logo_100.png"  group-title="ENGLISH",100AUTOMOTO TV (UK)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 ch-id="NEWS NET (US)" tvg-logo="https://1.bp.blogspot.com/-XYX7KavIujA/YTdWZ-pA-yI/AAAAAAAABDM/-l8zXbEkuNYapqgzZHNiLCllQSYI3Be-ACLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="ENGLISH",NEWS NET (US)
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
@@ -354,29 +354,27 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ch-id="HSN (US)" tvg-logo="https://1.bp.blogspot.com/-SDKGCKsA9FU/YTdW3XPTmuI/AAAAAAAABDY/lPFmib5dTPgfxFeFn6d2eX3FHZEE6usEgCLcBGAsYHQ/s200/download%25283%2529.jpeg"  group-title="AKAMAI-TV",HSN (US)
 http://html5-lh.akamaihd.net/i/html5_01@182967/index_1000_av-p.m3u8?
-#EXTINF:-1 ch-id="FATV (US)" tvg-logo=" "  group-title="AKAMAI-TV",FATV (US)
+#EXTINF:-1 ch-id="FATV (US)" tvg-logo="https://1.bp.blogspot.com/-6V4oBrTEF_A/YTiNpx0AAhI/AAAAAAAABD8/M1lw6buu0i0FxU0rGPRl-fUsYfaYZ9uSQCLcBGAsYHQ/s200/download%25285%2529.png"  group-title="AKAMAI-TV",FATV (US)
 https://t04865-lh.akamaihd.net/i/t04865a_1@569562/index_3000000_av-p.m3u8
 #EXTINF:-1 ch-id="GOD TV (US)" tvg-logo="https://1.bp.blogspot.com/-Z5yjxb-XXqg/YTdXPl5epZI/AAAAAAAABDk/QMQ6ffOIF6oTnQ30TxHzeQEtkh5BEzpqACLcBGAsYHQ/s200/images%2B%252810%2529%25283%2529.jpeg"  group-title="AKAMAI-TV",GOD TV (US)
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
-#EXTINF:-1 ch-id="BLOOMBERG (US)" tvg-logo=" "  group-title="AKAMAI-TV",BLOOMBERG (US)
+#EXTINF:-1 ch-id="BLOOMBERG (US)" tvg-logo="https://1.bp.blogspot.com/-WWB4MRzTKh4/YTiN-hd-06I/AAAAAAAABEE/iryr17vCdWAzRzGcoZYh7Pfu1bGoUMHpgCLcBGAsYHQ/s200/BTV.png"  group-title="AKAMAI-TV",BLOOMBERG (US)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="AKAMAI-TV", (US)
 http://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/index_600_av-p.m3u8?
-#EXTINF:-1 ch-id="BEK (US)" tvg-logo=" "  group-title="AKAMAI-TV",BEK (US)
+#EXTINF:-1 ch-id="BEK (US)" tvg-logo="https://1.bp.blogspot.com/-CT_9kOW-k2s/YTiPmRiK6ZI/AAAAAAAABEM/527gSaRRk-Q7M6A3m92vTdJ5fF1u6JLdgCLcBGAsYHQ/s200/images%2B%25282%2529%25286%2529.png"  group-title="AKAMAI-TV",BEK (US)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS NEWS (AU)" tvg-logo=" "  group-title="AKAMAI-TV",FOX SPORTS NEWS (AU)
+#EXTINF:-1 ch-id="FOX SPORTS NEWS (AU)" tvg-logo="https://1.bp.blogspot.com/-8M7klrVFovw/YTiSDft7X0I/AAAAAAAABE8/dUB10J2AC5IW4R0GyBJpYef2Xr9SCZL0wCLcBGAsYHQ/s200/PicsArt_09-08-04.05.37.png"  group-title="AKAMAI-TV",FOX SPORTS NEWS (AU)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ch-id="SBN GLOBAL (US)" tvg-logo=" "  group-title="AKAMAI-TV",SBN GLOBAL (US)
+#EXTINF:-1 ch-id="SBN GLOBAL (US)" tvg-logo="https://1.bp.blogspot.com/-0VJJl7Oq0No/YTiQctITCsI/AAAAAAAABEc/7PAMtoFQ5QoKOA7ZFBq3jenrCcBLQikKwCLcBGAsYHQ/s200/PicsArt_09-08-03.58.45.jpg"  group-title="AKAMAI-TV",SBN GLOBAL (US)
 https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
-#EXTINF:-1 ch-id="EXPO (US)" tvg-logo=" "  group-title="AKAMAI-TV",EXPO (US)
+#EXTINF:-1 ch-id="EXPO (US)" tvg-logo="https://1.bp.blogspot.com/-Acc7pqbwXDg/YTiRbGdOxMI/AAAAAAAABEo/lAalBYFE8ugo5603XbIKEnDSixOodRRiwCLcBGAsYHQ/s200/Expo_2015_logo.png"  group-title="AKAMAI-TV",EXPO (US)
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS NEWS (UK)" tvg-logo=" "  group-title="AKAMAI-TV",FOX SPORTS NEWS (UK)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 ch-id="HBO (UK)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="AKAMAI-TV",HBO (UK)
 https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630026751~hmac=2cfb5060cf019ef8c0eb178225a24639eb11914977e8d1f3c1cc0cdb45ffeb54
-#EXTINF:-1 ch-id="ABC NEWS (US)" tvg-logo=" "  group-title="AKAMAI-TV",ABC NEWS (US)
+#EXTINF:-1 ch-id="ABC NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-dIJhsuguaOo/YTiSoRXEVFI/AAAAAAAABFE/GewGelC6IZ45ay_VxwYKAfuYWc73h2Z_QCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="AKAMAI-TV",ABC NEWS (US)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ch-id="HK (UK)" tvg-logo=" "  group-title="AKAMAI-TV",HK (UK)
+#EXTINF:-1 ch-id="HK (UK)" tvg-logo="https://1.bp.blogspot.com/-zlC9-1zF9WU/YTiUZxrYT_I/AAAAAAAABFM/rGTtLTyd4LEfXYFoZ5TqU1WBIRPQmGMLwCLcBGAsYHQ/s200/images%2B%25284%2529.jpeg"  group-title="AKAMAI-TV",HK (UK)
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="HINDI",MARVEL HQ (IN)
@@ -445,54 +443,54 @@ https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
 https://www.filmon.com/vr-streams/6155.low/playlist.m3u8
 #EXTINF:-1 ch-id="PORN CLUB (UK)" tvg-logo="https://1.bp.blogspot.com/-WQZR8fo3NQU/YP1Ksd0-exI/AAAAAAAAAng/8ylJjFjBEDYjyISmzXFHbrl9NEVh6G4TwCLcBGAsYHQ/s200/PicsArt_07-25-04.57.24.png"  group-title="ADULT",PORN CLUB (UK)
 http://www.filmon.com/vr-streams/6152.low/playlist.m3u8
-#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo=" "  group-title="ENGLISH",BBC NEWS (UK)
+#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-p1YmUI6KxpA/YTiVz2n7tjI/AAAAAAAABFY/LOk7Ch--axQ2hYlHMrPrrB9vLAAb7VOnACLcBGAsYHQ/s200/images%2B%25286%2529.png"  group-title="ENGLISH",BBC NEWS (UK)
 https://www.filmon.com/vr-streams/27.low/playlist.m3u8
-#EXTINF:-1 ch-id="POP MAX (UK)" tvg-logo=" "  group-title="ENGLISH",POP MAX (UK)
+#EXTINF:-1 ch-id="POP MAX (UK)" tvg-logo="https://1.bp.blogspot.com/-nbQKQ85VKk0/YTiWXHpR-3I/AAAAAAAABFk/RwnG8P3zZioxMTXJhcOw_xHgvHLKTzgbwCLcBGAsYHQ/s200/Pop-max-logo.png"  group-title="ENGLISH",POP MAX (UK)
 https://www.filmon.com/vr-streams/316.low/playlist.m3u8
-#EXTINF:-1 ch-id="REALLY (UK)" tvg-logo=" "  group-title="ENGLISH",REALLY (UK)
+#EXTINF:-1 ch-id="REALLY (UK)" tvg-logo="https://1.bp.blogspot.com/--t2SHwaGizI/YTiW_swpmOI/AAAAAAAABFs/X0hssdk19oY9uUOJFYZfDA8pFvwHtVc_wCLcBGAsYHQ/s200/images%2B%25288%2529.png"  group-title="ENGLISH",REALLY (UK)
 https://www.filmon.com/vr-streams/2798.low/playlist.m3u8
-#EXTINF:-1 ch-id="POP (UK)" tvg-logo=" "  group-title="ENGLISH",POP (UK)
+#EXTINF:-1 ch-id="POP (UK)" tvg-logo="https://1.bp.blogspot.com/-LVEesMuD_dw/YTiXInJtBII/AAAAAAAABFw/KazAYjo1PUQBKikjCsZDBekTolu3G4XJwCLcBGAsYHQ/s200/Pop_%2528UK_TV_channel%2529_logo.png"  group-title="ENGLISH",POP (UK)
 https://www.filmon.com/vr-streams/320.low/playlist.m3u8
 
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="SAMSUNG-TV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="TRAVEL XP (IN)" tvg-logo="https://1.bp.blogspot.com/-Tm2LcNPCif0/YNsCjWrIYWI/AAAAAAAAAEY/0IieUTKTj8MhfSNBe7VYd7QQMRKuuajBgCLcBGAsYHQ/s739/PicsArt_06-29-04.49.01.png"  group-title="SAMSUNG-TV",TRAVEL XP (IN)
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="GAME&FISH (US)" tvg-logo=" "  group-title="SAMSUNG-TV",GAME&FISH (US)
+#EXTINF:-1 ch-id="OUTDOOR AMERICA (US)" tvg-logo="https://1.bp.blogspot.com/-9UZOSBEXaP4/YTiYAyj4fyI/AAAAAAAABF4/sliabQ31m64xidqMta1gQ28yXB2Arv6NwCLcBGAsYHQ/s200/outdoor-america.png"  group-title="SAMSUNG-TV",OUTDOOR AMERICA (US)
 https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="SAMSUNG-TV",INSIGHT TV (US)
+#EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo="https://1.bp.blogspot.com/-O4KzS2ZlSzo/YTiYb1drqAI/AAAAAAAABGA/TitNCv7jNak1yaIobt9eDjebT-_64-mTwCLcBGAsYHQ/s200/images%2B%25285%2529%25284%2529.png"  group-title="SAMSUNG-TV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="YOUNG HOLLYWOOD (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",YOUNG HOLLYWOOD (UK)
+#EXTINF:-1 ch-id="YOUNG HOLLYWOOD (UK)" tvg-logo="https://1.bp.blogspot.com/-PDLzGQrh2II/YTiZWb0sK0I/AAAAAAAABGI/pKP9dI6rILkhiCJxSAHQBMBfTDNiil-XQCLcBGAsYHQ/s200/Young_Hollywood_logo.png"  group-title="SAMSUNG-TV",YOUNG HOLLYWOOD (UK)
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="YAHOO FINANCE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",YAHOO FINANCE (UK)
+#EXTINF:-1 ch-id="YAHOO FINANCE (UK)" tvg-logo="https://1.bp.blogspot.com/-I3Mkmmw4h9A/YTiZjV3sx3I/AAAAAAAABGM/4w59-1ThLbgne8LSVFISQwXVFfcMM40sQCLcBGAsYHQ/s200/download%25287%2529.png"  group-title="SAMSUNG-TV",YAHOO FINANCE (UK)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="ZOOMOO (US)" tvg-logo=" "  group-title="SAMSUNG-TV",ZOOMOO (US)
+#EXTINF:-1 ch-id="ZOOMOO (US)" tvg-logo="https://1.bp.blogspot.com/-aQ5yqocMESg/YTiaP301ryI/AAAAAAAABGY/KX5_LAFoxjsRnxy-anPmxW1PySaZyNOEgCLcBGAsYHQ/s200/1200px-ZooMoo_logo.svg.png"  group-title="SAMSUNG-TV",ZOOMOO (US)
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",BLOOMBERG (UK)
+#EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo="https://1.bp.blogspot.com/-gYgcAfUcADY/YTiaiEr0caI/AAAAAAAABGg/w47r0PvKCsowrdt99B8kEo8LZNdatCuogCLcBGAsYHQ/s200/bloomberg_default-a4f15fa7ee.jpg"  group-title="SAMSUNG-TV",BLOOMBERG (UK)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="FTF (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",FTF (US)
+#EXTINF:-1 ch-id="FTF (UK)" tvg-logo="https://1.bp.blogspot.com/-OPNpvkr3PA8/YTiauZtt0ZI/AAAAAAAABGk/OlCauRfS9nc_02Mb8pLxwM6OD2SmKi0ZACLcBGAsYHQ/s200/1571847365901_ftf_transparentimages-tab.png"  group-title="SAMSUNG-TV",FTF (US)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="COMEDY (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",COMEDY (UK)
+#EXTINF:-1 ch-id="AWTY (UK)" tvg-logo="https://1.bp.blogspot.com/-Fv0WQ19plv4/YTiePcNjw_I/AAAAAAAABG4/47OOgy2fTsc6VMkPLdxMLaCVmVwK_pPywCLcBGAsYHQ/s200/SamsungChannel230.png"  group-title="SAMSUNG-TV",AWTY (UK)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="FAILARMY (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",FAILARMY (UK)
+#EXTINF:-1 ch-id="FAILARMY (UK)" tvg-logo="https://1.bp.blogspot.com/-UUnZTaXsGzU/YTibw2sOuEI/AAAAAAAABGw/80hM8uvQbW8t1xT7F2UF1kq_fkCQmXzAACLcBGAsYHQ/s200/images%2B%252821%2529%25283%2529.jpeg"  group-title="SAMSUNG-TV",FAILARMY (UK)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="DRYBARCOMEDY 1 (AU)" tvg-logo=" "  group-title="SAMSUNG-TV",DRYBARCOMEDY (AY)
+#EXTINF:-1 ch-id="DRYBARCOMEDY (AU)" tvg-logo="https://1.bp.blogspot.com/-lTerC3Oi6LM/YTiek_wLx3I/AAAAAAAABHA/HZUSlufan_8WD5OKxHYoUoTB0heNpBV8ACLcBGAsYHQ/s200/new_drybar_pc.png"  group-title="SAMSUNG-TV",DRYBARCOMEDY (AY)
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="HNCFREE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",HNCFREE (UK)
+#EXTINF:-1 ch-id="HNCFREE (UK)" tvg-logo="https://1.bp.blogspot.com/-koYLiplV8m4/YTifKWmeTEI/AAAAAAAABHI/V2OItzfhC6Q-ocqn_oA-AeNSM1bxtEbTgCLcBGAsYHQ/s200/images%2B%252820%2529%25283%2529.jpeg"  group-title="SAMSUNG-TV",HNCFREE (UK)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="VENNTV (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",VENNTV (UK)
+#EXTINF:-1 ch-id="VENNTV (UK)" tvg-logo="https://1.bp.blogspot.com/-GulpaDhhYts/YTigEkdN4xI/AAAAAAAABHQ/aJOvWMtNLws3-rX28YUypKKghWjtbiR7QCLcBGAsYHQ/s200/images%2B%25285%2529.jpeg"  group-title="SAMSUNG-TV",VENNTV (UK)
 https://venntv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="BOUNTYFLIMS (AU)" tvg-logo=" "  group-title="SAMSUNG-TV",BOUNTYFLIMS (AU)
+#EXTINF:-1 ch-id="BOUNTYFLIMS (AU)" tvg-logo="https://1.bp.blogspot.com/-LSAcsO2Vwj0/YTigl1fr7II/AAAAAAAABHY/LLa2TFBdQn05HiRRiwh1TrNbmFnqbBmNwCLcBGAsYHQ/s200/images%2B%252819%2529%25283%2529.jpeg"  group-title="SAMSUNG-TV",BOUNTYFLIMS (AU)
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="TENNIS CHANNEL (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",TENNIS CHANNEL (UK)
+#EXTINF:-1 ch-id="TENNIS CHANNEL (UK)" tvg-logo="https://1.bp.blogspot.com/-MbfaCGT4UNY/YTihGfuLvzI/AAAAAAAABHg/gSkGgbzPT1Mwl70mBnpop5yYXtq9tU8CgCLcBGAsYHQ/s200/1200px-Tennis_Channel_logo.svg.png"  group-title="SAMSUNG-TV",TENNIS CHANNEL (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="SUPERTOONS TV (FR)" tvg-logo=" "  group-title="SAMSUNG-TV",SUPERTOONS TV (FR)
+#EXTINF:-1 ch-id="SUPERTOONS TV (FR)" tvg-logo="https://1.bp.blogspot.com/-2XmADDre02g/YTiiIhbT_iI/AAAAAAAABHo/X88BbeASZmMWU0mBG45B6wpQPxskUnuKwCLcBGAsYHQ/s200/images%2B%25289%2529.png"  group-title="SAMSUNG-TV",SUPERTOONS TV (FR)
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="SUPERTOONS TV (DE)" tvg-logo=" "  group-title="SAMSUNG-TV",SUPERTNOONS TV (DE)
+#EXTINF:-1 ch-id="SUPERTOONS TV (DE)" tvg-logo="https://1.bp.blogspot.com/-8KM7TFROJoc/YTiihsOQwTI/AAAAAAAABHw/oRhmVkKWSAE1vwcwH7vFDzHKhrXbjbEhACLcBGAsYHQ/s200/download%2B%25281%2529.jpeg"  group-title="SAMSUNG-TV",SUPERTNOONS TV (DE)
 https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="XITE (DE)" tvg-logo=" "  group-title="SAMSUNG-TV",XITE (DE)
+#EXTINF:-1 ch-id="XITE (DE)" tvg-logo="https://1.bp.blogspot.com/-1zmBHDtLDUE/YTiitNKt-RI/AAAAAAAABH0/Fohlh2Iceg0nhXscbtUdDI61kkUXVJUEQCLcBGAsYHQ/s200/images%2B%25286%2529%25282%2529.png"  group-title="SAMSUNG-TV",XITE (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="CLUBBING TV (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",CLUBBINGTV (UK)
+#EXTINF:-1 ch-id="CLUBBING TV (UK)" tvg-logo="https://1.bp.blogspot.com/-QqAPLevy5qY/YTijRhFaMbI/AAAAAAAABIA/e9cUg08wR2oALxvtR4MJVdO2ULKjj3DOACLcBGAsYHQ/s200/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png"   group-title="SAMSUNG-TV",CLUBBINGTV (UK)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MULTI-TV",DD SPORTS (IN)
@@ -517,7 +515,7 @@ https://itvoign.multitvsolution.com/idvo/tlchdhindi.m3u8
 https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
 #EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="MULTI-TV",NEWS X (IN)
 https://itvoign.multitvsolution.com/hls/newsx.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="MULTI-TV",ANIMAL PLANET HD (IN)
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo="https://1.bp.blogspot.com/-Fx-tLa-ajJs/YTij24b9sLI/AAAAAAAABII/N8GmbGjKBgImEu_d1vurGO_ShwfcMQoGQCLcBGAsYHQ/s200/PicsArt_07-16-05.48.14.jpg"  group-title="MULTI-TV",ANIMAL PLANET HD (IN)
 https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (IN)" tvg-logo="https://1.bp.blogspot.com/-6JD-IWsIVwk/YKX_wFOQYzI/AAAAAAAAA-Y/BYTJIsVa_NkkGVDRrFCOm1Wic5NQFDcZwCLcBGAsYHQ/w200-h88/images%252825%2529.jpeg"   group-title="MULTI-TV",DISCOVERY (IN)
 https://itvoign.multitvsolution.com/idvo/discoveryhindi.m3u8
@@ -552,13 +550,13 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 ch-id="BESTON 25 NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-wIZZ7hQMXBM/YOwbGcpR3uI/AAAAAAAAAYg/X6giLWzGhAAqOhxiwvxT83l3W0qOVcJrACLcBGAsYHQ/s200/images%252811%2529.jpeg"  group-title="HINDI",BESTON 25 NEWS (US)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
-#EXTINF:-1 ch-id="BAYWATCH (US)" tvg-logo=" "  group-title="ENGLISH",BAYWATCH (US)
+#EXTINF:-1 ch-id="BAYWATCH (US)" tvg-logo="https://1.bp.blogspot.com/-qI32n7NPBgQ/YTim5bMxGSI/AAAAAAAABIQ/9z3BrbPVMjoyCI3NeEfKSyM2qWv8L8LYgCLcBGAsYHQ/s200/PicsArt_09-08-05.31.49.png"  group-title="ENGLISH",BAYWATCH (US)
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ch-id="SKI TV (US)" tvg-logo=" "  group-title="ENGLISH",SKI TV (US)
+#EXTINF:-1 ch-id="SKI TV (US)" tvg-logo="https://1.bp.blogspot.com/-RyAmm2ONIOw/YTioYzT7jeI/AAAAAAAABIY/cQ9kcjY5KkMA_AUSrBXlsAj-Ss65Nu2DwCLcBGAsYHQ/s200/download%25286%2529.png"  group-title="ENGLISH",SKI TV (US)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 ch-id="WION (IN)" tvg-logo="https://1.bp.blogspot.com/-zhLWeHSVJg4/YQfb9ICkHsI/AAAAAAAAAyc/G9DmQdbQ9UcGKfleMsZ_XIeKIGl5DmAMgCLcBGAsYHQ/s200/1200px-WION_news_Logo.svg.png"  group-title="ENGLISH",WION (IN)
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-#EXTINF:-1 ch-id="TNA (US)" tvg-logo=" "  group-title="ENGLISH",TNA (US)
+#EXTINF:-1 ch-id="TNA (US)" tvg-logo="https://1.bp.blogspot.com/-UgtAMJp-a2M/YTiqBv_asXI/AAAAAAAABIg/GkXs-3rsl5UrbZE-2AxgENjfNhgCf5i5gCLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",TNA (US)
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo="https://1.bp.blogspot.com/-yZRZTCi8L60/YJzX_Th8QnI/AAAAAAAAAsY/PDgCH92fn2QXh3ryx8EGdYUSK8LXnHd4gCLcBGAsYHQ/s320/images%2B%25281%2529%252812%2529.jpeg"   group-title="HINDI",DD RETRO (IN)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
@@ -639,7 +637,7 @@ https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 ch-id="DW (IN)" tvg-logo="https://1.bp.blogspot.com/-7V-KhSpqQ2Y/YN3Nz-MvOgI/AAAAAAAAAJY/bBM1UQtxdD4NBxpIe0OU423YETw8kj55gCLcBGAsYHQ/s532/PicsArt_07-01-05.48.35.jpg"  group-title="MX-TV",DW (IN)
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 ch-id="FRANCE24 (IN)" tvg-logo=" "  group-title="MX-TV",FRANCE24 (IN)
+#EXTINF:-1 ch-id="FRANCE 24 (ASIA)" tvg-logo="https://1.bp.blogspot.com/-ka1fz2NtdqM/YOwiYpY_RVI/AAAAAAAAAZU/sZ4PLjQMM-c5_lQ1Lk4ykMo8f6ru-LbMgCLcBGAsYHQ/s200/images.png"  group-title="MX-TV",FRANCE 24 (ASIA)
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 #EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="MX-TV",EURO NEWS (UK)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
@@ -670,23 +668,23 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg"  group-title="FEED-PLAY",SONY BBC EARTH HD (IN)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",SONY PIX HD (IN)
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-aWIKEawflVY/YTiqztLVcUI/AAAAAAAABIo/3fVag2zUjLImrLIG0jj_tchyvSuklPxpQCLcBGAsYHQ/s200/images%2B%25284%2529%25285%2529.png"  group-title="FEED-PLAY",SONY PIX HD (IN)
 https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 #EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://1.bp.blogspot.com/-X4BHuDdG6N4/YKWxH-30awI/AAAAAAAAA9A/mtnwTDVYx3kpfc5W73xOjgAABQXHNEeGQCLcBGAsYHQ/w200-h200/5d89baa6c85b7228779305.jpg"   group-title="FEED-PLAY",SONY SAB (IN)
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-#EXTINF:-1 ch-id="DISNEY INTERNATIONAL HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",DISNEY INTERNATIONAL HD (IN)
+#EXTINF:-1 ch-id="DISNEY INTERNATIONAL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-34z3bn5WSmY/YTirNBbKXgI/AAAAAAAABIw/j6z0073cI1AXaSuAH7uYO680oynfwiheQCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="FEED-PLAY",DISNEY INTERNATIONAL HD (IN)
 https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
 #EXTINF:-1 ch-id="TLC HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg"  group-title="FEED-PLAY",TLC HD (IN)
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
-#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo=" "  group-title="FEED-PLAY",HUM MASALA (PK)
+#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://1.bp.blogspot.com/-ThxANJHMqEM/YTir9-9JVLI/AAAAAAAABI4/MV69TkFuf9I_XjMVsL4FB508B37Pp5QXgCLcBGAsYHQ/s200/images%2B%25282%2529.jpeg"  group-title="FEED-PLAY",HUM MASALA (PK)
 https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
-#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo=" "  group-title="FEED-PLAY",HUM HD (PK)
+#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo="https://1.bp.blogspot.com/-b_fuad7JTZI/YTiLATgkNJI/AAAAAAAABDs/54b8mX8IbZYGM1a7Hax4BNs3uHfgR_stgCLcBGAsYHQ/s200/channels4_profile.jpg"  group-title="FEED-PLAY",HUM HD (PK)
 https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
-#EXTINF:-1 ch-id="FOOD NETWORK (ASIA)" tvg-logo=" "  group-title="FEED-PLAY",FOOD NETWORK (ASIA)
+#EXTINF:-1 ch-id="FOOD NETWORK (ASIA)" tvg-logo="https://1.bp.blogspot.com/-cogaWb6yWZM/YTisKhfHBhI/AAAAAAAABI8/-5zS5kOiE88qDOs_k8P8uOx_r-5Y8CUDwCLcBGAsYHQ/s200/Food_Network_New_Logo%25281%2529.png"  group-title="FEED-PLAY",FOOD NETWORK (ASIA)
 https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
-#EXTINF:-1 ch-id="DISCOVERY HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",DISCOVERY HD (IN)
+#EXTINF:-1 ch-id="DISCOVERY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-WQlixeCf9ug/YTis6teXX2I/AAAAAAAABJI/a5x-DF5dhS05P8sBiirCmF37MkSscKoGwCLcBGAsYHQ/s200/images%25288%2529.png"  group-title="FEED-PLAY",DISCOVERY HD (IN)
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1 ch-id="TRVL (ASIA)" tvg-logo=" "  group-title="FEED-PLAY",TRVL (ASIA)
+#EXTINF:-1 ch-id="TRVL (ASIA)" tvg-logo="https://1.bp.blogspot.com/-0LTBDOAPc5Y/YTitKF8DmaI/AAAAAAAABJM/FOuG_rTtJPI15SN5ixYq-xInv2K7mqjaQCLcBGAsYHQ/s200/images%2B%25282%2529%252819%2529.jpeg"  group-title="FEED-PLAY",TRVL (ASIA)
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 
 #EXTINF:-1 ch-id="BBC EARTH (ASIA)" tvg-logo="https://1.bp.blogspot.com/-t91CCkj1VlU/YOwfXhpS9AI/AAAAAAAAAY8/iB5B5iKBaNsLBxH4e0G6Oxp0VNVp2Dv0ACLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="FPT-PLAY",BBC EARTH (ASIA)
@@ -1024,7 +1022,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="LOCKLE-TV",GEO HD (PK)
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo=" "  group-title="LOCKLE-TV",HUM HD (PK)
+#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo="https://1.bp.blogspot.com/-b_fuad7JTZI/YTiLATgkNJI/AAAAAAAABDs/54b8mX8IbZYGM1a7Hax4BNs3uHfgR_stgCLcBGAsYHQ/s200/channels4_profile.jpg"  group-title="LOCKLE-TV",HUM HD (PK)
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="URDU 1 (PK)" tvg-logo="https://1.bp.blogspot.com/-_94IB0QrIUY/YO46Mc-n5nI/AAAAAAAAAcE/Ol8o5H5q3S8qxwrgog8Hk-H3ONXGgjyYQCLcBGAsYHQ/s200/images%2B%25283%2529%25284%2529.png"  group-title="LOCKLE-TV",URDU 1 (PK)
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
