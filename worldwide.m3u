@@ -96,8 +96,9 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%252838%2529.jpeg"  group-title="ENGLISH",CNA (ASIA)
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ENGLISH", (US)
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="AMAZING DISCOVERIES TV"  tvg-country="CA" tvg-language="ENGLISH" tvg-logo="https://i.imgur.com/zXWgbVk.png" tvg-url="" group-title="RELIGIOUS",AMAZING DISCOVERIES TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ch-id="BETTER HEALTH (US)" tvg-logo="https://1.bp.blogspot.com/-lPfDOSzB3I0/YTdEIDk6MVI/AAAAAAAABA0/dWtnZvgmaC8vnnHiqihY4AZg_zwiWa7QwCLcBGAsYHQ/s200/images%2B%25289%2529%25284%2529.jpeg"  group-title="ENGLISH",BETTER HEALTH (US)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
@@ -720,9 +721,6 @@ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 
-
-
-
 #EXTINF:-1 ch-id="PARAMOUNT (VN)" tvg-logo="https://1.bp.blogspot.com/-rGIb5g-rn5w/YQkjv_CVCrI/AAAAAAAAA0c/HiemyOBPkuw9KKgTwYtQSVMq8okOVUK5QCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="FPT-PLAY",PARAMOUNT (ASIA)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (VN)" tvg-logo="https://1.bp.blogspot.com/-Eep12-b7tqA/YMh_x2dADMI/AAAAAAAABM4/Wuhu_922e8oG9TOkm0gJXDyHXRlTwE-HACLcBGAsYHQ/s320/download%25282%2529.png"   group-title="FPT-PLAY",AXN (VN)
@@ -820,21 +818,21 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745772
 
 #EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png"  group-title="BDCABLE-TV",STAR WORLD HD (IN)
-http://tvflix03.ddns.net/ENC-2/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-2/playlist.m3u8
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eZASEoCAOvc/YSt3aCXJNpI/AAAAAAAAA-Q/bUDbdeLcfzwEWlmqd8AebdoNfmn-yGn2gCLcBGAsYHQ/s200/images%252823%2529.jpeg"  group-title="BDCABLE-TV",SONY SIX HD (IN)
-http://tvflix03.ddns.net/ENC-3/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-3/playlist.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CIcJ9Y0whPw/YReq1FJTfeI/AAAAAAAAA4s/KjIIgk_dcjcF-S_lg1ySvqEziqCPTXzsgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="BDCABLE-TV",STAR SPORTS 2 HD (IN)
-http://tvflix03.ddns.net/ENC-4/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
 #EXTINF:-1 ch-id="NICK JR (IN)" tvg-logo="https://1.bp.blogspot.com/-krvwwWQ5VRY/YOrRgtPoHaI/AAAAAAAAAUY/qfkCfPeQH_A1AN1jVu77ZXHEvcG70zNjgCLcBGAsYHQ/s200/images%2B%25282%2529%25283%2529.png"  group-title="BDCABLE-TV",NICK JR (IN)
-http://tvflix03.ddns.net/ENC-5/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-5/playlist.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ZRwD_8dM2dM/YSt4CUOi3zI/AAAAAAAAA-Y/i9Img_yqjBkkWR9XuqmUeD6cCR44Dj1dACLcBGAsYHQ/s200/images%2B%25282%2529.jpeg"  group-title="BDCABLE-TV",SONY TEN 2 HD (IN)
-http://tvflix03.ddns.net/ENC-7/index.m3u8
+http://jupiter.bdcabletv.com:80/ENC-7/playlist.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="BDCABLE-TV",COLORS HD (IN)
-http://tvflix03.ddns.net/ENC-8/playlist.m3u8
+http://jupiter.bdcabletv.com:80/ENC-8/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="BDCABLE-TV",ZEE TV HD (IN)
-http://tvflix03.ddns.net/ENC-9/playlist.m3u8
+http://jupiter.bdcabletv.com:80/ENC-9/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xCBaRuzgHfM/YO46ihquQqI/AAAAAAAAAcM/YGMPvfiNUN8YTcErV2THy0xdEJr1q7lVgCLcBGAsYHQ/s200/PicsArt_06-29-04.46.46.jpg"  group-title="BDCABLE-TV",STAR GOLD HD (IN)
-http://tvflix03.ddns.net/ENC-10/playlist.m3u8
+http://jupiter.bdcabletv.com:80/ENC-10/playlist.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="BDCABLE-TV",SONY MAX HD (IN)
 http://jupiter.bdcabletv.com/SonyMax/video.m3u8
 #EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo="https://1.bp.blogspot.com/-yoMpPe16b-I/YStzQkYznjI/AAAAAAAAA9g/K0O3t07Alyw8kh7-X5q38TBYGorAB8tKwCLcBGAsYHQ/s200/Ten-sports.png"  group-title="BDCABLE-TV",TEN SPORTS (PK)
@@ -844,17 +842,17 @@ http://148.72.155.84/ENC-14/index.m3u8
 #EXTINF:-1 ch-id="NICK HD+ (IN)" tvg-logo="https://1.bp.blogspot.com/-T1JB3o8gLtQ/YSt5oF5jRVI/AAAAAAAAA-w/5e1xpkQsjewqtOb7paTCB8XlEZYlEYVtACLcBGAsYHQ/s200/hd-plus-logo%25281%2529.png"  group-title="BDCABLE-TV",NICK HD+ (IN)
 http://jupiter.bdcabletv.com/ENC-15/index.m3u8
 #EXTINF:-1 ch-id="& FLIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-uSTchAxwVV0/YJ8RbAx4cDI/AAAAAAAAAv0/CmQkYjiSpl8vZ8ENFf6iYBChT3qfxSZUgCLcBGAsYHQ/s0/PicsArt_05-15-05.10.43.jpg"   group-title="BDCABLE-TV",& FLIX HD (IN)
-http://tvflix03.ddns.net/ENC-16/playlist.m3u8
+http://148.72.155.84/ENC-16/index.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="BDCABLE-TV",STAR MOVIES HD (IN)
-http://tvflix03.ddns.net/ENC-17/playlist.m3u8
+http://148.72.155.84/ENC-17/index.m3u8
 #EXTINF:-1 ch-id="CARTOON NETWORK HD+ (IN)" tvg-logo=" "  group-title="BDCABLE-TV",CARTOON NETWORK HD+ (IN)
-http://tvflix03.ddns.net/ENC-18/playlist.m3u8
+http://148.72.155.84/ENC-18/index.m3u8
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="BDCABLE-TV",SONY TEN 1 HD (IN)
-http://tvflix03.ddns.net/ENC-19/playlist.m3u8
+http://148.72.155.84/ENC-19/index.m3u8
 #EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo=" "  group-title="BDCABLE-TV",UTV MOVIES (IN)
-http://tvflix03.ddns.net/ENC-20/playlist.m3u8
+http://148.72.155.84/ENC-20/index.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL (UK)" tvg-logo=" "  group-title="BDCABLE-TV",DISNEY CHANNEL (UK)
-http://tvflix03.ddns.net/disney_ch-sp/playlist.m3u8
+http://148.72.155.84/disney_ch-sp/index.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="BDCABLE-TV",STAR PLUS HD (IN)
 http://148.72.155.84/StarPlus/video.m3u8
 
