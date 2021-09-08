@@ -844,6 +844,10 @@ http://173.199.120.51/hls/hbo.m3u8
 http://173.199.120.51/hls/ptv.m3u8
 #EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="BDCABLE-TV",& PICTURES HD (IN)
 http://173.199.120.51/hls/andpicture.m3u8
+http://173.199.120.51/hls/b4umovies.m3u8
+http://173.199.120.51/hls/b4umusic.m3u8
+
+
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="ENGLISH",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
@@ -908,10 +912,6 @@ http://103.159.4.38:5868/MOVIE-9/index.m3u8
 http://103.159.4.38:5868/SPORTS-10/index.m3u8
 http://103.159.4.38:5868/SPORTS-11/index.m3u8
 http://103.159.4.38:5868/SPORTS-15/index.m3u8
-
-
-
-
 
 #EXTINF:-1 ch-id="BOOMERANG (US)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="ENGLISH",BOOMERANG (US)
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
