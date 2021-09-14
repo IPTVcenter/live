@@ -887,6 +887,9 @@ http://103.213.238.194:8080/SonySAB/index.m3u8
 http://103.213.238.194:8080/Colors/index.m3u8
 ##EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="BDIX-TV",ZEE TV (ASIA)
 http://103.213.238.194:8080/ZeeTV/index.m3u8
+http://103.213.238.194:8080/BflixMovies/index.m3u8
+
+
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="https://1.bp.blogspot.com/-99BKfD9PBPQ/YRemh1YfodI/AAAAAAAAA4A/5qqvGjnhT_4_KP17JNbgI7Ev3v1Q-jbnACLcBGAsYHQ/s200/SonyTEN2_Masthead_Logo.png"  group-title="BDIX-TV",SONY TEN 2 (IN)
 http://103.159.4.38:5868/SPORTS-10/index.m3u8
 #EXTINF:-1 ch-id="STADIUM (ASIA)" tvg-logo=" "  group-title="BDIX-TV",STADIUM (ASIA)
@@ -913,6 +916,7 @@ http://103.159.4.38:5868/ENTEMENT-3/playlist.m3u8
 http://103.159.4.38:5868/ENTEMENT-2/playlist.m3u8
 #EXTINF:-1 ch-id="TLC (IN)" tvg-logo=" "  group-title="BDIX-TV",TLC (IN)
 http://103.159.4.38:5868/ENTEMENT-1/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-ochcJ8JU2l8/YRemFkxVclI/AAAAAAAAA34/XlPlGf4tbkMO8Mm_5JPNbxbEmMXtpFfrgCLcBGAsYHQ/s200/images.jpeg"  group-title="BDIX-TV",SONY TEN 1 HD (IN)
 http://173.199.120.51/hls/ten1.m3u8
@@ -955,6 +959,24 @@ http://173.199.120.51/hls/b4umusic.m3u8
 #EXTINF:-1 ch-id="&TV (IN)" tvg-logo="https://1.bp.blogspot.com/-Cvg35l1EEC8/YTdDBu4dwlI/AAAAAAAABAg/ILA2OY8I-E8vVRBdtNRqkjWpOBnPN6RAgCLcBGAsYHQ/s200/images%2B%25281%2529%252818%2529.jpeg"  group-title="BDIX-TV",&TV (IN)
 http://103.205.133.21/hls/andtv.m3u8
 http://103.205.133.21/hls/andpicture.m3u8
+
+
+http://143.244.60.10/HINDI__MINIPLEX_HD/index.m3u8?token=test
+http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/index.m3u8?token=test
+http://143.244.60.10/HINDI__STAR_UTSAV_MOVIES/index.m3u8?token=test
+http://143.244.60.10/HINDI__UTV_HD/index.m3u8?token=test
+http://143.244.60.10/HINDI__UTV_ACTION/index.m3u8?token=test
+http://143.244.60.10/HINDI__UTV_ACTION/index.m3u8?token=test
+http://143.244.60.10/HINDI__SONY_WAH/index.m3u8?token=test
+http://143.244.60.10/HINDI__SONY_MAX_2/index.m3u8?token=test
+http://143.244.60.10/HINDI__ZEE_CLASSIC/index.m3u8?token=test
+http://143.244.60.10/HINDI__ZEE_ACTION/index.m3u8?token=test
+http://143.244.60.10/HINDI__ZEE_BOLLYWOOD/index.m3u8?token=test
+
+
+
+http://137.59.155.77:8088/hls/11stargold.m3u8
+
 
 
 
