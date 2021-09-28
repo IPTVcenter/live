@@ -45,31 +45,31 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 ch-id="PBS.39 (UK)" tvg-logo="https://1.bp.blogspot.com/-w_OWt8cco9s/YTc4nGitdVI/AAAAAAAAA_I/RyFR8VnoHEAGQZmyiVjMCYT7CMZ9gjPlACLcBGAsYHQ/s200/images%2B%25287%2529.png"  group-title="ENGLISH",PBS.39 (UK)
 http://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 ch-id="PRIME TIME (UK)" tvg-logo=" "  group-title="ENGLISH",PRIME TIME (US)
+#EXTINF:-1 ch-id="TIME LIFE (UK)" tvg-logo=" "  group-title="ENGLISH",TIME LIFE (US)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist.m3u8
 #EXTINF:-1 ch-id="DIL SE (IN)" tvg-logo="https://1.bp.blogspot.com/-gUgkoESLvvI/YTc5TGskS3I/AAAAAAAAA_Q/7zR6ZbpfIV8a_BzURB4s4_sUjV6TAqvJACLcBGAsYHQ/s200/images%2B%252814%2529.jpeg"  group-title="HINDI",DIL SE (IN)
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 ch-id="STINGRAY KARAOKE (US)" tvg-logo="https://1.bp.blogspot.com/-VKYwHenOVeo/YTc7M4s0JQI/AAAAAAAAA_Y/Kusw9VgZcHQsFVD3ocLqAye523UP-Y9aACLcBGAsYHQ/s200/images%2B%252822%2529.jpeg"  group-title="ENGLISH",STINGRAY KARAOKE (US)
 https://stirr.ott-channels.stingray.com/karaoke/master.m3u8
+#EXTINF:-1 ch-id="CARTOON (UK)" tvg-logo=" "  group-title="ENGLISH",CARTOON (UK)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
-https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ENGLISH", (UK)
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 ch-id="ABC 15 (US)" tvg-logo=" "  group-title="ENGLISH",ABC 15 (US)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ENGLISH", (US)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (TW)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="ENGLISH",AXN (TW)
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
-http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
-http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="ENGLISH",THE PET COLLECTIVE (US)
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="ENGLISH",THE PET COLLECTIVE (US)
+https://the-pet-collective-linear.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 ch-id="HBO FAMILY (ASIA)" tvg-logo=" "  group-title="ENGLISH",HBO FAMILY (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-DRT6gssuigg/YP08SRJbivI/AAAAAAAAAkA/3COYwiiDyIcM1AR_UOGxJksHKwaQiDpcgCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="ENGLISH",HBO (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
-
 
 #EXTINF:-1 ch-id="ABC 7 (US)" tvg-logo="https://1.bp.blogspot.com/-_QJRhwfLATU/YTc7mLepb-I/AAAAAAAAA_g/QbUvKfhMxAEri2Rtgj_kxNBjBlcPDemLACLcBGAsYHQ/s200/KABC-TV_Logo.png"  group-title="ENGLISH",ABC 7 (US)
 http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
@@ -105,8 +105,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ch-id="WPT (US)" tvg-logo="https://1.bp.blogspot.com/-5umEpFRr9kY/YTdA7hKKtOI/AAAAAAAABAY/blj93Erz7pIPvBxVYQcVImiaCEP91GpqQCLcBGAsYHQ/s200/images%2B%25282%2529.png"  group-title="ENGLISH",WPT (US)
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 ch-id="NASA TV (UK)" tvg-logo="https://1.bp.blogspot.com/-6c1_alIyrU0/YKZVfrG13WI/AAAAAAAAA_Y/e8rqxFuBGsc-Qr_KfZ6ypzn0PsXaoXM_gCLcBGAsYHQ/w200-h169/images%252816%2529.png"   group-title="ENGLISH",NASA TV (UK)
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
@@ -115,6 +113,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%252838%2529.jpeg"  group-title="ENGLISH",CNA (ASIA)
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+
+
 https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
 
 
@@ -320,6 +320,10 @@ https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
 #EXTINF:-1 ch-id="HARVEST (US)" tvg-logo="https://1.bp.blogspot.com/-u6T0I5BXbew/YTdV9zv4YkI/AAAAAAAABDE/yBh4Qi_8khoDzZ0FKIgRBVezJSHIkKGsgCLcBGAsYHQ/s200/harvest-usa.png"  group-title="ENGLISH",HARVEST (US)
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/index.m3u8
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+
+
 
 #EXTINF:-1 ch-id="KASHISH NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-QlC51EIhnP0/YOrKytEbPOI/AAAAAAAAASY/JiMdqsfrZYQfjSS2e3lhoTVHEDUMF2UhACLcBGAsYHQ/s200/images%2B%25283%2529%25285%2529.jpeg"  group-title="HINDI",KASHISH NEWS (IN)
 https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
@@ -338,6 +342,9 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 ch-id="BBC WORLD NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="ENGLISH",BBC WORLD NEWS (UK)
 http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+
+
 
 #EXTINF:-1 ch-id="ZEE AFLAM (ME)" tvg-logo="https://1.bp.blogspot.com/-yn4TPWFU2G4/YJ5V8wG7vII/AAAAAAAAAtI/1nkEh70mVqANdWYxSg-vnodmjV7olKzyQCLcBGAsYHQ/s0/IMG_20210308_172636.jpg"   group-title="AKAMAI-TV",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -546,9 +553,12 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 https://the-pet-collective-international-in.samsung.wurl.com/manifest/playlist.m3u8
-
-
-
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m3u8
+https://the-pet-collective-international-in.samsung.wurl.com/manifest/playlist.m3u8
+https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
