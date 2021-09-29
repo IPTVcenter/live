@@ -5,8 +5,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_b
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ch-id="SCREAMFEST (UK)" tvg-logo="https://1.bp.blogspot.com/-2Ha0lEutmwU/YKRaoCnxdEI/AAAAAAAAA40/ufBn0eSlxMYEd5-zXVvS08cDkUGm1jrfgCLcBGAsYHQ/w200-h100/images%2B%25281%2529%252810%2529.jpeg"  group-title="ENGLISH",SCREAMGEST (UK)
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_360p.m3u8
-#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="ENGLISH",EURO NEWS (UK)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="REPUBLIC BHARAT (IN)" tvg-logo="https://1.bp.blogspot.com/-UDGRN8zIZPA/YNx847iU8uI/AAAAAAAAAHQ/9iahWYpQtXE3su4Nxa_FxRJJcecqa7PxACLcBGAsYHQ/s214/PicsArt_06-30-07.46.07.png"  group-title="ENGLISH",REPUBLIC BHARAT (IN)
 https://ottrb6.republicworld.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://1.bp.blogspot.com/-IAStdDQeMlM/YOwWnTAWiwI/AAAAAAAAAXs/tdBkaDx-PNIItP-63cyog5YabqBjjOBfACLcBGAsYHQ/s200/AT-New-Logo-800x600.png"  group-title="HINDI",AAJ TAK (IN)
@@ -29,8 +27,6 @@ http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 ch-id="UZREPORT WORLD (UZ)" tvg-logo="https://1.bp.blogspot.com/-VMYywv7Yeh4/YStu6EKx9SI/AAAAAAAAA8w/Vcp3yvDZeV8cAu9-yakHPjZZyhMiIV7lQCLcBGAsYHQ/s200/PicsArt_08-29-04.55.44.jpg"  group-title="ENGLISH",UZREPORT WORLD (UZ)
 http://vspnmy3kvpzu7q.data.mediastore.eu-central-1.amazonaws.com/liveHD.m3u8
-#EXTINF:-1 ch-id="AMC (US)" tvg-logo="https://1.bp.blogspot.com/-uSFxygFWDqQ/YStvIgobc3I/AAAAAAAAA80/dHCn72sKV1ccMDx-dX3TC7feBMMppMijACLcBGAsYHQ/s200/images%252817%2529.png"  group-title="ENGLISH",AMC (US)
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="NASA TV (UK)" tvg-logo="https://1.bp.blogspot.com/-6c1_alIyrU0/YKZVfrG13WI/AAAAAAAAA_Y/e8rqxFuBGsc-Qr_KfZ6ypzn0PsXaoXM_gCLcBGAsYHQ/w200-h169/images%252816%2529.png"   group-title="ENGLISH",NASA TV (UK)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ch-id="GEO NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-p-96BAich6k/YStvYgLhigI/AAAAAAAAA9A/qiRfS_lVYD0DCAP8BPz3cR9D0I_YKSPbwCLcBGAsYHQ/s200/GEO_News_logo_in_Urdu.png"  group-title="HINDI",GEO NEWS (PK)
@@ -61,10 +57,6 @@ https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (TW)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="ENGLISH",AXN (TW)
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
-#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="ENGLISH",THE PET COLLECTIVE (US)
-https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="ENGLISH",THE PET COLLECTIVE (US)
-https://the-pet-collective-linear.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ch-id="HBO FAMILY (ASIA)" tvg-logo=" "  group-title="ENGLISH",HBO FAMILY (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
@@ -425,23 +417,64 @@ https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 ch-id="CLUBBING TV (UK)" tvg-logo="https://1.bp.blogspot.com/-QqAPLevy5qY/YTijRhFaMbI/AAAAAAAABIA/e9cUg08wR2oALxvtR4MJVdO2ULKjj3DOACLcBGAsYHQ/s200/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png"   group-title="SAMSUNG-TV",CLUBBINGTV (UK)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="TOONGOGGLES (GB)" tvg-logo=" "  group-title="SAMSUNG-TV",TOONGOGGLES (GB)
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="REALFAMILIES (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",REALFAMILIES (UK)
 https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="TDAMERITRADE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",TDAMERITRADE (UK)
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="CRACKLE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",CRACKLE (UK)
 https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="MYTIME (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",MYTIME (UK)
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="MOVIESPHEREUK (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",MOVIESPHEREUK (UK)
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="AMMORUNTIME (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",AMMORUNTIME (UK)
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="TVSHOWS (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",TVSHOWS (UK)
 https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="ACTIONMOVIES (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",ACTIONMOVIES (UK)
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="120SPORTS (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",120SPORTS (UK)
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="SPORTSGRID (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",SPORTSGRID (UK)
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (IN)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (IN)
 https://the-pet-collective-international-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="TRAVELXP (AU)" tvg-logo=" "  group-title="SAMSUNG-TV",TRAVELXP (AU)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (SE)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (SE)
 https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m3u8
-https://the-pet-collective-international-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (GB)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (GB)
 https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (DE)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (DE)
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
+https://the-pet-collective-linear.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="SAMSUNG-TV",EURO NEWS (UK)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="AMC (US)" tvg-logo="https://1.bp.blogspot.com/-uSFxygFWDqQ/YStvIgobc3I/AAAAAAAAA80/dHCn72sKV1ccMDx-dX3TC7feBMMppMijACLcBGAsYHQ/s200/images%252817%2529.png"  group-title="SAMSUNG-TV",AMC (US)
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+EXTINF:-1 ch-id="EURO NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="ROKU-TV",EURO NEWS (US)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="ROKU-TV",LOVE NATURE (US)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="AFV! (UK)" tvg-logo=" "  group-title="ROKU-TV",AFV! (UK)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 ch-id="LEGO (UK)" tvg-logo=" "  group-title="ROKU-TV",LEGO (UK)
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 ch-id="KOOL TV (UK)" tvg-logo=" "  group-title="ROKU-TV",KOOL TV (UK)
+http://209.182.219.50:1935/roku/roku/playlist.m3u8
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+
+
+
 
 
 
@@ -488,10 +521,6 @@ https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="MULTI-TV",DD NATIONAL (IN)
 https://viacom-b.multitvsolution.com/viacomhls/ddnational.m3u8
-#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo="https://1.bp.blogspot.com/-yZRZTCi8L60/YJzX_Th8QnI/AAAAAAAAAsY/PDgCH92fn2QXh3ryx8EGdYUSK8LXnHd4gCLcBGAsYHQ/s320/images%2B%25281%2529%252812%2529.jpeg"   group-title="MULTI-TV",DD RETRO (IN)
-https://viacom-b.multitvsolution.com/viacomhls/ddretro.m3u8
-#EXTINF:-1 ch-id="SURYA CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-0kihdPkuDtc/YOv8FXIYURI/AAAAAAAAAXk/01EIq2C9B9AB2_dAVU64jnju8G_ZOLSaQCLcBGAsYHQ/s200/images%2B%252815%2529.jpeg"  group-title="MULTI-TV",SURYA CINEMA (IN)
-https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
 
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%252838%2529.jpeg"  group-title="ENGLISH",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -513,11 +542,12 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo="https://1.bp.blogspot.com/-yZRZTCi8L60/YJzX_Th8QnI/AAAAAAAAAsY/PDgCH92fn2QXh3ryx8EGdYUSK8LXnHd4gCLcBGAsYHQ/s320/images%2B%25281%2529%252812%2529.jpeg"   group-title="HINDI",DD RETRO (IN)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 ch-id="YAHOO (UK)" tvg-logo=" "  group-title="ENGLISH",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ENGLISH", (UK)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ch-id="LOCAL NOW SPORTS (UK)" tvg-logo=" "  group-title="ENGLISH",LOCAL NOW SPORTS (UK)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-
-
 
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX-TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
@@ -644,13 +674,16 @@ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 #EXTINF:-1 ch-id="TRVL (ASIA)" tvg-logo="https://1.bp.blogspot.com/-0LTBDOAPc5Y/YTitKF8DmaI/AAAAAAAABJM/FOuG_rTtJPI15SN5ixYq-xInv2K7mqjaQCLcBGAsYHQ/s200/images%2B%25282%2529%252819%2529.jpeg"  group-title="FEED-PLAY",TRVL (ASIA)
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",SONY TEN 2 HD (IN)
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 ch-id="ZOOMOO (ASIA)" tvg-logo=" "  group-title="FEED-PLAY",ZOOMOO (ASIA)
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
+#EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo=" "  group-title="FEED-PLAY",ZEE TV (ASIA)
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo=" "  group-title="FEED-PLAY",ZEE CINEMA (ME)
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1 ch-id="UTV MOVIES INT (US)" tvg-logo=" "  group-title="FEED-PLAY",UTV MOVIES INT (US)
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-
-
 
 #EXTINF:-1 ch-id="BBC EARTH (ASIA)" tvg-logo="https://1.bp.blogspot.com/-t91CCkj1VlU/YOwfXhpS9AI/AAAAAAAAAY8/iB5B5iKBaNsLBxH4e0G6Oxp0VNVp2Dv0ACLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="FPT-PLAY",BBC EARTH (ASIA)
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
@@ -680,22 +713,6 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-NleWSEb_YOA/YOwpb4StdXI/AAAAAAAAAaE/mO5W2USq7cYJgtCQ19TX2KiSDDvdA8kugCLcBGAsYHQ/s200/FOX_Sports_logo.svg%2B%25281%2529.png"  group-title="FPT-PLAY",FOX SPORTS (ASIA)
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
-
-#EXTINF:-1 ch-id="EURO NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="ROKU-TV",EURO NEWS (US)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="ROKU-TV",LOVE NATURE (US)
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="AFV! (UK)" tvg-logo=" "  group-title="ROKU-TV",AFV! (UK)
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 ch-id="LEGO (UK)" tvg-logo=" "  group-title="ROKU-TV",LEGO (UK)
-https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 ch-id="KOOL TV (UK)" tvg-logo=" "  group-title="ROKU-TV",KOOL TV (UK)
-http://209.182.219.50:1935/roku/roku/playlist.m3u8
-https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
-https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
-https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
