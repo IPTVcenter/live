@@ -712,15 +712,20 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-NleWSEb_YOA/YOwpb4StdXI/AAAAAAAAAaE/mO5W2USq7cYJgtCQ19TX2KiSDDvdA8kugCLcBGAsYHQ/s200/FOX_Sports_logo.svg%2B%25281%2529.png"  group-title="FPT-PLAY",FOX SPORTS (ASIA)
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",HBO (ASIA)
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",ANIMAL PLANET (ASIA)
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO WILD (ASIA)
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="FOX SPORTS 2 (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 2 (ASIA)
 https://livecdn.fptplay.net/hda3/foxsports2_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BBC CBEEBIES (ASIA)
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
+#EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BABY FIRST (ASIA)
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
+#EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",TLC (ASIA)
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
-
-
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
@@ -728,15 +733,65 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6248/index.m3u8
 #EXTINF:-1 ch-id="PENTHOUSE QUICKIES (UK)" tvg-logo="https://1.bp.blogspot.com/-vbUUhPUf1Iw/YStrY3jSj6I/AAAAAAAAA8A/3oykg5AOFWMCN52WcKupt-99p3IC-e-PwCLcBGAsYHQ/s200/images.png"  group-title="ADULT",PENTHOUSE QUICKIES (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
+#EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
+#EXTINF:-1 ch-id="CHERRY PIMPES (UK)" tvg-logo=" "  group-title="ADULT",CHERRY PIMPES (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6185/index.m3u8
+#EXTINF:-1 ch-id="EROTIC 4 (UK)" tvg-logo=" "  group-title="ADULT",EROTIC 4 (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6292/index.m3u8
+#EXTINF:-1 ch-id="FANTBOYZ (UK)" tvg-logo=" "  group-title="ADULT",FANTBOYZ (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6274/index.m3u8
+#EXTINF:-1 ch-id="BABES (UK)" tvg-logo=" "  group-title="ADULT",BABES (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6171/index.m3u8
+#EXTINF:-1 ch-id="TRENS ANGEL (UK)" tvg-logo=" "  group-title="ADULT",TRENS ANGEL (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6169/index.m3u8
+#EXTINF:-1 ch-id="BANG BROS HD (UK)" tvg-logo=" "  group-title="ADULT",BANG BROS HD (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6173/index.m3u8
+#EXTINF:-1 ch-id="BANG (UK)" tvg-logo=" "  group-title="ADULT",BANG (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6174/index.m3u8
+#EXTINF:-1 ch-id="FAKE TAXI (UK)" tvg-logo=" "  group-title="ADULT",FAKE TAXI (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="HINDI",SONY MAX (IN)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 
 #EXTINF:-1 ch-id="DISTRO TV (US)" tvg-logo=" "  group-title="ENGLISH",DISTRO TV (US)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
 #EXTINF:-1 ch-id="CHIVE TV (US)" tvg-logo=" "  group-title="ENGLISH",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
+#EXTINF:-1 ch-id="BYU TV (US)" tvg-logo=" "  group-title="ENGLISH",BYU TV (US)
 https://a.jsrdn.com/broadcast/d5b46/+0000/low/c.m3u8
+#EXTINF:-1 ch-id="HONOR TV (US)" tvg-logo=" "  group-title="ENGLISH",HONOR TV (US)
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1 ch-id="  (US)" tvg-logo=" "  group-title="ENGLISH", (US)
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 ch-id="MMA JUNKIE (US)" tvg-logo=" "  group-title="ENGLISH",MMA JUNKIE (US)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ENGLISH", (US)
 https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:-1 ch-id="REELZ (US)" tvg-logo=" "  group-title="ENGLISH",REELZ (US)
+https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
+#EXTINF:-1 ch-id="CHANNEL S (US)" tvg-logo=" "  group-title="ENGLISH",CHANNEL S (US)
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 ch-id="YOUNG HOLLYWOOD (US)" tvg-logo=" "  group-title="ENGLISH",YOUNG HOLLYWOOD (US)
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+#EXTINF:-1 ch-id="  (US)" tvg-logo=" "  group-title="ENGLISH", (US)
+https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
+#EXTINF:-1 ch-id="REAL VISION (US)" tvg-logo=" "  group-title="ENGLISH",REAL VISION (US)
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 ch-id="CYCLE WORLD  (US)" tvg-logo=" "  group-title="ENGLISH",CYCLE WORLD (US)
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000//c.m3u8
+#EXTINF:-1 ch-id="HORIZON SPORTS  (US)" tvg-logo=" "  group-title="ENGLISH",HORIZON SPORTS (US)
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+#EXTINF:-1 ch-id="SPORTSKOOL TV (US)" tvg-logo=" "  group-title="ENGLISH",SPORTSKOOL TV (US)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 ch-id="POPULAR SCIENCE (US)" tvg-logo=" "  group-title="ENGLISH",POPULAR SCIENCE (US)
+http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:-1 ch-id="IDG (US)" tvg-logo=" "  group-title="ENGLISH",IDG (US)
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
+#EXTINF:-1 ch-id="FIELD & STREAM (US)" tvg-logo=" "  group-title="ENGLISH",FIELD & STREAM (US)
+http://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+#EXTINF:-1 ch-id="SAVEUR (US)" tvg-logo=" "  group-title="ENGLISH",SAVEUR (US)
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="ENGLISH",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
