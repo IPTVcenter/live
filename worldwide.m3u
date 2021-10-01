@@ -478,6 +478,8 @@ https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="TDAMERITRADE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",TDAMERITRADE (UK)
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",DUCK TV (UK)
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MULTI-TV",DD SPORTS (IN)
 https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
