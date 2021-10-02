@@ -389,8 +389,6 @@ https://rtmp.smartstream.video/r9lives/r9lives/chunklist.m3u8
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="HINDI",CHANNEL WIN (IN)
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 ch-id="CNBC BAZAR (IN)" tvg-logo=" "  group-title="ASSAMESE",PRATIDIN TIME (IN)
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 ch-id="MHONE SHRADHA (IN)" tvg-logo=" "  group-title="HINDI",MHONE SHRADHA (IN)
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1 ch-id="MHONE NEWS (IN)" tvg-logo=" "  group-title="HINDI",MHONE NEWS (IN)
