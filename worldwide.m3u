@@ -74,6 +74,9 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1 ch-id="ET (US)" tvg-logo=" "  group-title="ENGLISH",ET (US)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="ENGLISH",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ch-id="HLN (US)" tvg-logo=" "  group-title="ENGLISH",HLN (US)
@@ -208,8 +211,8 @@ https://gratismkctv.net/film/hbo.m3u8
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 ch-id="GAY TV (UK)" tvg-logo="https://1.bp.blogspot.com/-0J2y1Z_sYDs/YTdMu-mq0UI/AAAAAAAABCk/_nV3NWWBDhg_ss80DzmANp2ipdvQTaXRACLcBGAsYHQ/s200/PicsArt_09-07-04.57.28.jpg"  group-title="ADULT",GAY TV (UK)
 http://play.iptvxxx.net/gay.m3u8
-#EXTINF:-1 ch-id="CARTOON4U (UK)" tvg-logo="https://1.bp.blogspot.com/-U3BmmykrriE/YTdQujqXHxI/AAAAAAAABC0/M-vsgACDRu4RcdjtO8T3shoeYZ-Hc1vXACLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",CARTOON4U (UK)
-https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
+#EXTINF:-1 ch-id="ARIRANG (ASIA)" tvg-logo=" "  group-title="ENGLISH",ARIRANG (ASIA)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 ch-id="BEIN SPORTS EXTRA (US)" tvg-logo="https://1.bp.blogspot.com/-wSi7eKjodCk/YP1EogtfHzI/AAAAAAAAAmM/W9gcWIifeJc6OPFxLFuXZ2c-j01niyhWwCLcBGAsYHQ/s200/beIN-SPORTS-XTRA_LOGO%2B%25281%2529.png"  group-title="PLUTO-TV",BEIN SPORTS EXTRA (ME)
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
@@ -345,6 +348,8 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 ch-id="NEWS 18 ASSAM (IN)" tvg-logo=" "  group-title="AKAMAI-TV",NEWS 18 ASSAM (IN)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1 ch-id="M2O TV (UK)" tvg-logo=" "  group-title="AKAMAI-TV",M2O TV (UK)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
 
 #EXTINF:-1 ch-id="MARVEL HQ (IN)" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="HINDI",MARVEL HQ (IN)
 http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
