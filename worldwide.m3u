@@ -1283,25 +1283,25 @@ http://allutv.xyz/zee.php?q=0-9-322
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-209
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CLASSIC (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-176
-#EXTINF:-1 ch-id=" (IN)" tvg-logo=" "  group-title="ZEE5",BIG MAGIC (IN)
+#EXTINF:-1 ch-id="BIG MAGIC (IN)" tvg-logo=" "  group-title="ZEE5",BIG MAGIC (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-bigmagic_1786965389
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo=" "  group-title="ZEE5",&PICTURES HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-tvpictureshd
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="ZEE ANMOL CINEMA (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL CINEMA (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeeanmolcinema
 #EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://1.bp.blogspot.com/-cdDRQXILj2g/YOwYHewVryI/AAAAAAAAAYI/-l_iw4GpeBwQPZtKNex-p2SMNUFnrFGlACLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.png"  group-title="ZEE5",9X JALWA (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-133
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="ZEE5",9XM (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-131
-#EXTINF:-1 ch-id="9X JHAKAS (IN)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="9X JHAKAS (IN)" tvg-logo=" "  group-title="ZEE5",9X JHAKAS (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-134
 #EXTINF:-1 ch-id="& FLIX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-uSTchAxwVV0/YJ8RbAx4cDI/AAAAAAAAAv0/CmQkYjiSpl8vZ8ENFf6iYBChT3qfxSZUgCLcBGAsYHQ/s0/PicsArt_05-15-05.10.43.jpg"   group-title="ZEE5",& FLIX HD (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-channel_2105335046
-#EXTINF:-1 ch-id="DD URDU (UK)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
+#EXTINF:-1 ch-id="DD URDU (IN)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddurdu
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-ddbharati
-#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title=" ", (IN)
+#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ZEE5",DD 1 (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-250
 #EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-322
@@ -1447,7 +1447,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/199
 #EXTINF:-1 ch-id="JOO MUSIC (PK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh-i9dAtwt_KzgDvi9M07P1M4FB2f8LwtrKp5qTdUhPLj36UDLtMfULHRRQg3apyU33iJd-1kKNFDbSC8quK509j2Z0eDR2ZV8Eb9zvm2YzMD_sWKiqwE6JrX-6rqyaMagPUpqqtQ0TAXP_1utBfA7kRgiuGaHbn4YtV8eoRhMtm8hTdTwaO1byvVnI=s200"  group-title="IPTVESUN",JOO MUSIC (PK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3443
 
-
 #EXTINF:-1 ch-id="COLORS (UK)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="MY-TV",COLORS (UK)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/16881
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo="https://1.bp.blogspot.com/-5rhJCS4e6A0/YReqpBO7mGI/AAAAAAAAA4o/juC9pqEjR-47YGkwfVdU2xOcKXi8v09KgCLcBGAsYHQ/s200/images.jpeg"  group-title="MY-TV",STAR SPORTS 1 HD (IN)
@@ -1476,46 +1475,6 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5161
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/671347
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="MY-TV",SONY TV (UK)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/656983
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",TRAVEL XP (IN)
-http://tigerfights.xyz:80/live/Marques/Marques/2484377.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",BOOMERANG (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2484951.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",AAJ TAK (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485187.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",B4U MOVIES (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485190.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",B4U MUSIC (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485189.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",COLORS CINEPLEX (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485150.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",COLORS RISHTEY (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485181.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",HUM (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485166.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",HUM MASALA (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485182.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",SONY SAB (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485156.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",SONY MAX (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485148.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",SONY MAX 2 (UK)
-http://tigerfights.xyz:80/live/Marques/Marques/2485184.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",TRAVEL XP HD (CA)
-http://tigerfights.xyz:80/live/Marques/Marques/2473644.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",PLACE OF MIND (CA)
-http://tigerfights.xyz:80/live/Marques/Marques/2456502.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",SONY HD (CA)
-http://tigerfights.xyz:80/live/Marques/Marques/2456506.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",TV ASIA (CA)
-http://tigerfights.xyz:80/live/Marques/Marques/2456507.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",AAPKA COLORS HD (CA)
-http://tigerfights.xyz:80/live/Marques/Marques/2456501.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ",ZEE TV HD (CA)
-http://tigerfights.xyz:80/live/Marques/Marques/1793112.ts
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-
-
 
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
