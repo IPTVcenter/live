@@ -490,9 +490,9 @@ https://the-pet-collective-linear.vizio.wurl.com/manifest/playlist.m3u8
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="AMC (US)" tvg-logo="https://1.bp.blogspot.com/-uSFxygFWDqQ/YStvIgobc3I/AAAAAAAAA80/dHCn72sKV1ccMDx-dX3TC7feBMMppMijACLcBGAsYHQ/s200/images%252817%2529.png"  group-title="SAMSUNG-TV",AMC (US)
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-EXTINF:-1 ch-id="EURO NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="ROKU-TV",EURO NEWS (US)
+EXTINF:-1 ch-id="EURO NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="SAMSUNG-TV",EURO NEWS (US)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="ROKU-TV",LOVE NATURE (US)
+#EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="SAMSUNG-TV",LOVE NATURE (US)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ch-id="AFV! (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",AFV! (UK)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
