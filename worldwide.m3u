@@ -335,7 +335,7 @@ https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1630
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ch-id="HK (UK)" tvg-logo="https://1.bp.blogspot.com/-zlC9-1zF9WU/YTiUZxrYT_I/AAAAAAAABFM/rGTtLTyd4LEfXYFoZ5TqU1WBIRPQmGMLwCLcBGAsYHQ/s200/images%2B%25284%2529.jpeg"  group-title="AKAMAI-TV",HK (UK)
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="AKAMAI-TV", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="AKAMAI-TV", (UK)
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
 #EXTINF:-1 ch-id="NEWS NET (US)" tvg-logo=" "  group-title="AKAMAI-TV ",NEWS NET (US)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -343,8 +343,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1 ch-id="NJP WORLD (JP)" tvg-logo=" "  group-title="AKAMAI-TV",NJP WORLD (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 ch-id="CNBC BAZAR (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC BAJAR (IN)
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 ch-id="NEWS 18 ASSAM (IN)" tvg-logo=" "  group-title="AKAMAI-TV",NEWS 18 ASSAM (IN)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
 
