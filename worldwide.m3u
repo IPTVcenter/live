@@ -759,6 +759,8 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
 #EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",TLC (ASIA)
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
+#EXTINF:-1 ch-id="BOOMERANG (ASIA)" tvg-logo="https://1.bp.blogspot.com/-IYqqVg5fyCM/YRZLduCEVuI/AAAAAAAAA1o/0_vQ6FPK57Me-qBVjkLwKDM0Y4UGXZd6QCLcBGAsYHQ/s200/1200px-Boomerang_2014_logo.svg.png"  group-title="FPT-PLAY",BOOMERANG (ASIA)
+https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
