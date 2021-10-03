@@ -1512,45 +1512,81 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/671347
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="MY-TV",SONY TV (UK)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/656983
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="USTAV GOLD (UK)" tvg-logo=" "  group-title="SLWEB-TV",USTAV GOLD (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2516
+#EXTINF:-1 ch-id="NOW CINEMA (UK)" tvg-logo=" "  group-title="SLWEB-TV",NOW CINEMA (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/13111
+#EXTINF:-1 ch-id="NOW PREMIER (UK)" tvg-logo=" "  group-title="SLWEB-TV",NOW PREMIER (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/13112
+#EXTINF:-1 ch-id="NEW RELEASE 1 (UK)" tvg-logo=" "  group-title="SLWEB-TV",NEW RELEASE 1 (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/3890
+#EXTINF:-1 ch-id="NEW RELEASE (UK)" tvg-logo=" "  group-title="SLWEB-TV",NEW RELEASE 2 (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/17
+#EXTINF:-1 ch-id="NEW RELEASE 3 (UK)" tvg-logo=" "  group-title="SLWEB-TV",NEW RELEASE 3 (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/4359
+#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="SLWEB-TV",&FLIX HD (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/742
+#EXTINF:-1 ch-id="ABZY MOVIES (IN)" tvg-logo=" "  group-title="SLWEB-TV",ABZY MOVIES (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/6451
+#EXTINF:-1 ch-id="BFLIX MOVIES (IN)" tvg-logo=" "  group-title="SLWEB-TV",BFLIX MOVIES (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/5550
+#EXTINF:-1 ch-id="CINEMA TV (IN)" tvg-logo=" "  group-title="SLWEB-TV",CINEMA TV (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/5544
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "  group-title="SLWEB-TV",ZEE CINEMA (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/3879
+#EXTINF:-1 ch-id="FIRANGI (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/4539
+#EXTINF:-1 ch-id="ABZY COOL (IN)" tvg-logo=" "  group-title="SLWEB-TV",ABZY COOL (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2095
+#EXTINF:-1 ch-id="B4U KADAK (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/3880
+#EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/5545
+#EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/745
+#EXTINF:-1 ch-id="SAHARA ONE (IN)" tvg-logo=" "  group-title="SLWEB-TV",SAHARA ONE (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/4541
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="SLWEB-TV",SONY MAX (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/673
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="SLWEB-TV",SONY PIX HD (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/669
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo=" "  group-title="SLWEB-TV",STAR MOVIES (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/4584
+#EXTINF:-1 ch-id="STAR USTAV MOVIES (IN)" tvg-logo=" "  group-title="SLWEB-TV",STAR USTAV MOVIES (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/5547
+#EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo=" "  group-title="SLWEB-TV",UTV HD (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/650
+#EXTINF:-1 ch-id="WOW CINEMA (IN)" tvg-logo=" "  group-title="SLWEB-TV",WOW CINEMA (IN)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2096
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/648
+#EXTINF:-1 ch-id="ZEE BOLLYWOOD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/649
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/645
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/4830
+#EXTINF:-1 ch-id="ZEE CINEMA (US)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/647
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2094
+#EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/732
+#EXTINF:-1 ch-id="&EXPLORE HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/5553
+#EXTINF:-1 ch-id="ZEE ANMOL CINEMA (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2518
+#EXTINF:-1 ch-id="&PICTURES HD (IN)" tvg-logo=" "  group-title=" ", (ME)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2108
+#EXTINF:-1 ch-id="BT SPORTS 1 HD (UK)" tvg-logo=" "  group-title="SLWEB-TV",BT SPORTS 1 HD (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/29
+#EXTINF:-1 ch-id="SKY CINEMA (UK)" tvg-logo=" "  group-title="SLWEB-TV",SKY CINEMA (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2074
+#EXTINF:-1 ch-id="LFCTV (UK)" tvg-logo=" "  group-title="SLWEB-TV",LFCTV (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/3889
+#EXTINF:-1 ch-id="FIGHT BOX HD (UK)" tvg-logo=" "  group-title="SLWEB-TV",FIGHT BOX HD (UK)
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/1941
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
