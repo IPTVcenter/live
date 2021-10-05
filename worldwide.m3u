@@ -1767,9 +1767,134 @@ http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/740
 #EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="SLWEB-TV",INDIA TODAY (IN)
 http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/1768
 
-
 #EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo=""  group-title="MITVPRO",STAR BHARAT HD (IN)
 http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96173
+#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo=" "  group-title="MITVPRO",NAT GEO (ME)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/115288
+#EXTINF:-1 ch-id="STAR MOVIES (ME)" tvg-logo=" "  group-title="MITVPRO",STAR MOVIES (ME)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/25499
+#EXTINF:-1 ch-id="MBC BOLLYWOOD (ME)" tvg-logo=" "  group-title="MITVPRO",MBC BOLLYWOOD (ME)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/25514
+#EXTINF:-1 ch-id="STAR GOLD 2 (IN)" tvg-logo=" "  group-title="MITVPRO",STAR GOLD 2 (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96343
+#EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo=" "  group-title="MITVPRO",DISCOVERY KIDS (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96341
+#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="MITVPRO",SANSKAR (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96339
+#EXTINF:-1 ch-id="RANG (IN)" tvg-logo=" "  group-title="MITVPRO",RANG (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96331
+#EXTINF:-1 ch-id="PRAG NEWS (IN)" tvg-logo=" "  group-title="MITVPRO",PARAG NEWS (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96330
+#EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo=" "  group-title="MITVPRO",NDTV24X7 (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96334
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="MITVPRO",FOOD FOOD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96327
+#EXTINF:-1 ch-id="REGONI (IN)" tvg-logo=" "  group-title="MITVPRO",RAGONI (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96326
+#EXTINF:-1 ch-id="RAMDHNU (IN)" tvg-logo=" "  group-title="MITVPRO",RAMDHENU (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96325
+#EXTINF:-1 ch-id="OM SHANTI HD (IN)" tvg-logo=" "  group-title="MITVPRO",OM SHANTI HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96318
+#EXTINF:-1 ch-id="NDTV GOODTIMES (IN)" tvg-logo=" "  group-title="MITVPRO",NDTV GOODTIMES (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96315
+#EXTINF:-1 ch-id="SAHARA ONE (IN)" tvg-logo=" "  group-title="MITVPRO",SAHARA ONE (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96307
+#EXTINF:-1 ch-id="DANGAL (IN)" tvg-logo=" "  group-title="MITVPRO",DANGAL (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96296
+#EXTINF:-1 ch-id="DISNEY JUNIOR (IN)" tvg-logo=" "  group-title="MITVPRO",DISNEY JUNIOR (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96288
+#EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo=" "  group-title="MITVPRO",CARTOON NETWORK (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96290
+#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="MITVPRO",B4U MUSIC (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96292
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="MITVPRO",MASTIII (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96297
+#EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo=" "  group-title="MITVPRO",UTV MOVIES (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96287
+#EXTINF:-1 ch-id="TATA SKY BOLLYWOOD PREMIERE HD (IN)" tvg-logo=" "  group-title="MITVPRO",TATA SKY BOLLYWOOD PREMIERE HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96285
+#EXTINF:-1 ch-id="MOVIES NOW HD (IN)" tvg-logo=" "  group-title="MITVPRO",MOVIES NOW HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96282
+#EXTINF:-1 ch-id="DISNEY (IN)" tvg-logo=" "  group-title="MITVPRO",DISNEY (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96278
+#EXTINF:-1 ch-id="POGO (IN)" tvg-logo=" "  group-title="MITVPRO",POGO (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96270
+#EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo=" "  group-title="MITVPRO",UTV ACTION (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96254
+#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="MITVPRO",USTAV PLUS (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100799
+#EXTINF:-1 ch-id="USTAV GOLD HD (UK)" tvg-logo=" "  group-title="MITVPRO",USTAV GOLD HD (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100800
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo=" "  group-title="MITVPRO",ZEE CINEMA (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100804
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title="MITVPRO",SONY TV (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100807
+#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo=" "  group-title="MITVPRO",SONY MAX 2 (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100810
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="MITVPRO",SONY MAX HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100808
+#EXTINF:-1 ch-id="SONY MAX 2 (IN)" tvg-logo=" "  group-title="MITVPRO",SONY MAX 2 (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100809
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title="MITVPRO",COLORS (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100811
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo=" "  group-title="MITVPRO",SONY SAB (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100813
+#EXTINF:-1 ch-id="COLORS RISHTEY (UK)" tvg-logo=" "  group-title="MITVPRO",COLORS RISHTEY (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100814
+#EXTINF:-1 ch-id="COLORS CINEPLEX (UK)" tvg-logo=" "  group-title="MITVPRO",COLORS CINEPLEX (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100815
+#EXTINF:-1 ch-id="B4U MOVIES (UK)" tvg-logo=" "  group-title="MITVPRO",B4U MOVIES (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100816
+#EXTINF:-1 ch-id="B4U MUSIC (UK)" tvg-logo=" "  group-title="MITVPRO",B4U MUSIC (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100817
+#EXTINF:-1 ch-id="B4U PLUS (ME)" tvg-logo=" "  group-title="MITVPRO",B4U PLUS (ME)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100818
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "  group-title="MITVPRO",ZING (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100819
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo=" "  group-title="MITVPRO",VENUS TV (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100821
+#EXTINF:-1 ch-id="AASHTA (UK)" tvg-logo=" "  group-title="MITVPRO",AASHTA (UK)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/100825
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "  group-title="MITVPRO",ZEE TV HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96170
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="MITVPRO",ZEE CINEMA HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96171
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo=" "  group-title="MITVPRO",STAR GOLD HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96174
+#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IN)" tvg-logo=" "  group-title="MITVPRO",STAR GOLD SELECT HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96175
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo=" "  group-title="MITVPRO",ZEE ACTION (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96169
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title="MITVPRO",STAR PLUS HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96176
+#EXTINF:-1 ch-id="STAR USTAV (IN)" tvg-logo=" "  group-title="MITVPRO",STAR USTAV (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96177
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title="MITVPRO",SONY HD (IN)
+http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96179
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+
+
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
