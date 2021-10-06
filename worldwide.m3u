@@ -998,6 +998,13 @@ http://173.199.120.51/hls/b4umovies.m3u8
 http://173.199.120.51/hls/b4umusic.m3u8
 #EXTINF:-1 ch-id="ARY ZINDAGI (PK)" tvg-logo=" "  group-title="BDIX-TV",ARY ZINDAGI (PK)
 http://173.199.120.51/hls/aryzindagi.m3u8
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg"   group-title="BDIX-TV",ZEE TV (IN)
+http://173.199.120.51/hls/zeetvhd.m3u8
+
+#EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg"   group-title="PLAY",ZEE TV (ASIA)
+http://93.152.174.144:4000/play/zee/index.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="PLAY",ZEE ACTION (IN)
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="ENGLISH",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
