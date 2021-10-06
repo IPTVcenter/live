@@ -1947,9 +1947,8 @@ http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96179
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id="ZEE MAGIC (AF)" tvg-logo=" "  group-title="ZEE5",ZEE MAGIC (AF)
 https://z5ams.akamaized.net/magic/index.m3u8?hdnts=st=1633489699~exp=1633492699~acl=/*~hmac=afea783706c57f5b3ee566779c25d8af790eb673e82a66a4f10c5c87bb6c01e2
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA UK (UK)
+https://z5ams.akamaized.net/cinemauk/index.m3u8?hdnts=st=1633489699~exp=1633492699~acl=/*~hmac=afea783706c57f5b3ee566779c25d8af790eb673e82a66a4f10c5c87bb6c01e2
 
 
 
