@@ -1878,23 +1878,38 @@ http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96176
 http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96177
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title="MITVPRO",SONY HD (IN)
 http://mitvpro.net:25461/faVJzhELRYb7jgJ/JRwgoPpuq6xstCP/96179
+
+#EXTINF:-1 ch-id="ASTRO BOLLYONE HD (MY)" tvg-logo=" "  group-title="MOVIES",ASTRO BOLLYONE HD (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71037
+#EXTINF:-1 ch-id="SONY SAB (MY)" tvg-logo=" "  group-title="ENTERTAINMENT",SONY SAB (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71140
+#EXTINF:-1 ch-id="SONY TV (MY)" tvg-logo=" "  group-title="ENTERTAINMENT",SONY TV (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71142
+#EXTINF:-1 ch-id="DISCOVERY ASIA (MY)" tvg-logo=" "  group-title="INFOTAINMENT",DISCOVERY ASIA (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71072
+#EXTINF:-1 ch-id="WBTV (MY)" tvg-logo=" "  group-title="MOVIES",WBTV (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71094
+#EXTINF:-1 ch-id="BOOMERANG (MY)" tvg-logo=" "  group-title="KIDS",BOOMERANG (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71123
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="MOVIES",COLORS CINEPLEX HD (IN)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71125
+#EXTINF:-1 ch-id="BBC EARTH (MY)" tvg-logo=" "  group-title="INFOTAINMENT",BBC EARTH (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71119
+#EXTINF:-1 ch-id="SONY MAX (MY)" tvg-logo=" "  group-title="MOVIES",SONY MAX (MY)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71141
+#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo=" "  group-title="MOVIES",SONY MAX 2 (UK)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28738
+#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="ENTERTAINMENT",USTAV PLUS (UK)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28822
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo=" "  group-title="MOVIES",ZEE CINEMA (UK)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28896
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo=" "  group-title="ENTERTAINMENT",SONY SAB (UK)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28766
+#EXTINF:-1 ch-id="B4U MUSIC (UK)" tvg-logo=" "  group-title="MUSIC",B4U MUSIC (UK)
+http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28845
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
