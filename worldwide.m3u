@@ -924,7 +924,7 @@ http://173.199.120.51/hls/chsp.m3u8
 http://173.199.120.51/hls/zeenews.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="ENTERTAINMENT",SONY TV (IN)
 http://173.199.120.51/hls/chs.m3u8
-#EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="BDIX-TV",ARY NEWS (PK)
+#EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="NEWS",ARY NEWS (PK)
 http://173.199.120.51/hls/arynews.m3u8
 #EXTINF:-1 ch-id="ARY DIGITAL HD (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="ENTERTAINMENT",ARY DIGITAL HD (PK)
 http://173.199.120.51/hls/arydigital.m3u8
