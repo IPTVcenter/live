@@ -77,6 +77,8 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 ch-id="BLOOMBERNG (AU)" tvg-logo=" "  group-title="NEWS",BLOOMERANG (AU)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 ch-id="STAR CRICKET (ASIA)" tvg-logo=" "  group-title="SPORTS",STAR CRICKET (ASIA)
+https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884976
 
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="NEWS",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -547,7 +549,7 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ch-id="YAHOO (UK)" tvg-logo=" "  group-title="ENGLISH",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="ENGLISH", (UK)
+#EXTINF:-1 ch-id="WWE (UK)" tvg-logo=" "  group-title="SPORTS",WWE (UK)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ch-id="LOCAL NOW SPORTS (UK)" tvg-logo=" "  group-title="ENGLISH",LOCAL NOW SPORTS (UK)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
@@ -906,42 +908,31 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 ch-id="DUST (US)" tvg-logo=" "  group-title="ENGLISH",DUST (US)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 
-#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://1.bp.blogspot.com/-GkdMu6HsbkE/YOwd4Gk1l6I/AAAAAAAAAYs/EgrMlf9CGjQfdm2ga9S8SIxxssuv4CtLACLcBGAsYHQ/s200/images.png"  group-title="ENGLISH",ANIMAL PLANET (ASIA)
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891863
-#EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png"  group-title="ENGLISH",LOVE NATURE (US)
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885205
-#EXTINF:-1 ch-id="STAR CRICKET (ASIA)" tvg-logo=" "  group-title="ENGLISH",STAR CRICKET (ASIA)
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884976
-#EXTINF:-1 ch-id="FOX MOVIES (ASIA)" tvg-logo="https://1.bp.blogspot.com/-9cQ_p56JQxs/YNPTsa3Rs0I/AAAAAAAAACE/5cj898zOEtgdOcBb3r3QOOG1wBJEF8hIwCLcBGAsYHQ/s320/images.png"   group-title="ENGLISH",FOX MOVIES (ASIA)
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
-#EXTINF:-1 ch-id="FOX LIFE (ASIA)" tvg-logo="https://1.bp.blogspot.com/-rWQlJYz7HA0/YOwqBo0oLuI/AAAAAAAAAaM/T6wVaYMsg88aLIZz7PXNP6de4mKrKUHOACLcBGAsYHQ/s200/images%2B%25284%2529.jpeg"  group-title="ENGLISH",FOX LIFE (ASIA)
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745772
-
-#EXTINF:-1 ch-id="B4U HITS (IN)" tvg-logo=" "  group-title="HINDI",B4U HITS (IN)
+#EXTINF:-1 ch-id="B4U HITS (IN)" tvg-logo=" "  group-title="MUSIC",B4U HITS (IN)
 http://14.199.164.20:4001/play/a0wh/index.m3u8
-#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="HINDI",B4U MUSIC (IN)
+#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="MUSIC",B4U MUSIC (IN)
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 ch-id="B4U MOVIES (IN)" tvg-logo=" "  group-title="HINDI",B4U MOVIES (IN)
+#EXTINF:-1 ch-id="B4U MOVIES (IN)" tvg-logo=" "  group-title="MOVIES",B4U MOVIES (IN)
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo=" "  group-title="HINDI",BOX CINEMA (IN)
+#EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo=" "  group-title="MOVIES",BOX CINEMA (IN)
 http://14.199.164.20:4001/play/a0su/index.m3u8
-#EXTINF:-1 ch-id="DISHUM TV (IN)" tvg-logo=" "  group-title="HINDI",DISHUM TV (IN)
+#EXTINF:-1 ch-id="DISHUM TV (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DISHUM TV (IN)
 http://14.199.164.20:4001/play/a0pe/index.m3u8
-#EXTINF:-1 ch-id="E24 (IN)" tvg-logo=" "  group-title="HINDI",E24 (IN)
+#EXTINF:-1 ch-id="E24 (IN)" tvg-logo=" "  group-title="MUSIC",E24 (IN)
 http://14.199.164.20:4001/play/a0pc/index.m3u8
-#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="HINDI",FOOD FOOD (IN)
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="INFOTAINMENT",FOOD FOOD (IN)
 http://14.199.164.20:4001/play/a0qx/index.m3u8
-#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="HINDI",MUSIC INDIA (IN)
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="MUSIC",MUSIC INDIA (IN)
 http://14.199.164.20:4001/play/a0mt/index.m3u8
-#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="HINDI",MASTIII (IN)
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="MUSIC",MASTIII (IN)
 http://14.199.164.20:4001/play/a0my/index.m3u8
-#EXTINF:-1 ch-id="TEHZEEB TV (IN)" tvg-logo=" "  group-title="HINDI",TEHZEEB TV (IN)
+#EXTINF:-1 ch-id="TEHZEEB TV (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",TEHZEEB TV (IN)
 http://14.199.164.20:4001/play/a0p5/index.m3u8
-#EXTINF:-1 ch-id="SHRI NAVGRAH CHANNEL (IN)" tvg-logo=" "  group-title="HINDI",SHRI NAVGRAH CHANNEL (IN)
+#EXTINF:-1 ch-id="SHRI NAVGRAH CHANNEL (IN)" tvg-logo=" "  group-title="RELIGIOUS",SHRI NAVGRAH CHANNEL (IN)
 http://14.199.164.20:4001/play/a0sm/index.m3u8
-#EXTINF:-1 ch-id="SARV DHARM SANGAM (IN)" tvg-logo=" "  group-title="HINDI",SARV DHARM SANGAM (IN)
+#EXTINF:-1 ch-id="SARV DHARM SANGAM (IN)" tvg-logo=" "  group-title="RELIGIOUS",SARV DHARM SANGAM (IN)
 http://14.199.164.20:4001/play/a0nn/index.m3u8
-#EXTINF:-1 ch-id="DHINCHAAK (IN)" tvg-logo=" "  group-title="HINDI",DHINCHAAK (IN)
+#EXTINF:-1 ch-id="DHINCHAAK (IN)" tvg-logo=" "  group-title="MOVIES",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 
 #EXTINF:-1 ch-id="&TV (IN)" tvg-logo="https://1.bp.blogspot.com/-jImgLtNoOE8/YRenJeyjdqI/AAAAAAAAA4I/1T28D1EetdYYnkPQdZtT2ehXIsrPpfTVQCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="ENTERTAINMENT",&TV (IN)
