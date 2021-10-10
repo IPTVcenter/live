@@ -219,7 +219,7 @@ http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u
 https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
 #EXTINF:-1 ch-id="JANTA TV (IN)" tvg-logo=" "  group-title="NEWS",JANTA TV (IN)
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 ch-id="DISHA TV (IN)" tvg-logo=" "  group-title="HINDI",DISHA TV (IN)
+#EXTINF:-1 ch-id="DISHA TV (IN)" tvg-logo=" "  group-title="RELIGIOUS",DISHA TV (IN)
 http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
 
 #EXTINF:-1 ch-id="KASHISH NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-QlC51EIhnP0/YOrKytEbPOI/AAAAAAAAASY/JiMdqsfrZYQfjSS2e3lhoTVHEDUMF2UhACLcBGAsYHQ/s200/images%2B%25283%2529%25285%2529.jpeg"  group-title="NEWS",KASHISH NEWS (IN)
@@ -456,7 +456,7 @@ https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="TDAMERITRADE (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",TDAMERITRADE (UK)
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",DUCK TV (UK)
+#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo=" "  group-title="KIDS",DUCK TV (UK)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="MULTI-TV",DD SPORTS (IN)
@@ -740,7 +740,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6173/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6174/index.m3u8
 #EXTINF:-1 ch-id="FAKE TAXI (UK)" tvg-logo=" "  group-title="ADULT",FAKE TAXI (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
-#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="HINDI",SONY MAX (IN)
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="MOVIES",SONY MAX (IN)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 
 #EXTINF:-1 ch-id="DISTRO TV (US)" tvg-logo=" "  group-title="ENGLISH",DISTRO TV (US)
@@ -952,7 +952,7 @@ http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="ENGLISH",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="HINDI",COLORS HD (IN)
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="ENTERTAINMENT",COLORS HD (IN)
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="ENGLISH",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
