@@ -528,7 +528,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ch-id="LOCAL NOW SPORTS (UK)" tvg-logo=" "  group-title="SPORTS",LOCAL NOW SPORTS (UK)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 ch-id="TNA (US)" tvg-logo="https://1.bp.blogspot.com/-UgtAMJp-a2M/YTiqBv_asXI/AAAAAAAABIg/GkXs-3rsl5UrbZE-2AxgENjfNhgCf5i5gCLcBGAsYHQ/s200/images.jpeg"  group-title="ENGLISH",TNA (US)
+#EXTINF:-1 ch-id="TNA (US)" tvg-logo="https://1.bp.blogspot.com/-UgtAMJp-a2M/YTiqBv_asXI/AAAAAAAABIg/GkXs-3rsl5UrbZE-2AxgENjfNhgCf5i5gCLcBGAsYHQ/s200/images.jpeg"  group-title="SPORTS",TNA (US)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 ch-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NEWS",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
