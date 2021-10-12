@@ -955,6 +955,12 @@ http://93.152.174.144:4000/play/ait/index.m3u8
 http://93.152.174.144:4000/play/stargold/index.m3u8
 #EXTINF:-1 ch-id="SONY PAL (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",SONY PAL (IN)
 http://93.152.174.144:4000/play/sonypal/index.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 1 HD (IN)
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 2 (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",STAR SPORTS 2 (IN)
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",STAR SPORTS 3 (IN)
+http://93.152.174.144:4000/play/ss3in/index.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="KIDS",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
