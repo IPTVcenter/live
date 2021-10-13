@@ -1006,6 +1006,10 @@ http://173.199.120.51/hls/b4umusic.m3u8
 http://173.199.120.51/hls/aryzindagi.m3u8
 #EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (IN)
 http://173.199.120.51/hls/zeetvhd.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 1 HD (IN)
+http://173.199.120.51/hls/chsp1.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS 2 HD (IN)
+http://173.199.120.51/hls/chsp2.m3u8
 
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (UK)
 http://93.152.174.144:4000/play/zee/index.m3u8
@@ -1300,7 +1304,7 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="IPTV",SONY HD (IN)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/6525
-#EXTINF:-1 ch-id="USTAV GOLD (UK)" tvg-logo=" "  group-title="IPTV",USTAV GOLD (UK)
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo=" "  group-title="IPTV",STAR GOLD (ME)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/15897
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://1.bp.blogspot.com/-GSNteIERvGA/YQaGcxe0gkI/AAAAAAAAAuQ/M2KgF5AHcJEOiLvt91TuemgTQAWvlTuNgCLcBGAsYHQ/s200/4867316278001.png"  group-title="IPTV",SONY SAB HD (IN)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/15895
@@ -1320,35 +1324,6 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5161
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/671347
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="IPTV",SONY TV (UK)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/656983
-
-#EXTINF:-1 ch-id="ASTRO BOLLYONE HD (MY)" tvg-logo=" "  group-title="IPTV",ASTRO BOLLYONE HD (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71037
-#EXTINF:-1 ch-id="SONY SAB (MY)" tvg-logo=" "  group-title="IPTV",SONY SAB (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71140
-#EXTINF:-1 ch-id="SONY TV (MY)" tvg-logo=" "  group-title="IPTV",SONY TV (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71142
-#EXTINF:-1 ch-id="DISCOVERY ASIA (MY)" tvg-logo=" "  group-title="IPTV",DISCOVERY ASIA (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71072
-#EXTINF:-1 ch-id="WBTV (MY)" tvg-logo=" "  group-title="IPTV",WBTV (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71094
-#EXTINF:-1 ch-id="BOOMERANG (MY)" tvg-logo=" "  group-title="IPTV",BOOMERANG (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71123
-#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="IPTV",COLORS CINEPLEX HD (IN)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71125
-#EXTINF:-1 ch-id="SONY MAX (MY)" tvg-logo=" "  group-title="IPTV",SONY MAX (MY)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/71141
-#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo=" "  group-title="IPTV",SONY MAX 2 (UK)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28738
-#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="IPTV",USTAV PLUS (UK)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28822
-#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo=" "  group-title="IPTV",ZEE CINEMA (UK)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28896
-#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo=" "  group-title="IPTV",SONY SAB (UK)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28766
-#EXTINF:-1 ch-id="B4U MUSIC (UK)" tvg-logo=" "  group-title="IPTV",B4U MUSIC (UK)
-http://mu03ye.wanicelife.com:8880/YALM4421/i8r13m9us/28845
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-
 
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
