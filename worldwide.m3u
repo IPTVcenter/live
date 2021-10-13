@@ -1089,6 +1089,8 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 ch-id="HGTV (ASIA)" tvg-logo=" "  group-title="INFOTAINMENT",HGTV (ASIA)
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="INFOTAINMENT",NAT GEO WILD (ASIA)
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="ENTERTAINMENT",AXN HD (UK)
 http://51.15.0.141:88/axn/index.m3u8
