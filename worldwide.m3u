@@ -80,13 +80,6 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 ch-id="STAR CRICKET (ASIA)" tvg-logo=" "  group-title="SPORTS",STAR CRICKET (ASIA)
 https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884976
 
-#EXTINF:-1 ch-id="COLORS (IN)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="ENTERTAINMENT",COLORS (IN)
-https://live.bongobd.com/hls/RmZOXdvhQWnotWZQ4T6AFg/1634103764/colors.m3u8
-#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="ENTERTAINMENT",SONY HD (IN)
-https://live.bongobd.com/hls/wSJncpI06aHFO7CqIoCj-g/1634104231/live-sony-hd.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",SONY MAX HD (IN)
-https://live.bongobd.com/hls/ZpVvjpBtt5wYrBDE88ZpzA/1634105664/live-sony-max-hd.m3u8
-
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="NEWS",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ch-id="HLN (US)" tvg-logo=" "  group-title="NEWS",HLN (US)
@@ -327,31 +320,10 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 ch-id="M2O TV (UK)" tvg-logo=" "  group-title="MUSIC",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
-#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="ENTERTAINMENT",SONY HD (IN)
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1634101837~acl=/*~id=92310662477260290468338576598769~hmac=57ee068f0ef62fe6cb35fea6eb2046d0ebb0d8f865f92007f85de9a611be345d
 
-#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (US)
-#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ENTERTAINMENT",ZEE TV HD (ME)
-#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="MOVIES",ZEE CLASSIC (IN)
-#EXTINF:-1 ch-id="& EXPLORE HD (IN)" tvg-logo=" "  group-title="MOVIES",& EXPLORE HD (IN)
-#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE ANMOL (IN)
-#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",&TV HD (IN)
-#EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",RENGONI (IN)
-#EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="NEWS",WION (IN)
-#EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="NEWS",ZEE NEWS (IN)
-#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="NEWS",ZEE BUSINESS (IN)
-#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD 1 HD (IN)
-#EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="LIFESTYLE",ZEE ZEST HD (IN)
-#EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD BHARATI (IN)
-#EXTINF:-1 ch-id="ZEE SALAM (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE SALAM (IN)
-#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="MOVIES",&FLIX HD (IN)
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="MUSIC",9XM (IN)
-
-
-
-#EXTINF:-1 ch-id="DY365 (IND)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS",DY 365 (IN)
+#EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 ch-id="NORTH EAST LIVE (IND)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS",NORTH EAST LIVE (IN)
+#EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS",NORTH EAST LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="A1 TV (IN)" tvg-logo="https://1.bp.blogspot.com/-hXstI0S8phQ/YOrSHpdfQTI/AAAAAAAAAUk/Wuv2_YMcqmcFkLcXremc-cPXc3z2EQCWQCLcBGAsYHQ/s200/images%2B%25281%2529%25281%2529.jpeg"  group-title="NEWS",A1 TV (IN)
 http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
@@ -953,6 +925,27 @@ https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-nD9u2qNibps/YReloVq6yJI/AAAAAAAAA3w/3xPIEyUiZQgYGtAGfoYOCskxg6673C05QCLcBGAsYHQ/s200/images.png"  group-title="MUSIC",ZEE MUSIC (IN)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (US)
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ENTERTAINMENT",ZEE TV HD (ME)
+#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="MOVIES",ZEE CLASSIC (IN)
+#EXTINF:-1 ch-id="& EXPLORE HD (IN)" tvg-logo=" "  group-title="MOVIES",& EXPLORE HD (IN)
+#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE ANMOL (IN)
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",&TV HD (IN)
+#EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",RENGONI (IN)
+#EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="NEWS",WION (IN)
+#EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="NEWS",ZEE NEWS (IN)
+#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="NEWS",ZEE BUSINESS (IN)
+#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD 1 HD (IN)
+#EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="LIFESTYLE",ZEE ZEST HD (IN)
+#EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD BHARATI (IN)
+#EXTINF:-1 ch-id="ZEE SALAM (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE SALAM (IN)
+#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="MOVIES",&FLIX HD (IN)
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="MUSIC",9XM (IN)
+
+
+
+
 
 #EXTINF:-1 ch-id="B4U HITS (IN)" tvg-logo=" "  group-title="MUSIC",B4U HITS (IN)
 http://14.199.164.20:4001/play/a0wh/index.m3u8
