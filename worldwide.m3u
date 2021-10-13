@@ -80,6 +80,13 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 ch-id="STAR CRICKET (ASIA)" tvg-logo=" "  group-title="SPORTS",STAR CRICKET (ASIA)
 https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884976
 
+#EXTINF:-1 ch-id="COLORS (IN)" tvg-logo="https://1.bp.blogspot.com/-3v540XCjyHc/YKWxSXMsRjI/AAAAAAAAA9I/fFF7EbuSnhoM2DTf6CPSJ__RLXVPNPzjgCLcBGAsYHQ/w200-h189/IMG_20210308_175059.jpg"   group-title="ENTERTAINMENT",COLORS (IN)
+https://live.bongobd.com/hls/RmZOXdvhQWnotWZQ4T6AFg/1634103764/colors.m3u8
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="ENTERTAINMENT",SONY HD (IN)
+https://live.bongobd.com/hls/wSJncpI06aHFO7CqIoCj-g/1634104231/live-sony-hd.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",SONY MAX HD (IN)
+https://live.bongobd.com/hls/ZpVvjpBtt5wYrBDE88ZpzA/1634105664/live-sony-max-hd.m3u8
+
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="NEWS",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ch-id="HLN (US)" tvg-logo=" "  group-title="NEWS",HLN (US)
@@ -320,38 +327,27 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 ch-id="M2O TV (UK)" tvg-logo=" "  group-title="MUSIC",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="ENTERTAINMENT",SONY HD (IN)
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1634101837~acl=/*~id=92310662477260290468338576598769~hmac=57ee068f0ef62fe6cb35fea6eb2046d0ebb0d8f865f92007f85de9a611be345d
+
 #EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (US)
-https://z5ams.akamaized.net/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/index.m3u8?hdnts=st=1634117457~exp=1634120457~acl=/*~hmac=722341bead8d65aaf924f963670e306c770b984e70f3adcd239f1da419668f29
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ENTERTAINMENT",ZEE TV HD (ME)
-https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8?hdnts=st=1634117729~exp=1634120729~acl=/*~hmac=2f61d32051ddcab7073b496ca58a844507bd0e5becaf6d933b54e1f32c27224e
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="MOVIES",ZEE CLASSIC (IN)
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1634118000~exp=1634121000~acl=/*~hmac=980a078d8876de66fe183fc27fe2f2945348975bec89c1f7ef5d0e7c13f83400
 #EXTINF:-1 ch-id="& EXPLORE HD (IN)" tvg-logo=" "  group-title="MOVIES",& EXPLORE HD (IN)
-https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1634118000~exp=1634121000~acl=/*~hmac=980a078d8876de66fe183fc27fe2f2945348975bec89c1f7ef5d0e7c13f83400
 #EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE ANMOL (IN)
-https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1634119405~exp=1634122405~acl=/*~hmac=851c35156794a984f044bb8cfae58c8a4869aeea276f46e261eaa969e4d64be1
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",&TV HD (IN)
-https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1634119678~exp=1634122678~acl=/*~hmac=20e9cfab56e7ffe7735441a50ef5aa1d1adb2eb1fcaad63cc84edeec430445d5
 #EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",RENGONI (IN)
-https://z5ams.akamaized.net/out/v1/be7d5d440a884e63bf2d9a92bd9f6256/index.m3u8?hdnts=st=1634121361~exp=1634124361~acl=/*~hmac=e4c5742e36fc89cdd8207924566a63b34b5371039a91491ddf2120fce2478f62
 #EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="NEWS",WION (IN)
-https://z5ams.akamaized.net/out/v1/f3bf04506e254324b199b4fdebddf02a/index.m3u8?hdnts=st=1634121361~exp=1634124361~acl=/*~hmac=e4c5742e36fc89cdd8207924566a63b34b5371039a91491ddf2120fce2478f62
 #EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="NEWS",ZEE NEWS (IN)
-https://z5ams.akamaized.net/hindustan/index.m3u8?hdnts=st=1634121663~exp=1634124663~acl=/*~hmac=a6bdd1df2de18cea707bc3ead544efd882f1c790ea705dd83db660a7edb95428
 #EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="NEWS",ZEE BUSINESS (IN)
-https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/index.m3u8?hdnts=st=1634121663~exp=1634124663~acl=/*~hmac=a6bdd1df2de18cea707bc3ead544efd882f1c790ea705dd83db660a7edb95428
 #EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD 1 HD (IN)
-https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8?hdnts=st=1634121663~exp=1634124663~acl=/*~hmac=a6bdd1df2de18cea707bc3ead544efd882f1c790ea705dd83db660a7edb95428
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="LIFESTYLE",ZEE ZEST HD (IN)
-https://z5ams.akamaized.net/out/v1/8b3c00846f3040cd84c3f37d9f36ea75/index.m3u8?hdnts=st=1634121961~exp=1634124961~acl=/*~hmac=bba007bf017393458fa983d523dcc49299d36aa20e778c10326d343623f1d63e
 #EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD BHARATI (IN)
-https://z5ams.akamaized.net/out/v1/03d04d1461114e9083d382ab0054ac2c/index.m3u8?hdnts=st=1634122248~exp=1634125248~acl=/*~hmac=711b168c7b8cd02a061736f011e3402eb06938e567cab8690e190892f3f49f94
 #EXTINF:-1 ch-id="ZEE SALAM (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE SALAM (IN)
-https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1634122248~exp=1634125248~acl=/*~hmac=711b168c7b8cd02a061736f011e3402eb06938e567cab8690e190892f3f49f94
 #EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="MOVIES",&FLIX HD (IN)
-https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1634122248~exp=1634125248~acl=/*~hmac=711b168c7b8cd02a061736f011e3402eb06938e567cab8690e190892f3f49f94
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="MUSIC",9XM (IN)
-https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1634122519~exp=1634125519~acl=/*~hmac=c71a1a469075917e4fd6a55dd06dfe9b1c4f1cd36ad578a0444fdbdadf4f46d1
+
+
 
 #EXTINF:-1 ch-id="DY365 (IND)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
