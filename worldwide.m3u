@@ -320,6 +320,15 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 ch-id="M2O TV (UK)" tvg-logo=" "  group-title="MUSIC",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (US)
+https://z5ams.akamaized.net/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/index.m3u8?hdnts=st=1634117457~exp=1634120457~acl=/*~hmac=722341bead8d65aaf924f963670e306c770b984e70f3adcd239f1da419668f29
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ENTERTAINMENT",ZEE TV HD (ME)
+https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8?hdnts=st=1634117729~exp=1634120729~acl=/*~hmac=2f61d32051ddcab7073b496ca58a844507bd0e5becaf6d933b54e1f32c27224e
+#EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="MOVIES",ZEE CLASSIC (IN)
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1634118000~exp=1634121000~acl=/*~hmac=980a078d8876de66fe183fc27fe2f2945348975bec89c1f7ef5d0e7c13f83400
+#EXTINF:-1 ch-id="& EXPLORE HD (IN)" tvg-logo=" "  group-title="MOVIES",& EXPLORE HD (IN)
+https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1634118000~exp=1634121000~acl=/*~hmac=980a078d8876de66fe183fc27fe2f2945348975bec89c1f7ef5d0e7c13f83400
+
 
 #EXTINF:-1 ch-id="DY365 (IND)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
