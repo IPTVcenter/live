@@ -1349,27 +1349,45 @@ http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28738
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1933
 #EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title=" ",SONY TEN 2 HD (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1904
-#EXTINF:-1 ch-id=" (U)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo=" "  group-title="IPTV",DISCOVERY SCIENCE (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55210
+#EXTINF:-1 ch-id="DISCOVERY HD (IN)" tvg-logo=" "  group-title="IPTV",DISCOVERY HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55221
+#EXTINF:-1 ch-id="HIT MUSIC (IN)" tvg-logo=" "  group-title="IPTV",HIT MUSIC (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55262
+#EXTINF:-1 ch-id="BBC EARTH HD (IN)" tvg-logo=" "  group-title="IPTV",BBC EARTH HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55290
+#EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo=" "  group-title="IPTV",CARTOON NETWORK (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55313
+#EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo=" "  group-title="IPTV",ANIMAL PLANET (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55322
+#EXTINF:-1 ch-id="TLC (IN)" tvg-logo=" "  group-title="IPTV",TLC (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55330
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="IPTV",9XM (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1961
+#EXTINF:-1 ch-id="AASHTA (IN)" tvg-logo=" "  group-title="IPTV",AASHTA (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1959
+#EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title="IPTV",&PICTURES (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1957
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="IPTV",&TV HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1956
+#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo=" "  group-title="IPTV",DD NEWS (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1955
+#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="IPTV",B4U MUSIC (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1953
+#EXTINF:-1 ch-id="ZOOM (IN)" tvg-logo=" "  group-title="IPTV",ZOOM (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1951
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title="IPTV",COLORS (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1946
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="IPTV",FOOD FOOD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1942
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="IPTV",MUSIC INDIA (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1929
+#EXTINF:-1 ch-id="NDTV 24X7 (IN)" tvg-logo=" "  group-title="IPTV",NDTV24X7 (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1928
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
