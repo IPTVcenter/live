@@ -1325,19 +1325,33 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/671347
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="IPTV",SONY TV (UK)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/656983
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id="SONY MAX (MY)" tvg-logo=" "  group-title="IPTV",SONY MAX (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71141
+#EXTINF:-1 ch-id="SONY TV (MY)" tvg-logo=" "  group-title="IPTV",SONY TV (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71142
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="IPTV",SONY SIX HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31625
+#EXTINF:-1 ch-id="SONY SAB (MY)" tvg-logo=" "  group-title="IPTV",SONY SAB (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71140
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title="IPTV",SONY TV (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1901
+#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo=" "  group-title="IPTV",SONY SAB (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1907
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title="IPTV",SONY HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55212
+#EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" "  group-title="IPTV",SONY TEN 3 HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1902
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo=" "  group-title="IPTV",SONY SAB (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28739
+#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo=" "  group-title="IPTV",SONY MAX 2 (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28738
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="IPTV",SONY PIX HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1933
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title=" ",SONY TEN 2 HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1904
+#EXTINF:-1 ch-id=" (U)" tvg-logo=" "  group-title=" ", (ME)
+
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
