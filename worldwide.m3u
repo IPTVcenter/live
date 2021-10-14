@@ -1363,16 +1363,12 @@ http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55313
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55322
 #EXTINF:-1 ch-id="TLC (IN)" tvg-logo=" "  group-title="IPTV",TLC (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55330
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="IPTV",9XM (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1961
 #EXTINF:-1 ch-id="AASHTA (IN)" tvg-logo=" "  group-title="IPTV",AASHTA (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1959
 #EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title="IPTV",&PICTURES (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1957
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="IPTV",&TV HD (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1956
-#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo=" "  group-title="IPTV",DD NEWS (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1955
 #EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="IPTV",B4U MUSIC (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1953
 #EXTINF:-1 ch-id="ZOOM (IN)" tvg-logo=" "  group-title="IPTV",ZOOM (IN)
@@ -1385,32 +1381,160 @@ http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1942
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1929
 #EXTINF:-1 ch-id="NDTV 24X7 (IN)" tvg-logo=" "  group-title="IPTV",NDTV24X7 (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1928
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title="IPTV",ZEE TV (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1926
+#EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="IPTV",ZEE ZEST HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1934
+#EXTINF:-1 ch-id="MN+ HD (IN)" tvg-logo=" "  group-title="IPTV",MN+ HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1930
+#EXTINF:-1 ch-id="SONY TV (ME)" tvg-logo=" "  group-title="IPTV",SONY TV (ME)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1911
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="IPTV",SONY MAX (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1910
+#EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo=" "  group-title="IPTV",ROMEDY NOW (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1900
+#EXTINF:-1 ch-id="USTAV GOLD HD (UK)" tvg-logo=" "  group-title="IPTV",USTAV GOLD HD (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1897
+#EXTINF:-1 ch-id="STAR MOVIES (ME)" tvg-logo=" "  group-title="IPTV",STAR MOVIES (ME)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1896
+#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="IPTV",USTAV PLUS (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1895
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 1 HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1893
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 2 HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1892
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 3 (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1886
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "  group-title="IPTV",ZING (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55354
+#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="IPTV",ZEE BUSINESS (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1882
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "  group-title="IPTV",ZEE CINEMA (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1880
+#EXTINF:-1 ch-id="ZEE LIVING (US)" tvg-logo=" "  group-title="IPTV",ZEE LIVING (US)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1878
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo=" "  group-title="IPTV",ZEE NEWS (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1876
+#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="IPTV",STAR WORLD HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55360
+#EXTINF:-1 ch-id="ZEE CAFE HD (IN)" tvg-logo=" "  group-title="IPTV",ZEE CAFE HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55352
+#EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" tvg-logo=" "  group-title="IPTV",RISHTEY CINEPLEX (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55345
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 1 (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS SELECT 1 (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55340
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 2 (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS SELECT 2 (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55338
+#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo=" "  group-title="IPTV",EPIC (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/50270
+#EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo=" "  group-title="IPTV",TEN SPORTS (PK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55260
+#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="IPTV",DD 1 HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55256
+#EXTINF:-1 ch-id="B4U MOVIES (UK)" tvg-logo=" "  group-title="IPTV",B4U MOVIES (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55232
+#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="IPTV",DD SPORTS (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55219
+#EXTINF:-1 ch-id="&PRIVE HD (IN)" tvg-logo=" "  group-title="IPTV",&PRIVE HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55158
+#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo=" "  group-title="IPTV",ABP NEWS (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55220
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="IPTV",MASTIII (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55264
+#EXTINF:-1 ch-id="TIMES NOW (IN)" tvg-logo=" "  group-title="IPTV",TIMES NOW (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1889
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+
