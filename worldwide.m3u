@@ -49,12 +49,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://stirr.ott-channels.stingray.com/karaoke/master.m3u8
 #EXTINF:-1 ch-id="CARTOON (UK)" tvg-logo=" "  group-title="KIDS",CARTOON (UK)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (UK)
+#EXTINF:-1 ch-id="JTV (US)" tvg-logo=" "  group-title="SHOPPING",JTV (US)
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 ch-id="ABC 15 (US)" tvg-logo=" "  group-title="NEWS",ABC 15 (US)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title=" ", (US)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 ch-id="AMAR UJALA (IN)" tvg-logo=" "  group-title="NEWS",AMAR UJALA (IN)
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 ch-id="MOVIES GROUP 1 (US)" tvg-logo=" "  group-title="MOVIES",MOVIES GROUP 1 (US)
@@ -294,8 +292,6 @@ https://t04865-lh.akamaihd.net/i/t04865a_1@569562/index_3000000_av-p.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG (US)" tvg-logo="https://1.bp.blogspot.com/-WWB4MRzTKh4/YTiN-hd-06I/AAAAAAAABEE/iryr17vCdWAzRzGcoZYh7Pfu1bGoUMHpgCLcBGAsYHQ/s200/BTV.png"  group-title="NEWS",BLOOMBERG (US)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="ENTERTAINMENT", (US)
-http://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/index_600_av-p.m3u8?
 #EXTINF:-1 ch-id="BEK (US)" tvg-logo="https://1.bp.blogspot.com/-CT_9kOW-k2s/YTiPmRiK6ZI/AAAAAAAABEM/527gSaRRk-Q7M6A3m92vTdJ5fF1u6JLdgCLcBGAsYHQ/s200/images%2B%25282%2529%25286%2529.png"  group-title="SPORTS",BEK (US)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS NEWS (AU)" tvg-logo="https://1.bp.blogspot.com/-8M7klrVFovw/YTiSDft7X0I/AAAAAAAABE8/dUB10J2AC5IW4R0GyBJpYef2Xr9SCZL0wCLcBGAsYHQ/s200/PicsArt_09-08-04.05.37.png"  group-title="NEWS",FOX SPORTS NEWS (AU)
@@ -753,20 +749,14 @@ https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/d5b46/+0000/low/c.m3u8
 #EXTINF:-1 ch-id="HONOR TV (US)" tvg-logo=" "  group-title="MOVIES",HONOR TV (US)
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
-#EXTINF:-1 ch-id="  (US)" tvg-logo=" "  group-title="", (US)
-https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 ch-id="MMA JUNKIE (US)" tvg-logo=" "  group-title="SPORTS",MMA JUNKIE (US)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="", (US)
-https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 #EXTINF:-1 ch-id="REELZ (US)" tvg-logo=" "  group-title="ENTERTAINMENT",REELZ (US)
 https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 #EXTINF:-1 ch-id="CHANNEL S (US)" tvg-logo=" "  group-title="",CHANNEL S (US)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 ch-id="YOUNG HOLLYWOOD (US)" tvg-logo=" "  group-title="LIFESTYLE",YOUNG HOLLYWOOD (US)
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
-#EXTINF:-1 ch-id="  (US)" tvg-logo=" "  group-title="", (US)
-https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
 #EXTINF:-1 ch-id="REAL VISION (US)" tvg-logo=" "  group-title="ENTERTAINMENT",REAL VISION (US)
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 ch-id="CYCLE WORLD  (US)" tvg-logo=" "  group-title="SPORTS",CYCLE WORLD (US)
@@ -786,8 +776,6 @@ http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="ENTERTAINMENT",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="", (US)
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 ch-id="CINE LIFE (US)" tvg-logo=" "  group-title="MOVIES",CINE LIFE (US)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 ch-id="COMET (US)" tvg-logo=" "  group-title="ENTERTAINMENT",COMET (US)
@@ -796,17 +784,13 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 ch-id="LAW&CRIME (UK)" tvg-logo=" "  group-title="ENTERTAINMENT",LAW&CRIME (US)
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="", (US)
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="", (US)
-https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:-1 ch-id="SPORTS TV PLUS (US)" tvg-logo=" "  group-title="SPORTS",SPORTS TV PLUS (US)
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 ch-id="EDGE SPORTS (US)" tvg-logo=" "  group-title="SPORTS",EDGE SPORTS (US)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 ch-id="CON TV (US)" tvg-logo=" "  group-title="MOVIES",CON TV (US)
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="", (US)
+#EXTINF:-1 ch-id="TND (US)" tvg-logo=" "  group-title="NEWS",TND (US)
 https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
 #EXTINF:-1 ch-id="CINE HOUSE (US)" tvg-logo=" "  group-title="MOVIES",CINE HOUSE (US)
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
