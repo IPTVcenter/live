@@ -910,22 +910,64 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-nD9u2qNibps/YReloVq6yJI/AAAAAAAAA3w/3xPIEyUiZQgYGtAGfoYOCskxg6673C05QCLcBGAsYHQ/s200/images.png"  group-title="MUSIC",ZEE MUSIC (IN)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
-#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (US)
-#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ENTERTAINMENT",ZEE TV HD (ME)
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="ENTERTAINMENT",ZEE TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetv
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg"   group-title="ENTERTAINMENT",ZEE TV HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetvhd
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="MOVIES",ZEE CLASSIC (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-176
 #EXTINF:-1 ch-id="& EXPLORE HD (IN)" tvg-logo=" "  group-title="MOVIES",& EXPLORE HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-209
 #EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE ANMOL (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeanmol
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",&TV HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-tvhd_0
 #EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",RENGONI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-322
 #EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="NEWS",WION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-wion
 #EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="NEWS",ZEE NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeehindustan
 #EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="NEWS",ZEE BUSINESS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeebusiness
 #EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD 1 HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-250
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="LIFESTYLE",ZEE ZEST HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-348
 #EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",DD BHARATI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddbharati
 #EXTINF:-1 ch-id="ZEE SALAM (IN)" tvg-logo=" "  group-title="ENTERTAINMENT",ZEE SALAM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeesalaam
 #EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="MOVIES",&FLIX HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="MUSIC",9XM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-131
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title="MUSIC",9X JALWA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-133
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-ygiSas8IyJI/YMdB4dxrcwI/AAAAAAAABLc/kuphDcjnoqUcsWlNho4cW2Jnbu236j15ACLcBGAsYHQ/s320/IMG_20210308_162943.jpg"   group-title="MOVIES",ZEE CINEMA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecinema
+#EXTINF:-1 ch-id="E24 (IN)" tvg-logo=" "  group-title="MUSIC",E24 (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-207
+#EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-YRwZYTgpx2s/YKRrqwKjZXI/AAAAAAAAA5Q/tmIGcVjrzswfDL_U3LyUkOLzWd2xiLpfwCLcBGAsYHQ/w200-h116/PicsArt_05-19-07.00.26.png"   group-title="MOVIES",& PICTURES HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-tvpictureshd
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="MOVIES",ZEE CINEMA HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd
+
+
+https://snehz5tv.herokuapp.com/?c=0-9-zeecafehd
+https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
+https://snehz5tv.herokuapp.com/?c=0-9-zeeclassic
+https://snehz5tv.herokuapp.com/?c=0-9-zeeaction
+https://snehz5tv.herokuapp.com/?c=0-9-ddkisan
+#EXTINF:-1 ch-id="9X JAKASH (IN)" tvg-logo=" "  group-title="MUSIC",9X JAKASH (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-134
+https://snehz5tv.herokuapp.com/?c=0-9-ddurdu
+#EXTINF:-1 ch-id="GTN (IN)" tvg-logo=" "  group-title="NEWS",GTN (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-255
+https://snehz5tv.herokuapp.com/?c=0-9-zing
+https://snehz5tv.herokuapp.com/?c=0-9-aajtak
+https://snehz5tv.herokuapp.com/?c=0-9-divyatv
+https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
 
 
 
