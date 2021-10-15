@@ -726,7 +726,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6185/index.m3u8
 #EXTINF:-1 ch-id="EROTIC 4 (UK)" tvg-logo=" "  group-title="ADULT",EROTIC 4 (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6292/index.m3u8
-#EXTINF:-1 ch-id="FANTBOYZ (UK)" tvg-logo=" "  group-title="ADULT",FANTBOYZ (UK)
+#EXTINF:-1 ch-id="FAST BOYZ (UK)" tvg-logo=" "  group-title="ADULT",FANTBOYZ (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6274/index.m3u8
 #EXTINF:-1 ch-id="BABES (UK)" tvg-logo=" "  group-title="ADULT",BABES (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6171/index.m3u8
@@ -1475,16 +1475,27 @@ http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55220
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55264
 #EXTINF:-1 ch-id="TIMES NOW (IN)" tvg-logo=" "  group-title="IPTV",TIMES NOW (IN)
 http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1889
+#EXTINF:-1 ch-id="HUM (UK)" tvg-logo=" "  group-title="IPTV",HUM (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31679
+#EXTINF:-1 ch-id="MADNI CHANNEL (UK)" tvg-logo=" "  group-title="IPTV",MADNI CHANNEL (UK)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31661
+#EXTINF:-1 ch-id="JOO MUSIC (IN)" tvg-logo=" "  group-title="IPTV",JOO MUSIC (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31672
+#EXTINF:-1 ch-id="ASTRO BOLLYONE HD (MY)" tvg-logo=" "  group-title="IPTV",ASTRO BOLLYONE HD (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71037
+#EXTINF:-1 ch-id="DISCOVERY ASIA (MY)" tvg-logo=" "  group-title="IPTV",DISCOVERY ASIA (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71072
+#EXTINF:-1 ch-id="ANIMAL PLANET (MY)" tvg-logo=" "  group-title="IPTV",ANIMAL PLANET (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71075
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="IPTV",COLORS CINEPLEX HD (IN)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71125
+#EXTINF:-1 ch-id="NAT GEO (MY)" tvg-logo=" "  group-title="IPTV",NAT GEO (MY)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71070
+#EXTINF:-1 ch-id="NAT GEO WILD (NL)" tvg-logo=" "  group-title="IPTV",NAT GEO WILD (NL)
+http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31399
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
