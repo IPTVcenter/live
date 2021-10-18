@@ -682,13 +682,19 @@ https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="SPORTS",SONY SIX HD (IN)
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo=" "  group-title="INFOTAINMENT",DISCOVERY SCIENCE (IN)
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-fMSsRWWyFjk/YQffZt4Y_2I/AAAAAAAAAy0/ExkqxVLonTsdvVDJN11h2TltPenx4HSXgCLcBGAsYHQ/s200/images+%285%29.jpeg"  group-title="MUSIC",B4U MUSIC (IN)
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-fMSsRWWyFjk/YQffZt4Y_2I/AAAAAAAAAy0/ExkqxVLonTsdvVDJN11h2TltPenx4HSXgCLcBGAsYHQ/s200/images+%285%29.jpeg"  group-title="ENTERTAINMENT",&TV HD (IN)
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 #EXTINF:-1 ch-id="BBC EARTH (ASIA)" tvg-logo="https://1.bp.blogspot.com/-t91CCkj1VlU/YOwfXhpS9AI/AAAAAAAAAY8/iB5B5iKBaNsLBxH4e0G6Oxp0VNVp2Dv0ACLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="INFOTAINMENT",BBC EARTH (ASIA)
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="DISCOVERY ASIA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vot4sSl5X9Q/YOwmlexjkMI/AAAAAAAAAZ0/TAmdKrV72ncVaYIQO0ZyUN1XhnQIKbmEwCLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="INFOTAINMENT",DISCOVERY ASIA (ASIA)
 https://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="INFOTAINMENT",DISCOVERY (ASIA)
-https://livecdn.fptplay.net/hda2/discovery_hls.smil/master.m3u8
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="CINEMAX (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjZIR1G3ccHXeM2KZcDL_bCuugKuTYqGgu3QLcKU0SUx1X5LsAt2WZCrzca_U4RaoPNgbkt6FZQYsZtBUVWPPIaSNZr62bvJ53GOy3PYFqnAHB6ED4AbYVtinxoo26MwHcW00eggQhIKgl2RSa8kk0QX7GLi-BmtSpJ8h8K32nrEBPVfKR-SkhMybC_=s200"  group-title="MOVIES",CINEMAX (ASIA)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="FOX SPORTS 3 (ASIA)" tvg-logo=" "  group-title="SPORTS",FOX SPORTS 3 (ASIA)
