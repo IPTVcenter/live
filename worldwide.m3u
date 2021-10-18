@@ -680,6 +680,8 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
 #EXTINF:-1 ch-id="HISTORY (US)" tvg-logo=" "  group-title="INFOTAINMENT",HISTORY (US)
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="SPORTS",SONY SIX HD (IN)
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 ch-id="BBC EARTH (ASIA)" tvg-logo="https://1.bp.blogspot.com/-t91CCkj1VlU/YOwfXhpS9AI/AAAAAAAAAY8/iB5B5iKBaNsLBxH4e0G6Oxp0VNVp2Dv0ACLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="INFOTAINMENT",BBC EARTH (ASIA)
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
