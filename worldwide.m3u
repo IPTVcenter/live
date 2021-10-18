@@ -1168,6 +1168,8 @@ http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="DUNYA NEWS (PK)" tvg-logo=" "  group-title="NEWS",DUNYA NEWS (PK)
 http://221.120.204.4/DUNYA-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 2 HD (IN)" tvg-logo=" "  group-title="SPORTS",STAR SPORTS SELECT 2 HD (IN)
+http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="SPORTS",DD SPORTS (IN)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
