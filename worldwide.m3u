@@ -466,7 +466,7 @@ https://idvd.multitvsolution.com/idvo/enter10.m3u8
 #EXTINF:-1 ch-id="DANGAL (IND)" tvg-logo="https://1.bp.blogspot.com/-B7w5zNJxgVU/YJzY2zkHmUI/AAAAAAAAAsg/BdbIjCE25n8eZPy1emNHKdXVyT6xPUvwQCLcBGAsYHQ/s320/PicsArt_03-21-05.08.30.jpg"   group-title="ENTERTAINMENT",DANGAL (IN)
 https://itvoign.multitvsolution.com/idvo/dangal.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo="https://1.bp.blogspot.com/-nrBEJBvMxec/YOv1hwZ6lVI/AAAAAAAAAWM/077qpnr5ij0Br2SLKn8yufv1x8SnpPqhQCLcBGAsYHQ/s200/PicsArt_07-12-01.25.43.jpg"  group-title="INFOTAINMENT",DISCOVERY SCIENCE (IN)
-https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+https://idvd.multitvsolution.com:443/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="INFOTAINMENT",DISCOVERY TURBO (IN)
 https://itvoign.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-l9btGw2epVM/YOv2ZdAGNsI/AAAAAAAAAWc/_Ig6xApZ3_QC_8pkd_iSMzCuV5E3gSCWACLcBGAsYHQ/s200/images%2B%25289%2529%25281%2529.jpeg"  group-title="NEWS",NEWS INDIA (IN)
