@@ -3,8 +3,6 @@
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 ch-id="TRT WORLD (US)" tvg-logo="https://1.bp.blogspot.com/-goQFWbkis40/YKOxU3EhfeI/AAAAAAAAA4s/yXSRUucG9-IeNFlkBf0j3XcO8YPa2rMGgCLcBGAsYHQ/w200-h100/share-1000x500.png"   group-title="NEWS",TRT WORLD  (US)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 ch-id="SCREAMFEST (UK)" tvg-logo="https://1.bp.blogspot.com/-2Ha0lEutmwU/YKRaoCnxdEI/AAAAAAAAA40/ufBn0eSlxMYEd5-zXVvS08cDkUGm1jrfgCLcBGAsYHQ/w200-h100/images%2B%25281%2529%252810%2529.jpeg"  group-title="MOVIES",SCREAMGEST (UK)
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_360p.m3u8
 #EXTINF:-1 ch-id="REPUBLIC BHARAT (IN)" tvg-logo="https://1.bp.blogspot.com/-UDGRN8zIZPA/YNx847iU8uI/AAAAAAAAAHQ/9iahWYpQtXE3su4Nxa_FxRJJcecqa7PxACLcBGAsYHQ/s214/PicsArt_06-30-07.46.07.png"  group-title="NEWS",REPUBLIC BHARAT (IN)
 https://ottrb6.republicworld.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://1.bp.blogspot.com/-IAStdDQeMlM/YOwWnTAWiwI/AAAAAAAAAXs/tdBkaDx-PNIItP-63cyog5YabqBjjOBfACLcBGAsYHQ/s200/AT-New-Logo-800x600.png"  group-title="NEWS",AAJ TAK (IN)
@@ -23,8 +21,6 @@ http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 https://live.ptv.com.pk/live/stream/ptvhome/chunklist.m3u8
 #EXTINF:-1 ch-id="WMFD TV (US)" tvg-logo="https://1.bp.blogspot.com/-33FAURDaUwM/YStsii8AXKI/AAAAAAAAA8Y/Y5g2h07GxfAUw64DOEvUdnLn6Svh3txfACLcBGAsYHQ/s200/images%2B%25281%2529%25288%2529.png"  group-title="NEWS",WMFD TV (US)
 http://api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:-1 ch-id="THE FILM DETECTIVE (UK)" tvg-logo="https://1.bp.blogspot.com/-sSMh9HQ-Jzs/YStuZ0eZFwI/AAAAAAAAA8o/Xry3tD5HOkMTizRp7T4K1fJyh0eV6QpXwCLcBGAsYHQ/s200/FilmDetectiveLogo-768x432.png"  group-title="MOVIES",THE FILM DETECTIVE (UK)
-https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 ch-id="UZREPORT WORLD (UZ)" tvg-logo="https://1.bp.blogspot.com/-VMYywv7Yeh4/YStu6EKx9SI/AAAAAAAAA8w/Vcp3yvDZeV8cAu9-yakHPjZZyhMiIV7lQCLcBGAsYHQ/s200/PicsArt_08-29-04.55.44.jpg"  group-title="NEWS",UZREPORT WORLD (UZ)
 http://vspnmy3kvpzu7q.data.mediastore.eu-central-1.amazonaws.com/liveHD.m3u8
 #EXTINF:-1 ch-id="NASA TV (UK)" tvg-logo="https://1.bp.blogspot.com/-6c1_alIyrU0/YKZVfrG13WI/AAAAAAAAA_Y/e8rqxFuBGsc-Qr_KfZ6ypzn0PsXaoXM_gCLcBGAsYHQ/w200-h169/images%252816%2529.png"   group-title="INFOTAINMENT",NASA TV (UK)
@@ -37,8 +33,6 @@ https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 ch-id="CGTN DOCUMENTARY (CN)" tvg-logo="https://1.bp.blogspot.com/-sXRuUeF2jow/YMc-GWwMNZI/AAAAAAAABJs/GS4OQEe63YUbLFTIOA-DiPQQvfw7YVH5gCLcBGAsYHQ/s320/images%252831%2529.jpeg"   group-title="INFOTAINMENT",CGTN DOCUMENTARY (CN)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 ch-id="COOKING PANDA (US)" tvg-logo="https://1.bp.blogspot.com/-kW5DSXXqAaE/YTc32CF3dJI/AAAAAAAAA_A/7sbkvgfRyx8HRsfeItFospHnIgdwYGL6wCLcBGAsYHQ/s200/download%2B%25281%2529.png"  group-title="INFOTAINMENT",COOKING PANDA (US)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 ch-id="PBS.39 (UK)" tvg-logo="https://1.bp.blogspot.com/-w_OWt8cco9s/YTc4nGitdVI/AAAAAAAAA_I/RyFR8VnoHEAGQZmyiVjMCYT7CMZ9gjPlACLcBGAsYHQ/s200/images%2B%25287%2529.png"  group-title="NEWS",PBS.39 (UK)
 http://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 ch-id="TIME LIFE (UK)" tvg-logo=" "  group-title="NEWS",TIME LIFE (US)
@@ -47,20 +41,14 @@ http://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 ch-id="STINGRAY KARAOKE (US)" tvg-logo="https://1.bp.blogspot.com/-VKYwHenOVeo/YTc7M4s0JQI/AAAAAAAAA_Y/Kusw9VgZcHQsFVD3ocLqAye523UP-Y9aACLcBGAsYHQ/s200/images%2B%252822%2529.jpeg"  group-title="MUSIC",STINGRAY KARAOKE (US)
 https://stirr.ott-channels.stingray.com/karaoke/master.m3u8
-#EXTINF:-1 ch-id="CARTOON (UK)" tvg-logo=" "  group-title="KIDS",CARTOON (UK)
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 ch-id="JTV (US)" tvg-logo=" "  group-title="SHOPPING",JTV (US)
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 ch-id="ABC 15 (US)" tvg-logo=" "  group-title="NEWS",ABC 15 (US)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 #EXTINF:-1 ch-id="AMAR UJALA (IN)" tvg-logo=" "  group-title="NEWS",AMAR UJALA (IN)
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 ch-id="MOVIES GROUP 1 (US)" tvg-logo=" "  group-title="MOVIES",MOVIES GROUP 1 (US)
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ch-id="TRT WORLD (US)" tvg-logo="https://1.bp.blogspot.com/-goQFWbkis40/YKOxU3EhfeI/AAAAAAAAA4s/yXSRUucG9-IeNFlkBf0j3XcO8YPa2rMGgCLcBGAsYHQ/w200-h100/share-1000x500.png"   group-title="NEWS",TRT WORLD  (US)
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 ch-id="FASHION BOX (US)" tvg-logo=" "  group-title="INFOTAINMENT",FASHION BOX (US)
-https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 ch-id="FRANCE24 (US)" tvg-logo=" "  group-title="NEWS",FRANCE24 (US)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 ch-id="GB NEWS (UK)" tvg-logo=" "  group-title="NEWS",GB NEWS (UK)
@@ -75,18 +63,11 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 ch-id="BLOOMBERNG (AU)" tvg-logo=" "  group-title="NEWS",BLOOMERANG (AU)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 ch-id="STAR CRICKET (ASIA)" tvg-logo=" "  group-title="SPORTS",STAR CRICKET (ASIA)
-https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884976
 
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="NEWS",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ch-id="HLN (US)" tvg-logo=" "  group-title="NEWS",HLN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 ch-id="PCE MUSIC (US)" tvg-logo=" "  group-title="MUSIC",PCE MUSIC (US)
-https://broadcast.mytvtogo.net/pcenmusic/pcenmusic/playlist.m3u8
-#EXTINF:-1 ch-id="CARTOON4U TV NETWORK (US)" tvg-logo=" "  group-title="KIDS",CARTOON4U TV NETWORK (US)
-https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
 
 #EXTINF:-1 ch-id="HBO FAMILY (ASIA)" tvg-logo=" "  group-title="MOVIES",HBO FAMILY (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
@@ -100,18 +81,8 @@ http://dai2-playlistserver.aws.syncbak.com/playlist/13736492/master.m3u8?access_
 #EXTINF:-1 ch-id="ABC 9 (US)" tvg-logo="https://1.bp.blogspot.com/-1fXgFaFSAoE/YTc83dEJe2I/AAAAAAAAA_w/nX3DZNbj7vYcuz-8aHNIV0ajz7k-WpxGwCLcBGAsYHQ/s200/images%2B%252823%2529.jpeg"  group-title="NEWS",ABC 9 (US)
 http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
 
-#EXTINF:-1 ch-id="AST TV 2 (UK)" tvg-logo="https://1.bp.blogspot.com/-Tj4Oa-G8e8w/YSt2ZYJyjmI/AAAAAAAAA94/vvhIcBy0PPcXUt5q2biAtE1qc5-MORgRgCLcBGAsYHQ/s200/PicsArt_08-29-05.28.02.png"  group-title="ADULT",AST TV 2 (UK)
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 ch-id="AST TV 1 (UK)" tvg-logo="https://1.bp.blogspot.com/-ppl9nd6loS4/YSt2roMmP2I/AAAAAAAAA-E/Gx6pUf3Ek786FefPLN_pn0GDpAMdHwrJQCLcBGAsYHQ/s200/ast-tv_logo-beta.png"  group-title="ADULT",AST TV 1 (UK)
-https://www.ast.tv/stream/1/master.m3u8
-
-#EXTINF:-1 ch-id="A PLUS (PK)"  tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png"   group-title="ENTERTAINMENT",A PLUS (PK)
-http://niazitv.tk:8080/A-Plus-27/index.m3u8
 #EXTINF:-1 ch-id="BRICS TV (RU)" tvg-logo="https://1.bp.blogspot.com/-hYiw-oGVHXI/YNxhCkNg34I/AAAAAAAAAGA/k693P_qVXlwGasEri-MQt4OGBz-FJGJVgCLcBGAsYHQ/s320/images%25284%2529.png"  group-title="INFOTAINMENT",BRICS TV (RU)
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS (AU)" tvg-logo="https://1.bp.blogspot.com/-zFT1XtyBVLI/YStyKg0gNgI/AAAAAAAAA9Y/mvtOzivyPNo0PVHcF3zSEPZ9ZtO4Q0VGACLcBGAsYHQ/s200/PicsArt_08-29-05.10.02.jpg"  group-title="SPORTS",FOX SPORTS (AU)
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 #EXTINF:-1 ch-id="V2BEAT (UK)" tvg-logo="https://1.bp.blogspot.com/-lsD0xS9O3dQ/YTc9NDQCC3I/AAAAAAAAA_4/XGuQX46IFCg9VlA7zXXJPC6c923B-3bMACLcBGAsYHQ/s200/images%2B%25288%2529.jpeg"  group-title="MUSIC",V2BEAT (UK)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 ch-id="WFC.TV (UK)" tvg-logo="https://1.bp.blogspot.com/-FCx0QGisL_c/YTc-3SlTTRI/AAAAAAAABAA/04iIae7KxNAMSPqpXUZDShjZ_7MmaWjLwCLcBGAsYHQ/s200/PicsArt_09-07-03.58.21.png"  group-title="INFOTAINMENT",WFC.TV (UK)
