@@ -1338,177 +1338,62 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/671347
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif"  group-title="IPTV",SONY TV (UK)
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/656983
 
-#EXTINF:-1 ch-id="SONY MAX (MY)" tvg-logo=" "  group-title="IPTV",SONY MAX (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71141
-#EXTINF:-1 ch-id="SONY TV (MY)" tvg-logo=" "  group-title="IPTV",SONY TV (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71142
-#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo=" "  group-title="IPTV",SONY SIX HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31625
-#EXTINF:-1 ch-id="SONY SAB (MY)" tvg-logo=" "  group-title="IPTV",SONY SAB (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71140
-#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo=" "  group-title="IPTV",SONY TV (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1901
-#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo=" "  group-title="IPTV",SONY SAB (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1907
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title="IPTV",SONY HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55212
-#EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo=" "  group-title="IPTV",SONY TEN 3 HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1902
-#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo=" "  group-title="IPTV",SONY SAB (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28739
-#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo=" "  group-title="IPTV",SONY MAX 2 (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28738
-#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="IPTV",SONY PIX HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1933
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title=" ",SONY TEN 2 HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1904
-#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo=" "  group-title="IPTV",DISCOVERY SCIENCE (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55210
-#EXTINF:-1 ch-id="DISCOVERY HD (IN)" tvg-logo=" "  group-title="IPTV",DISCOVERY HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55221
-#EXTINF:-1 ch-id="HIT MUSIC (IN)" tvg-logo=" "  group-title="IPTV",HIT MUSIC (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55262
-#EXTINF:-1 ch-id="BBC EARTH HD (IN)" tvg-logo=" "  group-title="IPTV",BBC EARTH HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55290
-#EXTINF:-1 ch-id="CARTOON NETWORK (IN)" tvg-logo=" "  group-title="IPTV",CARTOON NETWORK (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55313
-#EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo=" "  group-title="IPTV",ANIMAL PLANET (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55322
-#EXTINF:-1 ch-id="TLC (IN)" tvg-logo=" "  group-title="IPTV",TLC (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55330
-#EXTINF:-1 ch-id="AASHTA (IN)" tvg-logo=" "  group-title="IPTV",AASHTA (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1959
-#EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title="IPTV",&PICTURES (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1957
+http://visioncable2020.com:25461/tvlover21/123/950
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo=" "  group-title="IPTV",STAR PLUS HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/591
+#EXTINF:-1 ch-id="STAR BHARAT HD (IN)" tvg-logo=" "  group-title="IPTV",STAR BHARAT HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/593
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo=" "  group-title="IPTV",COLORS HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/1153
+#EXTINF:-1 ch-id="AAPKA COLORS HD (US)" tvg-logo=" "  group-title="IPTV",AAPKA COLORS HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/2661
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "  group-title="IPTV",ZEE TV HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/1448
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo=" "  group-title="IPTV",ZEE TV (US)
+http://visioncable2020.com:25461/tvlover21/123/1145
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo=" "  group-title="IPTV",SONY SAB HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/582
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="IPTV",&TV HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1956
-#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="IPTV",B4U MUSIC (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1953
-#EXTINF:-1 ch-id="ZOOM (IN)" tvg-logo=" "  group-title="IPTV",ZOOM (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1951
-#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo=" "  group-title="IPTV",COLORS (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1946
-#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="IPTV",FOOD FOOD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1942
-#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="IPTV",MUSIC INDIA (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1929
-#EXTINF:-1 ch-id="NDTV 24X7 (IN)" tvg-logo=" "  group-title="IPTV",NDTV24X7 (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1928
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title="IPTV",ZEE TV (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1926
-#EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="IPTV",ZEE ZEST HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1934
-#EXTINF:-1 ch-id="MN+ HD (IN)" tvg-logo=" "  group-title="IPTV",MN+ HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1930
-#EXTINF:-1 ch-id="SONY TV (ME)" tvg-logo=" "  group-title="IPTV",SONY TV (ME)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1911
-#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="IPTV",SONY MAX (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1910
-#EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo=" "  group-title="IPTV",ROMEDY NOW (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1900
-#EXTINF:-1 ch-id="USTAV GOLD HD (UK)" tvg-logo=" "  group-title="IPTV",USTAV GOLD HD (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1897
-#EXTINF:-1 ch-id="STAR MOVIES (ME)" tvg-logo=" "  group-title="IPTV",STAR MOVIES (ME)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1896
-#EXTINF:-1 ch-id="USTAV PLUS (UK)" tvg-logo=" "  group-title="IPTV",USTAV PLUS (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1895
-#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 1 HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1893
-#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 2 HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1892
-#EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 3 (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1886
-#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "  group-title="IPTV",ZING (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55354
-#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="IPTV",ZEE BUSINESS (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1882
-#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "  group-title="IPTV",ZEE CINEMA (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1880
-#EXTINF:-1 ch-id="ZEE LIVING (US)" tvg-logo=" "  group-title="IPTV",ZEE LIVING (US)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1878
-#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo=" "  group-title="IPTV",ZEE NEWS (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1876
-#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="IPTV",STAR WORLD HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55360
-#EXTINF:-1 ch-id="ZEE CAFE HD (IN)" tvg-logo=" "  group-title="IPTV",ZEE CAFE HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55352
-#EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" tvg-logo=" "  group-title="IPTV",RISHTEY CINEPLEX (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55345
-#EXTINF:-1 ch-id="STAR SPORTS SELECT 1 (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS SELECT 1 (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55340
-#EXTINF:-1 ch-id="STAR SPORTS SELECT 2 (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS SELECT 2 (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55338
-#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo=" "  group-title="IPTV",EPIC (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/50270
-#EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo=" "  group-title="IPTV",TEN SPORTS (PK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55260
-#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="IPTV",DD 1 HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55256
-#EXTINF:-1 ch-id="B4U MOVIES (UK)" tvg-logo=" "  group-title="IPTV",B4U MOVIES (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55232
-#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="IPTV",DD SPORTS (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55219
-#EXTINF:-1 ch-id="&PRIVE HD (IN)" tvg-logo=" "  group-title="IPTV",&PRIVE HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55158
+http://visioncable2020.com:25461/tvlover21/123/988
+#EXTINF:-1 ch-id="UTV ACTION (IN)" tvg-logo=" "  group-title="IPTV",UTV ACTION (IN)
+http://visioncable2020.com:25461/tvlover21/123/588
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="IPTV",SONY MAX HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/585
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="IPTV",ZEE CINEMA HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/598
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)" tvg-logo=" "  group-title="IPTV",STAR GOLD HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/604
+#EXTINF:-1 ch-id="MINIPLEX (IN)" tvg-logo=" "  group-title="IPTV",MINIPLEX (IN)
+http://visioncable2020.com:25461/tvlover21/123/709
+#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" "  group-title="IPTV",MBC BOLLYWOOD HD (ME)
+http://visioncable2020.com:25461/tvlover21/123/2456
+#EXTINF:-1 ch-id="MTV (IN)" tvg-logo=" "  group-title="IPTV",MTV (IN)
+http://visioncable2020.com:25461/tvlover21/123/710
+#EXTINF:-1 ch-id="SONY BBC EARTH HD (IN)" tvg-logo=" "  group-title="IPTV",SONY BBC EARTH HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/2604
 #EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo=" "  group-title="IPTV",ABP NEWS (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55220
-#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="IPTV",MASTIII (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/55264
-#EXTINF:-1 ch-id="TIMES NOW (IN)" tvg-logo=" "  group-title="IPTV",TIMES NOW (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/1889
-#EXTINF:-1 ch-id="HUM (UK)" tvg-logo=" "  group-title="IPTV",HUM (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31679
-#EXTINF:-1 ch-id="MADNI CHANNEL (UK)" tvg-logo=" "  group-title="IPTV",MADNI CHANNEL (UK)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31661
-#EXTINF:-1 ch-id="JOO MUSIC (IN)" tvg-logo=" "  group-title="IPTV",JOO MUSIC (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31672
-#EXTINF:-1 ch-id="ASTRO BOLLYONE HD (MY)" tvg-logo=" "  group-title="IPTV",ASTRO BOLLYONE HD (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71037
-#EXTINF:-1 ch-id="DISCOVERY ASIA (MY)" tvg-logo=" "  group-title="IPTV",DISCOVERY ASIA (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71072
-#EXTINF:-1 ch-id="ANIMAL PLANET (MY)" tvg-logo=" "  group-title="IPTV",ANIMAL PLANET (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71075
-#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="IPTV",COLORS CINEPLEX HD (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71125
-#EXTINF:-1 ch-id="NAT GEO (MY)" tvg-logo=" "  group-title="IPTV",NAT GEO (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71070
-#EXTINF:-1 ch-id="NAT GEO WILD (NL)" tvg-logo=" "  group-title="IPTV",NAT GEO WILD (NL)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/31399
-#EXTINF:-1 ch-id="BOOMERANG (MY)" tvg-logo=" "  group-title="IPTV",BOOMERANG (MY)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/71123
-#EXTINF:-1 ch-id="B4U PLUS (ME)" tvg-logo=" "  group-title="IPTV",B4U PLUS (ME)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28734
-#EXTINF:-1 ch-id="STAR BHARAT (IN)" tvg-logo=" "  group-title="IPTV",STAR BHARAT (IN)
-http://fcd7.flycany.me:8880/kg14m3n0333/xcvz24656/28735
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
+http://visioncable2020.com:25461/tvlover21/123/2286
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 1 HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/2865
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="IPTV",STAR SPORTS 2 HD (IN)
+http://visioncable2020.com:25461/tvlover21/123/652
+#EXTINF:-1 ch-id="TEN SPORTS (PK)" tvg-logo=" "  group-title=" ",TEN SPORTS (PK)
+http://visioncable2020.com:25461/tvlover21/123/2866
+#EXTINF:-1 ch-id="WWE (UK)" tvg-logo=" "  group-title="IPTV",WWE (UK)
+http://visioncable2020.com:25461/tvlover21/123/408
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="IPTV",HBO (ASIA)
+http://visioncable2020.com:25461/tvlover21/123/2439
+#EXTINF:-1 ch-id="VH1 (US)" tvg-logo=" "  group-title="IPTV",VH1 (US)
+http://visioncable2020.com:25461/tvlover21/123/1110
+#EXTINF:-1 ch-id="NAT GEO WILD (US)" tvg-logo=" "  group-title="IPTV",NAT GEO WILD (US)
+http://visioncable2020.com:25461/tvlover21/123/2594
+#EXTINF:-1 ch-id="NAT GEO PEOPLE (US)" tvg-logo=" "  group-title="IPTV",NAT GEO PEOPLE (UK)
+http://visioncable2020.com:25461/tvlover21/123/2464
+#EXTINF:-1 ch-id="WB TV (ASIA)" tvg-logo=" "  group-title="IPTV",WB TV (ASIA)
+http://visioncable2020.com:25461/tvlover21/123/2517
+#EXTINF:-1 ch-id="DISNEY XD (UK)" tvg-logo=" "  group-title=" ",DISNEY HD (UK)
+http://visioncable2020.com:25461/tvlover21/123/1018
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
