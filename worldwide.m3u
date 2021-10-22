@@ -1397,14 +1397,17 @@ http://visioncable2020.com:25461/tvlover21/123/1018
 
 #EXTINF:-1 ch-id="SMASH 7 NEWS (US)" tvg-logo=" "  group-title="IPTV",SMASH 7NEWS (US)
 http://a3.smashmalta.com:82/live/smash/smash/29.ts
-#EXTINF:-1 ch-id="SMASH FOOD (US)" tvg-logo=" "  group-title="IPTV",SMASH FOO (US)
+#EXTINF:-1 ch-id="SMASH FOOD (US)" tvg-logo=" "  group-title="IPTV",SMASH FOOD (US)
 http://a3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1 ch-id="SMASH EXPLORE (US)" tvg-logo=" "  group-title="IPTV",SMASH EXPLORE (US)
+http://a3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1 ch-id="SMASH MUSIC (US)" tvg-logo=" "  group-title="IPTV",SMASH MUSIC (US)
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
+
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
 
 
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 #EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
