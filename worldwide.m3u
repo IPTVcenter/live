@@ -707,8 +707,6 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6173/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6174/index.m3u8
 #EXTINF:-1 ch-id="FAKE TAXI (UK)" tvg-logo=" "  group-title="ADULT",FAKE TAXI (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
-#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="MOVIES",SONY MAX (IN)
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 
 #EXTINF:-1 ch-id="18+ (UK)" tvg-logo="https://1.bp.blogspot.com/-nSfJGhujWC4/YP1LlV0BG7I/AAAAAAAAAno/Atni2UqBn1MA7qIyn7YhjafSE7mv4t-oACLcBGAsYHQ/s200/PicsArt_07-25-05.01.09.png"  group-title="ADULT",18+ (UK)
 https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
@@ -829,9 +827,9 @@ http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR SPORTS 3 (IN)
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
-#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="LIVE-STREAMING",KIDS ZONE HD (PK)
+#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="TV-STREAM",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="LIVE-STREAMING",COLORS HD (IN)
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="TV-STREAM",COLORS HD (IN)
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="LIVE-STREAMING",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
