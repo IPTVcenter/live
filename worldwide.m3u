@@ -707,6 +707,10 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6173/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6174/index.m3u8
 #EXTINF:-1 ch-id="FAKE TAXI (UK)" tvg-logo=" "  group-title="ADULT",FAKE TAXI (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
+#EXTINF:-1 ch-id="DORCEL TV (UK)" tvg-logo=" "  group-title="ADULT",DORCEL TV (UK)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/245/index.m3u8
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo=" "  group-title="ONLINE-TV",SONY MAX (IN)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 
 #EXTINF:-1 ch-id="18+ (UK)" tvg-logo="https://1.bp.blogspot.com/-nSfJGhujWC4/YP1LlV0BG7I/AAAAAAAAAno/Atni2UqBn1MA7qIyn7YhjafSE7mv4t-oACLcBGAsYHQ/s200/PicsArt_07-25-05.01.09.png"  group-title="ADULT",18+ (UK)
 https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
@@ -827,37 +831,37 @@ http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR SPORTS 3 (IN)
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
-#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="TV-STREAM",KIDS ZONE HD (PK)
+#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="DIGITEL-TV",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="TV-STREAM",COLORS HD (IN)
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="DIGITAL-TV",COLORS HD (IN)
 http://51.79.84.156:8082/ColorsIn/index.m3u8
-#EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="LIVE-STREAMING",HORNBILL TV (IN)
+#EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="DIGITAL-TV",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
-#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="LIVE-STREAMING",TLC (UK)
+#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="DIGITAL-TV",TLC (UK)
 http://212.102.38.90:8080/TLC/index.m3u8
-#EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="LIVE-STREAMING",CNN (US)
+#EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="DIGITAL-TV",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
-#EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo="https://1.bp.blogspot.com/-HPEimn5FiKE/YQkpdx8A9dI/AAAAAAAAA08/xHSSWtmX16w92nkzKBxDY1DwFFga3ye5wCLcBGAsYHQ/s200/images.jpeg"  group-title="LIVE-STREAMING",HD FASHION (US)
+#EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo="https://1.bp.blogspot.com/-HPEimn5FiKE/YQkpdx8A9dI/AAAAAAAAA08/xHSSWtmX16w92nkzKBxDY1DwFFga3ye5wCLcBGAsYHQ/s200/images.jpeg"  group-title="DIGITAL-TV",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="LIVE-STREAMING",ONE GOLF (PK)
+#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="DIGITAL-TV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",DISCOVERY HD HGTV (UK)
+#EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",DISCOVERY HD HGTV (UK)
 http://58.65.171.202:8000/play/4334/index.m3u8
-#EXTINF:-1 ch-id="PEACE TV (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",PEACE TV (UK)
+#EXTINF:-1 ch-id="PEACE TV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",PEACE TV (UK)
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ch-id="USA (US)" tvg-logo=" "  group-title="LIVE-STREAMING",USA (US)
+#EXTINF:-1 ch-id="USA (US)" tvg-logo=" "  group-title="DIGITAL-TV",USA (US)
 http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
-#EXTINF:-1 ch-id="BEACHY (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",BEACHY (UK)
+#EXTINF:-1 ch-id="BEACHY (UK)" tvg-logo=" "  group-title="DIGITAL-TV",BEACHY (UK)
 http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",SONY TEN 2 HD (IN)
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="DIGITAL-TV",SONY TEN 2 HD (IN)
 http://103.153.39.34:8000/play/a05r/index.m3u8
-#EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",GOLF (UK)
+#EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="DIGITAL-TV",GOLF (UK)
 http://203.154.243.89:11208
 #EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="ADULT",VENUS (UK)
 http://45.5.8.78:8000/play/a03c
 #EXTINF:-1 ch-id="SUPER ONE HD (UK)" tvg-logo=" "  group-title="ADULT",SUPER ONE HD (UK)
 http://185.96.176.139:90/superone/index.m3u8
-#EXTINF:-1 ch-id="AMERICAN HORRORS (US)" tvg-logo=" "  group-title="LIVE-STREAMING",AMERICAN HORRORS (US)
+#EXTINF:-1 ch-id="AMERICAN HORRORS (US)" tvg-logo=" "  group-title="DIGITAL-TV",AMERICAN HORRORS (US)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="ADULT",EXTASY HD (UK)
