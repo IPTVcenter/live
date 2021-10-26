@@ -333,8 +333,13 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 ch-id="ANJAN TV (IN)" tvg-logo=" "  group-title="ONLINE-TV",ANJAN TV (IN)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
 #EXTINF:-1 ch-id="AXN (TW)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="ONLINE-TV",AXN (TW)
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
+#EXTINF:-1 ch-id="CINEMAX (TW)" tvg-logo=" "  group-title="ONLINE-TV",CINEMAX (TW)
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-1 ch-id="HBO (TW)" tvg-logo=" "  group-title="ONLINE-TV",HBO (TW)
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 ch-id="KASHISH NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-QlC51EIhnP0/YOrKytEbPOI/AAAAAAAAASY/JiMdqsfrZYQfjSS2e3lhoTVHEDUMF2UhACLcBGAsYHQ/s200/images%2B%25283%2529%25285%2529.jpeg"  group-title="LIVE-BOX",KASHISH NEWS (IN)
 https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
@@ -682,6 +687,8 @@ https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 ch-id="NAT GEO HD (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO HD (ASIA)
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="BLUE ENTERTAINMENT (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ENTERTAINMENT (ASIA)
+https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunk.m3u8
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
@@ -873,6 +880,18 @@ http://93.152.174.144:4000/play/ss1in/index.m3u8
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR SPORTS 3 (IN)
 http://93.152.174.144:4000/play/ss3in/index.m3u8
+#EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
+http://93.152.174.144:4000/play/Redlight/index.m3u8
+#EXTINF:-1 ch-id="PENTHOUSE GOLD (UK)" tvg-logo=" "  group-title="ADULT",PENTHOUSE GOLD (UK)
+http://93.152.174.144:4000/play/Penthouse/index.m3u8
+#EXTINF:-1 ch-id="BT SPORTS 1 (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",BT SPORTS 1 (UK)
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 ch-id="BT SPORTS 2 (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",BT SPORTS 2 (UK)
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 ch-id="BT SPORTS 3 HD (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",BT SPORTS 3 HD (UK)
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",ITV (UK)
+http://93.152.174.144:4000/play/itv1/index.m3u8
 
 #EXTINF:-1 ch-id="FOX LIFE (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",FOX LIFE (UK)
 http://93.157.62.180:80/FoxLife/playlist.m3u8
@@ -893,6 +912,17 @@ http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="STREAMS",ZEE CINEMA HD (IN)
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+
+#EXTINF:-1 ch-id=STAR BHARAT (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR BHARAT (IN)
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 ch-id=STAR PLUS (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR PLUS (IN)
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 ch-id=SONY SAB (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",SONY SAB (IN)
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+#EXTINF:-1 ch-id=SONY TV (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",SONY TV (IN)
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 ch-id=COLORS (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",COLORS (IN)
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="LIVE-STREAMING",DISCOVERY TURBO (IN)
 http://103.153.39.34:8000/play/a06l/index.m3u8
