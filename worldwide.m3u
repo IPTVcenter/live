@@ -415,6 +415,10 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ch-id="BETTER HEALTH (US)" tvg-logo="https://1.bp.blogspot.com/-lPfDOSzB3I0/YTdEIDk6MVI/AAAAAAAABA0/dWtnZvgmaC8vnnHiqihY4AZg_zwiWa7QwCLcBGAsYHQ/s200/images%2B%25289%2529%25284%2529.jpeg"  group-title="TULIX-TV",BETTER HEALTH (US)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 ch-id="LIFE VISION (US)" tvg-logo=" "  group-title="TULIX-TV",LIFE VISION (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 ch-id="NRB TV (US)" tvg-logo=" "  group-title="TULIX-TV",NRB TV (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 ch-id="92 NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-l9nmMlQ6GbM/YOrF_dQyWGI/AAAAAAAAAQo/umsnAEYxSBswuvJjBm6RugZHBJsgnY2dgCLcBGAsYHQ/s200/images%2B%252818%2529.jpeg"  group-title="VISIONIP-TV",92 NEWS (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
@@ -821,6 +825,11 @@ http://14.199.164.20:4001/play/a0nn/index.m3u8
 #EXTINF:-1 ch-id="DHINCHAAK (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="LIVE-STREAMING",HBO (ASIA)
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo=" "  group-title="LIVE-STREAMING",AXN (ASIA)
+http://50.7.61.148:30080/Entry/axn
+
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vSAExx8PwY0/YNHLA9IBGgI/AAAAAAAAAAU/VIjHTa-dX0EWHo6QspfSgKnqLlcnJ1i7wCLcBGAsYHQ/w200-h120/images.png"   group-title="STREAMS",HBO (ASIA)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 ch-id="HGTV (ASIA)" tvg-logo=" "  group-title="STREAMS",HGTV (ASIA)
@@ -989,6 +998,8 @@ http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 ch-id="EX (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",EX (UK)
 http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+#EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo=" "  group-title="LIVE-STREAMING",DISCOVERY (ASIA)
+http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 
 #EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="DIGITAL-TV",KIDS ZONE HD (PK)
 http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
@@ -1022,6 +1033,8 @@ http://45.5.8.78:8000/play/a03c
 http://185.96.176.139:90/superone/index.m3u8
 #EXTINF:-1 ch-id="AMERICAN HORRORS (US)" tvg-logo=" "  group-title="DIGITAL-TV",AMERICAN HORRORS (US)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (RU)" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD (RU)
+http://193.33.240.8:80/NatGeoWild/playlist.m3u8
 
 #EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="LIVE-STREAMING",FOX NEWS (US)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
