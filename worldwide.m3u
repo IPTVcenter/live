@@ -782,7 +782,7 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 #EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo="https://1.bp.blogspot.com/-fMSsRWWyFjk/YQffZt4Y_2I/AAAAAAAAAy0/ExkqxVLonTsdvVDJN11h2TltPenx4HSXgCLcBGAsYHQ/s200/images+%285%29.jpeg"  group-title="FEED-PLAY",B4U MUSIC (IN)
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
-#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-fMSsRWWyFjk/YQffZt4Y_2I/AAAAAAAAAy0/ExkqxVLonTsdvVDJN11h2TltPenx4HSXgCLcBGAsYHQ/s200/images+%285%29.jpeg"  group-title="FEED-PLAY",&TV HD (IN)
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",&TV HD (IN)
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 -----------------------------------(📱💻📺)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -814,6 +814,49 @@ http://14.199.164.20:4001/play/a0nn/index.m3u8
 #EXTINF:-1 ch-id="DHINCHAAK (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vSAExx8PwY0/YNHLA9IBGgI/AAAAAAAAAAU/VIjHTa-dX0EWHo6QspfSgKnqLlcnJ1i7wCLcBGAsYHQ/w200-h120/images.png"   group-title="STREAMS",HBO (ASIA)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 ch-id="HGTV (ASIA)" tvg-logo=" "  group-title="STREAMS",HGTV (ASIA)
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="STREAMS",NAT GEO WILD (ASIA)
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo=" "  group-title="STREAMS",ANIMAL PLANET (ASIA)
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="LIVE-STREAMING",AXN HD (UK)
+http://51.15.0.141:88/axn/index.m3u8
+#EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
+http://51.15.0.141:88/redlightHD/index.m3u8
+#EXTINF:-1 ch-id="HUSTLER HD (UK)" tvg-logo=" "  group-title="ADULT",HUSTLER HD (UK)
+http://51.15.0.141:88/hustlerhd/index.m3u8
+#EXTINF:-1 ch-id="BLACKED HD (UK)" tvg-logo=" "  group-title="ADULT",BLACKED HD (UK)
+http://51.15.0.141:88/blacked_hd/index.m3u8
+
+#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="LIVE-STREAMING",BBC NEWS (UK)
+http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
+#EXTINF:-1 ch-id="FOX MOVIES (UK)" tvg-logo="https://1.bp.blogspot.com/-Q3-0ZrS5_tY/YNx8_xtkZhI/AAAAAAAAAHU/Oj8MJNP51rwd4VSkLfGvz6riPDFhTpHnACLcBGAsYHQ/s320/images%25283%2529.jpeg"  group-title="LIVE-STREAMING",FOX MOVIES (UK)
+http://62.112.9.63:88/fox_movies/index.m3u8?token=test
+#EXTINF:-1 ch-id="BRAZZERS (UK)" tvg-logo=" "  group-title="ADULT",BRAZZERS (UK)
+http://62.112.9.63:88/Brazzers/index.m3u8?token=test
+#EXTINF:-1 ch-id="SKY NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-HR8Go53lpp8/YNx_AWlMfnI/AAAAAAAAAHk/GlFeQUjAn5UBDot_qv4NUm-Av0LwlEGhwCLcBGAsYHQ/s320/images%25286%2529.png"  group-title="LIVE-STREAMING",SKY NEWS (UK)
+http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
+#EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="LIVE-STREAMING",CNN (UK)
+http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
+#EXTINF:-1 ch-id="5USA (US)" tvg-logo=" "  group-title="LIVE-STREAMING",5USA (US)
+http://62.112.9.63:88/5_USA/index.m3u8?token=test
+#EXTINF:-1 ch-id="ITVBE (US)" tvg-logo=" "  group-title="LIVE-STREAMING",ITVBE (US)
+http://62.112.9.63:88/itvbe/index.m3u8?token=test
+#EXTINF:-1 ch-id="USA NETWORK (US)" tvg-logo=" "  group-title="LIVE-STREAMING",USA NETWORK (US)
+http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
+#EXTINF:-1 ch-id="GOLD (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",GOLD (UK)
+http://62.112.9.63:88/gold_uk/index.m3u8?token=test
+#EXTINF:-1 ch-id="BBC (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",BBC (UK)
+http://62.112.9.63:88/BBC1_HD/index.m3u8?token=test
+#EXTINF:-1 ch-id="ITV 2 (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",ITV 2 (UK)
+http://62.112.9.63:88/itv2/index.m3u8?token=test
+#EXTINF:-1 ch-id="ITV 3 (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",ITV 3 (UK)
+http://62.112.9.63:88/itv4/index.m3u8?token=test
+
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://1.bp.blogspot.com/-z96rmId79zc/YRerKbHPwpI/AAAAAAAAA40/5ho897YHDWIs_p0UHfijxiEzPCqPLAX7wCLcBGAsYHQ/s200/Zee_TV-2018.png"  group-title="LIVE-STREAMING",ZEE TV (UK)
 http://93.152.174.144:4000/play/zee/index.m3u8
 #EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png"   group-title="LIVE-STREAMING",ZEE ACTION (IN)
@@ -831,60 +874,37 @@ http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR SPORTS 3 (IN)
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
-#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="DIGITEL-TV",KIDS ZONE HD (PK)
-http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="DIGITAL-TV",COLORS HD (IN)
-http://51.79.84.156:8082/ColorsIn/index.m3u8
-#EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="DIGITAL-TV",HORNBILL TV (IN)
-http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
-#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="DIGITAL-TV",TLC (UK)
-http://212.102.38.90:8080/TLC/index.m3u8
-#EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="DIGITAL-TV",CNN (US)
-http://218.202.220.2:5000/nn_live.ts?id=CNN
-#EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo="https://1.bp.blogspot.com/-HPEimn5FiKE/YQkpdx8A9dI/AAAAAAAAA08/xHSSWtmX16w92nkzKBxDY1DwFFga3ye5wCLcBGAsYHQ/s200/images.jpeg"  group-title="DIGITAL-TV",HD FASHION (US)
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="DIGITAL-TV",ONE GOLF (PK)
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",DISCOVERY HD HGTV (UK)
-http://58.65.171.202:8000/play/4334/index.m3u8
-#EXTINF:-1 ch-id="PEACE TV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",PEACE TV (UK)
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ch-id="USA (US)" tvg-logo=" "  group-title="DIGITAL-TV",USA (US)
-http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
-#EXTINF:-1 ch-id="BEACHY (UK)" tvg-logo=" "  group-title="DIGITAL-TV",BEACHY (UK)
-http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="DIGITAL-TV",SONY TEN 2 HD (IN)
-http://103.153.39.34:8000/play/a05r/index.m3u8
-#EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="DIGITAL-TV",GOLF (UK)
-http://203.154.243.89:11208
-#EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="ADULT",VENUS (UK)
-http://45.5.8.78:8000/play/a03c
-#EXTINF:-1 ch-id="SUPER ONE HD (UK)" tvg-logo=" "  group-title="ADULT",SUPER ONE HD (UK)
-http://185.96.176.139:90/superone/index.m3u8
-#EXTINF:-1 ch-id="AMERICAN HORRORS (US)" tvg-logo=" "  group-title="DIGITAL-TV",AMERICAN HORRORS (US)
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ch-id="FOX LIFE (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",FOX LIFE (UK)
+http://93.157.62.180:80/FoxLife/playlist.m3u8
+#EXTINF:-1 ch-id="FOX MOVIES (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
+http://93.157.62.180:80/FoxMovies/index.m3u8
 
-#EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="ADULT",EXTASY HD (UK)
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8 
-#EXTINF:-1 ch-id="HBO+ (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",HBO+ (UK)
-http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 ch-id="EX (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",EX (UK)
-http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+#EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="STREAMS",BBC WORLD NEWS (ASIA)
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="STREAMS",COLORS HD (IN)
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="STREAMS",AXN (ASIA)
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="STREAMS",STAR PLUS HD (IN)
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-YeMv2_ePRlU/YP_zkL_N5rI/AAAAAAAAAsY/ZTBuKVAs0LoCaVLxccquq1fcQWLpuqCngCLcBGAsYHQ/s200/09zeeactionzeeaction.png"  group-title="STREAMS",ZEE ACTION (IN)
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="STREAMS",ZEE TV HD (IN)
+http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="STREAMS",ZEE CINEMA HD (IN)
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 
 #EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg"  group-title="LIVE-STREAMING",DISCOVERY TURBO (IN)
 http://103.153.39.34:8000/play/a06l/index.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)" tvg-logo="https://1.bp.blogspot.com/-nrBEJBvMxec/YOv1hwZ6lVI/AAAAAAAAAWM/077qpnr5ij0Br2SLKn8yufv1x8SnpPqhQCLcBGAsYHQ/s200/PicsArt_07-12-01.25.43.jpg"  group-title="LIVE-STREAMING",DISCOVERY SCIENCE (IN)
 http://103.153.39.34:8000/play/a06k/index.m3u8
 
-##EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="LIVE-STREAMING",FOX NEWS (US)
-http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#EXTINF:-1 ch-id="MSNBC REPORTS (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",MSNBC REPORTS (UK)
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
-
-#EXTINF:-1 ch-id="FOX LIFE (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",FOX LIFE (UK)
-http://93.157.62.180:80/FoxLife/playlist.m3u8
-#EXTINF:-1 ch-id="FOX MOVIES (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
-http://93.157.62.180:80/FoxMovies/index.m3u8
+#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="LIVE-STREAMING",DD SPORTS (IN)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="LIVE-STREAMING",BBC WORLD NEWS (IN)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="LIVE-STREAMING",DD NATIONAL (IN)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="LIVE-STREAMING",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
@@ -933,69 +953,50 @@ http://221.120.204.4/DUNYA-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS SELECT 2 HD (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",STAR SPORTS SELECT 2 HD (IN)
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="LIVE-STREAMING",DD SPORTS (IN)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 ch-id="BBC WORLD NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="LIVE-STREAMING",BBC WORLD NEWS (IN)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo="https://1.bp.blogspot.com/-1E0X9ZP3ZGQ/YJzXYfeQyDI/AAAAAAAAAsQ/lhvtycAXhWUzdQ53QHyx7Tt3RqLis-tyACLcBGAsYHQ/s320/PicsArt_05-13-01.02.13.jpg"   group-title="LIVE-STREAMING",DD NATIONAL (IN)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="ADULT",EXTASY HD (UK)
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8 
+#EXTINF:-1 ch-id="HBO+ (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",HBO+ (UK)
+http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 ch-id="EX (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",EX (UK)
+http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
-#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo=" "  group-title="STREAMS",ANIMAL PLANET (ASIA)
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="STREAMS",BBC WORLD NEWS (ASIA)
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="STREAMS",COLORS HD (IN)
-http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
-#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="STREAMS",AXN (ASIA)
-http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="STREAMS",STAR PLUS HD (IN)
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo="https://1.bp.blogspot.com/-YeMv2_ePRlU/YP_zkL_N5rI/AAAAAAAAAsY/ZTBuKVAs0LoCaVLxccquq1fcQWLpuqCngCLcBGAsYHQ/s200/09zeeactionzeeaction.png"  group-title="STREAMS",ZEE ACTION (IN)
-http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://1.bp.blogspot.com/-eXdXXszzd70/YPle5E_Pl3I/AAAAAAAAAiU/y3xZpp6WuMEH4g-uroiEdMMt2FejaU04ACLcBGAsYHQ/s200/Zee-TV-US-HD_1.jpg"  group-title="STREAMS",ZEE TV HD (IN)
-http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="STREAMS",ZEE CINEMA HD (IN)
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
-#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vSAExx8PwY0/YNHLA9IBGgI/AAAAAAAAAAU/VIjHTa-dX0EWHo6QspfSgKnqLlcnJ1i7wCLcBGAsYHQ/w200-h120/images.png"   group-title="STREAMS",HBO (ASIA)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ch-id="HGTV (ASIA)" tvg-logo=" "  group-title="STREAMS",HGTV (ASIA)
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="STREAMS",NAT GEO WILD (ASIA)
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-#EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="LIVE-STREAMING",AXN HD (UK)
-http://51.15.0.141:88/axn/index.m3u8
-#EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
-http://51.15.0.141:88/redlightHD/index.m3u8
-#EXTINF:-1 ch-id="HUSTLER HD (UK)" tvg-logo=" "  group-title="ADULT",HUSTLER HD (UK)
-http://51.15.0.141:88/hustlerhd/index.m3u8
-#EXTINF:-1 ch-id="BLACKED HD (UK)" tvg-logo=" "  group-title="ADULT",BLACKED HD (UK)
-http://51.15.0.141:88/blacked_hd/index.m3u8
-
-#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="LIVE-STREAMING",BBC NEWS (UK)
-http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
-#EXTINF:-1 ch-id="FOX MOVIES (UK)" tvg-logo="https://1.bp.blogspot.com/-Q3-0ZrS5_tY/YNx8_xtkZhI/AAAAAAAAAHU/Oj8MJNP51rwd4VSkLfGvz6riPDFhTpHnACLcBGAsYHQ/s320/images%25283%2529.jpeg"  group-title="LIVE-STREAMING",FOX MOVIES (UK)
-http://62.112.9.63:88/fox_movies/index.m3u8?token=test
-#EXTINF:-1 ch-id="BRAZZERS (UK)" tvg-logo=" "  group-title="ADULT",BRAZZERS (UK)
-http://62.112.9.63:88/Brazzers/index.m3u8?token=test
-#EXTINF:-1 ch-id="SKY NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-HR8Go53lpp8/YNx_AWlMfnI/AAAAAAAAAHk/GlFeQUjAn5UBDot_qv4NUm-Av0LwlEGhwCLcBGAsYHQ/s320/images%25286%2529.png"  group-title="LIVE-STREAMING",SKY NEWS (UK)
-http://62.112.9.63:88/sky_news_uk/index.m3u8?token=test
-#EXTINF:-1 ch-id="CNN (UK)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="LIVE-STREAMING",CNN (UK)
-http://62.112.9.63:88/cnn_uk/index.m3u8?token=test
-#EXTINF:-1 ch-id="5USA (US)" tvg-logo=" "  group-title="LIVE-STREAMING",5USA (US)
-http://62.112.9.63:88/5_USA/index.m3u8?token=test
-#EXTINF:-1 ch-id="ITVBE (US)" tvg-logo=" "  group-title="LIVE-STREAMING",ITVBE (US)
-http://62.112.9.63:88/itvbe/index.m3u8?token=test
-#EXTINF:-1 ch-id="USA NETWORK (US)" tvg-logo=" "  group-title="LIVE-STREAMING",USA NETWORK (US)
+#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo="https://1.bp.blogspot.com/-2lru3jz30Z8/YvI/AAAAAAAAAa8/0sISDhloQUQ66qBj9mQXh3RIk2Dnjp0mgCLcBGAsYHQ/s200/PicsArt_07-07-07.41.04.png"  group-title="DIGITAL-TV",KIDS ZONE HD (PK)
+http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg"   group-title="DIGITAL-TV",COLORS HD (IN)
+http://51.79.84.156:8082/ColorsIn/index.m3u8
+#EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo="https://1.bp.blogspot.com/-VyGk99BNDXI/YOwun7J2pEI/AAAAAAAAAaw/-goNUiIPyRod_FsLkDNB1q3suxTpyxy8ACLcBGAsYHQ/s200/images%2B%252815%2529%25281%2529.jpeg"  group-title="DIGITAL-TV",HORNBILL TV (IN)
+http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
+#EXTINF:-1 ch-id="TLC (UK)" tvg-logo="https://1.bp.blogspot.com/-BFhnMgVdVJg/YNr8tLbD_lI/AAAAAAAAAEI/b0xWgTm-JDgkK3EEf3JoZD6Ik4Bg5pSrgCLcBGAsYHQ/s320/images%25285%2529.png"  group-title="DIGITAL-TV",TLC (UK)
+http://212.102.38.90:8080/TLC/index.m3u8
+#EXTINF:-1 ch-id="CNN (US)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%25287%2529.png"  group-title="DIGITAL-TV",CNN (US)
+http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo="https://1.bp.blogspot.com/-HPEimn5FiKE/YQkpdx8A9dI/AAAAAAAAA08/xHSSWtmX16w92nkzKBxDY1DwFFga3ye5wCLcBGAsYHQ/s200/images.jpeg"  group-title="DIGITAL-TV",HD FASHION (US)
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-oneline-01b.jpg"   group-title="DIGITAL-TV",ONE GOLF (PK)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",DISCOVERY HD HGTV (UK)
+http://58.65.171.202:8000/play/4334/index.m3u8
+#EXTINF:-1 ch-id="PEACE TV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",PEACE TV (UK)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ch-id="USA (US)" tvg-logo=" "  group-title="DIGITAL-TV",USA (US)
 http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
-#EXTINF:-1 ch-id="GOLD (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",GOLD (UK)
-http://62.112.9.63:88/gold_uk/index.m3u8?token=test
-#EXTINF:-1 ch-id="BBC (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",BBC (UK)
-http://62.112.9.63:88/BBC1_HD/index.m3u8?token=test
-#EXTINF:-1 ch-id="ITV 2 (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",ITV 2 (UK)
-http://62.112.9.63:88/itv2/index.m3u8?token=test
-#EXTINF:-1 ch-id="ITV 3 (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",ITV 3 (UK)
-http://62.112.9.63:88/itv4/index.m3u8?token=test
+#EXTINF:-1 ch-id="BEACHY (UK)" tvg-logo=" "  group-title="DIGITAL-TV",BEACHY (UK)
+http://30a-tv.com/beachy.m3u8
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo=" "  group-title="DIGITAL-TV",SONY TEN 2 HD (IN)
+http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 ch-id="GOLF (UK)" tvg-logo=" "  group-title="DIGITAL-TV",GOLF (UK)
+http://203.154.243.89:11208
+#EXTINF:-1 ch-id="VENUS (UK)" tvg-logo=" "  group-title="ADULT",VENUS (UK)
+http://45.5.8.78:8000/play/a03c
+#EXTINF:-1 ch-id="SUPER ONE HD (UK)" tvg-logo=" "  group-title="ADULT",SUPER ONE HD (UK)
+http://185.96.176.139:90/superone/index.m3u8
+#EXTINF:-1 ch-id="AMERICAN HORRORS (US)" tvg-logo=" "  group-title="DIGITAL-TV",AMERICAN HORRORS (US)
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-o2PjYWOkq_Q/YNsEM4WLqdI/AAAAAAAAAFI/yzM60mgco5kz6dx-u8uTRexchJkkMzNiACLcBGAsYHQ/s320/images%2B%25281%2529%25283%2529.png"  group-title="LIVE-STREAMING",FOX NEWS (US)
+http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
+#EXTINF:-1 ch-id="MSNBC REPORTS (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",MSNBC REPORTS (UK)
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 
 ------------------------------------------{💻📺📱}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
