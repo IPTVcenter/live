@@ -663,8 +663,6 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="MX PLAYER TV",CHANNEL WIN (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
 
-#EXTINF:-1 ch-id="DISCOVERY ASIA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-vot4sSl5X9Q/YOwmlexjkMI/AAAAAAAAAZ0/TAmdKrV72ncVaYIQO0ZyUN1XhnQIKbmEwCLcBGAsYHQ/s200/images%2B%25283%2529.png"  group-title="FPT-PLAY",DISCOVERY ASIA (ASIA)
-https://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/master.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo="https://1.bp.blogspot.com/-qZavFSoFVB0/YNq4-PXMGYI/AAAAAAAAAEA/QpY4kKBQbLwP_it6xJyXVyZOStDNxatBgCLcBGAsYHQ/s320/images%25283%2529.png"   group-title="FPT-PLAY",DISCOVERY (ASIA)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="CINEMAX (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjZIR1G3ccHXeM2KZcDL_bCuugKuTYqGgu3QLcKU0SUx1X5LsAt2WZCrzca_U4RaoPNgbkt6FZQYsZtBUVWPPIaSNZr62bvJ53GOy3PYFqnAHB6ED4AbYVtinxoo26MwHcW00eggQhIKgl2RSa8kk0QX7GLi-BmtSpJ8h8K32nrEBPVfKR-SkhMybC_=s200"  group-title="FPT-PLAY",CINEMAX (ASIA)
@@ -693,6 +691,12 @@ https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BLUE ENTERTAINMENT (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ENTERTAINMENT (ASIA)
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunk.m3u8
+#EXTINF:-1 ch-id="OUTDOOR (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",OUTDOOR (ASIA)
+http://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="DW (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",DW (ASIA)
+https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="ROCK  (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",ROCK (ASIA)
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
