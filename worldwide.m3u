@@ -798,7 +798,37 @@ https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 #EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="FEED-PLAY",&TV HD (IN)
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
+#EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo=" "  group-title="JIO-TV",NEWS LIVE (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Newslive&=&e=.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "  group-title="JIO-TV",ZEE CINEMA (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Newslive&=&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "  group-title="JIO-TV",ZEE TV HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Zee_TV_HD&=&e=.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Colors_HD&=&e=.m3u8
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="JIO-TV",&TV HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=And_TV_HD&=&e=.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="JIO-TV",SONY MAX HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Sony_Max_HD&=&e=.m3u8
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo=" "  group-title="JIO-TV",SONY PIX HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Sony_Pix_HD&=&e=.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX HD (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS CINEPLEX HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Colors_Cineplex_HD&=400&e=.m3u8
+#EXTINF:-1 ch-id="COLORS CINEPLEX BOLLYWOOD (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS CINEPLEX BOLLYWOOD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Colors_Cineplex_Bollywood&=&e=.m3u8
+#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo=" "  group-title="JIO-TV",SONY HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Sony_HD&=&e=.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)" tvg-logo=" "  group-title="JIO-TV",ANIMAL PLANET HD (IN)
+https://tvstream.space/jtv/jioooootvvxxd.php?c=Animal_Planet_HD&=&e=.m3u8
+
+
+
+
+
+
+
 -----------------------------------(📱💻📺)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 #EXTINF:-1 ch-id="B4U HITS (IN)" tvg-logo=" "  group-title="LIVE-STREAMING",B4U HITS (IN)
 http://14.199.164.20:4001/play/a0wh/index.m3u8
