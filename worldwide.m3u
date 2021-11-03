@@ -535,6 +535,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 ch-id="M2O TV (UK)" tvg-logo=" "  group-title="AKAMAI-TV",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
+#EXTINF:-1 ch-id="SKY2 (AU)" tvg-logo=" "  group-title="AKAMAI-TV",SKY2 (AU)
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%252838%2529.jpeg"  group-title="NET-TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -566,8 +568,6 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 ch-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 ch-id="SKY2 (AU)" tvg-logo=" "  group-title="NET-TV",SKY2 (AU)
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 
 EXTINF:-1 ch-id="FILMY (IN)" tvg-logo="https://1.bp.blogspot.com/-NE91YZRw8_8/YP1Mgkk79DI/AAAAAAAAAn4/YRntoDv9Hu8wtLUqE1enkQeFu1t2JpZawCLcBGAsYHQ/s200/images%2B%25284%2529.png"  group-title="MX PLAYER TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
