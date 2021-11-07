@@ -156,7 +156,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-250
 https://snehz5tv.herokuapp.com/?c=0-9-348
 #EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-ddbharati
-#EXTINF:-1 ch-id="ZEE SALAM (IN)" tvg-logo=" "  group-title="ZEE5",ZEE SALAM (IN)
+#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="ZEE5",ZEE SALAM (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zeesalaam
 #EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
@@ -196,6 +196,32 @@ https://snehz5tv.herokuapp.com/?c=0-9-aajtak
 https://snehz5tv.herokuapp.com/?c=0-9-divyatv
 #EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
+#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo=" "  group-title="ZEE5",PRATIDIN TIME (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-413
+#EXTINF:-1 ch-id="PRAG NEWS (IN)" tvg-logo=" "  group-title="ZEE5",PRAG NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-310
+#EXTINF:-1 ch-id="REPUBLIC BHARAT (IN)" tvg-logo=" "  group-title="ZEE5",REPUBLIC BHARAT (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-162
+#EXTINF:-1 ch-id="SADHNA PLUS NEWS (IN)" tvg-logo=" "  group-title="ZEE5",SADHNA PLUS NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-313
+#EXTINF:-1 ch-id="SADHNA TV (IN)" tvg-logo=" "  group-title="ZEE5",SADHNA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-284
+#EXTINF:-1 ch-id="AFRICA NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AFRICA NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-390
+#EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title="ZEE5",&PICTURES (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-pictures
+#EXTINF:-1 ch-id="AB STAR NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AB STAR NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-387
+#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo=" "  group-title="ZEE5",ABP NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-398
+#EXTINF:-1 ch-id="BHARAT SAMACHAR (IN)" tvg-logo=" "  group-title="ZEE5",BHARAT SAMACHAR (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-354
+#EXTINF:-1 ch-id="AWAKENING (IN)" tvg-logo=" "  group-title="ZEE5",AWAKENING (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-316
+#EXTINF:-1 ch-id="C NEWS BHARAT (IN)" tvg-logo=" "  group-title="ZEE5",C NEWS BHARAT (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-385
+
+
 
 #EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
