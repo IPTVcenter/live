@@ -146,7 +146,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-tvhd_0
 https://snehz5tv.herokuapp.com/?c=0-9-322
 #EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="ZEE5",WION (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-wion
-#EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="ZEE5",ZEE NEWS (IN)
+#EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="ZEE5",ZEE HINDUSTAN (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zeehindustan
 #EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="ZEE5",ZEE BUSINESS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zeebusiness
@@ -254,6 +254,8 @@ https://snehz5tv.herokuapp.com/?c=0-9-299
 https://snehz5tv.herokuapp.com/?c=0-9-302
 #EXTINF:-1 ch-id="SHUBH TV (IN)" tvg-logo=" "  group-title="ZEE5",SHUBH TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-327
+#EXTINF:-1 ch-id="& Privé HD (IN)" tvg-logo=" "  group-title="ZEE5",& Privé HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-privéhd                  
 #EXTINF:-1 ch-id="SATSANG (IN)" tvg-logo=" "  group-title="ZEE5",SATSANG (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_1565694979
 #EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="ZEE5",SANSKAR (IN)
