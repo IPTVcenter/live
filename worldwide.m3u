@@ -921,6 +921,11 @@ http://51.15.0.141:88/hustlerhd/index.m3u8
 #EXTINF:-1 ch-id="BLACKED HD (UK)" tvg-logo=" "  group-title="ADULT",BLACKED HD (UK)
 http://51.15.0.141:88/blacked_hd/index.m3u8
 
+#EXTINF:-1 ch-id="POKER.TV (UK)" tvg-logo=" "  group-title="STREAM",POKER.TV (UK)
+http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 ch-id="AYA FAMILY (UK)" tvg-logo=" "  group-title="STREAM",AYA FAMILY (UK)
+http://51.210.199.5/hls/stream.m3u8
+
 #EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="PLAY",DISCOVERY HD HGTV (UK)
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo=" "  group-title="PLAY",BBC CNEEBIES (UK)
@@ -929,8 +934,14 @@ http://58.65.171.202:8000/play/2009/index.m3u8
 http://58.65.171.202:8000/play/15910/index.m3u8
 #EXTINF:-1 ch-id="SCI HD (UK)" tvg-logo=" "  group-title="PLAY",SCI HD (UK)
 http://58.65.171.202:8000/play/10509/index.m3u8
-
-http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 ch-id="NAT GEO PEOPLE (UK)" tvg-logo=" "  group-title="PLAY",NAT GEO PEOPLE (UK)
+http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1 ch-id="BBC BRIT (UK)" tvg-logo=" "  group-title="PLAY",BBC BRIT (UK)
+http://58.65.171.202:8000/play/2016/index.m3u8
+#EXTINF:-1 ch-id="FOX (UK)" tvg-logo=" "  group-title="PLAY",FOX (UK)
+http://58.65.171.202:8000/play/3111/index.m3u8
+#EXTINF:-1 ch-id="HISTORY (UK)" tvg-logo=" "  group-title="PLAY",HISTORY (UK)
+http://58.65.171.202:8000/play/3119/index.m3u8
 
 #EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="LIVE-STREAMING",BBC NEWS (UK)
 http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
