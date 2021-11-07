@@ -363,6 +363,10 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 ch-id="BLOOMBERNG (AU)" tvg-logo=" "  group-title="ONLINE-TV",BLOOMERANG (AU)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 ch-id="HOT GUYS FUCK (US)" tvg-logo=" "  group-title="ADULT",HOT GUYS FUCK (US)
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyZmpudbZToppM8lXmOdVPQ/ts
+#EXTINF:-1 ch-id="NEWSCASTS (US)" tvg-logo=" "  group-title="ONLINE-TV",NEWSCASTS (US)
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
 #EXTINF:-1 ch-id="BRICS TV (RU)" tvg-logo=" "  group-title="ONLINE-TV",BRICS TV (RU)
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
@@ -407,7 +411,6 @@ http://a3.smashmalta.com:82/live/smash/smash/23.ts
 #EXTINF:-1 ch-id="SMASH MUSIC (MT)" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
-
 #EXTINF:-1 ch-id="DY365 (IN)" tvg-logo=" " group-title="SMART-STREAM",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo=" " group-title="SMART-STREAM",NORTH EAST LIVE (IN)
@@ -437,36 +440,40 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 
 #EXTINF:-1 ch-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="YOUNG HOLLYWOOD (UK)" tvg-logo=" "  group-title="AMAGI-TV",YOUNG HOLLYWOOD (UK)
+#EXTINF:-1 ch-id="YOUNG HOLLYWOOD (US)" tvg-logo=" "  group-title="AMAGI-TV",YOUNG HOLLYWOOD (US)
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="YAHOO FINANCE (UK)" tvg-logo=" "  group-title="AMAGI-TV",YAHOO FINANCE (UK)
+#EXTINF:-1 ch-id="YAHOO FINANCE (US)" tvg-logo=" "  group-title="AMAGI-TV",YAHOO FINANCE (US)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="AWTY (UK)" tvg-logo=" "  group-title="AMAGI-TV",AWTY (UK)
+#EXTINF:-1 ch-id="AWTY (US)" tvg-logo=" "  group-title="AMAGI-TV",AWTY (US)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="HNCFREE (UK)" tvg-logo=" "  group-title="AMAGI-TV",HNCFREE (UK)
+#EXTINF:-1 ch-id="HNCFREE (US)" tvg-logo=" "  group-title="AMAGI-TV",HNCFREE (US)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="VENNTV (UK)" tvg-logo=" "  group-title="AMAGI-TV",VENNTV (UK)
+#EXTINF:-1 ch-id="VENNTV (US)" tvg-logo=" "  group-title="AMAGI-TV",VENNTV (US)
 https://venntv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="TENNIS CHANNEL (UK)" tvg-logo=" /"  group-title="AMAGI-TV",TENNIS CHANNEL (UK)
+#EXTINF:-1 ch-id="TENNIS CHANNEL (US)" tvg-logo=" /"  group-title="AMAGI-TV",TENNIS CHANNEL (US)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ch-id="XITE (DE)" tvg-logo=" "  group-title="AMAGI-TV",XITE (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="CLUBBING TV (UK)" tvg-logo=" "   group-title="AMAGI-TV",CLUBBINGTV (UK)
+#EXTINF:-1 ch-id="CLUBBING TV (US)" tvg-logo=" "   group-title="AMAGI-TV",CLUBBINGTV (US)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="CRACKLE (UK)" tvg-logo=" "  group-title="AMAGI-TV",CRACKLE (UK)
+#EXTINF:-1 ch-id="CRACKLE (US)" tvg-logo=" "  group-title="AMAGI-TV",CRACKLE (US)
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="MYTIME (UK)" tvg-logo=" "  group-title="AMAGI-TV",MYTIME (UK)
+#EXTINF:-1 ch-id="MYTIME (US)" tvg-logo=" "  group-title="AMAGI-TV",MYTIME (US)
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="MOVIESPHEREUK (UK)" tvg-logo=" "  group-title="AMAGI-TV",MOVIESPHEREUK (UK)
+#EXTINF:-1 ch-id="MOVIESPHEREUK (US)" tvg-logo=" "  group-title="AMAGI-TV",MOVIESPHEREUK (US)
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="AMMORUNTIME (UK)" tvg-logo=" "  group-title="AMAGI-TV",AMMORUNTIME (UK)
+#EXTINF:-1 ch-id="AMMORUNTIME (US)" tvg-logo=" "  group-title="AMAGI-TV",AMMORUNTIME (US)
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="SPORTSGRID (UK)" tvg-logo=" "  group-title="AMAGI-TV",SPORTSGRID (UK)
+#EXTINF:-1 ch-id="SPORTSGRID (US)" tvg-logo=" "  group-title="AMAGI-TV",SPORTSGRID (US)
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ch-id="LOVE NATURE (US)" tvg-logo=" "  group-title="AMAGI-TV",LOVE NATURE (US)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ch-id="LEGO (UK)" tvg-logo=" "  group-title="AMAGI-TV",LEGO (UK)
+#EXTINF:-1 ch-id="LEGO (US)" tvg-logo=" "  group-title="AMAGI-TV",LEGO (US)
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 ch-id="SMITH SONIANA CHANNEL (US)" tvg-logo=" "  group-title="AMAGI-TV",SMIT SONIANA CHANNEL (US)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ch-id="AMMO (US)" tvg-logo=" "  group-title="AMAGI-TV",AMMO (US)
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ch-id="NASA TV (UK)" tvg-logo=" "   group-title="ONLINE-TV",NASA TV (UK)
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
@@ -861,10 +868,6 @@ https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 
-
-
-
-
 -----------------------------------(📱💻📺)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -920,6 +923,14 @@ http://51.15.0.141:88/blacked_hd/index.m3u8
 
 #EXTINF:-1 ch-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="PLAY",DISCOVERY HD HGTV (UK)
 http://58.65.171.202:8000/play/4334/index.m3u8
+#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo=" "  group-title="PLAY",BBC CNEEBIES (UK)
+http://58.65.171.202:8000/play/2009/index.m3u8
+#EXTINF:-1 ch-id="13ULICA (UK)" tvg-logo=" "  group-title="PLAY",13ULICA (UK)
+http://58.65.171.202:8000/play/15910/index.m3u8
+#EXTINF:-1 ch-id="SCI HD (UK)" tvg-logo=" "  group-title="PLAY",SCI HD (UK)
+http://58.65.171.202:8000/play/10509/index.m3u8
+
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 
 #EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png"  group-title="LIVE-STREAMING",BBC NEWS (UK)
 http://62.112.9.63:88/bbc_news_uk/index.m3u8?token=test
@@ -1073,6 +1084,8 @@ http://203.154.243.89:11208
 http://185.96.176.139:90/superone/index.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (RU)" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD (RU)
 http://193.33.240.8:80/NatGeoWild/playlist.m3u8
+#EXTINF:-1 ch-id="XY PLUS (UK)" tvg-logo=" "  group-title="ADULT"XY PLUS (UK)
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 
 #EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo=" "  group-title="CDN-TV",FOX NEWS (US)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
