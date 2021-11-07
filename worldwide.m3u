@@ -6,17 +6,17 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG QUICKTAKE (UK)" tvg-logo=" "  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 ch-id="CNM (UK)" tvg-logo=" "  group-title="SAMSUNG TV PLUS",CNN (UK)
+#EXTINF:-1 ch-id="CNM (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="SAMSUNG TV PLUS",BLOOMBERG (UK)
+#EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",BLOOMBERG (UK)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="FTF (UK)" tvg-logo=" "  group-title="SAMSUNG TV PLUS",FTF (US)
+#EXTINF:-1 ch-id="FTF (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",FTF (US)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="FAILARMY (UK)" tvg-logo=" "  group-title="SAMSUNG TV PLUS",FAILARMY (UK)
+#EXTINF:-1 ch-id="FAILARMY (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",FAILARMY (UK)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="SAMSUNG TV PLUS",THE PET COLLECTIVE (US)
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo=" "  group-title="SAMSUNG TV PLUS",DUCK TV (UK)
+#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",DUCK TV (UK)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="MULTI-TV",DD SPORTS (IN)
@@ -423,7 +423,7 @@ http://jo123.biz/jweb/m3u8.php?c=Box_Cinema&q=&e=.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Maha_Movies&q=&e=.m3u8
 #EXTINF: -1 ch-id="SONY PIX HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="JIO-TV", SONY PIX HD (IN)
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=&e=.m3u8
-#EXTINF: -1 ch-id=" HI DOSTI (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="JIO_SabbirIPTV", HI DOST! (IN)
+#EXTINF: -1 ch-id="HI DOSTI (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="JIO-TV", HI DOST! (IN)
 http://jo123.biz/jweb/m3u8.php?c=Hi_Dost&q=&e=.m3u8
 #EXTINF: -1 ch-id="CHANNEL ONE NEWS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_One_News.png" group-title="JIO-TV", CHANNEL ONE NEWS (IN)
 http://jo123.biz/jweb/m3u8.php?c=Channel_One_News&q=&e=.m3u8
@@ -431,8 +431,8 @@ http://jo123.biz/jweb/m3u8.php?c=Channel_One_News&q=&e=.m3u8
 http://jo123.biz/jweb/m3u8.php?c=K_News_India&q=&e=.m3u8
 #EXTINF: -1 ch-id="DNN (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="JIO-TV", DNN (IN)
 http://jo123.biz/jweb/m3u8.php?c=DNN&q=&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="JIO-TV", DD SPORTS (IN)
-http://jo123.biz/jweb/m3u8.php?c=DD_Sports&q=&e=.m3u8
+#EXTINF: -1 ch-id="DD SPORTS (IN)" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="JIO-TV", DD SPORTS (IN)
+http://jo123.biz/jweb/m3u8.php?c=DD_Sports&q=400&e=.m3u8
 #EXTINF: -1 ch-id="SONY TEN 1 HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="JIO-TV",SONY TEN 1 HD
 http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=&e=.m3u8
 #EXTINF: -1 ch-id="SONY TEN 2 HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="JIO-TV",SONY TEN 2 HD
@@ -707,95 +707,95 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 ch-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
-EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=" "  group-title="MX PLAYER TV",FILMY (IN)
+EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=" "  group-title="MX-TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
-#EXTINF:-1 ch-id="FIRANGI (IN)" tvg-logo=" "  group-title="MX PLAYER TV",FIRANGI (IN)
+#EXTINF:-1 ch-id="FIRANGI (IN)" tvg-logo=" "  group-title="MX-TV",FIRANGI (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
-#EXTINF:-1 ch-id="BIXFLIX MOVIES (IN)" tvg-logo=" "  group-title="MX PLAYER TV",BIXFLIX MOVIES (IN)
+#EXTINF:-1 ch-id="BIXFLIX MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",BIXFLIX MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo=" "  group-title="MX PLAYER TV",BOX CINEMA (IN)
+#EXTINF:-1 ch-id="BOX CINEMA (IN)" tvg-logo=" "  group-title="MX-TV",BOX CINEMA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:-1 ch-id="MANOTANJAN MOVIES (IN)" tvg-logo=" "  group-title="MX PLAYER TV",MANORANJAN MOVIES (IN)
+#EXTINF:-1 ch-id="MANOTANJAN MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo=" "  group-title="MX PLAYER TV",MAHA MOVIE (IN)
+#EXTINF:-1 ch-id="MAHA MOVIE (IN)" tvg-logo=" "  group-title="MX-TV",MAHA MOVIE (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 ch-id="MOVIE PLUS (IN)" tvg-logo=" "  group-title="MX PLAYER TV",MOVIE PLUS (IN)
+#EXTINF:-1 ch-id="MOVIE PLUS (IN)" tvg-logo=" "  group-title="MX-TV",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 ch-id="BOLLYWOOD (IN)" tvg-logo=" "  group-title="MX PLAYER TV",BOLLYWOOD (IN)
+#EXTINF:-1 ch-id="BOLLYWOOD (IN)" tvg-logo=" "  group-title="MX-TV",BOLLYWOOD (IN)
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo=" "  group-title="MX PLAYER TV" ,EPIC (IN)
+#EXTINF:-1 ch-id="EPIC (IN)" tvg-logo=" "  group-title="MX-TV" ,EPIC (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
-#EXTINF:-1 ch-id="DISHUM (IN)" tvg-logo=" "  group-title="MX PLAYER TV",DISHUM (UK)
+#EXTINF:-1 ch-id="DISHUM (IN)" tvg-logo=" "  group-title="MX-TV",DISHUM (UK)
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo=" "   group-title="MX PLAYER TV",DD NATIONAL (IN)
+#EXTINF:-1 ch-id="DD NATIONAL (IN)" tvg-logo=" "   group-title="MX-TV",DD NATIONAL (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
-#EXTINF:-1 ch-id="ANJAN TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",ANJAN TV (IN)
+#EXTINF:-1 ch-id="ANJAN TV (IN)" tvg-logo=" "  group-title="MX-TV",ANJAN TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
-#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="MX PLAYER TV",MASTIII (IN)
+#EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo=" "  group-title="MX-TV",MASTIII (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1 ch-id="SHOW MUSIC (IN)" tvg-logo=" "  group-title="MX PLAYER TV",SHOW MUSIC (IN)
+#EXTINF:-1 ch-id="SHOW MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",SHOW MUSIC (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
-#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="MX PLAYER TV",MUSIC INDIA (IN)
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="MX-TV",MUSIC INDIA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 ch-id="NEWS NATION (IN)" tvg-logo=" "  group-title="MX PLAYER TV",NEWS NATION (IN)
+#EXTINF:-1 ch-id="NEWS NATION (IN)" tvg-logo=" "  group-title="MX-TV",NEWS NATION (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
-#EXTINF:-1 ch-id="INDIA TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",INDIA TV (IN)
+#EXTINF:-1 ch-id="INDIA TV (IN)" tvg-logo=" "  group-title="MX-TV",INDIA TV (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
-#EXTINF:-1 ch-id="DD ASSAM (IN)" tvg-logo=" "   group-title="MX PLAYER TV",DD ASSAM (IN)
+#EXTINF:-1 ch-id="DD ASSAM (IN)" tvg-logo=" "   group-title="MX-TV",DD ASSAM (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
-#EXTINF:-1 ch-id="DD KASHIR (IN)" tvg-logo=" "  group-title="MX PLAYER TV",DD KASHIR (IN)
+#EXTINF:-1 ch-id="DD KASHIR (IN)" tvg-logo=" "  group-title="MX-TV",DD KASHIR (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
-#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title="MX PLAYER TV",9X JALWA (IN)
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title="MX-TV",9X JALWA (IN)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "   group-title="MX PLAYER TV",9XM (IN)
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "   group-title="MX-TV",9XM (IN)
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1 ch-id="GULISTAN NEWS (IN)" tvg-logo=" "  group-title="MX PLAYER TV",GULISTAN NEWS (IN)
+#EXTINF:-1 ch-id="GULISTAN NEWS (IN)" tvg-logo=" "  group-title="MX-TV",GULISTAN NEWS (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
-#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo=" "  group-title="MX PLAYER TV",NEWS X (IN)
+#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo=" "  group-title="MX-TV",NEWS X (IN)
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
-#EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo=" "  group-title="MX PLAYER TV",NEWS INDIA (IN)
+#EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo=" "  group-title="MX-TV",NEWS INDIA (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-logo=" "  group-title="MX PLAYER TV",NEWS INDIA 24X7 (IN)
+#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-logo=" "  group-title="MX-TV",NEWS INDIA 24X7 (IN)
 https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
-#EXTINF:-1 ch-id="JANATA TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",JANATA TV (IN)
+#EXTINF:-1 ch-id="JANATA TV (IN)" tvg-logo=" "  group-title="MX-TV",JANATA TV (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
-#EXTINF:-1 ch-id="SAMAY (IN)" tvg-logo=" "  group-title="MX PLAYER TV",SAMAY (IN)
+#EXTINF:-1 ch-id="SAMAY (IN)" tvg-logo=" "  group-title="MX-TV",SAMAY (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
-#EXTINF:-1 ch-id="A1 TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",A1 TV (IN)
+#EXTINF:-1 ch-id="A1 TV (IN)" tvg-logo=" "  group-title="MX-TV",A1 TV (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
-#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo=" "  group-title="MX PLAYER TV",IBC 24 (IN)
+#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo=" "  group-title="MX-TV",IBC 24 (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
-#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo=" "  group-title="MX PLAYER TV",ABP NEWS (IN)
+#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo=" "  group-title="MX-TV",ABP NEWS (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
-#EXTINF:-1 ch-id="CVR NEWS (IN)" tvg-logo=" "  group-title="MX PLAYER TV",CVR NEWS (IN)
+#EXTINF:-1 ch-id="CVR NEWS (IN)" tvg-logo=" "  group-title="MX-TV",CVR NEWS (IN)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
-#EXTINF:-1 ch-id="SADHNA PLUS (IN)" tvg-logo=" "  group-title="MX PLAYER TV",SADHNA PLUS (IN)
+#EXTINF:-1 ch-id="SADHNA PLUS (IN)" tvg-logo=" "  group-title="MX-TV",SADHNA PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
-#EXTINF:-1 ch-id="K NEWS 24X7 (IN)" tvg-logo=" "  group-title="MX PLAYER TV",K NEWS 24X7 (IN)
+#EXTINF:-1 ch-id="K NEWS 24X7 (IN)" tvg-logo=" "  group-title="MX-TV",K NEWS 24X7 (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
-#EXTINF:-1 ch-id="HINDI KHABAR (IN)" tvg-logo=" "  group-title="MX PLAYER TV",HINDI KHABAR (IN)
+#EXTINF:-1 ch-id="HINDI KHABAR (IN)" tvg-logo=" "  group-title="MX-TV",HINDI KHABAR (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
-#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo=" "  group-title="MX PLAYER TV",DD INDIA (IN)
+#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo=" "  group-title="MX-TV",DD INDIA (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
-#EXTINF:-1 ch-id="SURYA SAMACHAR (IN)" tvg-logo=" "  group-title="MX PLAYER TV",SURYA SAMACHAR (IN)
+#EXTINF:-1 ch-id="SURYA SAMACHAR (IN)" tvg-logo=" "  group-title="MX-TV",SURYA SAMACHAR (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
-#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="MX PLAYER TV",FOOD FOOD (IN)
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="MX-TV",FOOD FOOD (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-#EXTINF:-1 ch-id="DW (IN)" tvg-logo=" "  group-title="MX PLAYER TV",DW (IN)
+#EXTINF:-1 ch-id="DW (IN)" tvg-logo=" "  group-title="MX-TV",DW (IN)
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 ch-id="FRANCE 24 (ASIA)" tvg-logo=" "  group-title="MX PLAYER TV",FRANCE 24 (ASIA)
+#EXTINF:-1 ch-id="FRANCE 24 (ASIA)" tvg-logo=" "  group-title="MX-TV",FRANCE 24 (ASIA)
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo=" "  group-title="MX PLAYER TV",EURO NEWS (UK)
+#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo=" "  group-title="MX-TV",EURO NEWS (UK)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
-#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo=" "  group-title="MX PLAYER TV",DD RETRO (IN)
+#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo=" "  group-title="MX-TV",DD RETRO (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in/index.m3u8
-#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="MX PLAYER TV",SANSKAR (IN)
+#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="MX-TV",SANSKAR (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
-#EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",ISHWAR TV (IN)
+#EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="MX-TV",ISHWAR TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
-#EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo=" "  group-title="MX PLAYER TV",SHEMAROO TV (IN)
+#EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo=" "  group-title="MX-TV",SHEMAROO TV (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-#EXTINF:-1 ch-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="MX PLAYER TV",CHANNEL WIN (IN)
+#EXTINF:-1 ch-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="MX-TV",CHANNEL WIN (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
 
 #EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (ASIA)
