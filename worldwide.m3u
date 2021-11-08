@@ -254,7 +254,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-299
 https://snehz5tv.herokuapp.com/?c=0-9-302
 #EXTINF:-1 ch-id="SHUBH TV (IN)" tvg-logo=" "  group-title="ZEE5",SHUBH TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-327
-#EXTINF:-1 ch-id="& Privé HD (IN)" tvg-logo=" "  group-title="ZEE5",& Privé HD (IN)
+#EXTINF:-1 ch-id="&Privé HD (IN)" tvg-logo=" "  group-title="ZEE5",&Privé HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-privéhd                  
 #EXTINF:-1 ch-id="SATSANG (IN)" tvg-logo=" "  group-title="ZEE5",SATSANG (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_1565694979
@@ -275,10 +275,14 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 ch-id="HLN (US)" tvg-logo=" "  group-title="TURNER-LIVE",HLN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 ch-id="HBO FAMILY (ASIA)" tvg-logo=" "  group-title="ONLINE-TV",HBO FAMILY (ASIA)
+#EXTINF:-1 ch-id="HBO FAMILY (ASIA)" tvg-logo=" "  group-title="HBO-GO",HBO FAMILY (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="ONLINE-TV",HBO (ASIA)
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="HBO-GO",HBO (ASIA)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+#EXTINF:-1 ch-id="HBO SIGNATURE (ASIA)" tvg-logo=" "  group-title="HBO-GO",HBO SIGNATURE (ASIA)
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/2.m3u8
+#EXTINF:-1 ch-id="HBO HITS (ASIA)" tvg-logo=" "  group-title="HBO-GO",HBO HITS (ASIA)
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 ch-id="ABC 7 (US)" tvg-logo=" "  group-title="SYNCBAK-TV",ABC 7 (US)
 http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
@@ -972,12 +976,6 @@ http://62.112.9.63:88/itv4/index.m3u8?token=test
 
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title="PLAY",ZEE TV (UK)
 http://93.152.174.144:4000/play/zee/index.m3u8
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo=" "   group-title="PLAY",ZEE ACTION (IN)
-http://93.152.174.144:4000/play/zeeaction/index.m3u8
-#EXTINF:-1 ch-id="SONY PAL (IN)" tvg-logo=" "  group-title="PLAY",SONY PAL (IN)
-http://93.152.174.144:4000/play/sonypal/index.m3u8
-#EXTINF:-1 ch-id="STAR SPORTS 3 (IN)" tvg-logo=" "  group-title="PLAY",STAR SPORTS 3 (IN)
-http://93.152.174.144:4000/play/ss3in/index.m3u8
 #EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
 http://93.152.174.144:4000/play/Redlight/index.m3u8
 #EXTINF:-1 ch-id="PENTHOUSE GOLD (UK)" tvg-logo=" "  group-title="ADULT",PENTHOUSE GOLD (UK)
@@ -986,8 +984,6 @@ http://93.152.174.144:4000/play/Penthouse/index.m3u8
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 ch-id="BT SPORTS 2 (UK)" tvg-logo=" "  group-title="PLAY",BT SPORTS 2 (UK)
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 ch-id="ITV (UK)" tvg-logo=" "  group-title="PLAY",ITV (UK)
-http://93.152.174.144:4000/play/itv1/index.m3u8
 
 #EXTINF:-1 ch-id="FOX LIFE (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",FOX LIFE (UK)
 http://93.157.62.180:80/FoxLife/playlist.m3u8
@@ -1071,8 +1067,6 @@ http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo=" "  group-title="TV-PC",DISCOVERY (ASIA)
 http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 
-#EXTINF:-1 ch-id="KIDS ZONE HD (PK)" tvg-logo=" "  group-title="DIGITAL-TV",KIDS ZONE HD (PK)
-http://14.192.128.243:8080/1012/KIDSZONE+/playlist.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo=" "   group-title="DIGITAL-TV",COLORS HD (IN)
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo=" "  group-title="DIGITAL-TV",HORNBILL TV (IN)
