@@ -508,6 +508,8 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hss
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 ch-id="CNN (UK)" tvg-logo=" "  group-title="PLUTO-TV",CNN (UK)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 ch-id="NICK (UK)" tvg-logo=" "  group-title="PLUTO-TV",NICK (UK)
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 #EXTINF:-1 ch-id="WIZ TV (ASIA)" tvg-logo=" "  group-title="AS-LIVE",WIZ TV (ASIA)
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/playlist.m3u8
@@ -922,6 +924,10 @@ http://14.199.164.20:4001/play/a0sm/index.m3u8
 http://14.199.164.20:4001/play/a0nn/index.m3u8
 #EXTINF:-1 ch-id="DHINCHAAK (IN)" tvg-logo=" "  group-title="PLAY",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 ch-I'd="M TUNES tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="PLAY",M TUNES (IN)
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 ch-id="9XM JALWA (IN)" tvg-logo=" "  group-title="PLAY",9XM JALWA (IN)
+http://14.199.164.20:4001/play/a0nc/index.m3u8
 
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="LIVE-STREAMING",HBO (ASIA)
 http://50.7.61.148:30080/Entry/hbo
