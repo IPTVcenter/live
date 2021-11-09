@@ -753,41 +753,41 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="MX-TV",CHANNEL WIN (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
 
-#EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (ASIA)
+#EXTINF:-1 ch-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="CINEMAX (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (ASIA)
+#EXTINF:-1 ch-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS 3 (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 3 (ASIA)
+#EXTINF:-1 ch-id="FOX SPORTS 3 (VN)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 3 (VN)
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/master.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS (ASIA)
+#EXTINF:-1 ch-id="FOX SPORTS (VN)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS (VN)
 https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
-#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",HBO (ASIA)
+#EXTINF:-1 ch-id="HBO (VN)" tvg-logo=" "  group-title="FPT-PLAY",HBO (VN)
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",ANIMAL PLANET (ASIA)
+#EXTINF:-1 ch-id="ANIMAL PLANET (VN)" tvg-logo=" "  group-title="FPT-PLAY",ANIMAL PLANET (VN)
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO WILD (ASIA)
+#EXTINF:-1 ch-id="NAT GEO WILD (VN)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO WILD (VN)
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS 2 (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 2 (ASIA)
+#EXTINF:-1 ch-id="FOX SPORTS 2 (VN)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 2 (VN)
 https://livecdn.fptplay.net/hda3/foxsports2_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BBC CBEEBIES (ASIA)
+#EXTINF:-1 ch-id="BBC CBEEBIES (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC CBEEBIES (VN)
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
-#EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BABY FIRST (ASIA)
+#EXTINF:-1 ch-id="BABY FIRST (VN)" tvg-logo=" "  group-title="FPT-PLAY",BABY FIRST (VN)
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
-#EXTINF:-1 ch-id="TLC (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",TLC (ASIA)
+#EXTINF:-1 ch-id="TLC (VN)" tvg-logo=" "  group-title="FPT-PLAY",TLC (VN)
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
-#EXTINF:-1 ch-id="BOOMERANG (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BOOMERANG (ASIA)
+#EXTINF:-1 ch-id="BOOMERANG (VN)" tvg-logo=" "  group-title="FPT-PLAY",BOOMERANG (VN)
 https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
-#EXTINF:-1 ch-id="NAT GEO HD (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO HD (ASIA)
+#EXTINF:-1 ch-id="NAT GEO HD (VN)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO HD (VN)
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="BLUE ENTERTAINMENT (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ENTERTAINMENT (ASIA)
+#EXTINF:-1 ch-id="BLUE ENTERTAINMENT (VN)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ENTERTAINMENT (VN)
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunk.m3u8
-#EXTINF:-1 ch-id="OUTDOOR (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",OUTDOOR (ASIA)
+#EXTINF:-1 ch-id="OUTDOOR (VN)" tvg-logo=" "  group-title="FPT-PLAY",OUTDOOR (VN)
 http://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="DW (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",DW (ASIA)
+#EXTINF:-1 ch-id="DW (VN)" tvg-logo=" "  group-title="FPT-PLAY",DW (VN)
 https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="ROCK  (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",ROCK (ASIA)
+#EXTINF:-1 ch-id="ROCK  (VN)" tvg-logo=" "  group-title="FPT-PLAY",ROCK (VN)
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="BBC NEWS (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BBC NEWS (ASIA)
+#EXTINF:-1 ch-id="BBC NEWS (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC NEWS (VN)
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
