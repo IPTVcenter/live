@@ -1040,8 +1040,6 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo=" "   group-title="LOCKLE",COLORS HD (IN)
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
-#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo=" "  group-title="LOCKLE",SONY SAB HD (IN)
-http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="LOCKLE",STAR PLUS HD (IN)
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR WORLD HD (IN)
@@ -1056,30 +1054,20 @@ http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:-1 ch-id="URDU 1 (PK)" tvg-logo=" "  group-title="LOCKLE",URDU 1 (PK)
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo=" "  group-title="LOCKLE",PTV SPORTS (PK)
-http://221.120.204.4/PTV-SPORTS-LOCKLE/playlist.m3u8?Token=
 #EXTINF:-1 ch-id="GEO SUPER (PK)" tvg-logo=" "  group-title="LOCKLE",GEO SUPER (PK)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "   group-title="LOCKLE",ZEE TV HD (IN)
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="LOCKLE",ZEE CINEMA HD (IN)
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="24 NEW (PK)" tvg-logo=" "  group-title="LOCKLE",24 NEWS (PK)
+#EXTINF:-1 ch-id="24 NEW HD (PK)" tvg-logo=" "  group-title="LOCKLE",24 NEWS HD (PK)
 http://221.120.204.4/24-NEWS-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 ch-id="SUCH NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",SUCH NEWS (PK)
-http://221.120.204.4/SUCH-NEWS-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 ch-id="PUBLIC NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",PUBLIC NEWS (PK)
-http://221.120.204.4/PUBLIC-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="HUM NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",HUM NEWS (PK)
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="GTV NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",GTV NEWS (PK)
 http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="LAHORE RANG (PK)" tvg-logo=" "  group-title="LOCKLE",LAHORE RANG (PK)
 http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 ch-id="DUNYA NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",DUNYA NEWS (PK)
-http://221.120.204.4/DUNYA-NEWS-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 ch-id="STAR SPORTS SELECT 2 HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR SPORTS SELECT 2 HD (IN)
-http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-id="EXTASY HD (UK)" tvg-logo=" "  group-title="ADULT",EXTASY HD (UK)
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8 
@@ -1121,38 +1109,4 @@ http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
 #EXTINF:-1 ch-id="MSNBC REPORTS (UK)" tvg-logo=" "  group-title="CDN-TV",MSNBC REPORTS (UK)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
-
-
-#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title=" ", (ME)
 
