@@ -787,6 +787,8 @@ http://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="ROCK  (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",ROCK (ASIA)
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="BBC NEWS (ASIA)" tvg-logo=" "  group-title="FPT-PLAY",BBC NEWS (ASIA)
+https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 ch-id="21 SEXTURY (UK)" tvg-logo="https://1.bp.blogspot.com/-jtJU2b3rQ6c/YStsQ3mm-pI/AAAAAAAAA8Q/uaW3xhTtODM3x2kl4aUJohjizIB7OltdACLcBGAsYHQ/s200/PicsArt_08-29-04.44.46.jpg"  group-title="ADULT",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
@@ -1011,6 +1013,10 @@ http://93.157.62.180:80/FoxMovies/index.m3u8
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo=" "   group-title="STREAMS",AXN (ASIA)
 http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 ch-id="ITV 2 (UK)" tvg-logo=" "   group-title="STREAMS",IPTV 2 (UK)
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+#EXTINF:-1 ch-id="ITV 1 (UK)" tvg-logo=" "   group-title="STREAMS",IPTV 1 (UK)
+http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
 
 #EXTINF:-1 ch-id=STAR BHARAT (IN)" tvg-logo=" "  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
