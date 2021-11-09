@@ -779,13 +779,13 @@ https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 ch-id="NAT GEO HD (VN)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO HD (VN)
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="BLUE ENTERTAINMENT (VN)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ENTERTAINMENT (VN)
+#EXTINF:-1 ch-id="BLUE ANT ENTERTAINMENT (VN)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ANT ENTERTAINMENT (VN)
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunk.m3u8
 #EXTINF:-1 ch-id="OUTDOOR (VN)" tvg-logo=" "  group-title="FPT-PLAY",OUTDOOR (VN)
 http://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="DW (VN)" tvg-logo=" "  group-title="FPT-PLAY",DW (VN)
 https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="ROCK  (VN)" tvg-logo=" "  group-title="FPT-PLAY",ROCK (VN)
+#EXTINF:-1 ch-id="BLUE ANT EXTREME (VN)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ANT EXTREME (VN)
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC NEWS (VN)
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
@@ -1086,6 +1086,10 @@ http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 http://212.102.38.90:8080/TLC/index.m3u8
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="DIGITAL-TV",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo=" "  group-title="DIGITAL-TV",AXN (ASIA)
+http://210.210.155.35:80/dr9445/h/h141/02.m3u8
+#EXTINF:-1 ch-id="BLUE ANT ENTERTAINMENT (ASIA)" tvg-logo=" "  group-title="DIGITAL-TV",BLUE ANT ENTERTAINMENT (ASIA)
+http://45.126.83.51/dr9445/h/h16/02.m3u8
 #EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo=" "  group-title="DIGITAL-TV",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo=" "   group-title="DIGITAL-TV",ONE GOLF (PK)
