@@ -128,74 +128,30 @@ http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
 #EXTINF:-1 ch-id="THE BOB ROSS CHANNEL (US)" tvg-logo=""  group-title="GOOGLE-TV",THE BOB ROSS CHANNEL (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeetv
-#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "   group-title="ZEE5",ZEE TV HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeetvhd
 #EXTINF:-1 ch-id="ZEE CLASSIC (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CLASSIC (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-176
 #EXTINF:-1 ch-id="& EXPLORE HD (IN)" tvg-logo=" "  group-title="ZEE5",& EXPLORE HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-209
-#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeeanmol
-#EXTINF:-1 ch-id="ZEE ANMOL CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ANMOL CINEMA (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeeanmolcinema
-#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ZEE5",&TV HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-tvhd_0
 #EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-322
-#EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="ZEE5",WION (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-wion
-#EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="ZEE5",ZEE HINDUSTAN (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeehindustan
-#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="ZEE5",ZEE BUSINESS (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeebusiness
 #EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ZEE5",DD 1 HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-250
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ZEST HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-348
-#EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-ddbharati
-#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="ZEE5",ZEE SALAM (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeesalaam
-#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="ZEE5",9XM (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-131
 #EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title="ZEE5",9X JALWA (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-133
-#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE CINEMA (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeecinema
 #EXTINF:-1 ch-id="E24 (IN)" tvg-logo=" "  group-title="ZEE5",E24 (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-207
-#EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo=" "   group-title="ZEE5",& PICTURES HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-tvpictureshd
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd
-#EXTINF:-1 ch-id="ZEE CAFE HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CAFE HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeecafehd
-#EXTINF:-1 ch-id="BIG MAGIC (IN)" tvg-logo=" "   group-title="ZEE5",BIG MAGIC (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
-#EXTINF:-1 ch-id="ZEE BOLLYWOOD (IN)" tvg-logo=" "   group-title="ZEE5",ZEE BOLLYWOOD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeeclassic
-#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ACTION (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeeaction
-#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo=" "  group-title="ZEE5",DD KISAN (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-ddkisan
+#EXTINF:-1 ch-id="NEWS24 (IN)" tvg-logo=" "  group-title="ZEE5",NEWS24 (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-206
 #EXTINF:-1 ch-id="9X JHAKAAS (IN)" tvg-logo=" "  group-title="ZEE5",9X JHAKAAS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-134
-#EXTINF:-1 ch-id="DD URDU (IN)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-ddurdu
 #EXTINF:-1 ch-id="GTN (IN)" tvg-logo=" "  group-title="ZEE5",GTN (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-255
-#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "   group-title="ZEE5",ZING (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zing
-#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo=" "  group-title="ZEE5",AAJ TAK (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-aajtak
-#EXTINF:-1 ch-id="DIVYA TV (IN)" tvg-logo=" "  group-title="ZEE5",DIVYA TV (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-divyatv
-#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
+#EXTINF:-1 ch-id="NEWS 1 INDIA (IN)" tvg-logo=" "  group-title="ZEE5",NEWS 1 INDIA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-417
 #EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo=" "  group-title="ZEE5",PRATIDIN TIME (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-413
 #EXTINF:-1 ch-id="PRAG NEWS (IN)" tvg-logo=" "  group-title="ZEE5",PRAG NEWS (IN)
@@ -208,8 +164,6 @@ https://snehz5tv.herokuapp.com/?c=0-9-313
 https://snehz5tv.herokuapp.com/?c=0-9-284
 #EXTINF:-1 ch-id="AFRICA NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AFRICA NEWS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-390
-#EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title="ZEE5",&PICTURES (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-pictures
 #EXTINF:-1 ch-id="AB STAR NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AB STAR NEWS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-387
 #EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo=" "  group-title="ZEE5",ABP NEWS (IN)
@@ -234,8 +188,6 @@ https://snehz5tv.herokuapp.com/?c=0-9-393
 https://snehz5tv.herokuapp.com/?c=0-9-183
 #EXTINF:-1 ch-id="INDIA NEWS (IN)" tvg-logo=" "  group-title="ZEE5",INDIA NEWS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-272
-#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo=" "  group-title="ZEE5",ZEE NEWS (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zeenews
 #EXTINF:-1 ch-id="VIP NEWS (IN)" tvg-logo=" "  group-title="ZEE5",VIP NEWS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-314
 #EXTINF:-1 ch-id="TV9 BHARATVARSH (IN)" tvg-logo=" "  group-title="ZEE5",TV9 BHARATVARSH (IN)
@@ -244,6 +196,8 @@ https://snehz5tv.herokuapp.com/?c=0-9-251
 https://snehz5tv.herokuapp.com/?c=0-9-386
 #EXTINF:-1 ch-id="TIME 8 (IN)" tvg-logo=" "  group-title="ZEE5",TIME 8 (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-317
+#EXTINF:-1 ch-id="KRISHNA VANI (IN)" tvg-logo=" "  group-title="ZEE5",KRISHNA VANI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-166
 #EXTINF:-1 ch-id="SUDARSHAN NEWS (IN)" tvg-logo=" "  group-title="ZEE5",SUDARSHAN NEWS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-383
 #EXTINF:-1 ch-id="SOUNDS OF ZEE5 ROMANCE (IN)" tvg-logo=" "  group-title="ZEE5",SOUNDS OF ZEE5 ROMANCE (IN)
@@ -254,14 +208,72 @@ https://snehz5tv.herokuapp.com/?c=0-9-299
 https://snehz5tv.herokuapp.com/?c=0-9-302
 #EXTINF:-1 ch-id="SHUBH TV (IN)" tvg-logo=" "  group-title="ZEE5",SHUBH TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-327
+#EXTINF:-1 ch-id="NE NEWS (IN)" tvg-logo=" "  group-title="ZEE5",NE NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-280
+#EXTINF:-1 ch-id="INDIA TV (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-282
+#EXTINF:-1 ch-id="NEWS NATION (IN)" tvg-logo=" "  group-title="ZEE5",NEWS NATION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-170
+#EXTINF:-1 ch-id="&TV HD (IN)" tvg-logo=" "  group-title="ZEE5",&TV HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-tvhd_0
 #EXTINF:-1 ch-id="&Privé HD (IN)" tvg-logo=" "  group-title="ZEE5",&Privé HD (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-privéhd                  
+https://snehz5tv.herokuapp.com/?c=0-9-privéhd 
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo=" "  group-title="ZEE5",ZEE NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeenews
+#EXTINF:-1 ch-id="&PICTURES (IN)" tvg-logo=" "  group-title="ZEE5",&PICTURES (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-pictures
+#EXTINF:-1 ch-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
+#EXTINF:-1 ch-id="ZING (IN)" tvg-logo=" "   group-title="ZEE5",ZING (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zing
+#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo=" "  group-title="ZEE5",AAJ TAK (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-aajtak
+#EXTINF:-1 ch-id="DIVYA TV (IN)" tvg-logo=" "  group-title="ZEE5",DIVYA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-divyatv
+#EXTINF:-1 ch-id="& PICTURES HD (IN)" tvg-logo=" "   group-title="ZEE5",& PICTURES HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-tvpictureshd
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd
+#EXTINF:-1 ch-id="ZEE CAFE HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CAFE HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecafehd
+#EXTINF:-1 ch-id="ZEE BOLLYWOOD (IN)" tvg-logo=" "   group-title="ZEE5",ZEE BOLLYWOOD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeclassic
+#EXTINF:-1 ch-id="ZEE ACTION (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ACTION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeaction
+#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo=" "  group-title="ZEE5",DD KISAN (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddkisan
+#EXTINF:-1 ch-id="ZEE CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE CINEMA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecinema
+#EXTINF:-1 ch-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddbharati
+#EXTINF:-1 ch-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="ZEE5",ZEE SALAAM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeesalaam
+#EXTINF:-1 ch-id="DD URDU (IN)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddurdu
+#EXTINF:-1 ch-id="WION (IN)" tvg-logo=" "  group-title="ZEE5",WION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-wion
+#EXTINF:-1 ch-id="ZEE HINDUSTAN (IN)" tvg-logo=" "  group-title="ZEE5",ZEE HINDUSTAN (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeehindustan
+#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="ZEE5",ZEE BUSINESS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeebusiness
+#EXTINF:-1 ch-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeanmol
+#EXTINF:-1 ch-id="ZEE ANMOL CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ANMOL CINEMA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeanmolcinema
+#EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetv
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo=" "   group-title="ZEE5",ZEE TV HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetvhd                
 #EXTINF:-1 ch-id="SATSANG (IN)" tvg-logo=" "  group-title="ZEE5",SATSANG (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_1565694979
 #EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo=" "  group-title="ZEE5",SANSKAR (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_1144658965
 #EXTINF:-1 ch-id="REPUBLIC TV (IN)" tvg-logo=" "  group-title="ZEE5",REPUBLIC TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_1422341819
+#EXTINF:-1 ch-id="BIG MAGIC (IN)" tvg-logo=" "   group-title="ZEE5",BIG MAGIC (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
+#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 
 #EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
