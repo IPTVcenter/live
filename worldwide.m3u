@@ -6,14 +6,6 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG QUICKTAKE (UK)" tvg-logo=" "  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SonyLiv",SONY MAX SD
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="JIO_SabbirIPTV", And TV HD
-http://jo123.biz/jweb/m3u8.php?c=And_TV_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-id="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLiv",SONY MAX 2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-
-
 #EXTINF:-1 ch-id="CNM (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",BLOOMBERG (UK)
@@ -282,6 +274,10 @@ https://snehz5tv.herokuapp.com/?c=0-9-channel_1422341819
 https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
+
+
+
+
 
 #EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo=" "   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
@@ -704,8 +700,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 ch-id="MOVIE PLUS (IN)" tvg-logo=" "  group-title="MX-TV",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 ch-id="BOLLYWOOD (IN)" tvg-logo=" "  group-title="MX-TV",BOLLYWOOD (IN)
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 ch-id="EPIC (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhOK7yKY6kYhHNuZm1uxfFcqpH7ADR3iVXImuN1cG3dzMrXKUkJBJl5KNUANpKkOpS7dMIsp_EaaYSMFT29RRJIpuTFKIs4zFLPEAbD4wsRFngewG7vqE4j1EGM4oIodO1p4V6uKGb02hEXla21W06IyWjgApd4pj2Gz6a-P405Rj6d2SVHVLb0tQSb=s200"  group-title="MX-TV" ,EPIC (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 #EXTINF:-1 ch-id="DISHUM (IN)" tvg-logo=" "  group-title="MX-TV",DISHUM (UK)
@@ -1110,8 +1104,6 @@ http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 #EXTINF:-1 ch-id="DISCOVERY (ASIA)" tvg-logo=" "  group-title="TV-PC",DISCOVERY (ASIA)
 http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 
-#EXTINF:-1 ch-id="COLORS HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEggfegNcaQLxW5KW2ZRxMnj54VdCZE78DcoYbvQ_JOx_GV5RwSFez_2ObbFZJ8THeo51BhKtIGgjBAb2S46KVwtjI5Sz08fsxEkEfMmHDYmXImuhVLz-oSVncJY-Y-ftsa0LRV4fpcG9T_h6mrL49C82Mpq6qQ8_Q2y10qHNJ4lGJYKQsVzigU5QWII=s200"   group-title="DIGITAL-TV",COLORS HD (IN)
-http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF:-1 ch-id="HORNBILL TV (IN)" tvg-logo=" "  group-title="DIGITAL-TV",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 #EXTINF:-1 ch-id="TLC (UK)" tvg-logo=" "  group-title="DIGITAL-TV",TLC (UK)
@@ -1119,9 +1111,9 @@ http://212.102.38.90:8080/TLC/index.m3u8
 #EXTINF:-1 ch-id="CNN (US)" tvg-logo=" "  group-title="DIGITAL-TV",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo=" "  group-title="DIGITAL-TV",AXN (ASIA)
-http://210.210.155.35:80/dr9445/h/h141/02.m3u8
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1 ch-id="BLUE ANT ENTERTAINMENT (ASIA)" tvg-logo=" "  group-title="DIGITAL-TV",BLUE ANT ENTERTAINMENT (ASIA)
-http://45.126.83.51/dr9445/h/h16/02.m3u8
+http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1 ch-id="HD FASHION (US)" tvg-logo=" "  group-title="DIGITAL-TV",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 ch-id="ONE GOLF (PK)"  tvg-logo=" "   group-title="DIGITAL-TV",ONE GOLF (PK)
@@ -1138,7 +1130,7 @@ http://203.154.243.89:11208
 http://185.96.176.139:90/superone/index.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (RU)" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD (RU)
 http://193.33.240.8:80/NatGeoWild/playlist.m3u8
-#EXTINF:-1 ch-id="XY PLUS (UK)" tvg-logo=" "  group-title="ADULT"XY PLUS (UK)
+#EXTINF:-1 ch-id="XY PLUS (UK)" tvg-logo=" "  group-title="ADULT",XY PLUS (UK)
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 
 #EXTINF:-1 ch-id="FOX NEWS (US)" tvg-logo=" "  group-title="CDN-TV",FOX NEWS (US)
