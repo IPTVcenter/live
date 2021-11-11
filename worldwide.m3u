@@ -962,6 +962,8 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo=" "  group-title="STREAMS",ANIMAL PLANET (ASIA)
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 ch-id="WWE (ASIA)" tvg-logo=" "  group-title="STREAMS",WWE (ASIA)
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 
 #EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="LIVE-STREAMING",AXN HD (UK)
 http://51.15.0.141:88/axn/index.m3u8
