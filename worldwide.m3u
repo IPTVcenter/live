@@ -6,6 +6,12 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG QUICKTAKE (UK)" tvg-logo=" "  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SonyLiv",SONY MAX SD
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="JIO_SabbirIPTV", And TV HD
+http://jo123.biz/jweb/m3u8.php?c=And_TV_HD&q=800&e=.m3u8
+
+
 #EXTINF:-1 ch-id="CNM (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",BLOOMBERG (UK)
