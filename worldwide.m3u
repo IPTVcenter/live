@@ -1,22 +1,22 @@
 #EXTM3U TV
 #EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjpOiN-cXAgCO9zbWn8VbS2aun3b5itDNi2NUiaspzczpy7T1H8bDb10yFN_kALzlEQqE0oAbpK9AouMcZo8nITo9dk79srcp_L2PsYh0R7dD9o9u8sItuETHd9N1Yzp8Pj7jm-QOkUgHQjuYOVevSmdkqKfPVCWJLfeFoAtaL7aBE6KXOxA2ZuQkgdaA=s200"  group-title="ROKU-TV",EURO NEWS (UK)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="AFV! (UK)" tvg-logo=" "  group-title="ROKU-TV",AFV! (UK)
+#EXTINF:-1 ch-id="AFV! (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjpOiN-cXAgCO9zbWn8VbS2aun3b5itDNi2NUiaspzczpy7T1H8bDb10yFN_kALzlEQqE0oAbpK9AouMcZo8nITo9dk79srcp_L2PsYh0R7dD9o9u8sItuETHd9N1Yzp8Pj7jm-QOkUgHQjuYOVevSmdkqKfPVCWJLfeFoAtaL7aBE6KXOxA2ZuQkgdaA=s200"  group-title="ROKU-TV",AFV! (UK)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 ch-id="BLOOMBERG QUICKTAKE (UK)" tvg-logo=" "  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
+#EXTINF:-1 ch-id="BLOOMBERG QUICKTAKE (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh3oZJ4LbG_6XLAyZNkAe1mcGMzaOUskIOnr-4GsuUmn-yo7kTNWYaFBJrRqCVTWCVUcVGkWi9KspCZEeVJZ27LL5gYxDoEA3K_TiYZj_Dd6GG84k6qaBezSwkLy21KdSCXQfH9c5nRnqIlR1j_Muh8NGXro4lu6QrNKf8tq-5TW-4TvHtT1bDj19EvxQ=s200"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 ch-id="CNM (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",CNN (UK)
+#EXTINF:-1 ch-id="CNM (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWIu4f2Q6HVGFQoat9BlOvoAgURpp8YIXs2RiXbzB7qLFRjncIsdbcvKJZEaDYolh0FwbdQOHAUE5j7v5hlPcFb1DU6pRspsQB42k6yGx3WwptzgMSWNxKSUKG_XiWFVGSuC12xndZmKEHgxlTCbu_W9gFFdWS01YgNbGsvnb98fma6ouB5nXhZsb_1Q=s200"  group-title="SAMSUNG-TV",CNN (UK)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",BLOOMBERG (UK)
+#EXTINF:-1 ch-id="BLOOMBERG (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0SBD3cMoYoKikLQ8eAANnuUQYGbOgnEaoUaPpHs2fZZy1n62JKowp4IBQ_iNhagHFMmeak5sSNq0C9sxZFpIXnkTfPdYr36rsOMlsvOsPi42IqxlIbGwnoedewgIQO3aB6h5-lnDzwIOmIdVIEobzeZ3llL7wTky8wPpSuY1tHYhuZZ6L7tBpFgqjgQ=s200"  group-title="SAMSUNG-TV",BLOOMBERG (UK)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="FTF (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",FTF (US)
+#EXTINF:-1 ch-id="FTF (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrL5OkHQ-eOhjDUplknlZvGNGHoA4Dwi609KYp35-z8LP7ZVV4zPwNMKe--9uuesJZc4CxWbOx7iKq2a2NvnJTGUGPMvVgEzSn3Nqjtt-BDBSpLXvMbTSu30gETBgKa8PDUQhpRO231Phr6pcuTxab6VVUqY_4qSzZ8cWLSypRtwbDa-TiLcQEXbeXnQ=s200"  group-title="SAMSUNG-TV",FTF (US)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="FAILARMY (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",FAILARMY (UK)
+#EXTINF:-1 ch-id="FAILARMY (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjI4RAxK3srAf1gW40dQIgHvCEGJUIJ-Gs6WFexjkKgR4xKvnn488PCxzRHtBVKLoRHXl1JB7rkO7NB9lvRf1-vKIbGYwBTQ6dJYlNkAnbFZrk7WNO9_J2qfDPJatg4pnD4YzVhcBoxqG-pkSFAc6k4bumBBLubUySlCb9gK80EcNbDp3SolKfWukmhng=s200"  group-title="SAMSUNG-TV",FAILARMY (UK)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
+#EXTINF:-1 ch-id="THE PET COLLECTIVE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiSf3OLFrRz_k4fNwcam7HRwPe6OPlQRAlj-H-mnvaLtKlCVspgQ0pdWaa9976h8Nyzbpb1MZ_SdvblPVYnXC323omeu5lG_87sjUhvIlkBh3TaYA2aLH7PbAtrexlqHdexgdZhXZQyJGj_e0lxGpEGp0xCcbY75xiLahwEPXmaG-dWX590-5JaRBxhyA=s200"  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo=" "  group-title="SAMSUNG-TV",DUCK TV (UK)
+#EXTINF:-1 ch-id="DUCK TV (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiaX5yGG6XQUimvZRcrR3G3TOwm4LM4sPhdxrWOJD52bxHDz9Y5FxI_pXJpLHRSl340wdsf3im4BJub7tv9n5b7XraC2mgUZmwM9HyEto3t1vchxnPvkHokQj0x8sjEOS6cbTsFit7UTZ_J4rbNt9C7seJK1Z-Eph9irK-PTRhwY3J3cXp5vLVMF-MK3w=s200"  group-title="SAMSUNG-TV",DUCK TV (UK)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="MULTI-TV",DD SPORTS (IN)
