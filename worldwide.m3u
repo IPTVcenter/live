@@ -1,5 +1,5 @@
 #EXTM3U TV
-#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo=" "  group-title="ROKU-TV",EURO NEWS (UK)
+#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjpOiN-cXAgCO9zbWn8VbS2aun3b5itDNi2NUiaspzczpy7T1H8bDb10yFN_kALzlEQqE0oAbpK9AouMcZo8nITo9dk79srcp_L2PsYh0R7dD9o9u8sItuETHd9N1Yzp8Pj7jm-QOkUgHQjuYOVevSmdkqKfPVCWJLfeFoAtaL7aBE6KXOxA2ZuQkgdaA=s200"  group-title="ROKU-TV",EURO NEWS (UK)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ch-id="AFV! (UK)" tvg-logo=" "  group-title="ROKU-TV",AFV! (UK)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
