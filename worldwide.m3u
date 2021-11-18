@@ -1033,6 +1033,16 @@ http://62.112.9.63:88/itv2/index.m3u8?token=test
 #EXTINF:-1 ch-id="ITV 3 (UK)" tvg-logo=" "  group-title="LIVE-STREAMING",ITV 3 (UK)
 http://62.112.9.63:88/itv4/index.m3u8?token=test
 
+#EXTINF:-1 ch-id="POGO (IN)" tvg-logo=" "  group-title="JIO-TV",POGO (IN)
+http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=400&e=.m3u8
+#EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo=" "  group-title="JIO-TV",NEWS LIVE (IN)
+http://65.2.4.240/jioo.php?c=Newslive&q=400&e=.m3u8
+
+
+
+
+
+
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title="PLAY",ZEE TV (UK)
 http://93.152.174.144:4000/play/zee/index.m3u8
 #EXTINF:-1 ch-id="REDLIGHT HD (UK)" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
