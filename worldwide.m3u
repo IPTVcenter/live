@@ -1057,10 +1057,39 @@ http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=And_TV_HD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO-TV", ZEE TV HD (IN)
 http://65.2.4.240/jioo.php?c=Zee_TV_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="COLORS HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JIO-TV", COLORS HD (IN)
+http://65.2.4.240/jioo.php?c=Colors_HD&q=400&e=.m3u8
+#EXTINF:-1 ch-id="COLORS (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS (IN)
+http://65.2.4.240/jioo.php?c=Colors_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="JIO-TV", ZEE ANMOL (IN)
+http://65.2.4.240/jioo.php?c=Zee_Anmol&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="COLORS RISHTEY (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="JIO-TV",COLORS RISHTEY (IN)
+http://65.2.4.240/jioo.php?c=Rishtey&q=400&e=.m3u8
+#EXTINF:-1 ch-id="RISHTEY CINEPLEX (IN)" (IN)" tvg-logo=" "  group-title="JIO-TV",RISHTEY CINEPLEX (IN)
+http://65.2.4.240/jioo.php?c=Rishtey_Cineplex&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY PAL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="JIO-TV", SONY PAL (IN)
+http://65.2.4.240/jioo.php?c=Sony_Pal&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ID (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="JIO-TV", INVESTIGATION DISCOVERY (IN)
+http://65.2.4.240/jioo.php?c=ID&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ARRE (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="JIO-TV", ARRE (IN)
+http://65.2.4.240/jioo.php?c=Arre&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="DANGAL (IN)" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="JIO-TV", DANGAL (IN)
+http://65.2.4.240/jioo.php?c=Dangal&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="DD KISAN (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="JIO-TV", DD KISAN (IN)
+http://65.2.4.240/jioo.php?c=DD_Kisan&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="COLORS INFINITY HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JIO-TV", COLORS INFINITY HD (IN)
+http://65.2.4.240/jioo.php?c=Colors_Infinity_HD&q=400&e=.m3u8
+#EXTINF:-1 ch-id="COLORS INFINITY (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS INFINITY (IN)
+http://65.2.4.240/jioo.php?c=Colors_Infinity_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JIO-TV", COMEDY CENTRAL HD (IN)
+http://65.2.4.240/jioo.php?c=Comedy_Central_HD&q=400&e=.m3u8
+#EXTINF:-1 ch-id="COMEDY CENTRAL (IN)" tvg-logo=" "  group-title="JIO-TV",COMEDY CENTRAL (IN)
+http://65.2.4.240/jioo.php?c=Comedy_Central_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="INDIA SCIENCE (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="JIO-TV", INDIA SCIENCE (IN)
+http://65.2.4.240/jioo.php?c=India_Science&q=400&e=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SONY PAL (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIV",SONY PAL (IN)
 #EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV",SONY YAY (IN)
 #EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV",SONY MAX HD (IN)
 #EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONYLIV",SONY MAX (IN)
