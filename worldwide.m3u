@@ -120,7 +120,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-176
 https://snehz5tv.herokuapp.com/?c=0-9-209
 #EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-322
-#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb0J8o7YCtMglA_4YjK6Qnq8FA91eUQkQxBbcyXrEMzqWe-TK-2vF_h9Tbt8ZcyZE1axLb55APwJ4DWlP0yJ0UhK_nJNTzXgWQjVZK_mfNbflnzroLmhMLhyQBxZGhIG9fE_oRBlCMXb0GvrnqY29qZAH5uXnygOXiM6LWj3NkmLMJ_71x7MqxuvV=s200"  group-title="ZEE5",DD 1 HD (IN)
+#EXTINF:-1 ch-id="DD NATIONAL HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb0J8o7YCtMglA_4YjK6Qnq8FA91eUQkQxBbcyXrEMzqWe-TK-2vF_h9Tbt8ZcyZE1axLb55APwJ4DWlP0yJ0UhK_nJNTzXgWQjVZK_mfNbflnzroLmhMLhyQBxZGhIG9fE_oRBlCMXb0GvrnqY29qZAH5uXnygOXiM6LWj3NkmLMJ_71x7MqxuvV=s200"  group-title="ZEE5",DD NATIONAL HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-250
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ZEST HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-348
@@ -261,41 +261,41 @@ https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 
-#EXTINF: -1 tvg-id="SONY BBC EARTH HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF: -1 tvg-id="SONY PIX HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SONYLIV",Sony PIX HD (IN)
+#EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SONYLIV",Sony PIX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF: -1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="SONY TEN 1 (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",SONY TEN 1 (IN)
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF: -1 tvg-id="SONY TEN 2 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SONYLIV",SONY TEN 2 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SONYLIV",SONY TEN 2 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF: -1 tvg-id="SONY TEN 2 (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SONYLIV",SONY TEN 2 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SONYLIV",SONY TEN 2 (IN)
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF: -1 tvg-id="SONY TEN 3 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-id="SONY TEN 3 (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SONYLIV",SONY TEN 3 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SONYLIV",SONY TEN 3 (IN)
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF: -1 tvg-id="SONY SIX HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SONYLIV",Sony SIX HD (IN)
+#EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SONYLIV",Sony SIX HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF: -1 tvg-id="SONY SIX (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SONYLIV",SONY SIX (IN)
+#EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SONYLIV",SONY SIX (IN)
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF: -1 tvg-id="SONY SET HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SONYLIV",SONY SET HD (IN)
+#EXTINF:-1 tvg-id="SONY SET HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SONYLIV",SONY SET HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF: -1 tvg-id="SONY SAB HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SONYLIV",SONY SAB HD (IN) 
+#EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SONYLIV",SONY SAB HD (IN) 
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF: -1 tvg-id="SONY PAL (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SONYLIV",SONY PAL (IN)
+#EXTINF:-1 tvg-id="SONY PAL (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SONYLIV",SONY PAL (IN)
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF: -1 tvg-id="SONY YAY (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SONYLIV",SONY YAY (IN)
+#EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SONYLIV",SONY YAY (IN)
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF: -1 tvg-id="SONY MAX HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="SONYLIV",SONY MAX HD (IN)
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF: -1 tvg-id="SONY MAX (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SONYLIV",SONY MAX (IN)
+#EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF: -1 tvg-id="SONY MAX 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SONYLIV",SONY MAX 2 (IN)
+#EXTINF:-1 tvg-id="SONY MAX 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SONYLIV",SONY MAX 2 (IN)
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF: -1 tvg-id="SONY WAH (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SONYLIV",SONY WAH (IN)
+#EXTINF:-1 tvg-id="SONY WAH (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SONYLIV",SONY WAH (IN)
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEibSz7h2Fjd6kIEpIRlG7E3tRERnJ2Ovjrj3ffGTI_TqpnC8uPjSbkoZhjSJQqWu7Vjbu4cabVo5kpqSYh6hRRPSqTPlf3Wed2cYcItHH7pMMBYLVu4NJFFpP8usJTGdC4vu_2D6InHOMeSIrVFKDCwSCkR503WBuUb9CWLfnjU2X0KMpA1LJVE13zVgQ=s200"   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
@@ -1039,7 +1039,7 @@ http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Newslive&q=400&e=.m3u8
 #EXTINF:-1 ch-id="NICK (IN)" tvg-logo=" "  group-title="JIO-TV",NICK (IN)
 http://65.2.4.240/jioo.php?c=Nick_Hindi&q=400&e=.m3u8
-#EXTINF:-1 ch-id="COLORS CINEPLEX (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS CINEPLEX (IN)
+#EXTINF:-1 tvg-id="COLORS CINEPLEX (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JIO-TV", COLORS CINEPLEX (IN)
 http://65.2.4.240/jioo.php?c=Colors_Cineplex&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="COLORS CINEPLEX HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="JIO-TV", COLORS CINEPLEX HD (IN)
 http://65.2.4.240/jioo.php?c=Colors_Cineplex_HD&q=400&e=.m3u8
@@ -1087,24 +1087,90 @@ http://65.2.4.240/jioo.php?c=Comedy_Central_HD&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Comedy_Central_SD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="INDIA SCIENCE (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="JIO-TV", INDIA SCIENCE (IN)
 http://65.2.4.240/jioo.php?c=India_Science&q=400&e=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="SONY YAY (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV",SONY YAY (IN)
-#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV",SONY MAX HD (IN)
-#EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONYLIV",SONY MAX (IN)
-#EXTINF:-1 tvg-id="SONY WAH (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONYLIV",SONY WAH (IN)
-#EXTINF:-1 tvg-id="SONY MAX 2 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONYLIV",SONY MAX2 (IN)
-#EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV",SONY PIX HD (IN)
-#EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONYLIV",SONY SIX HD (IN)
-#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV",SONY TEN 1 HD (IN)
-#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONYLIV",SONY TEN 2 HD (IN)
-#EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
-#EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONYLIV",SONY SIX (IN)
-#EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV",SONY TEN 1 (IN)
-#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONYLIV",SONY TEN 2 (IN)
+#EXTINF:-1 tvg-id="JIO FOOTBALL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="JIO-TV", JIO FOOTBALL HD (IN)
+http://65.2.4.240/jioo.php?c=Jio_Football&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="JIO CRICKET HD (IN)" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="JIO-TV", JIO CRICKET HD (IN)
+http://65.2.4.240/jioo.php?c=Jio_Cricket&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="GYAN BRIKSHYA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="JIO-TV", GYAN BRIKSHYA (IN)
+http://65.2.4.240/jioo.php?c=Gyan_Brikshya&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="JIO CRICKET 1 HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="JIO-TV", JIO CRICKET 1 HD (IN)
+http://65.2.4.240/jioo.php?c=Jio_Cricket_1_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="JIO-TV",SONY MAX HD (IN)
+http://65.2.4.240/jioo.php?c=Sony_Max_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="JIO-TV",SONY MAX (IN)
+http://65.2.4.240/jioo.php?c=Sony_Max_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JIO-TV", ZEE CINEMA HD (IN)
+http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="JIO-TV", ZEE CINEMA (IN)
+http://65.2.4.240/jioo.php?c=Zee_Cinema&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="JIO FOOTBALL 1 HD (IN)" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="JIO-TV", JIO FOOTBALL 1 HD (IN)
+http://65.2.4.240/jioo.php?c=Jio_Football_1&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="JIO FOOTBALL 2 HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="JIO-TV", JIO FOOTBALL 2 HD (IN)
+http://65.2.4.240/jioo.php?c=Jio_Football_2&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="JIO FOOTBALL 3 HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="JIO-TV", JIO FOOTBALL 3 HD (IN)
+http://65.2.4.240/jioo.php?c=Jio_Football_3&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="JIO-TV", ZEE BOLLYWOOD (IN)
+http://65.2.4.240/jioo.php?c=Zee_Classic&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="AND PICTURES HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="JIO-TV", AND PICTURES HD (IN)
+http://65.2.4.240/jioo.php?c=And_Pictures_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION (IN)  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="JIO-TV", ZEE ACTION (IN)
+http://65.2.4.240/jioo.php?c=Zee_Action&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="JIO_SabbirIPTV", B4U MOVIES (IN)
+http://65.2.4.240/jioo.php?c=B4U_Movies&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY MAX 2 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="JIO-TV",SONY MAX2 (IN)
+http://65.2.4.240/jioo.php?c=Sony_MAX2&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ENTERR 10 (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="JIO_SabbirIPTV", Enterr 10
+http://65.2.4.240/jioo.php?c=Enterr_10&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="JIO_SabbirIPTV", Zee Anmol Cinema
+http://65.2.4.240/jioo.php?c=Zee_Anmol_Cinema&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="BOX CINEMA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="JIO_SabbirIPTV", Box Cinema
+http://65.2.4.240/jioo.php?c=Box_Cinema&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="MAHA MOVIES (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="JIO_SabbirIPTV", Maha Movies
+http://65.2.4.240/jioo.php?c=Maha_Movies&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="JIO-TV",SONY PIX HD (IN)
+http://65.2.4.240/jioo.php?c=Sony_Pix_HD&q=400&e=.m3u8
+#EXTINF:-1 ch-id="SONY PIX (IN)" tvg-logo=" "  group-title="PLAY",SONY PIX (IN)
+http://65.2.4.240/jioo.php?c=Sony_Pix_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="HI DOST! (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="JIO-TV", HI DOST! (IN)
+http://65.2.4.240/jioo.php?c=Hi_Dost&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="CHANNEL ONE NEWS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_One_News.png" group-title="JIO-TV", CHANNEL ONE NEWS (IN)
+http://65.2.4.240/jioo.php?c=Channel_One_News&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="K NEWS INDIA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="JIO-TV", K NEWS INDIA (IN)
+http://65.2.4.240/jioo.php?c=K_News_India&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="DNN (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="JIO-TV", DNN (IN)
+http://65.2.4.240/jioo.php?c=DNN&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="DD SPORTS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="JIO-TV", DD SPORTS (IN)
+http://65.2.4.240/jioo.php?c=DD_Sports&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="JIO-TV",SONY TEN 1 HD (IN)
+http://65.2.4.240/jioo.php?c=Ten_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="JIO-TV",SONY TEN 1 (IN)
+http://65.2.4.240/jioo.php?c=Ten_1&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD (IN)"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="JIO-TV",SONY TEN 2 HD (IN)
+http://65.2.4.240/jioo.php?c=Ten2_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="JIO-TV",SONY TEN 2 (IN)
+http://65.2.4.240/jioo.php?c=Ten_2&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="JIO-TV",SONY TEN 3 HD (IN)
+http://65.2.4.240/jioo.php?c=Ten3_HD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="JIO-TV",SONY TEN 3 (IN)
-http://65.2.4.240/jioo.php?c=Sony_Ten_1&q=400&e=.m3u8
+http://65.2.4.240/jioo.php?c=Ten_3&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="JIO-TV",SONY SIX HD (IN)
+http://65.2.4.240/jioo.php?c=Six_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY WAH (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="JIO-TV",SONY WAH (IN)
+http://65.2.4.240/jioo.php?c=Sony_Wah&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY SIX (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="JIO-TV", SONY SIX (IN)
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="JIO-TV", EUROSPORT (IN)
+http://65.2.4.240/jioo.php?c=Dsports&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="JIO_SabbirIPTV", EUROSPORT HD (IN)
+http://65.2.4.240/jioo.php?c=Dsports_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="HHDL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="JIO-TV", HHDL (IN)
+http://65.2.4.240/jioo.php?c=HHDL&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="TOP TUTOR tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="JIO-TV", TOP TUTOR (IN)
+http://65.2.4.240/jioo.php?c=Top_Tutor&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="RT TV tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="JIO-TV", RT TV (IN)
+http://65.2.4.240/jioo.php?c=RT_TV&q=400&e=.m3u8
+
+
 
 
 
