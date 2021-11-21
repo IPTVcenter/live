@@ -1231,7 +1231,7 @@ http://65.2.4.240/jioo.php?c=Loksabha_TV&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=DD_Rajyasabha&q=400&e=.m3u8
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="JIO_SabbirIPTV", CNN NEWS 18
-http://jo123.biz/jweb/m3u8.php?c=CNN_NEWS_18&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=CNN_NEWS_18&q=&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="JIO_SabbirIPTV", News X
 http://jo123.biz/jweb/m3u8.php?c=News_X&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="JIO_SabbirIPTV", Wion
@@ -1265,7 +1265,7 @@ http://jo123.biz/jweb/m3u8.php?c=dw&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="JIO_SabbirIPTV", Discovery Kids 2
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Kids_2&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="JIO_SabbirIPTV", Nick Hindi
-http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="JIO_SabbirIPTV", CN HD+ English
 http://jo123.biz/jweb/m3u8.php?c=CN_HD_English&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="JIO_SabbirIPTV", Cartoon Network Hindi
