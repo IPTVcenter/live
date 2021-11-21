@@ -263,7 +263,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SONYLIV",Sony PIX HD (IN)
+#EXTINF:-1 tvg-id="SONY PIX HD (IN)" tvg-logo=" " group-title="SONYLIV",Sony PIX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -275,21 +275,21 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SONYLIV",SONY TEN 3 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3 (IN)" tvg-logo=" " group-title="SONYLIV",SONY TEN 3 (IN)
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SONYLIV",Sony SIX HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY SIX (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SONYLIV",SONY SIX (IN)
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="SONY SET HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SONYLIV",SONY SET HD (IN)
+#EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SONYLIV",SONY HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SONYLIV",SONY SAB HD (IN) 
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="SONY PAL (IN)" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SONYLIV",SONY PAL (IN)
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="SONYLIV",SONY MAX HD (IN)
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 ch-id="SONY YAY (IN)" tvg-logo=" "  group-title="SONYLIV",SONY YAY (IN)
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -1039,9 +1039,7 @@ http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Newslive&q=400&e=.m3u8
 #EXTINF:-1 ch-id="NICK (IN)" tvg-logo=" "  group-title="JIO-TV",NICK (IN)
 http://65.2.4.240/jioo.php?c=Nick_Hindi&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Colors_Cineplex&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Colors_Cineplex_HD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="JIO-TV", DD NATIONAL (IN)
 http://65.2.4.240/jioo.php?c=DD_National&q=400&e=.m3u8
@@ -1049,7 +1047,6 @@ http://65.2.4.240/jioo.php?c=DD_National&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Sony_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo=" "  group-title="JIO-TV",SONY TV (IN)
 http://65.2.4.240/jioo.php?c=Sony_SD&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Sony_SAB&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="JIO-TV",SONY SAB HD (IN)
 http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=400&e=.m3u8
@@ -1057,15 +1054,12 @@ http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=And_TV_HD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO-TV", ZEE TV HD (IN)
 http://65.2.4.240/jioo.php?c=Zee_TV_HD&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Colors_HD&q=400&e=.m3u8
 #EXTINF:-1 ch-id="COLORS (IN)" tvg-logo=" "  group-title="JIO-TV",COLORS (IN)
 http://65.2.4.240/jioo.php?c=Colors_SD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="ZEE ANMOL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="JIO-TV", ZEE ANMOL (IN)
 http://65.2.4.240/jioo.php?c=Zee_Anmol&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Rishtey&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Rishtey_Cineplex&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="SONY PAL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="JIO-TV", SONY PAL (IN)
 http://65.2.4.240/jioo.php?c=Sony_Pal&q=400&e=.m3u8
@@ -1077,9 +1071,7 @@ http://65.2.4.240/jioo.php?c=Arre&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Dangal&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="DD KISAN (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="JIO-TV", DD KISAN (IN)
 http://65.2.4.240/jioo.php?c=DD_Kisan&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Colors_Infinity_HD&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Colors_Infinity_SD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JIO-TV", COMEDY CENTRAL HD (IN)
 http://65.2.4.240/jioo.php?c=Comedy_Central_HD&q=400&e=.m3u8
@@ -1099,9 +1091,7 @@ http://65.2.4.240/jioo.php?c=Jio_Cricket_1_HD&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Sony_Max_HD&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="JIO-TV",SONY MAX (IN)
 http://65.2.4.240/jioo.php?c=Sony_Max_SD&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=400&e=.m3u8
-
 http://65.2.4.240/jioo.php?c=Zee_Cinema&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="JIO FOOTBALL 1 HD (IN)" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="JIO-TV", JIO FOOTBALL 1 HD (IN)
 http://65.2.4.240/jioo.php?c=Jio_Football_1&q=400&e=.m3u8
@@ -1205,7 +1195,7 @@ http://65.2.4.240/jioo.php?c=Euro_News&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Total_TV&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="LIVE TODAY (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="JIO-TV", LIVE TODAY (IN)
 http://65.2.4.240/jioo.php?c=Live_Today&q=400&e=.m3u8
-#EXTINF:-1 tvg-id="SAHARA SAMAY RASTRIYA (IN)"   tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="JIO_SabbirIPTV", SAHARA SAMAY RASTRIYA (IN)
+#EXTINF:-1 tvg-id="SAHARA SAMAY RASTRIYA (IN)"   tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="JIO-TV", SAHARA SAMAY RASTRIYA (IN)
 http://65.2.4.240/jioo.php?c=Sahara_Samay_Rastriya&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="TAAZA TV (IN)"   tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="JIO-TV", TAAZA TV (IN)
 http://65.2.4.240/jioo.php?c=Taaza_TV&q=400&e=.m3u8
@@ -1223,7 +1213,7 @@ http://65.2.4.240/jioo.php?c=Pratidin_News&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=India_Voice&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="EVIDYA 12 (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="JIO-TV", PM E VIDYA 12 (IN)
 http://65.2.4.240/jioo.php?c=evidya_12&q=400&e=.m3u8
-#EXTINF:-1 tvg-id="HINDI KHABAR (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="JIO&TV", HINDI KHABAR (IN)
+#EXTINF:-1 tvg-id="HINDI KHABAR (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="JIO-TV", HINDI KHABAR (IN)
 http://65.2.4.240/jioo.php?c=Hindi_Khabar&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="JAN TV (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="JIO-TV", JAN TV (IN)
 http://65.2.4.240/jioo.php?c=Jan_TV&q=400&e=.m3u8
@@ -1231,16 +1221,455 @@ http://65.2.4.240/jioo.php?c=Jan_TV&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=News_India_24_X_7&q=400&e=.m3u8
 #EXTINF:-1 ch-id="GNT (IN)" tvg-logo=" "  group-title="JIO-TV",GNT (IN)
 http://65.2.4.240/jioo.php?c=Tez&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE BUSINESS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="JIO-TV", ZEE BUSINESS (IN)
+http://65.2.4.240/jioo.php?c=Zee_Business&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="CNBC AWAAZ (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="JIO-TV", CNBC AWAAZ (IN)
+http://65.2.4.240/jioo.php?c=CNBC_Awaaz&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="lOKSABHA TV (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="JIO-TV", LOKSABHA TV (IN)
+http://65.2.4.240/jioo.php?c=Loksabha_TV&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="DD RAJYASABHA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="JIO-TV", DD RAJYASABHA (IN)
+http://65.2.4.240/jioo.php?c=DD_Rajyasabha&q=400&e=.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="JIO_SabbirIPTV", CNN NEWS 18
+http://jo123.biz/jweb/m3u8.php?c=CNN_NEWS_18&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="JIO_SabbirIPTV", News X
+http://jo123.biz/jweb/m3u8.php?c=News_X&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="JIO_SabbirIPTV", Wion
+http://jo123.biz/jweb/m3u8.php?c=Wion&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="JIO_SabbirIPTV", Republic TV
+http://jo123.biz/jweb/m3u8.php?c=Republic_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="JIO_SabbirIPTV", DD India
+http://jo123.biz/jweb/m3u8.php?c=DD_India&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JIO_SabbirIPTV", CNBC Tv18 Prime HD
+http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv18_Prime_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JIO_SabbirIPTV", CNBC Tv 18
+http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv_18&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_9.png" group-title="JIO_SabbirIPTV", News 9
+http://jo123.biz/jweb/m3u8.php?c=News_9&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="JIO_SabbirIPTV", CNN
+http://jo123.biz/jweb/m3u8.php?c=CNN&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="JIO_SabbirIPTV", BBC World News
+http://jo123.biz/jweb/m3u8.php?c=BBC_World_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="JIO_SabbirIPTV", Sonic Hindi
+http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="JIO_SabbirIPTV", AL Jazeera
+http://jo123.biz/jweb/m3u8.php?c=AL_Jazeera&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="JIO_SabbirIPTV", Channel News Asia International
+http://jo123.biz/jweb/m3u8.php?c=Channel_News_Asia_International&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="JIO_SabbirIPTV", France 24
+http://jo123.biz/jweb/m3u8.php?c=France_24&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="JIO_SabbirIPTV", TV5 Monde
+http://jo123.biz/jweb/m3u8.php?c=TV_5_Monde&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="JIO_SabbirIPTV", dw
+http://jo123.biz/jweb/m3u8.php?c=dw&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="JIO_SabbirIPTV", Discovery Kids 2
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Kids_2&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="JIO_SabbirIPTV", Nick Hindi
+http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="JIO_SabbirIPTV", CN HD+ English
+http://jo123.biz/jweb/m3u8.php?c=CN_HD_English&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="JIO_SabbirIPTV", Cartoon Network Hindi
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="JIO_SabbirIPTV", Nick HD+
+http://jo123.biz/jweb/m3u8.php?c=Nick_HD_Plus&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="JIO_SabbirIPTV", Pogo Hindi
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="JIO_SabbirIPTV", Nickelodeon
+http://jo123.biz/jweb/m3u8.php?c=Nickelodeon&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="JIO_SabbirIPTV", Nick Junior
+http://jo123.biz/jweb/m3u8.php?c=Nick_Junior&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="JIO_SabbirIPTV", Nickelodeon Jr.
+http://jo123.biz/jweb/m3u8.php?c=Nickelodeon_Jr&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="JIO_SabbirIPTV", Sony Yay Hindi
+http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JIO_SabbirIPTV", Discovery HD World
+http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="JIO_SabbirIPTV", Discovery
+http://jo123.biz/jweb/m3u8.php?c=Discovery&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="JIO_SabbirIPTV", Animal Planet HD World
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="JIO_SabbirIPTV", Animal Planet English
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_English&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="JIO_SabbirIPTV", Discovery Science
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="JIO_SabbirIPTV", History TV18 HD
+http://jo123.biz/jweb/m3u8.php?c=History_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JIO_SabbirIPTV", History TV18 HD Hindi
+http://jo123.biz/jweb/m3u8.php?c=History_18_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="JIO_SabbirIPTV", Sony BBC Earth HD
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="JIO_SabbirIPTV", Epic
+http://jo123.biz/jweb/m3u8.php?c=Epic_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="JIO_SabbirIPTV", TLC HD
+http://jo123.biz/jweb/m3u8.php?c=TLC_HD_World&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="JIO_SabbirIPTV", TLC English
+http://jo123.biz/jweb/m3u8.php?c=TLC_English&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="JIO_SabbirIPTV", TLC Hindi
+http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="JIO_SabbirIPTV", Sadhguru Television HD
+http://jo123.biz/jweb/m3u8.php?c=Sadhguru_Television&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="JIO_SabbirIPTV", Discovery Turbo
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_10th_English.png" group-title="JIO_SabbirIPTV", Dnyanganga 10th English
+http://jo123.biz/jweb/m3u8.php?c=Mahawani_10th_English&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JIO_SabbirIPTV", Travel XP HD
+http://jo123.biz/jweb/m3u8.php?c=Travel_XP_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="JIO_SabbirIPTV", TV Teacher
+http://jo123.biz/jweb/m3u8.php?c=TV_Teacher&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="JIO_SabbirIPTV", Travel XP HD Hindi
+http://jo123.biz/jweb/m3u8.php?c=Travel_XP&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="JIO_SabbirIPTV", Food Food
+http://jo123.biz/jweb/m3u8.php?c=Food_Food&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="JIO_SabbirIPTV", Care World
+http://jo123.biz/jweb/m3u8.php?c=Care_World&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png" group-title="JIO_SabbirIPTV", Dnyanganga 9th English
+http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_9_English_Medium&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="JIO_SabbirIPTV", Parmarth TV
+http://jo123.biz/jweb/m3u8.php?c=Parmarth_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="JIO_SabbirIPTV", Jio Events HD
+http://jo123.biz/jweb/m3u8.php?c=Jio_Events&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="JIO_SabbirIPTV", Jio Exclusive HD
+http://jo123.biz/jweb/m3u8.php?c=Jio_Exclusive&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JIO_SabbirIPTV", MTV HD Plus
+http://jo123.biz/jweb/m3u8.php?c=MTV_HD_Plus&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JIO_SabbirIPTV", MTV
+http://jo123.biz/jweb/m3u8.php?c=MTV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="JIO_SabbirIPTV", 9XM
+http://jo123.biz/jweb/m3u8.php?c=9XM&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="JIO_SabbirIPTV", E 24
+http://jo123.biz/jweb/m3u8.php?c=E_24&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="JIO_SabbirIPTV", Sony BBC Earth HD English
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JIO_SabbirIPTV", MTV Beats HD
+http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="JIO_SabbirIPTV", B4U Music
+http://jo123.biz/jweb/m3u8.php?c=B4U_Music&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="JIO_SabbirIPTV", Zee etc
+http://jo123.biz/jweb/m3u8.php?c=etc&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="JIO_SabbirIPTV", Mastiii
+http://jo123.biz/jweb/m3u8.php?c=Mastiii&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="JIO_SabbirIPTV", Zing
+http://jo123.biz/jweb/m3u8.php?c=Zing&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="JIO_SabbirIPTV", Music India
+http://jo123.biz/jweb/m3u8.php?c=Music_India&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="JIO_SabbirIPTV", 9X Jalwa
+http://jo123.biz/jweb/m3u8.php?c=9X_Jalwa&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="JIO_SabbirIPTV", Animal Planet Hindi
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="JIO_SabbirIPTV", Discovery Channel Hindi
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="JIO_SabbirIPTV", Bflix Movies
+http://jo123.biz/jweb/m3u8.php?c=Bflix_Movies&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="JIO_SabbirIPTV", Manoranjan TV
+http://jo123.biz/jweb/m3u8.php?c=Manoranjan_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="JIO_SabbirIPTV", B4U Kadak
+http://jo123.biz/jweb/m3u8.php?c=B4U_Kadak&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="JIO_SabbirIPTV", MI TV
+http://jo123.biz/jweb/m3u8.php?c=MI_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="JIO_SabbirIPTV", Raj Pariwar
+http://jo123.biz/jweb/m3u8.php?c=Raj_Pariwar&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Orange_TV.png" group-title="JIO_SabbirIPTV", Orange TV
+http://jo123.biz/jweb/m3u8.php?c=Orange_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="JIO_SabbirIPTV", Insync
+http://jo123.biz/jweb/m3u8.php?c=Insync&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="JIO_SabbirIPTV", iLove
+http://jo123.biz/jweb/m3u8.php?c=iLove&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="JIO_SabbirIPTV", ANB News
+http://jo123.biz/jweb/m3u8.php?c=ANB_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="JIO_SabbirIPTV", Prarthana Bhawan
+http://jo123.biz/jweb/m3u8.php?c=Prarthana_Bhawan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="JIO_SabbirIPTV", Shubhsandesh TV
+http://jo123.biz/jweb/m3u8.php?c=Shubhsandesh_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="JIO_SabbirIPTV", Darshan 24
+http://jo123.biz/jweb/m3u8.php?c=Darshan_24&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="JIO_SabbirIPTV", Divya TV
+http://jo123.biz/jweb/m3u8.php?c=Divya_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/School_Education_Nagaland.png" group-title="JIO_SabbirIPTV", School Education Nagaland
+http://jo123.biz/jweb/m3u8.php?c=School_Education_Nagaland&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="JIO_SabbirIPTV", Birla Brainiacs
+http://jo123.biz/jweb/m3u8.php?c=Birla_Brainiacs&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="JIO_SabbirIPTV", Network 10
+http://jo123.biz/jweb/m3u8.php?c=Network_10&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="JIO_SabbirIPTV", Sony Pix SD
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_SD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="JIO_SabbirIPTV", Gyanvani 1
+http://jo123.biz/jweb/m3u8.php?c=Gyanvani_1&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardham_Darshan.png" group-title="JIO_SabbirIPTV", Chardham Darshan
+http://jo123.biz/jweb/m3u8.php?c=Chardham_Darshan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="JIO_SabbirIPTV", Tute
+http://jo123.biz/jweb/m3u8.php?c=Tute&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="JIO_SabbirIPTV", Himshiksha Elementary
+http://jo123.biz/jweb/m3u8.php?c=Himshiksha_Elementary&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="JIO_SabbirIPTV", Himshiksha Higher
+http://jo123.biz/jweb/m3u8.php?c=Himshiksha_Higher&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="JIO_SabbirIPTV", Himshiksha Vocational
+http://jo123.biz/jweb/m3u8.php?c=Himshiksha_Vocational&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="JIO_SabbirIPTV", AP-BIE-ARTS
+http://jo123.biz/jweb/m3u8.php?c=AP_BIE_ARTS&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="JIO_SabbirIPTV", AP-BIE-SCIENCE
+http://jo123.biz/jweb/m3u8.php?c=AP_BIE_SCIENCE&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="JIO_SabbirIPTV", AP-CIE-SIVE
+http://jo123.biz/jweb/m3u8.php?c=AP_CIE_SIVE&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="JIO_SabbirIPTV", Colors Infinity SD
+http://jo123.biz/jweb/m3u8.php?c=Colors_Infinity_SD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="JIO_SabbirIPTV", Comedy Central SD
+http://jo123.biz/jweb/m3u8.php?c=Comedy_Central_SD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="JIO_SabbirIPTV", Sony Wah
+http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="JIO_SabbirIPTV", Sony SD
+http://jo123.biz/jweb/m3u8.php?c=Sony_SD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="JIO_SabbirIPTV", SongDew TV
+http://jo123.biz/jweb/m3u8.php?c=SongDew_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="JIO_SabbirIPTV", 1Sports
+http://jo123.biz/jweb/m3u8.php?c=1Sports&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="JIO_SabbirIPTV", Santvani
+http://jo123.biz/jweb/m3u8.php?c=Santvani&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="JIO_SabbirIPTV", Nandighosha
+http://jo123.biz/jweb/m3u8.php?c=Nandighosha&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="JIO_SabbirIPTV", Velukkudi Discourses
+http://jo123.biz/jweb/m3u8.php?c=Velukkudi_Discourses&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="JIO_SabbirIPTV", Rishtey Cineplex
+http://jo123.biz/jweb/m3u8.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="JIO_SabbirIPTV", Balle Balle TV
+http://jo123.biz/jweb/m3u8.php?c=Balle_Balle_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_3_4_Mar_Eng_Urdhu.png" group-title="JIO_SabbirIPTV", Dnyanganga 3rd-4th Mar-Eng-Urdu
+http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_3_4_Mar_Eng_Urdhu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_5_Mar_Eng_Urdhu.png" group-title="JIO_SabbirIPTV", Dnyanganga 5th Mar-Eng-Urdu
+http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_5_Mar_Eng_Urdhu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_6_Mar_Eng_Urdhu.png" group-title="JIO_SabbirIPTV", Dnyanganga 6th Mar-Eng-Urdu
+http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_6_Mar_Eng_Urdhu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_7_Mar_Eng_Urdhu.png" group-title="JIO_SabbirIPTV", Dnyanganga 7th Mar-Eng-Urdu
+http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_7_Mar_Eng_Urdhu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_8_Mar_Eng_Urdhu.png" group-title="JIO_SabbirIPTV", Dnyanganga 8th Mar-Eng-Urdu
+http://jo123.biz/jweb/m3u8.php?c=Dnyanganga_8_Mar_Eng_Urdhu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="JIO_SabbirIPTV", History TV18 SD
+http://jo123.biz/jweb/m3u8.php?c=History_TV18_SD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="JIO_SabbirIPTV", RadheKrishna TV
+http://jo123.biz/jweb/m3u8.php?c=RadheKrishna_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="JIO_SabbirIPTV", Subharti
+http://jo123.biz/jweb/m3u8.php?c=Subharti&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png" group-title="JIO_SabbirIPTV", Shiksha Darshan
+http://jo123.biz/jweb/m3u8.php?c=Shiksha_Darshan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="JIO_SabbirIPTV", IBN Lokmat
+http://jo123.biz/jweb/m3u8.php?c=IBN_Lokmat&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="JIO_SabbirIPTV", Aastha
+http://jo123.biz/jweb/m3u8.php?c=Aastha&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Siddhivinayak.png" group-title="JIO_SabbirIPTV", Shree Siddhivinayak
+http://jo123.biz/jweb/m3u8.php?c=Siddhivinayak&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="JIO_SabbirIPTV", Sanskar
+http://jo123.biz/jweb/m3u8.php?c=Sanskar&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="JIO_SabbirIPTV", Disha tv
+http://jo123.biz/jweb/m3u8.php?c=Disha_tv&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="JIO_SabbirIPTV", Paras tv
+http://jo123.biz/jweb/m3u8.php?c=Paras_tv&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="JIO_SabbirIPTV", Sadhna
+http://jo123.biz/jweb/m3u8.php?c=Sadhna&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="JIO_SabbirIPTV", Peace of Mind
+http://jo123.biz/jweb/m3u8.php?c=Peace_of_Mind&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="JIO_SabbirIPTV", Jinvani TV
+http://jo123.biz/jweb/m3u8.php?c=Jinvani_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="JIO_SabbirIPTV", Arihant TV
+http://jo123.biz/jweb/m3u8.php?c=Arihant_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="JIO_SabbirIPTV", Ishwar TV
+http://jo123.biz/jweb/m3u8.php?c=Ishwar_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="JIO_SabbirIPTV", Satsang TV
+http://jo123.biz/jweb/m3u8.php?c=Satsang_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="JIO_SabbirIPTV", Shubh TV
+http://jo123.biz/jweb/m3u8.php?c=Shubh_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="JIO_SabbirIPTV", Aastha Bhajan
+http://jo123.biz/jweb/m3u8.php?c=Aastha_Bhajan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="JIO_SabbirIPTV", Vedic TV
+http://jo123.biz/jweb/m3u8.php?c=Vedic_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dishum_TV.png" group-title="JIO_SabbirIPTV", Dishum TV
+http://jo123.biz/jweb/m3u8.php?c=Dishum_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="JIO_SabbirIPTV", IBC24
+http://jo123.biz/jweb/m3u8.php?c=IBC-24&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="JIO_SabbirIPTV", Bansal News
+http://jo123.biz/jweb/m3u8.php?c=Bansal_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="JIO_SabbirIPTV", News18 Urdu
+http://jo123.biz/jweb/m3u8.php?c=ETV_Urdu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="JIO_SabbirIPTV", Zee Salaam
+http://jo123.biz/jweb/m3u8.php?c=Zee_Salaam&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="JIO_SabbirIPTV", Channel Win
+http://jo123.biz/jweb/m3u8.php?c=Channel_Win&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="JIO_SabbirIPTV", Gulistan News
+http://jo123.biz/jweb/m3u8.php?c=Gulistan_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="JIO_SabbirIPTV", DD bharati
+http://jo123.biz/jweb/m3u8.php?c=DD_bharati&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="JIO_SabbirIPTV", DD Bihar
+http://jo123.biz/jweb/m3u8.php?c=DD_Bihar&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Barker.png" group-title="JIO_SabbirIPTV", Jio Promo HD
+http://jo123.biz/jweb/m3u8.php?c=Barker&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="JIO_SabbirIPTV", CVR English
+http://jo123.biz/jweb/m3u8.php?c=CVR_English&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="JIO_SabbirIPTV", Manoranjan Movies
+http://jo123.biz/jweb/m3u8.php?c=Manoranjan_Movies&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="JIO_SabbirIPTV", Khushboo TV
+http://jo123.biz/jweb/m3u8.php?c=Khusboo_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="JIO_SabbirIPTV", DY 365
+http://jo123.biz/jweb/m3u8.php?c=DY_365&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="JIO_SabbirIPTV", Nepal one
+http://jo123.biz/jweb/m3u8.php?c=Nepal_one&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="JIO_SabbirIPTV", Rang
+http://jo123.biz/jweb/m3u8.php?c=Rang&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="JIO_SabbirIPTV", Jonack
+http://jo123.biz/jweb/m3u8.php?c=Jonack&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="JIO_SabbirIPTV", News 18 Assam
+http://jo123.biz/jweb/m3u8.php?c=News_18_Assam&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="JIO_SabbirIPTV", Ramdhenu
+http://jo123.biz/jweb/m3u8.php?c=Ramdhenu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="JIO_SabbirIPTV", Assam Talks
+http://jo123.biz/jweb/m3u8.php?c=Assam_Talks&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="JIO_SabbirIPTV", Rengoni
+http://jo123.biz/jweb/m3u8.php?c=Rengoni&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="JIO_SabbirIPTV", North East Live
+http://jo123.biz/jweb/m3u8.php?c=North_East_Live&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="JIO_SabbirIPTV", Twenty Four News
+http://jo123.biz/jweb/m3u8.php?c=Twenty_Four_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" group-title="JIO_SabbirIPTV", TV9 Bharatvarsh
+http://jo123.biz/jweb/m3u8.php?c=TV9_Bharatvarsh&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="JIO_SabbirIPTV", Tehzeeb TV
+http://jo123.biz/jweb/m3u8.php?c=Tehzeeb_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="JIO_SabbirIPTV", Surya Samachar
+http://jo123.biz/jweb/m3u8.php?c=Surya_Samachar&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="JIO_SabbirIPTV", Surya Cinema
+http://jo123.biz/jweb/m3u8.php?c=Surya_Cinema&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" group-title="JIO_SabbirIPTV", Surya Bhakti
+http://jo123.biz/jweb/m3u8.php?c=Surya_Bhakti&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="JIO_SabbirIPTV", Sony Max SD
+http://jo123.biz/jweb/m3u8.php?c=SET_MAX&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="JIO_SabbirIPTV", Sony BBC Earth SD
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="JIO_SabbirIPTV", JioCinema
+http://jo123.biz/jweb/m3u8.php?c=Jio_Cinema&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="JIO_SabbirIPTV", Newslive
+http://jo123.biz/jweb/m3u8.php?c=Newslive&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png" group-title="JIO_SabbirIPTV", Anjan TV
+http://jo123.biz/jweb/m3u8.php?c=Anjan_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="JIO_SabbirIPTV", DD urdu
+http://jo123.biz/jweb/m3u8.php?c=DD_urdu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png" group-title="JIO_SabbirIPTV", DD Kashir
+http://jo123.biz/jweb/m3u8.php?c=DD_Kashir&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png" group-title="JIO_SabbirIPTV", DD13 Guwahati NE
+http://jo123.biz/jweb/m3u8.php?c=DD13_Guwahati_NE&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="JIO_SabbirIPTV", The Q India
+http://jo123.biz/jweb/m3u8.php?c=TheQIndia&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" group-title="JIO_SabbirIPTV", Indradhanu
+http://jo123.biz/jweb/m3u8.php?c=Indradhanu&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png" group-title="JIO_SabbirIPTV", Prag News
+http://jo123.biz/jweb/m3u8.php?c=Prag_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar_2.png" group-title="JIO_SabbirIPTV", Bhaktisagar 2
+http://jo123.biz/jweb/m3u8.php?c=Bhaktisagar_2&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png" group-title="JIO_SabbirIPTV", Hare krsna
+http://jo123.biz/jweb/m3u8.php?c=Harekrsna&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png" group-title="JIO_SabbirIPTV", Swar Shree
+http://jo123.biz/jweb/m3u8.php?c=Garv_Swaminarayan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Katyayani.png" group-title="JIO_SabbirIPTV", Katyayani
+http://jo123.biz/jweb/m3u8.php?c=Katyayani&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png" group-title="JIO_SabbirIPTV", Tulja Bhavani
+http://jo123.biz/jweb/m3u8.php?c=Tulja_Bhavani&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="JIO_SabbirIPTV", Sarv Dharam Sangam
+http://jo123.biz/jweb/m3u8.php?c=Sarv_Dharam_Sangam&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lord_Buddha.png" group-title="JIO_SabbirIPTV", Lord Buddha
+http://jo123.biz/jweb/m3u8.php?c=Lord_Buddha&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Om_Shanti.png" group-title="JIO_SabbirIPTV", Om Shanti
+http://jo123.biz/jweb/m3u8.php?c=Om_Shanti&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kartavya_Tv.png" group-title="JIO_SabbirIPTV", Kartavya TV
+http://jo123.biz/jweb/m3u8.php?c=Kartavya_Tv&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" group-title="JIO_SabbirIPTV", Hamari Sanskruti
+http://jo123.biz/jweb/m3u8.php?c=Hamari_Sanskruti_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" group-title="JIO_SabbirIPTV", JUSOne
+http://jo123.biz/jweb/m3u8.php?c=JUSOne&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" group-title="JIO_SabbirIPTV", Khabar Fast
+http://jo123.biz/jweb/m3u8.php?c=Khabar_Fast&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="JIO_SabbirIPTV", JUS 24x7
+http://jo123.biz/jweb/m3u8.php?c=JUS24x7&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RDX_News.png" group-title="JIO_SabbirIPTV", RDX Goa
+http://jo123.biz/jweb/m3u8.php?c=RDX_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HNN_24x7.png" group-title="JIO_SabbirIPTV", HNN 24x7
+http://jo123.biz/jweb/m3u8.php?c=HNN_24x7&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" group-title="JIO_SabbirIPTV", Jantantra
+http://jo123.biz/jweb/m3u8.php?c=Jantantra&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="JIO_SabbirIPTV", Insight
+http://jo123.biz/jweb/m3u8.php?c=Insight&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" group-title="JIO_SabbirIPTV", Digishala
+http://jo123.biz/jweb/m3u8.php?c=Digishala&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nimbark.png" group-title="JIO_SabbirIPTV", Nimbark TV
+http://jo123.biz/jweb/m3u8.php?c=Nimbark&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" group-title="JIO_SabbirIPTV", Click Life
+http://jo123.biz/jweb/m3u8.php?c=Click_Life&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ambabai_Temple.png" group-title="JIO_SabbirIPTV", Ambabai Temple-Kolhapur
+http://jo123.biz/jweb/m3u8.php?c=Ambabai_Temple&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="JIO_SabbirIPTV", ABZY Dhakad
+http://jo123.biz/jweb/m3u8.php?c=ABZY_Dhakad&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="JIO_SabbirIPTV", ABZY Cool
+http://jo123.biz/jweb/m3u8.php?c=ABZY_Cool&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="JIO_SabbirIPTV", ABZY Movies
+http://jo123.biz/jweb/m3u8.php?c=ABZY_Movies&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png" group-title="JIO_SabbirIPTV", Sh Krishna Matta Adamaru Paryaya UDUPI
+http://jo123.biz/jweb/m3u8.php?c=Udupi_Krishna_Temple&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png" group-title="JIO_SabbirIPTV", Sugran
+http://jo123.biz/jweb/m3u8.php?c=Sugran&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hanuman_Mahavir_Temple.png" group-title="JIO_SabbirIPTV", Mahavir Mandir Patna
+http://jo123.biz/jweb/m3u8.php?c=Hanuman_Mahavir_Temple&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" group-title="JIO_SabbirIPTV", Vignesh TV
+http://jo123.biz/jweb/m3u8.php?c=Vignesh_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png" group-title="JIO_SabbirIPTV", Shri Omkareshwar Mandir
+http://jo123.biz/jweb/m3u8.php?c=Omkareshwar_Temple&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" group-title="JIO_SabbirIPTV", Stars Tell
+http://jo123.biz/jweb/m3u8.php?c=StarTell&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="JIO_SabbirIPTV", Wellness
+http://jo123.biz/jweb/m3u8.php?c=Wellness_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Temples_New.png" group-title="JIO_SabbirIPTV", ISKCON Darshan
+http://jo123.biz/jweb/m3u8.php?c=Iskon_Temples_New&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" group-title="JIO_SabbirIPTV", Takht Sri Patna Sahib - Patna
+http://jo123.biz/jweb/m3u8.php?c=Sri_Patna_Sahib&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png" group-title="JIO_SabbirIPTV", Shani Shingnapur
+http://jo123.biz/jweb/m3u8.php?c=Shani_Shingnapur&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" group-title="JIO_SabbirIPTV", Prati Shirdi Saibaba
+http://jo123.biz/jweb/m3u8.php?c=Prati_Shirdi_Saibaba&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" group-title="JIO_SabbirIPTV", Ganga Darshan Varanasi
+http://jo123.biz/jweb/m3u8.php?c=Ganga_Darshan_Varanasi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png" group-title="JIO_SabbirIPTV", Ashtavinayak Ozar
+http://jo123.biz/jweb/m3u8.php?c=Ashtavinayak_Ozar&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title="JIO_SabbirIPTV", SVBC2
+http://jo123.biz/jweb/m3u8.php?c=SVBC2&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" group-title="JIO_SabbirIPTV", Ichhapuran Balaji Rajasthan
+http://jo123.biz/jweb/m3u8.php?c=Ichhapuran_Balaji_Rajasthan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" group-title="JIO_SabbirIPTV", Iskon Girgaon
+http://jo123.biz/jweb/m3u8.php?c=Iskon_Girgaon&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" group-title="JIO_SabbirIPTV", Ashtavinayak Ranjangaon
+http://jo123.biz/jweb/m3u8.php?c=Ashtavinayak_Ranjangaon&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" group-title="JIO_SabbirIPTV", Karani Mata Rajasthan
+http://jo123.biz/jweb/m3u8.php?c=Karani_Mata_Rajasthan&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" group-title="JIO_SabbirIPTV", Mahalaxmi Mumbai
+http://jo123.biz/jweb/m3u8.php?c=Mahalaxmi_Mumbai&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" group-title="JIO_SabbirIPTV", Babulnaath Mumbai
+http://jo123.biz/jweb/m3u8.php?c=Babulnaath_Mumbai&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" group-title="JIO_SabbirIPTV", Mumbadevi Mumbai
+http://jo123.biz/jweb/m3u8.php?c=Mumbadevi_Mumbai&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="JIO_SabbirIPTV", BBC News Hindi
+http://jo123.biz/jweb/m3u8.php?c=BBC_Hindi&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" group-title="JIO_SabbirIPTV", TIME8
+http://jo123.biz/jweb/m3u8.php?c=TIME8&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" group-title="JIO_SabbirIPTV", Krishna Vani
+http://jo123.biz/jweb/m3u8.php?c=Krishna_Vani&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="JIO_SabbirIPTV", YTV India
+http://jo123.biz/jweb/m3u8.php?c=YTV_INDIA&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="JIO_SabbirIPTV", 9 Bharat Samachar
+http://jo123.biz/jweb/m3u8.php?c=9_Bharat_Samachar&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png" group-title="JIO_SabbirIPTV", News Only
+http://jo123.biz/jweb/m3u8.php?c=News_Only&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png" group-title="JIO_SabbirIPTV", Gurkibani
+http://jo123.biz/jweb/m3u8.php?c=Gurkebaani&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="JIO_SabbirIPTV", AB News
+http://jo123.biz/jweb/m3u8.php?c=AB_News&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" group-title="JIO_SabbirIPTV", Samachar Today
+http://jo123.biz/jweb/m3u8.php?c=Samachar_Today&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png" group-title="JIO_SabbirIPTV", Sangat TV
+http://jo123.biz/jweb/m3u8.php?c=Sangat_TV&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarvamangala.png" group-title="JIO_SabbirIPTV", Sarvamangala
+http://jo123.biz/jweb/m3u8.php?c=Sarvamangala&q=800&e=.m3u8
 
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo=" "  group-title="PLAY",ZEE TV (UK)
 http://93.152.174.144:4000/play/zee/index.m3u8
