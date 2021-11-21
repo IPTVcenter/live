@@ -1235,7 +1235,7 @@ http://jo123.biz/jweb/m3u8.php?c=CNN_NEWS_18&q=&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="JIO_SabbirIPTV", News X
 http://jo123.biz/jweb/m3u8.php?c=News_X&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="JIO_SabbirIPTV", Wion
-http://jo123.biz/jweb/m3u8.php?c=Wion&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Wion&q=&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="JIO_SabbirIPTV", Republic TV
 http://jo123.biz/jweb/m3u8.php?c=Republic_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="JIO_SabbirIPTV", DD India
@@ -1319,7 +1319,7 @@ http://jo123.biz/jweb/m3u8.php?c=TV_Teacher&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="JIO_SabbirIPTV", Travel XP HD Hindi
 http://jo123.biz/jweb/m3u8.php?c=Travel_XP&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="JIO_SabbirIPTV", Food Food
-http://jo123.biz/jweb/m3u8.php?c=Food_Food&q=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Food_Food&q=&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="JIO_SabbirIPTV", Care World
 http://jo123.biz/jweb/m3u8.php?c=Care_World&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png" group-title="JIO_SabbirIPTV", Dnyanganga 9th English
