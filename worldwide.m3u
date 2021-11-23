@@ -1218,17 +1218,14 @@ http://65.2.4.240/jioo.php?c=News_X&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Wion&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="REPUBLIC TV (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="JIO-TV", REPUBLIC TV (IN)
 http://65.2.4.240/jioo.php?c=Republic_TV&q=400&e=.m3u8
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="JIO_SabbirIPTV", DD India
-http://jo123.biz/jweb/m3u8.php?c=DD_India&q=800&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JIO_SabbirIPTV", CNBC Tv18 Prime HD
-http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv18_Prime_HD&q=800&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JIO_SabbirIPTV", CNBC Tv 18
-http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv_18&q=800&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_9.png" group-title="JIO_SabbirIPTV", News 9
-http://jo123.biz/jweb/m3u8.php?c=News_9&q=800&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="JIO_SabbirIPTV", CNN
-http://jo123.biz/jweb/m3u8.php?c=CNN&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="DD INDIA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="JIO-TV", DD INDIA (IN)
+http://65.2.4.240/jioo.php?c=DD_India&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="CNBC TV18 PRIME HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JIO-TV", CNBC TV18 PRIME HD (IN)
+http://65.2.4.240/jioo.php?c=CNBC_Tv18_Prime_HD&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="CNBC TV18 (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JIO-TV", CNBC TV 18 (IN)
+http://65.2.4.240/jioo.php?c=CNBC_Tv_18&q=400&e=.m3u8
+#EXTINF:-1 tvg-id="CNN (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="JIO-TV", CNN (IN)
+http://65.2.4.240/jioo.php?c=CNN&q=400&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="JIO_SabbirIPTV", BBC World News
 http://jo123.biz/jweb/m3u8.php?c=BBC_World_News&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="JIO_SabbirIPTV", Sonic Hindi
