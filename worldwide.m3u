@@ -1746,9 +1746,9 @@ http://212.102.38.90:8080/TLC/index.m3u8
 #EXTINF:-1 tvg-id="CNN (US)" tvg-logo=" "  group-title="DIGITAL-TV",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 tvg-id="AXN (ASIA)" tvg-logo=" "  group-title="DIGITAL-TV",AXN (ASIA)
-http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-id="BLUE ANT ENTERTAINMENT (ASIA)" tvg-logo=" "  group-title="DIGITAL-TV",BLUE ANT ENTERTAINMENT (ASIA)
-http://45.126.83.51/dr9445/h/h16/01.m3u8
+http://45.126.83.51/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="HD FASHION (US)" tvg-logo=" "  group-title="DIGITAL-TV",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="ONE GOLF (PK)"  tvg-logo=" "   group-title="DIGITAL-TV",ONE GOLF (PK)
