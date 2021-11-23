@@ -694,6 +694,15 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
+#EXTINF:-1 tvg-id="AGUBBARE (IN)" tvg-logo=" "  group-title="EPICON",GUBBARE (IN)
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="ISHAARA (IN)" tvg-logo=" "  group-title="EPICON",ISHAARA (IN)
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8
+#EXTINF:-1 tvg-id="EPIC (IN)" tvg-logo=" "  group-title="EPICON",EPIC (IN)
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-logo=" "  group-title="EPICON",SHOW BOX (IN)
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
 EXTINF:-1 tvg-id="FILMY (IN)" tvg-logo=" "  group-title="MX-TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-logo=" "  group-title="MX-TV",FIRANGI (IN)
@@ -783,6 +792,9 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 #EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="MX-TV",CHANNEL WIN (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
@@ -819,6 +831,10 @@ https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC NEWS (VN)
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBC LIFESTYLE (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC LIFESTYLE (VN)
+https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="DAVINCI HD (VN)" tvg-logo=" "  group-title="FPT-PLAY",DAVINCI HD (VN)
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="18+ (UK)" tvg-logo="https://1.bp.blogspot.com/-nSfJGhujWC4/YP1LlV0BG7I/AAAAAAAAAno/Atni2UqBn1MA7qIyn7YhjafSE7mv4t-oACLcBGAsYHQ/s200/PicsArt_07-25-05.01.09.png"  group-title="ADULT",18+ (UK)
 https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
