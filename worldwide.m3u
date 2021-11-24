@@ -713,13 +713,13 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
-#EXTINF:-1 tvg-id="GUBBARE (IN)" tvg-logo=" "  group-title="EPIC-ON",GUBBARE (IN)
+#EXTINF:-1 tvg-id="GUBBARE (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglR7EdBQdH40RC-f55SQPlFq4cWsahZ7Mrb92ZYbHUa2Mw472c31Kn3x0ez_aekuy20siQlZCgdjfPA9aCsZ_iGQy0sZp22e5atZlnhxZmroFsoYJKURiSHoWKuwfZCeRb2F3vvyMD8bLXDKBltHQuwBHWmpToXiuAGjlilDOCNh2AoXtF7n9gSXcmnQ=s200"  group-title="EPIC-ON",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="ISHAARA (IN)" tvg-logo=" "  group-title="EPIC-ON",ISHAARA (IN)
+#EXTINF:-1 tvg-id="ISHAARA (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiz0-40lLZW0oH0VsawEGTIz-607PFc5ecwxkGPnXES4l8APqY05VUkoUWflQgdUvH8Cqdtb3NCRo3x41xxF5vmABtTdd3s333CB7yMb0wfY7THMhTm1rX4NMVDaXMPRX14g_teapdBXm7REet3G3R_RQ9oA0YLB1gOjZLn4VIdhJOKNVyO6V7_QUZ9-A=s200"  group-title="EPIC-ON",ISHAARA (IN)
 https://epiconvh.s.llnwi.net/ishaara/master.m3u8
-#EXTINF:-1 tvg-id="EPIC (IN)" tvg-logo=" "  group-title="EPIC-ON",EPIC (IN)
+#EXTINF:-1 tvg-id="EPIC (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhptzIybxlhrZnZgD_sD9JP1bgNT0cRyvkYcMnReOQGmOW4j-I7hFaQMDl9l3U-v9_luuDPwOe9sACxRt9ctkUt7_cH4whj5TFEcBaf-OxkKrNnqsteLriT1ZlF3T1thme5lPsovZ4QLBJZVNkFg-IvguAewYgvHB-m0duiuBnAOh2iQucRx2AtO_mVCg=s200"  group-title="EPIC-ON",EPIC (IN)
 https://epiconvh.s.llnwi.net/epic/master.m3u8
-#EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-logo=" "  group-title="EPIC-ON",SHOW BOX (IN)
+#EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhxeKBaGgjHQNxH4punZrpdhwv_5xDi0oPQmcgLF0tSL3MBdSkPLRQvawGlj0-lxeScHxA0uiOTdX4XxG2k09HLyL3Z0oHlAmPK7kxkl1Fsf4s9LyvkAmxh2Q13hHzDRz11bJ7TQMX69QEqoc0GCSblSXmc4vpTLTaL7bnIVG0lj3qt__Q70FRhEt4oRw=s200"  group-title="EPIC-ON",SHOW BOX (IN)
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 EXTINF:-1 tvg-id="FILMY (IN)" tvg-logo=" "  group-title="MX-TV",FILMY (IN)
