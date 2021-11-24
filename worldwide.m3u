@@ -713,13 +713,13 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
-#EXTINF:-1 tvg-id="AGUBBARE (IN)" tvg-logo=" "  group-title="EPICON",GUBBARE (IN)
+#EXTINF:-1 tvg-id="GUBBARE (IN)" tvg-logo=" "  group-title="EPIC-ON",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="ISHAARA (IN)" tvg-logo=" "  group-title="EPICON",ISHAARA (IN)
+#EXTINF:-1 tvg-id="ISHAARA (IN)" tvg-logo=" "  group-title="EPIC-ON",ISHAARA (IN)
 https://epiconvh.s.llnwi.net/ishaara/master.m3u8
-#EXTINF:-1 tvg-id="EPIC (IN)" tvg-logo=" "  group-title="EPICON",EPIC (IN)
+#EXTINF:-1 tvg-id="EPIC (IN)" tvg-logo=" "  group-title="EPIC-ON",EPIC (IN)
 https://epiconvh.s.llnwi.net/epic/master.m3u8
-#EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-logo=" "  group-title="EPICON",SHOW BOX (IN)
+#EXTINF:-1 tvg-id="SHOW BOX (IN)" tvg-logo=" "  group-title="EPIC-ON",SHOW BOX (IN)
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 EXTINF:-1 tvg-id="FILMY (IN)" tvg-logo=" "  group-title="MX-TV",FILMY (IN)
@@ -1726,6 +1726,8 @@ http://185.96.176.139:90/superone/index.m3u8
 http://193.33.240.8:80/NatGeoWild/playlist.m3u8
 #EXTINF:-1 tvg-id="XY PLUS (UK)" tvg-logo=" "  group-title="ADULT",XY PLUS (UK)
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="SAFE TV (US)" tvg-logo=" "  group-title="ONLINE-TV",SAFE TV (US)
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX NEWS (US)" tvg-logo=" "  group-title="CDN-TV",FOX NEWS (US)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
