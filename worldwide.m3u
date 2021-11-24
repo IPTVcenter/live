@@ -212,7 +212,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-zeenews
 https://snehz5tv.herokuapp.com/?c=0-9-pictures
 #EXTINF:-1 tvg-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
-#EXTINF:-1 tvg-id="ZING (IN)" tvg-logo=" "   group-title="ZEE5",ZING (IN)
+#EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEimgC4lCdiQx-an2rhTgYtMN6nXV4v713gkmkDFmKOfgKuWscxncoBZd_2_0fGHIgFRvYXVtqPpBXjiR6maJxY2owI91BF1qFI7rRs6sbINlyJW3QVjjH17GxhqPHJVNzNxXFQJ6c5tE-P9F5fSA9pThssaxMiWNtaRg-_bqZYHfctdrY3qLNLUw9wbfw=s200"   group-title="ZEE5",ZING (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zing
 #EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-logo=" "  group-title="ZEE5",AAJ TAK (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-aajtak
@@ -248,7 +248,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-zeebusiness
 https://snehz5tv.herokuapp.com/?c=0-9-zeeanmol
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ANMOL CINEMA (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-id="ZEE TV (IN)" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
+#EXTINF:-1 tvg-id="ZEE TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQtURH7Md1Lnpojz9lFE5lY5AV4Z6rAXYvL0RZ6aOD40VlvtRG3fwdh_NS0_dRYjSIfPUupV9UASVn5oA-3_t6KbLnuSup_jGBRyJi1VjBEmJP-FErgwjflX8jSFJF68MPN-tUGXHlQS0nMzVET76noF3asS16yc6F0p9f_zrOJWAYgA_v2QiD2wkI4g=s200"  group-title="ZEE5",ZEE TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zeetv
 #EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjUxOoosK1nvunBRWIR8UX6jFixZdqa4D6UjlUQbAMmi6VJxPNWgkdFzuVE4u-0czW3tpRgYX8Wkb2RVnkBRsdc2MaGWzZZediWjvrGYcazUYI0KDok9pYkivzwS_SiassS43bYqYVJEB62EC_016ge3P5ilWNhKAXrl_FgvSWY-YMlbR5bWf4nexba=s200"   group-title="ZEE5",ZEE TV HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-zeetvhd                
