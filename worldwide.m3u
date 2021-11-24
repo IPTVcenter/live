@@ -293,7 +293,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg" group-title="SONYLIV",SONY MAX (IN)
+#EXTINF:-1 tvg-id="SONY MAX (IN)" tvg-logo=" " group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SONYLIV",SONY MAX 2 (IN)
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
@@ -1179,7 +1179,7 @@ http://65.2.4.240/jioo.php?c=Utkarsh_Middle&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Utkarsh_Secondary&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="UTKARSH HIGHER (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="JIO-TV", UTKARSH HIGHER (IN)
 http://65.2.4.240/jioo.php?c=Utkarsh_Higher&q=400&e=.m3u8
-#EXTINF:-1 tvg-id="DD NEWS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="JIO-TV", DD NEWS (IN)
+#EXTINF:-1 tvg-id="DD NEWS (IN)"  tvg-logo=" " group-title="JIO-TV", DD NEWS (IN)
 http://65.2.4.240/jioo.php?c=DD_News&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="JIO-TV", ABP NEWS (IN)
 http://65.2.4.240/jioo.php?c=ABP_News_India&q=400&e=.m3u8
@@ -1247,7 +1247,7 @@ http://65.2.4.240/jioo.php?c=News_X&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Wion&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="REPUBLIC TV (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="JIO-TV", REPUBLIC TV (IN)
 http://65.2.4.240/jioo.php?c=Republic_TV&q=400&e=.m3u8
-#EXTINF:-1 tvg-id="DD INDIA (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="JIO-TV", DD INDIA (IN)
+#EXTINF:-1 tvg-id="DD INDIA (IN)"  tvg-logo=" " group-title="JIO-TV", DD INDIA (IN)
 http://65.2.4.240/jioo.php?c=DD_India&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="CNBC TV18 PRIME HD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JIO-TV", CNBC TV18 PRIME HD (IN)
 http://65.2.4.240/jioo.php?c=CNBC_Tv18_Prime_HD&q=400&e=.m3u8
@@ -1311,7 +1311,7 @@ http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=TV_Teacher&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="TRAVEL XP (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="JIO-TV", Travel XP HD (IN)
 http://65.2.4.240/jioo.php?c=Travel_XP&q=400&e=.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="JIO-TV", FOOD FOOD (IN)
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)"  tvg-logo=" " group-title="JIO-TV", FOOD FOOD (IN)
 http://65.2.4.240/jioo.php?c=Food_Food&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="CARE WORLD (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="JIO-TV", CARE WORLD (IN)
 http://65.2.4.240/jioo.php?c=Care_World&q=400&e=.m3u8
@@ -1591,7 +1591,7 @@ http://65.2.4.240/jioo.php?c=ABZY_Movies&q=400&e=.m3u8
 http://65.2.4.240/jioo.php?c=Sugran&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="STARS TELL (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" group-title="JIO-TV", STARS TELL (IN)
 http://65.2.4.240/jioo.php?c=StarTell&q=400&e=.m3u8
-#EXTINF:-1 tvg-id="WELLNESS TV (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="JIO-TV", WELLNESS TV (IN)"
+#EXTINF:-1 tvg-id="WELLNESS TV (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="JIO-TV", WELLNESS TV (IN)
 http://65.2.4.240/jioo.php?c=Wellness_TV&q=400&e=.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS (IN)"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="JIO-TV", BBC NEWS (IN)
 http://65.2.4.240/jioo.php?c=BBC_Hindi&q=400&e=.m3u8
