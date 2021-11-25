@@ -46,6 +46,16 @@ https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEieAmCCQq_SHLML0obV5lO0r9ThJGytfRKPGCmV1Ka2CVA9E5dwQyYyYoIzECtCKNzJ7qxNVd3z-3KpJy-Vmc8lfMkAByTlHR2PprN8oAA0I02cd-jMLvwEQzWJ09gQUt3bvLHRukzMshA0Qh7U4ce-zMR24MJpu4PgW_s6GXLAKxbfxTu5H7qLshKpxg=s200"  group-title="MULTI-TV",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 
+#EXTINF:-1 tvg-id="HUM MASALA" tvg-logo=" "  group-title="STREAM-ONE",HUM MASALA (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="K21" tvg-logo=" "  group-title="STREAM-ONE",K21 (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEilbExLVDA3E8mNPhUOwLzjsVEYwPdCqaCeqU-QsKwvUGcYjp69QFlVMLHNe7eGvVN10jq24dBuRPpmhWhhce9qO1rriX3H_OHJ4C5oY_PDFSgSQClu3rb282m5oEZSFKflhNC9AjyEZdavKiTMuXYkEMrlL4KbPeitKakrfuvT5C2Q-Xb8rwcNliU5ww=s200"  group-title="DISTRO-TV",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtSWfIwd3zZymd2EBt6aHTc_PgDqjq2zUkVxm-xjGDP2KkT4JIhRkt3T8V3iYi9voAJcAYVcNSPzwrR-8gcTDz8n1idtmktO64gNWVVhSgK4n-cHuwOp6XGSmdgJq93PCsKnQN0YhzzYzZRIaEie_mbtR9BPHQMe497gWMLlHRh04Wjg-YaI0S7r6ESw=s200"  group-title="DISTRO-TV",MMA JUNKIE (US)
