@@ -50,11 +50,18 @@ https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="K21" tvg-logo=" "  group-title="STREAM-ONE",K21 (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="STREAM-ONE",ATV (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PLAYMAX" tvg-logo=" "  group-title="STREAM-ONE",PLAYMAX (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo=" "  group-title="STREAM-ONE",HUM SITARAY (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AAJ ENTERTAINMENT" tvg-logo=" "  group-title="STREAM-ONE",AAJ ENTERTAINMENT (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NEO NEWS" tvg-logo=" "  group-title="STREAM-ONE",NEO NEWS (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CHANNEL24" tvg-logo=" "  group-title="STREAM-ONE",CHANNEL24 (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEilbExLVDA3E8mNPhUOwLzjsVEYwPdCqaCeqU-QsKwvUGcYjp69QFlVMLHNe7eGvVN10jq24dBuRPpmhWhhce9qO1rriX3H_OHJ4C5oY_PDFSgSQClu3rb282m5oEZSFKflhNC9AjyEZdavKiTMuXYkEMrlL4KbPeitKakrfuvT5C2Q-Xb8rwcNliU5ww=s200"  group-title="DISTRO-TV",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
@@ -412,6 +419,7 @@ http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyZmpudbZToppM
 #EXTINF:-1 tvg-id="NEWSCASTS (US)" tvg-logo=" "  group-title="ONLINE-TV",NEWSCASTS (US)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
+
 #EXTINF:-1 tvg-id="BRICS TV (RU)" tvg-logo=" "  group-title="ONLINE-TV",BRICS TV (RU)
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
 #EXTINF:-1 tvg-id="V2BEAT (UK)" tvg-logo=" "  group-title="ONLINE-TV",V2BEAT (UK)
@@ -433,6 +441,9 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo=" "  group-title="ONLINE-TV",ANJAN TV (IN)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
+http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo=" "   group-title="ONLINE-TV",AXN (TW)
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
@@ -534,6 +545,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo=" "  group-title="ONLINE-TV",JOO MUSIC (IN)
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="AST TV 1" tvg-logo=" "  group-title="ADULT",AST TV 1 (CY)
 http://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="AST TV 2" tvg-logo=" "  group-title="ADULT",AST TV 2 (CY)
@@ -603,6 +616,9 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" "   group-title="NET-TV",MBC BOLLYWOOD HD (ME)
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="INH 24 (IN)" tvg-logo=" "  group-title="WMNCDN-TV",INH 24 (IN)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
@@ -1629,6 +1645,37 @@ http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV 1" tvg-logo=" "   group-title="STREAMS",ITV 1 (UK)
 http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTV HOME" tvg-logo=" "   group-title="",PTV HOME (PK)
+http://103.17.201.18:8062/PTV_HOME/playlist.m3u8
+#EXTINF:-1 tvg-id="ARY DIGITAL HD" tvg-logo=" "   group-title="",ARY DIGITAL HD (PK)
+http://103.17.201.18:8062/ARY_DIGITAL/index.m3u8
+
+http://103.17.201.18:8062/ARY_ZINDAGI/playlist.m3u8
+http://103.17.201.18:8062/GEO_ENT/index.m3u8
+http://103.17.201.18:8062/HUM_SITARAY/index.m3u8
+http://103.17.201.18:8062/HUM_MASALA/playlist.m3u8
+http://103.17.201.18:8062/ATV/index.m3u8
+http://103.17.201.18:8062/APNA_CHANNEL/playlist.m3u8
+http://103.17.201.18:8062/TV_ONE/index.m3u8
+http://103.17.201.18:8062/8XM/playlist.m3u8
+http://103.17.201.18:8062/JALWA/playlist.m3u8
+http://103.17.201.18:8062/PTV_NEWS/index.m3u8
+http://103.17.201.18:8062/BOL_NEWS/playlist.m3u8
+http://103.17.201.18:8062/ARY_NEWS/index.m3u8
+http://103.17.201.18:8062/GEO_NEWS/playlist.m3u8
+http://103.17.201.18:8062/AAJ_NEWS/index.m3u8
+http://103.17.201.18:8062/ABBTAKK_NEWS/playlist.m3u8
+http://103.17.201.18:8062/CAPITAL_NEWS/index.m3u8
+http://103.17.201.18:8062/LAHORE_NEWS/playlist.m3u8
+http://103.17.201.18:8062/EXPRESS_NEWS/index.m3u8
+http://103.17.201.18:8062/DUNYA_NEWS/playlist.m3u8
+http://103.17.201.18:8062/92_NEWS/index.m3u8
+http://103.17.201.18:8062/NEWS_ONE/playlist.m3u8
+http://103.17.201.18:8062/NEO_NEWS/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id=STAR BHARAT" tvg-logo=" "  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
