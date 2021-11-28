@@ -130,12 +130,33 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
 #EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4Sapas8GXkCfHrIVqn28uk4nuYguQ-i-7uf0gRMpHv3XbPESeMoxTHG88EavDcSdrjIZiRognl1NHOe7JsW2E5V88j2Vt5jom0UtpcPS20UCMN821q3ETHxccIIGwRiQcAH1CeXYzSqOICTLBLc9wUhUO3qop8HKZUFs61Nd_9mOYwsBdGU-H5f_YaQ=s200"  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="SO YUMMY" tvg-logo=" "  group-title="STIRR-TV",SO YUMMY (US)
+
+#EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="REELZ" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiV3Mi_Td9sEimGpX_dbSyPGemj80eBdOe9cWw0UxcGn3AHJJwxQR3Mb4X77CMOyf5OjHIZSmLjbLYPpUzCuCgbCh4Mck2N9v4z5PCSPfeS5D_DPwoH-l9bgMHOC7GpF3tP9UHMDU4PdoFLI_T5_ukaJeNjBCAK43Q5tY0JHwgVQFiwE4o1s04GbePlCw=s200"  group-title="XUMO-TV",REELZ (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="PLYERS TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3i0AGLnjO_AEPkobUgbGtsbnxTLrykQMYD8M6VsJiQrOB2mkPvXoG14LthZjaBmQv0cN4GSEMCU5_NgkFHJQZ5RQpi9FDbxL1WyA-UYMAQpEcbuYn5aGGYSjx5jwpsUtbY6FHFAafuiv_IaFFu7NniAfGthkQma9K-JYl4aEfCV8fktmEhfrYAiFHDQ=s200"  group-title="XUMO-TV",PLAYERZ TV (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 tvg-id="LAW & CRIME NETWORK" tvg-logo=" "  group-title="XUMO-TV",LAW & CRIME NETWORK (US)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="STADIUM" tvg-logo=" "  group-title="XUMO-TV",STADIUM (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 tvg-id="TMZ" tvg-logo=" "  group-title="XUMO-TV",TMZ (US)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RAINBOW RUBY" tvg-logo=" "  group-title="XUMO-TV",RSINBOW RUBY (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CON TV" tvg-logo=" "  group-title="XUMO-TV",CON TV (US)
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
+
+
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo=" " group-title="SONYLIV",Sony PIX HD (IN)
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi74-N75MjAqr4NdBqqO7VBasosqPuLKytY0VyzZL5k9eP7iJFmhwCvgMCG-VC6rramSlrU0TpnFb5FJ3h-ga1bZMiJ5DMBzV-8HxkVTQXfoJSdGWNy--XWRnP960ozQbg6A9W4G652rbrTG9FkujWDgK6eTGLdFahPKemQcG8tQ-JVxH0GmiRhDM0dUA=s200" group-title="SONYLIV",Sony PIX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -161,7 +182,7 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 ch-id="SONY YAY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"  group-title="SONYLIV",SONY YAY (IN)
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiCedR6zwHOc4Re9ZnQbvM7DsyiTBG_e6dxyhvonEHKV-hmscoPoyh6p3ppSA0stQm3mT-cm-XZQzc9EzEgkZE_NkgFUehOoCyq_uc7hmxrvA379iI6LD5TVFktcClT0IM3tpb0__c9hr32QQewsxa_DSWIKskQnRZ1wv6NsmC7A75d4as0Qj3ttkCeIw=s200"  group-title="SONYLIV",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidMFlMrmJUjo_0O09aIyD39JNtGl4VUGpz7_qreFCLvTiDMW_65MBQMNuPNVX-yUwx3yYQyskBOcAF2bd8a2MiAihtgWL2sxJk1LTwUCdq_t7p9irR8iZhOiwZFcGvUAFDqhD_p5lIdl5JiA3_AcFv6Sc0vOI5h1rosb2Cz50HP4-P3cPnZFu3_N_PPw=s200"  group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -191,20 +212,27 @@ http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_
 
 #EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_VLjZdvneWw3K9YdcSj9uhY8UR8_aVPN2FhZIr0GLGBfU0phMl0BBtqlg03sCV6ALRwt1i3-xrOB6MDrsZXdYqTD3EcX0R71rISHAvB9qQ48d8zihpxgeGGGaIAFYABGQ-BntjvpoMgTsNsN2MqPQisy4GXrsCpTVcSPLYPzHnTwK2-9Zfc9U-qJ8sg=s200" group-title="V-PRISM",ASSAM TALKS (IN)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV 9 BHARAT" tvg-logo=" "  group-title="V-PRISM",TV 9 BHARAT (IN)
+#EXTINF:-1 tvg-id="TV 9 BHARAT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgM-X7g4wvI3fbY42q2A7NIN8dazNH03vrNvxPySvOev-lKU9wZeECxPj4URkddpMe2YhzDaiX8H31mIV7yl6G8tvN6v8obvucLL2GAtxWsh248V5OsD0CG0v_CWbItbJBJ0BE_FkHr3ltbZE3GI38iVeWjO5Clx1cYFL_CrCSYpiTSNVFlBA8gnBpBIg=s200"  group-title="V-PRISM",TV 9 BHARAT (IN)
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="NEWS 24" tvg-logo=" "  group-title="V-PRISM",NEWS 24 (IN)
+#EXTINF:-1 tvg-id="NEWS 24" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjpDRVaQVkR96QIBw8zfOhmAr2HTluzYHk_Z3-cKcdl14sXfcWLdaizgAJ2-hodq9CCTVQlMjIu10prrVSBkOes9ZAS3xO7qmmuQzPEKJrc_DnwHddLbLXMVAAzfmqIf_cRt8JR2mu0qllyt_yUYePxVKONRMacAOWm_8r0g-oBefPDv7vd9W8GyYhSWg=s200"  group-title="V-PRISM",NEWS 24 (IN)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="KHABRAIN ABHI TAK" tvg-logo=" "  group-title="V-PRISM",KHABRAIN ABHI TAK (IN)
+#EXTINF:-1 tvg-id="KHABRAIN ABHI TAK" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiGMUVLn1A9UPRkZ2jEDIQBW5tl4LNkyfuaC9r-TfXOp2KhT-4Wy9Uts-_zsRXXS_5G9lSVtkycw2y9-9WATc7qERrbL6lnbareG9Y36VVTbjw13eJyDmlOTChbrokff4IQjo9o5JDQzdhRB7ALhKlzhyL1-xJreNx-MWeyXbE2ZTZ1jTmSSK_nbw04Hw=s200"  group-title="V-PRISM",KHABRAIN ABHI TAK (IN)
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TV ASIA" tvg-logo=" "   group-title="WORLD-BBTV",TV ASIA (US)
-https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
+#EXTINF:-1 tvg-id="TV ASIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiqWnlmVrw3pUMNgIy2_A1FETD2QNnyhsOG5pVZfdsPS0J6NNX__z2nHe5NK3m9QOXgV9WbHh4HIEMm_88dvUKGTAyLO08ZZFmRP5AqBrgUMUVb6eahlQmuAwWKq5t1Q8W7gDHzfhHILImFr7AhD_6edpY3qJYDwjcQNVfrs40FP5a1DmL0GU2fDfnCtg=s200"   group-title="WORLD-BBTV",TV ASIA (US)
+https://streaming37.worldbbtv.com/hls/tvasia.m3u8
 #EXTINF:-1 tvg-id="TV ASIA COMEDY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOszb0tUSUsor8Sf8lCR0aW9PMQQcIfCj6jxkQmCqDnSlx9ihmrQxtUj-zQUVzi7XRBO1ei9bxpNDDG_hEYPcooSXpGjKIZtObzJEgu4AcdQjU2OKrUTvwFelArEXvJUik92NTuXy2j-SdghZrztvst-ZnQ0PTt7IT6Z2RnBw_ilLMV6CQ4MMFRhrRQQ=s200"   group-title="WORLD-BBTV",TV ASIA COMEDY (US)
 https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 
-#EXTINF:-1 tvg-id="TG JUNIOR" tvg-logo=" "   group-title="ONLINE-TV",TG JUNIOR (US)
+#EXTINF:-1 tvg-id="TG JUNIOR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEik70yattL_elJNRxyxNej02c53t2d3mmtPL490bOZQhg74KGmryfVrxdlKByHE4l887ONEShOCQYH8L7u8_Gmk3u6XAbOStQWHaB9P5h-pwVWcqF7xONkloN-VICjvwfW6byfjMjgbHsv6vsQpBSsOnfOSASDerniFR21o90xem_rQv3O4ooE6al8TyA=s200"   group-title="CTV",TG JUNIOR (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
+#EXTINF:-1 tvg-id="SMILE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg22OakpD4I05pd0MH-FB1Kgt5aRxl0M7hyQ2MPjyHpIkcG8bV7MyjkKqDbq1qhJ51TvPX205wWp8JpVfvddyeblO7tqT1uBZbBe7mobso8OmytakpqG-7gatdsyVSlLEeSXBcjt3ntaVfta9cKGxaS5yEygWCe2qRRyu1NO7pa4Bdd8hNOUun2eMK2yQ=s200"   group-title="CTV",SMILE (US)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=813&avod=1&coppa=1&is_lat=1&custom_targeting=web&custom_4=internal&h=720&w=1280&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&u=https://player-api.new.livestream.com/accounts/27460990/events/8266916/live.secure.m3u8?dw=80&type=redirect&basetoken=1526-8755828fc5c174ea4950cecb3fa7ae5dd461fcf2486a4e30a8a96f6ffec75620
+#EXTINF:-1 tvg-id="TOONGOOGLES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhMnNWUtAJHbar7AqX1rVxIx5dzA7LDwk6QBy10okh8fTBiK5XAR0WyCJD9rttYzk--YthYsWlu8YmdobfKy6Zg-N8qZZykwl0CJbHvCjUVUHzGAz2hRrQWNu2g46yHKn-yy28rxyHTXJP6vSVx97HCwaQm7TRk3Fh9oE9QBPB4ruGXNx6SmeKbE4pMOQ=s200"   group-title="CTV",TOONGOOGLES (US)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 tvg-id="KIDSFLIX" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi08H1wzUCpToCfZJ7XgxyMb4qS3N0MPPruv3ypTaVkt3Ucjt1Q7Wi7KVDHLLFxR8VFNraZLYCTMs2diT0AjUoo5K06FRiR5CfPKtyNgXofHE0O39KoQLvAq_ZKj_YV-sYHm53gcvxh1LaOYIEIZdmphdb9CfJSqXfb22aZgtNRIoYPYaIsU-iNqFvaeg=s200"   group-title="CTV",KIDSFLIX (US)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
 #EXTINF:-1 tvg-id="TRT WORLD (US)" tvg-logo=" "   group-title="ONLINE-TV",TRT WORLD  (US)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-logo=" "  group-title="ONLINE-TV",REPUBLIC BHARAT (IN)
