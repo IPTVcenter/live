@@ -310,7 +310,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="WPT (US)" tvg-logo=" "  group-title="ONLINE-TV",WPT (US)
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-#EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb-WD3eABOXuR9oWN4io02YdDtk4jYIlD5B013l9jY2PRS2h4kSEMsvkPqCGAo2OkmIUhuSjKJWaF_zhzWmx1jzX9ActnWRjg7T8TPWM4evkb1FwHDl1BBJhiyMt4e9QUoSOO1Xgg4-vjR6rGGnzJR1sHu5tJ5h6XMq3g3hUhSSip1U3i6p5jT1YS3w=s200"  group-title="LIVE-BOX",I LOVE (IN)
+#EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb-WD3eABOXuR9oWN4io02YdDtk4jYIlD5B013l9jY2PRS2h4kSEMsvkPqCGAo2OkmIUhuSjKJWaF_zhzWmx1jzX9ActnWRjg7T8TPWM4evkb1FwHDl1BBJhiyMt4e9QUoSOO1Xgg4-vjR6rGGnzJR1sHu5tJ5h6XMq3g3hUhSSip1U3i6p5jT1YS3w=s200"  group-title="ONLINE-TV",I LOVE (IN)
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-logo=" "  group-title="ONLINE-TV",SADHNA PLUS (IN)
@@ -647,9 +647,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
 #EXTINF:-1 tvg-id="MASTIII (IN)" tvg-logo=" "  group-title="MX-TV",MASTIII (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1 tvg-id="SHOW MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",SHOW MUSIC (IN)
-https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
-#EXTINF:-1 tvg-id="MUSIC INDIA (IN)" tvg-logo=" "  group-title="MX-TV",MUSIC INDIA (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",B4U MUSIC (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-logo=" "  group-title="MX-TV",NEWS NATION (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
