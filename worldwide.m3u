@@ -182,7 +182,7 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 ch-id="SONY YAY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"  group-title="SONYLIV",SONY YAY (IN)
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidMFlMrmJUjo_0O09aIyD39JNtGl4VUGpz7_qreFCLvTiDMW_65MBQMNuPNVX-yUwx3yYQyskBOcAF2bd8a2MiAihtgWL2sxJk1LTwUCdq_t7p9irR8iZhOiwZFcGvUAFDqhD_p5lIdl5JiA3_AcFv6Sc0vOI5h1rosb2Cz50HP4-P3cPnZFu3_N_PPw=s200"  group-title="SONYLIV",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo=" "  group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -713,12 +713,6 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
 #EXTINF:-1 tvg-id="JAAN TV (IN)" tvg-logo=" "  group-title="MX-TV",JAAN TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
-#EXTINF:-1 tvg-id="ABZY DHAKAD (IN)" tvg-logo=" "  group-title="MX-TV",ABZY DHAKAD (IN)
-https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
-#EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",ABZY MOVIES (IN)
-https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
-#EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-logo=" "  group-title="MX-TV",ABZY COOL (IN)
-https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
@@ -815,19 +809,6 @@ http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="LIVE-STREAMING",AXN (ASIA)
 http://50.7.61.148:30080/Entry/axn
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo=" "   group-title="STREAMS",HBO (ASIA)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-logo=" "  group-title="STREAMS",HGTV (ASIA)
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" "  group-title="STREAMS",NAT GEO WILD (ASIA)
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="STREAMS",ANIMAL PLANET (ASIA)
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="WWE" tvg-logo=" "  group-title="STREAMS",WWE (ASIA)
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="ASTRO BOLLYONE HD" tvg-logo=" "  group-title="STREAMS",ASTRO BOLLYONE HD (ASIA)
-http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="LIVE-STREAMING",AXN HD (UK)
 http://51.15.0.141:88/axn/index.m3u8
 #EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
@@ -874,15 +855,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
 http://93.157.62.180:80/FoxMovies/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png"  group-title="STREAMS",BBC WORLD NEWS (ASIA)
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" "   group-title="STREAMS",AXN (ASIA)
-http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV 2" tvg-logo=" "   group-title="STREAMS",ITV 2 (UK)
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV 1" tvg-logo=" "   group-title="STREAMS",ITV 1 (UK)
-http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PTV HOME" tvg-logo=" "   group-title="PTCL-TV",PTV HOME (PK)
 http://103.17.201.18:8062/PTV_HOME/playlist.m3u8
@@ -959,7 +931,7 @@ http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEihWaaaX5x0z-QDoAOw0K5tPVEZtFW1IoInXyzc8P8EgqHMcIDaW8qvHtXD6goEraXcce0wPqc9QBJRKQ0PaJ6RmIDIL_ZFnnvl4KWs9MROMMqk5U0lY362S2mZAD2BBN97yczyonq_n1a3C5-TEeS87OQUM5N2jPQnnPD5T9Dx4D1KfD9tdsHivKborg=s200"  group-title="LOCKLE",SONY MAX HD (IN)
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="LOCKLE",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinWQE_jZa3U67TJYbKW7R_JOA8KmYS4vbnfxepWAigFqkbyCwwVyaCV5aCPrXLeuYcIqkqSXysMz5FV9h2uRNXtjwf3dryamaSX5V8zsSUsbPnN2rDJNj0rp4trP9PfxbCeLFjmUEHIkMPmhZKs6d2otvPMj0ne5CamMtmNsJOWethpZAPMAiuOxccPg=s200"  group-title="LOCKLE",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
