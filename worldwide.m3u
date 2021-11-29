@@ -508,7 +508,7 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="DISHA TV (IN)" tvg-logo=" "  group-title="WMNCDN-TV",DISHA TV (IN)
 http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-logo=" "   group-title="AKAMAI-TV",ZEE AFLAM (ME)
+#EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-logo="AVvXsEh4IrEDAVKHW7vMO6a4_1chaEc3tOrVGLp7mev1WDieuMTG6cWBmaRJgY-ir5RH0LnzZO6HrwdvynZXyIjklh0i-OR-WjVbSZhiTYotuco76O6H3X6V3hTAgF8wOlDqMB-QUKYijLVfSuCQAaAureogPi5-71wbBen4gcG_I5pUU4OdVKuUH4QTgFyZSQ=s200"   group-title="AKAMAI-TV",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="3 ABN KIDS (US)" tvg-logo=" "   group-title="AKAMAI-TV",3 ABN KIDS (US)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
@@ -583,11 +583,11 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-id="INDTV USA (US)" tvg-logo=" "  group-title="AKAMAI-TV",INDTV USA (AU)
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
 
-#EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo=" "  group-title="NET-TV",CNA (ASIA)
+#EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9B_vkWHo0WRz1WIbewkmKprxKzv_TqN3b2HvoKklVj8Xv4mCVe54Rgqj6LSC_8vkqQEzZsIPIgmTjAog9j1rik4EJbTsHnzYgd1OVXvINXgBso5AgEg81PB5AM68_9Taaue7su3Vhbb1zVBtBWDn-exVvZsHyiCW39610pWlrsKdtbZNER1M-tfV5Og=s200"  group-title="NET-TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo=" "   group-title="NET-TV",9XM (IN)
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgy54TCpSEzcJl7v3gTYCk9fA4Y6zWSKCcyLdlMSvdiZjVcfm0pKb2ZuIG3B-pbWaYfESHQJAn9TtF72MjUfoDtQRcO8aw4TQPsRDOsxhE3MiIYnvK6-LRNWz4qBNTzssmEoQnpU2fMNas2khPfDpQecC9C8EypYIjmFUIrkklStbqOok9IARhPSBEa6g=s200"   group-title="NET-TV",9XM (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo=" "  group-title="NET-TV",9X JALWA (IN)
+#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDRqzzBr-e3FJd7h2e31W7I1_qvBp7RvDfDvLDDMRAQHejttAmpbTfSilKFQ0odizlLTL7-2SQj4zeerIBZZgK6nPi4mRxOUaFdUTYIPCdtIig3ErFX4DNzlCEbIknNyQiZkMXj1FUsLI6hkpa4m__esUPFV0osL6uWU17kk3S_XvdrmO7_DtZyGZYAA=s200"  group-title="NET-TV",9X JALWA (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg-KjciXuGLcBc_FVrwylnBZaqoqz3MSTZ5wwcIgAbhzO7m4-n0EMUw0Lg7RE7sk5iXtYmNZjZkFSQl92KG7g8UCQ6tzaLT7QfC5FfknvYXZbfEaUK5wew_EghPnHWHdLbrCiyfRA_ozLgr-kyUhB2gtS8qEehltm2GWxTvUl0LhSXHfd_pZ_iMO6AW=s200"   group-title="NET-TV",ZEE NEWS (IN)
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
@@ -601,7 +601,7 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="TNA (US)" tvg-logo=""  group-title="NET-TV",TNA (US)
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="DD RETRO (IN)" tvg-logo=" "   group-title="NET-TV",DD RETRO (IN)
+#EXTINF:-1 tvg-id="DD RETRO (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhMEo3D0Tv4_zeFVt3vYozlhifCdEOV6kLYTHphiv3Ygbip2F0NJ4WdMKrFyoYF5FKe0JCgk5B1ttdOZOyVOcFCHZCaSW-PI8o2LT3X4bWcf2fNCybOJ3K3iWl61VUi2vmaiKmhJkb6of4MyggFzdoU1APNQbGEtBFOms6kSejF9cdp_EHMY_x1iNFutw=s200"   group-title="NET-TV",DD RETRO (IN)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo=" "  group-title="NET-TV",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
@@ -757,16 +757,16 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RED ZONE" tvg-logo=" "  group-title="ADULT",RED ZONE (UK)
 https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
-#EXTINF:-1 tvg-id="GAY TUBE" tvg-logo="https://1.bp.blogspot.com/-J9DG55blf10/YNsDYjLJ4TI/AAAAAAAAAE0/ITLyoM_7zBAUjFhQ4uk1qlufqQVUoSlWwCLcBGAsYHQ/s320/images%2B%25281%2529%25285%2529.png"  group-title="ADULT",GAY TUBE (UK)
+#EXTINF:-1 tvg-id="FETISH FACTORY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgx5n7afl7UPEPCLXZg2LVIertV_Hkkejqt3DIKsqcZ75ygzgWgnEYhOdDZ8Gm3hs80-xpcdae0P-S4tF8EnfOiiDG9FQhQAKhbdDe59iM1CM-7EjC24ozDlW5i4VFua7cXCXPFg4hk3I-23m7eYwfaOqQeo4Lrn4f4gmKltTomezxW-kzU3ni9JG9Ixg=s200"  group-title="ADULT",FETISH FACTORY (UK)
 https://www.filmon.com/vr-streams/6155.low/playlist.m3u8
 #EXTINF:-1 tvg-id="PORN CLUB" tvg-logo="https://1.bp.blogspot.com/-WQZR8fo3NQU/YP1Ksd0-exI/AAAAAAAAAng/8ylJjFjBEDYjyISmzXFHbrl9NEVh6G4TwCLcBGAsYHQ/s200/PicsArt_07-25-04.57.24.png"  group-title="ADULT",PORN CLUB (UK)
 http://www.filmon.com/vr-streams/6152.low/playlist.m3u8
-#EXTINF:-1 tvg-id="FETISH FACTORY" tvg-logo=" "  group-title="ADULT",FETISH FACTORY (UK)
+#EXTINF:-1 tvg-id="NEW SENSATIONS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9B_vkWHo0WRz1WIbewkmKprxKzv_TqN3b2HvoKklVj8Xv4mCVe54Rgqj6LSC_8vkqQEzZsIPIgmTjAog9j1rik4EJbTsHnzYgd1OVXvINXgBso5AgEg81PB5AM68_9Taaue7su3Vhbb1zVBtBWDn-exVvZsHyiCW39610pWlrsKdtbZNER1M-tfV5Og=s200"  group-title="ADULT",NEW SENSATIONS (UK)
 http://www.filmon.com/vr-streams/6158.low/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo=" "  group-title="FEEDS-TV",AAJ TAK HD (IN)
+#EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjMbKSliRjRbZ8bAIZSQlbLqwWn2K-xsKBWNmPhdn0FLjTF5eTR6kBDv40zcy0itv2IeeslTECfWtDzXT23_8405EMCf_urq-LkYxGOHjQj0Td7kGl7a_AaqWn4CsbF8h9o0BPeNrQP_9qz0qzl3S-o-LFiOTs22YPh9pl-HTtMNplRes6LrI38H6y5kA=s200"  group-title="FEEDS-TV",AAJ TAK HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo=" "  group-title="FEEDS-TV",INDIA TODAY (IN)
+#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiXmNS8iETWaErdAfuopwZnDgRxg_VMT2VRssdjq1-2yp4p_g_n2Z9QqTBNlDIUvsT7UvIFxoeS6UR_hdmRdU4xzqltWb93BdS36-3w-5lpBS3MIqSy7qVpNrLwOK5U4sUNFZvo4ZswpnrN06bJSgGas1QyCH9hu8PTBdrXF7zHo-EYT7wIKoWX9iNlcA=s200"  group-title="FEEDS-TV",INDIA TODAY (IN)
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
 
@@ -907,7 +907,7 @@ http://103.17.201.18:8062/NEO_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id=STAR BHARAT" tvg-logo=" "  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id=STAR PLUS" tvg-logo=" "  group-title="STREAM",STAR PLUS (IN)
+#EXTINF:-1 tvg-id=STAR PLUS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgG8JK-6btjG4BHi_TaaLbd1pFwo8iVJ3Aztwc_5DcK5zBIwypwxY_rrqo967oD6NwYAS-pY4U2qKI-izwLX39XqogJ64VFY4gdkpcwR9YyV5PIkYPgtW3YAJRpdWpIjUlsZdLA4hyYwcX2qBe28aOQBtAM3Xf4ha_WYQ0mAxc4kk0GtLZPDOI6ly7EZQ=s200"  group-title="STREAM",STAR PLUS (IN)
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id=SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjyHcvKrcUxjAr51xvxXaZWlU7lvigLWD8puOdKOi54V2Lil1rPmapuyuWNbXY5luaJl2NiLibYLM4DzAcegnirPXn9oSRnRkItRz7zcCT-S7RIprzXCJYvNmksshIcBIlhGHvEwcTYeROaYgECWbD6bkbGLJeh30Rg59yf7ZAkxs9GT5aEjlrLedEW=s200"  group-title="STREAM",SONY SAB (IN)
 http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
@@ -931,7 +931,7 @@ http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="LOCKLE",SONY MAX HD (IN)
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj8xl3OYsjaq6TovuYTMcRyhPV-rM77rEcVdnxjh0tNFDzuV4rCZUo2g4Bj3GpW7Ns-HZdjow1SmZ_KY_nYCDcbaobvWTrlweX1Orq1ISFGDs9B2LgqRpckNA2UQyasVIH1ASgq2FW-s1jJMVUyzsTycjEoe_HeDLYNUsvIxcNjoctkXEOwlihV8Q6FXg=s200"  group-title="LOCKLE",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinWQE_jZa3U67TJYbKW7R_JOA8KmYS4vbnfxepWAigFqkbyCwwVyaCV5aCPrXLeuYcIqkqSXysMz5FV9h2uRNXtjwf3dryamaSX5V8zsSUsbPnN2rDJNj0rp4trP9PfxbCeLFjmUEHIkMPmhZKs6d2otvPMj0ne5CamMtmNsJOWethpZAPMAiuOxccPg=s200"  group-title="LOCKLE",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
@@ -943,7 +943,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo=" "  group-title="LOCKLE",GEO SUPER (PK)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo=" "   group-title="LOCKLE",ZEE TV HD (IN)
+#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMQ1-va7BehGpTYJpYsFD4Bvu5RZbaHb08uM_1x-619xczOglP-u0SpBQSsRF-pRHAEnJRjNn4VcDe9_NzBDV_BMqd9N8H0_h-qgr9zaYd1mUR7cJhuhQDYb9pcUScVss_eXb8bEEKNnpWm9D_dn7kY5oEnL-V_AvtaygF1xFt1rbazG5oH1whowMNKA=s200"   group-title="LOCKLE",ZEE TV HD (IN)
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="LOCKLE",ZEE CINEMA HD (IN)
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
