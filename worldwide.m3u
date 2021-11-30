@@ -18,7 +18,7 @@ https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiaX5yGG6XQUimvZRcrR3G3TOwm4LM4sPhdxrWOJD52bxHDz9Y5FxI_pXJpLHRSl340wdsf3im4BJub7tv9n5b7XraC2mgUZmwM9HyEto3t1vchxnPvkHokQj0x8sjEOS6cbTsFit7UTZ_J4rbNt9C7seJK1Z-Eph9irK-PTRhwY3J3cXp5vLVMF-MK3w=s200"  group-title="SAMSUNG-TV",DUCK TV (US)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CRIME 360" tvg-logo=" "  group-title="SAMSUNG-TV",CRIME 360 (US)
+#EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0kAO1Dcv-9I8MxgEqIre7xE4l9zi6W0hsVwPfYYjG9s6qoNouxktGBavDRjtPBEq8JTQU4G2udcmxy0wNOJT2Mq1RYoiImYjsGdHoyKvng0ON1Z9VlwVvP735Ogi9BBpTQaPBzX1b53zhTivzEBcnOeetbkZ_raduK3op4iY5nDhQaXJH4khECCaJ7A=s200"  group-title="SAMSUNG-TV",CRIME 360 (US)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjs5Eb3xTCJg6GVtkeg9R-1HUxLFhnZYhknX0mJY6kK0iXQBuw9cuej4xk-G2SmrEn5PJm-K9GavRgCjR-IqCYQABWYSZRON9RqG4XyXOjRGm0XL4ooQCcebiC_VAOo5ObUL57EC1bRce1iuDdkYYoLuGtcCUfh396x1WwlgyQAhm4T58xl_d1_8HuDUA=s200"  group-title="MULTI-TV",DD SPORTS (IN)
@@ -48,19 +48,19 @@ https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 
 #EXTINF:-1 tvg-id="HUM MASALA" tvg-logo=" "  group-title="STREAM-ONE",HUM MASALA (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="K21" tvg-logo=" "  group-title="STREAM-ONE",K21 (PK)
+#EXTINF:-1 tvg-id="K21" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi43dRsYiNBXNSllTfKOErmipU5UDWZUsdyGZmj9uMOeTxvZbKw2MWeQArFS5IhScXiqoSEHGPuu4Q3ArVNZCLFgcKKu0Y0VVfL66lW-SAHyAs43WnnioD3Mp3RF5oDTkeZAI9pcv8SHVsaIpEN3azd2pVZBp0HOAyfHfiMmRPx8kBSHtVW8CM0q7YAcw=s200"  group-title="STREAM-ONE",K21 (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="STREAM-ONE",ATV (PK)
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhZabe1zNstzMM1rQ7sq4kGNJjq8-Qzy9DphR-x-Q-_vhuV0ZxUtoM8nWjo09j7L2eO9B0llXnxF93BQk2uJBJ8KIuc-fdRlkVxgZxczR3wDQZ-w7dXG8SeCuo2EqM-VZbZXK5GYRpyr0ntY_km0NgiLxgXQH0Ugo-If1DZLZ54-tq6h4GcJQ2AUZnY-g=s200"  group-title="STREAM-ONE",ATV (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PLAYMAX" tvg-logo=" "  group-title="STREAM-ONE",PLAYMAX (PK)
+#EXTINF:-1 tvg-id="PLAYMAX" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgb-T7fccsH6qjqaM6t6AIpHKSOch134FHNiGyKEXn9wgy2W8il8RcHuso_U0bROxASakcQqFICsCVesh26IBcoTFPWpKjn16FSUjjYs1Xyo3RtAAxZGAgAieGycWADo715qSG7XvaQW-BcX2W8E1iotd0rgcP5GmoIryOL7b5L3XY7HfQPwJQmJzmg1w=s200"  group-title="STREAM-ONE",PLAYMAX (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo=" "  group-title="STREAM-ONE",HUM SITARAY (PK)
+#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhDkr-5G22t7U0-Xx6EjM9t86zVc0aXFtpczIEZ4_rFAqZgy2-huRQSnelkIXuSKwbc5Rmrqqyf_CJJmqNVe1TMtWstlRlYzU_vMI2PbHkSMLiXFZxhNifXrhRSKV0lQLuPipQk51mPw9pAMuZg8GBzrTDVPHsmjbrlyi5C17KsIdwsg0fT4eqp6W3ASg=s200"  group-title="STREAM-ONE",HUM SITARAY (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ ENTERTAINMENT" tvg-logo=" "  group-title="STREAM-ONE",AAJ ENTERTAINMENT (PK)
+#EXTINF:-1 tvg-id="AAJ ENTERTAINMENT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiFw_mygYAXF08ExcYKWHNo-snxFD8LZibSbdnnm4g5gpKwLfTL3_trGFtYwMA5oWZFwcgmr5K7PRhV_8yfBljwTTSm6g6KYNywddsBhJyUEbjp1h1O_MWM_C9h4CkLQKqQRkCfWYTK9lkuuQN37poeQ8UZL5nlMUQ0yE6PxZ7zUloAbZf30O5-wZKuHA=s200"  group-title="STREAM-ONE",AAJ ENTERTAINMENT (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NEO NEWS" tvg-logo=" "  group-title="STREAM-ONE",NEO NEWS (PK)
+#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjNsawpp4xw1ivjQKE70xb1EhmNTrYXTAYAeiHHLSrNyPVgl9ic_ZP4OTAcXlyw_1WJXJtwyxq3WpN_po8UneyV77zx8ve-RmMHcRf1erFf8k7Ibwug455mO7gPqcz1mULafWgr4QV3AzkAH3TYqft9zO3FW_gDtyQEFHwBpk_BIxTePoo2Nw9UYoDXGg=s200"  group-title="STREAM-ONE",NEO NEWS HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL24" tvg-logo=" "  group-title="STREAM-ONE",CHANNEL24 (PK)
+#EXTINF:-1 tvg-id="CHANNEL24 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEivbywt6VtfA0EWwwN6wUpsQ224A9n-bjbx3FOmQSiajOOuRcciiHM36TlZcyxGYpR2CqifgvWJHFc-f1IieBfPpf71uHfQXO1lI6pwiebu06JhNp7mA_Jjv-IeXuze4wfb0DtxPcesZoY__PPGPFcyf4MET7wdeHxQ2Fc9A5pQdgPdu_cvqMmhhR0kNw=s200"  group-title="STREAM-ONE",CHANNEL24 HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEilbExLVDA3E8mNPhUOwLzjsVEYwPdCqaCeqU-QsKwvUGcYjp69QFlVMLHNe7eGvVN10jq24dBuRPpmhWhhce9qO1rriX3H_OHJ4C5oY_PDFSgSQClu3rb282m5oEZSFKflhNC9AjyEZdavKiTMuXYkEMrlL4KbPeitKakrfuvT5C2Q-Xb8rwcNliU5ww=s200"  group-title="DISTRO-TV",CHIVE TV (US)
@@ -112,7 +112,7 @@ https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-id="FUTURISM" tvg-logo=" "  group-title="STIRR-TV",FUTURISM (US)
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 tvg-id="PEOPLE" tvg-logo=" "  group-title="STIRR-TV",PEOPLE (US)
+#EXTINF:-1 tvg-id="PEOPLE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJhVegwLjJh2BhHfaJ2ZbdNFrVtZhlwbhHYcf6BRJ791QgpblrtDxHt5Eun20g7bCU1w0RV4aJErHmoIjZJRwfiHXE_nUs0Av6y2eBXXRHiPvs7TjggzP8IDJ_YwH2LT34bonG4EgyU007UhfYT78UFxQWLhkRk6UJHQnTzgDXfXPh8TpZI-OQORadlA=s200"  group-title="STIRR-TV",PEOPLE (US)
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 tvg-id="THE ASYLUM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBzmoHo3nzXr_X5lEfWO28IQNHCGs9sqMtpDKV0ZZUE-lsJEVLcgHqxGHO6e9gtOR6KCDMwVu-ndoBO-P69Cj1ki5l9c9fIF5NuYnQWc-XKdmOEegQnT-I5CBzlNclCZKvCoh-H9_6PU0F6L4MMpAWk1vRNUdryPczfa5_GLy-Zy5smvEpYxLYSeCYGA=s200"  group-title="STIRR-TV",THE ASYLUM (US)
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -137,15 +137,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="PLYERS TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3i0AGLnjO_AEPkobUgbGtsbnxTLrykQMYD8M6VsJiQrOB2mkPvXoG14LthZjaBmQv0cN4GSEMCU5_NgkFHJQZ5RQpi9FDbxL1WyA-UYMAQpEcbuYn5aGGYSjx5jwpsUtbY6FHFAafuiv_IaFFu7NniAfGthkQma9K-JYl4aEfCV8fktmEhfrYAiFHDQ=s200"  group-title="XUMO-TV",PLAYERZ TV (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="LAW & CRIME NETWORK" tvg-logo=" "  group-title="XUMO-TV",LAW & CRIME NETWORK (US)
+#EXTINF:-1 tvg-id="LAW & CRIME NETWORK" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjGoXlpCckjsNCa0pPTNqoJoFo5vBnE9WS6HvGXg1mylcs3ow7YpjEa0ZUtUBtiXew3_hhJXfviS61GLpWbMivC8X0PoZLSvpBUCzbMqDM8wgPuCcW7H4GafV4kklQXXwNCIqyfVLciKneQGVl1UZruDEM0d-u_AmWWCgHhgNOB-XGKd0FXc33awkuxTA=s200"  group-title="XUMO-TV",LAW & CRIME NETWORK (US)
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="STADIUM" tvg-logo=" "  group-title="XUMO-TV",STADIUM (US)
+#EXTINF:-1 tvg-id="STADIUM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinn-LVWXfMz2wuVaYok20gNZELm-pv9F4bNc9XQYyUKMpqIm1XsbkNztAHvddKR96tjATJUDauqnTWpa8JQlr7eoMHe1Wn5c00XH1oQyjBNF8ZwdXlRGE6M0EGE2nzKb7JShhz6CaBNrNXAKej-8KOiMAz-UZN66Q5RYlZgyIBc3LckaV6zWQqBTSTaw=s200"  group-title="XUMO-TV",STADIUM (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TMZ" tvg-logo=" "  group-title="XUMO-TV",TMZ (US)
+#EXTINF:-1 tvg-id="TMZ" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgNV_dL6laFKt9UCl-md3XSdkUl2Wl26ABysanogCYP6KyujvSj603n1Pav79PG5etoo1quD8X5mg9crdUtAztZWipJY_FGtG1AW4OYigOQT-oU7OvgAzssR-5ta-PvysaX41ujgiB8MJGB17STwjj03KHmYtySvsz2sL0VfTsXHP7tIdrj7JhKDOoNVA=s200"  group-title="XUMO-TV",TMZ (US)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RAINBOW RUBY" tvg-logo=" "  group-title="XUMO-TV",RSINBOW RUBY (US)
+#EXTINF:-1 tvg-id="RAINBOW RUBY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0R9YcDHYR4R1QQCDAi0RB2OckPiAAJtDnC0-vAoeReeL8U6afXNG4y--JtWuO2wnl0FO1cpqHneID2gPRMvaovUDHlj_L9xEi_bLqHZQckI7DYpJhjdFiTVxKm7P_o5rahbLg6jMy4r4nduoYuFoELYAWQ5hP6A-EK-IwsXSF3b6u3Yp3NOxjS_pyhg=s200"  group-title="XUMO-TV",RSINBOW RUBY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CON TV" tvg-logo=" "  group-title="XUMO-TV",CON TV (US)
+#EXTINF:-1 tvg-id="CON TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuHq63dOfZSiHisyxMDZBKLfqSum1DHqoP0eDupuERR93uV1i2wXTxDQwm8R6orWufWRTw3dKLWvr9j91ilm7RdXBnKGwVVp61Ui4pVlm07ebr8Tk2BwnSPiGnd52hTEvx-pu1uNtUlPfkRGFeNskwMSFLcPjdnlOBqC-ShPKkaYpim9q9RBuMLAM8Hg=s200"  group-title="XUMO-TV",CON TV (US)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
 
@@ -342,9 +342,9 @@ http://a3.smashmalta.com:82/live/smash/smash/23.ts
 #EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
-#EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo=" " group-title="SMART-STREAM",DY 365 (IN)
+#EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgFUWj41tiyTnTUWqehhM854UmwDeXnVLyL1-2nz9_MNoRz-XfcNKzcaOLT8_kHLay33GThcOVNwQ2kzP5yH3BvlKtCXTgA8eW8b6MAf31X9O7BIwVrVWVDLooZmHlBGc8YOzfWLeykpU-9ELNd4XDrkkQ9s3HgcADn6ea4qnF9mwcpzTWit4cvDHx7Xw=s200" group-title="SMART-STREAM",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo=" " group-title="SMART-STREAM",NORTH EAST LIVE (IN)
+#EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQvF3eUmD5tQOwYQ2C-ZSmYgFj9zC_5HFu-KGvL-ws_fUuKSAWDQne-jp8woJj3T9qCEjLymtYpc7_n_pJJEOmIro93QfNd9lXhdE73oiXrpRu8LrMYJ6E-LThEKd7oPuR0JWZyBCKOTLgohZGp_jJkkpQxDxkWM_lMfMRozpsHY97A23T4JMhqUNIzg=s200" group-title="SMART-STREAM",NORTH EAST LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="A1 TV (IN)" tvg-logo=" "  group-title="SMART-STREAM",A1 TV (IN)
 http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
@@ -352,21 +352,21 @@ http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m
 http://cdn.smartstream.video/smartstream-us/tv100/tv100/chunklist.m3u8
 #EXTINF:-1 tvg-id="NEWS 11 (IN)" tvg-logo=" "  group-title="SMART-STREAM",NEWS 11 (IN)
 http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
-#EXTINF:-1 tvg-id="JONAK (IN)" tvg-logo=" "  group-title="SMART-STREAM",JONAK (IN)
+#EXTINF:-1 tvg-id="JONAK (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhJv181P7DkI6zdyFxwinlpqUBhkCMXvAMUmok8kDtj6TrCPq08sjNqxBWbU8jufhVzJOrrWuLcFv_qa2p7rSS0sojhkMlqXgSCAyVYGNwHh_k_xueJQYLldsm0dH__kmPvuEU9STtunCelHrHWABiV3D5IOlfQYXUKCgpvvlIpV-swjyhPFsj-3mdkIw=s200"  group-title="SMART-STREAM",JONAK (IN)
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="NK TV (IN)" tvg-logo=" "  group-title="SMART-STREAM",NK TV (IN)
+#EXTINF:-1 tvg-id="NK TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhJv181P7DkI6zdyFxwinlpqUBhkCMXvAMUmok8kDtj6TrCPq08sjNqxBWbU8jufhVzJOrrWuLcFv_qa2p7rSS0sojhkMlqXgSCAyVYGNwHh_k_xueJQYLldsm0dH__kmPvuEU9STtunCelHrHWABiV3D5IOlfQYXUKCgpvvlIpV-swjyhPFsj-3mdkIw=s200"  group-title="SMART-STREAM",NK TV (IN)
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
-#EXTINF:-1 tvg-id="NEWS DAILY 24 (IN)" tvg-logo=" "  group-title="SMART-STREAM",NEWS DAILY 24 (IN)
+#EXTINF:-1 tvg-id="NEWS DAILY 24 (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg5YDKbvvqm0wE_N57iT9IwhIk-tInwMwIAwpuZEk1WWZlp4MSxDzUKpRsV3ulDhG6vIGOHoIG4yfL9gHIZ08ZQvrp0EVKkfuXYFkRu3XM6XwOyzzkCa8KvPipiU8nwNfT4gBpRmVBPDcU-yBFb3CzY94TwWqMR3bREHgNoUQR63jxdhXsTHLt-r1FJ6Q=s200"  group-title="SMART-STREAM",NEWS DAILY 24 (IN)
 https://rtmp.smartstream.video/r9lives/r9lives/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUDARSHAN NEWS (IN)" tvg-logo=" "  group-title="SMART-STREAM",SUDARSHAN NEWS (IN)
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="SMART-STREAM",CHANNEL WIN (IN)
+#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhgN4g-in8koQtVMMv1JnE9-OHajpkaqaOe6B5Y0aMtVN5NR6-3tEFz9G9rlruRs7aAhc78jLi5ZJ6Km5fDbQKBNmrhg8QLQWBhAWejMScmqS1d37UqxmikQXeEPFgWu6ht4v0D8eYJlJBUaID3G05GRaXK0L5C8yOHEhOJB7AQORTr7gEQsDUc8zVRlA=s200"  group-title="SMART-STREAM",CHANNEL WIN (IN)
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="MHONE SHRADHA (IN)" tvg-logo=" "  group-title="SMART-STREAM",MHONE SHRADHA (IN)
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1 tvg-id="MHONE NEWS (IN)" tvg-logo=" "  group-title="SMART-STREAM",MHONE NEWS (IN)
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-#EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo=" "  group-title="SMART-STREAM",PRATIDIN TIME (IN)
+#EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi8XNpuN_apVdK22yJKPOVmrAqDTvfGktGOKSw6ml8dYGMGxCywp6BbvbVWYXbxwmqFgAWHLMsx72JsHtFT2agWhm-pLV6LmEPBn01XOB0Yhfbx8S-WlT8pmpWuiFOJ-hL6JOZIKjsaT7LkGRCm7B0AZPQRwpRA2wsVsLP7qDFOjFidgOxdcPkAFuET1w=s200"  group-title="SMART-STREAM",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
