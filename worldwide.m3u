@@ -148,11 +148,155 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3
 #EXTINF:-1 tvg-id="CON TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuHq63dOfZSiHisyxMDZBKLfqSum1DHqoP0eDupuERR93uV1i2wXTxDQwm8R6orWufWRTw3dKLWvr9j91ilm7RdXBnKGwVVp61Ui4pVlm07ebr8Tk2BwnSPiGnd52hTEvx-pu1uNtUlPfkRGFeNskwMSFLcPjdnlOBqC-ShPKkaYpim9q9RBuMLAM8Hg=s200"  group-title="XUMO-TV",CON TV (US)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
-
-
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
 
 
+#EXTINF:-1 tvg-id="ZEE CLASSIC (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj7xXiniVYC8sxwrdJVWJG3IzGus_VdI0oVPtkqbRLX4a2lNnw_-LMH8OihAuNtfVXsTajQZdHE-r339qlk-8QOgjVwGlExdVN-lQGNzHpmCUMaAO3-7Cky8GWjGR_NQ0yTLJ5NJHozp_rE3NR6Fw_AIkXx_Ik2Fn_bictKiQGsPcxu57Xn_R3NSA8V=s200"  group-title="ZEE5",ZEE CLASSIC (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-176
+#EXTINF:-1 tvg-id="& EXPLORE HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg2ypG8zELHnuV5h1oVejtfzyUBQMQkMIz3GnCwBEtQ-lPkjJz3CDHC9vB1yWHqJyZIb3SsMayACmNXXpMaEEd7Jbw23XWz8lpaIqngE4BRgVP-PsVU8ow55Tjuz2TLNWx23-onTteuaQ3e7xQ5NSHDDbGvzb_ym4iLAclMP_XK95hAvVjRkE7jNF85=s200"  group-title="ZEE5",& EXPLORE HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-209
+#EXTINF:-1 tvg-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-322
+#EXTINF:-1 tvg-id="DD NATIONAL HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb0J8o7YCtMglA_4YjK6Qnq8FA91eUQkQxBbcyXrEMzqWe-TK-2vF_h9Tbt8ZcyZE1axLb55APwJ4DWlP0yJ0UhK_nJNTzXgWQjVZK_mfNbflnzroLmhMLhyQBxZGhIG9fE_oRBlCMXb0GvrnqY29qZAH5uXnygOXiM6LWj3NkmLMJ_71x7MqxuvV=s200"  group-title="ZEE5",DD NATIONAL HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-250
+#EXTINF:-1 tvg-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ZEST HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-348
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo=" "  group-title="ZEE5",9XM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-131
+#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh8E2snJtQuTgMOd0-sHDaAaA5AiYPxbZll_x7PPFjF9jDFqxoDhpYr0m5duXKNIcV3Y088ZARWGO5LvFVkiU7u-zbdhmJTjWTQq1gp-EnpUyyckdp-DvEr2NeH1N38dB7GymLU3E0TwhO1NqwnJB6sowYSPHVfqBqfibuepBxT6Zgh2aDCHBHW-WmD=s200"  group-title="ZEE5",9X JALWA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-133
+#EXTINF:-1 tvg-id="E24 (IN)" tvg-logo=" "  group-title="ZEE5",E24 (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-207
+#EXTINF:-1 tvg-id="NEWS24 (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsIpRxZLgTUvlA8htJKRNQa5BLntUYaJ_syxbAvu2zIMegJ7Egi5Bw7LYyU6rV_lWCuyzI8z_PcE9ZIy1_YaYS_pf9qu3HaGpqgO1rjmUbIYOQgCCXUO1hRtoXkkG1g69eK2xmQdURYVjzKQHNg08qV7tr6wLafKGPdzSToUQSm-J-BVH5ZkvsGpYi=s200"  group-title="ZEE5",NEWS24 (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-206
+#EXTINF:-1 tvg-id="9X JHAKAAS (IN)" tvg-logo=" "  group-title="ZEE5",9X JHAKAAS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-134
+#EXTINF:-1 tvg-id="GTN (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiVx0lxSRRYQR41IjpVXBYqxdUOWn4tIcqCWB09u69LKKuhjicx1DJdiX3YPsiU3tXH-jRGlVpT0UJWR7yOJ2c_P6YSAW_kKFZk0uvKK13iyrv86mGNfzi0LFlCRAT7YXVHVQrKkr5tsCVIuRK5zBN54f4IlylwRavt-H-rzauO_AyztdQXrEdPFJhS=s200"  group-title="ZEE5",GTN (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-255
+#EXTINF:-1 ch-id="NEWS 1 INDIA (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEijZks5DScaKqMuOtrfAzarWHQa2vebdcHsCRXpuxT5jHIqE0mGkGtP94f_aKOFGGpJV5UOr2MwrqgmPQKanNhuxOp7PJsaeVUNXbdk-3I09EeZXZkaao33-JT98pOmt4_PkX_rXo2673oNDgBuXiaNHwkusqnt0kqdbog7KWVr5TTlilfm2na4Dwbv=s200"  group-title="ZEE5",NEWS 1 INDIA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-417
+#EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-ztCMR_h52iAvnXe1hyxugATia-hOl3sf8qEBIRJdIuxddomKq_K_FuLh7Ug8UqoRd5FGBVzA3o4xdKUmz3fAWvss3AmOPunBdIgvVhV8ByH4EO9Ku_pLcg8Urf0fuTgZX7CBe1K_0XZt3blTZXCHC0-Yt-gsX6zJqcoiqIHlNl-ic2UoZ-rEOrJ=s200"  group-title="ZEE5",PRATIDIN TIME (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-413
+#EXTINF:-1 tvg-id="PRAG NEWS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxihnSKja7CoHWkOOLg_jmk04maBlLfrk4i8uJRzGXf7xyFtsfvs0UfQ7DdtRaBefIh04Eg-xQIMhh7U3pT6nWivvJrG1JIVIYE9Pt2lzU6ODBIZ1gw6LjX9nLAMNQyZKlDoXcySR5EQguaYwnIFdW-yQvOFSmGPuOrRvCZSe7zn92uzh82u4yuVS8=s200"  group-title="ZEE5",PRAG NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-310
+#EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgzQXJ2_z_q1T2Jt4Q9HAeX5AOwc-eh7LR5T5aGey_WDdAD2B7SnBRN5HnMgqY3BjeBK7YJm26o8fiKjagyO1ROFtTlh7ZrTyaS9wy-_yqjj4n9irqqz3zU4yUTkZbNJjQL9k9botoZTW6UO3HHzR0ZLl4bPq0jRKCZw4obiJK1rJEazEYzLjEYrwUV=s200"  group-title="ZEE5",REPUBLIC BHARAT (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-162
+#EXTINF:-1 tvg-id="SADHNA PLUS NEWS (IN)" tvg-logo=" "  group-title="ZEE5",SADHNA PLUS NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-313
+#EXTINF:-1 tvg-id="SADHNA TV (IN)" tvg-logo=" "  group-title="ZEE5",SADHNA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-284
+#EXTINF:-1 tvg-id="AFRICA NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AFRICA NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-390
+#EXTINF:-1 tvg-id="AB STAR NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AB STAR NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-387
+#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-logo=" "  group-title="ZEE5",ABP NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-398
+#EXTINF:-1 tvg-id="BHARAT SAMACHAR (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh6JgfF7FkX0vCfnaRVlL4vOkEti9NcXHJqXv4paMbdzdBqio_GMXYJ-ywW6Pae87rDm1G9Quiqix0qgxx7GZVA7fS2v6meOCaap_U12JP6LOOj9kdKBAlbs7Q0DMmBw1SO1JL6liY8faDJO8JsNxVpwOjTe7i1fKK-XLR_BV_KSN1NoVAK2-_sSaWo=s200"  group-title="ZEE5",BHARAT SAMACHAR (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-354
+#EXTINF:-1 tvg-id="AWAKENING (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiwBuzOBKE7z4AfqTXGhyKBQkO0A5LilMoBHujEZg-LazEmO6IPQrRuxjPG6axmyBffZ7ueNAvnWzUnRcZPiWoRXCQ4kzZV5DeLzrLT7ppcqTbYcJGoyZRiYo67OkFS_bADpR7X9KLt1auxa2ONjThOZ5OoojLw4sPP7b17jhXQrXf3ZNCVR6KNv7nR=s200"  group-title="ZEE5",AWAKENING (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-316
+#EXTINF:-1 tvg-id="C NEWS BHARAT (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8H5gkgUei-E5HC37QWJ5Ro2rvaN_6-UY_COcnA-l_rYd7o72ZqoMp5TvXdWpGg98IT_TbAVUmpkgplNPz4TnAzyM26yVlNz76C1hcMax_1bf1Oh1KWIfnyFDrddzctAaYA-tb1z5bkW5-2JuDRq0PceW-dSjZRmv8tZjwn1jU0pNKGTQWIlVA4g_W=s200"  group-title="ZEE5",C NEWS BHARAT (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-385
+#EXTINF:-1 tvg-id="CVR ENGLISH (IN)" tvg-logo=" "  group-title="ZEE5",CVR ENGLISH (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-411
+#EXTINF:-1 tvg-id="DEVAM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRn1TzAZ68kA3euaLjMgB69wzx4H0SoDiK34oLlQtuFE23GtP6-dwCBIUAHdNAEHjN8NUqUUHZbfBHZmwg5Qj7kZLlaTc3S_V1b4OAZkQlmk0aMzQK1FTecV1IBPbce3xD79Ril1YWknys0UDZ_BG_tsypf7jyqxtbm6YelfD0e6qOuoSbYSdks4bm=s200"  group-title="ZEE5",DEVAM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-412
+#EXTINF:-1 tvg-id="EURO NEWS (IN)" tvg-logo=" "  group-title="ZEE5",EURO NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-389
+#EXTINF:-1 tvg-id="FASHION TV (IN)" tvg-logo=" "  group-title="ZEE5",FASHION TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-392
+#EXTINF:-1 tvg-id="FASHION TV PARIS (IN)" tvg-logo=" "  group-title="ZEE5",FASHION TV PARIS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-393
+#EXTINF:-1 tvg-id="HARI KRISHNA TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgbYTnJ4mDmK9125FYUrnJltFc6oQZBK5V2bpJ4Yu4fc0qyaQpiUrJdvGfWD54hxtmscHUEk2x-ojce9Rdiyq8YPl0p1mYgM71yet3vqS2rV5Fa80nYBtDfjrf236GE7Qi2BfIxC5nqbLZBfiW-pYY-uo6W7NqXCuzzMlY0gxy__Ul-ihncMC3WCuwQ=s200"  group-title="ZEE5",HARI KRISHNA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-183
+#EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-logo=" "  group-title="ZEE5",INDIA NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-272
+#EXTINF:-1 tvg-id="VIP NEWS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgdi38RalFSngAF3c47e_sCz_N7-QGc7B-_rwBLAAQRuq_Fu1XRPYPIGYqVtO0XEw2UBRwx3pG8vKfgAXbBJqOJP16mbE5a60PtarDhBbLi0mbBHnrA-8bWLdOJsj0Jd94meX2uAvQKMKB-LyCXG7D_EOKR-e7hnZ5mdDZAkvUCF3t9l3k07O2qejS3=s200"  group-title="ZEE5",VIP NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-314
+#EXTINF:-1 tvg-id="TV9 BHARATVARSH (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhODHHcqx3jRh_oqfIVcW_uO3Zt4Atf5qYhFt8NK3BpC9mHaJjOy17buOlZIHlCDyLPJlBVdXch9mGhiqMQnvdIJJu5Ev1zXCJcYMbTEHiuIvJ_U3ThuhHL-VFj5UazmcBiV64QxBq7pOIVQOzFYmWAkWItOpiGIxSd53W3c0E5tMSg9XHj3jTUKUud=s200"  group-title="ZEE5",TV9 BHARATVARSH (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-251
+#EXTINF:-1 tvg-id="TV 100 (IN)" tvg-logo=" "  group-title="ZEE5",TV 1OO (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-386
+#EXTINF:-1 tvg-id="TIME 8 (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjG8PK1q-3g2HIMQkoUdNpDQzJ5q8lLT3wFIi544ZUMaLY3fRWwwjrsUriDBAiMbBgXO86TGSeoccoPxCda3OKT3mPThZj4YN_qAnRKe3SIn0ouoFZsUQmnxo5_8V52hBaC3gyfP5gF4YW5PMAaJfhDcgAjT3e1Pt-xqaRPzJNbb4lPYEMtcgz8xcbm=s200"  group-title="ZEE5",TIME 8 (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-317
+#EXTINF:-1 tvg-id="KRISHNA VANI (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjPXkLQ06ysotbxpoR7Mq91lX1UbrMOIdhw_sEhrXlicAYPURFptPT1kQJFnhOBUQTdnvY7GpqKx6GyzzbTRU2eFckIDqDD5p7NRHjUuB9DQp_xFKU936-YRT82d_5VCvf82TX-jbt4qD6939mBjXFTlaoNkApLmqwlmfN1fqL61mT83I4LZyUFKJuP=s200"  group-title="ZEE5",KRISHNA VANI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-166
+#EXTINF:-1 tvg-id="SUDARSHAN NEWS (IN)" tvg-logo=" "  group-title="ZEE5",SUDARSHAN NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-383
+#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 ROMANCE (IN)" tvg-logo=" "  group-title="ZEE5",SOUNDS OF ZEE5 ROMANCE (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-301
+#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 ORIGINALS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjGkIhmzIXa_5ko06Vn08ZWQ7sfFnVBHVINREaMER9pQyIkRZUQyVyU4zkL28zjPlZ5FT99TnHlkI1bvhubWu79glUBYbHeagC6hMoU_xhIAq2kREqw-yM-PdYomLGl9DeSIgc9yPbeZ2JdEPpknBzxxPkFZo-6lYZEWuFas8uY0nAMDoFH6wGMzJ-D=s200"  group-title="ZEE5",SOUNDS OF ZEE5 ORIGINALS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-299
+#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 EDM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDa3HMZxe2Vc_kwtlZh8svh6HeTmfUIfpOcX8S_19ajkT3Xl4etwUtFN24NxSnsZsLsTWJnxNkuVwBr-E9SyYz7bKUNDoBspXQ8h4aVdCd5ErhX_unm1ESvQ8ylWz7WsTCTBSjc5nDZr6PaBkziMuIgSHvUvQ2MAbnQN1LIyGg3oMgkLBucSTMuUYB=s200"  group-title="ZEE5",SOUNDS OF ZEE5 EDM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-302
+#EXTINF:-1 tvg-id="SHUBH TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgbseKVI6TZPo8MZ2H7-u8-pM9aa6lFHOeqiEjpnlt-mSX2i2lgkQvKlp7TC1G0euvW42Np2TGRQTfWc3j8OX9F0OsO6BlOvtEd7we2BDbxHhOEfnGfkqTRVJukRL8NiCsiBSoOYB6wc5fV3MhBJZNpDsnMlwMRc6pypJmiafoYG45SZT3sCsomLIXw=s200"  group-title="ZEE5",SHUBH TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-327
+#EXTINF:-1 tvg-id="NE NEWS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjY-ZyeWBxfOqUaA7aj8mccYPUJ8-cV34SINiZOcQZnvteh93UzDJZ-wulm-B4Ty0Mc51YozZ8B2cjaIjA2t2Fl2Dizchb-CqZrnwV81Cxsx_ByFSh7Om_EXSwYaShzeX8pPl0x89UcRtGoj-L7XOewo6uNvO55t7Nj6bfCc1_BIZuW8h5-CJXrdfl4=s200"  group-title="ZEE5",NE NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-280
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6Jx99oRoXGtoEtiZbUn9J6xgcutdvmZtCmW93NmXSb46e8ve1ohBKZfNRtKSqnKd8tVfqdQUL1dpT30zUxqcFVXxtKKpPY9gd7dsPrPAF5gEaPjf5VShXJdNODO0bZIprn2f1fPGpREo4TAnjRF-pxrB07fg12EejBcV6ANRHOGLGhDn4R4c3njXU=s200"  group-title="ZEE5",INDIA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-282
+#EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-logo=" "  group-title="ZEE5",NEWS NATION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-170
+#EXTINF:-1 tvg-id="&TV HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj7ngSduIpUTfjZJOdKqkwQal_jhR0IQCoxhdTb8RjvTV5ZbbWgXQ6IK10Ho9gH79Kg4T6OMesFYPQ7iHheuI0uJduO15xlKvf0PtnT7nYUFkAjwlQNSXquYGvs46RgguZLm3U1VTNjw7Lxx3NnN163HI5nayXCXlgLwgRxATu0iaIGOG_8YGWMKMdt=s200"  group-title="ZEE5",&TV HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="&Privé HD (IN)" tvg-logo=" "  group-title="ZEE5",&Privé HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-privéhd 
+#EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiENTWCTHuIvIVCbMukiKF-l_ebgD9ieDoC6oKM2wyvz3hPmgo2OH-grEImA0u_HetGQ67b91GqTB-On2LPz-5PRpjkDLMQyzOdkUn7oOfJfRCjTIk91PjVTKZaqQLjId2O1gwNs0IaMxsZzblVYyVUcHH8nQu-2OhEZdS96-fhWz2qTh9iUjzjtQnS=s200"  group-title="ZEE5",ZEE NEWS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeenews
+#EXTINF:-1 tvg-id="&PICTURES (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgsENNse7Lprd8I6ADNzR6tee56P38X0SiVbVUXd9EnGqfTXizyS1sDoJyvs9j6nYntRL1Sm8zwrsa0JZessQV6mJyKcymqsb0HaAj707tixc1Q7MCK4PQzybDtTnDFE7hHd5ZQRgFGknMJWrAGxSJivhIBb1wSRQemPSQJdA4DEcOVT7Fy9VCHo1cG=s200"  group-title="ZEE5",&PICTURES (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-pictures
+#EXTINF:-1 tvg-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
+#EXTINF:-1 tvg-id="ZING (IN)" tvg-logo=" "   group-title="ZEE5",ZING (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zing
+#EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-logo=" "  group-title="ZEE5",AAJ TAK (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-aajtak
+#EXTINF:-1 tvg-id="DIVYA TV (IN)" tvg-logo=" "  group-title="ZEE5",DIVYA TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-divyatv
+#EXTINF:-1 tvg-id="&PICTURES HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhx_d7MehSt9uvFt7b93hbmWbqzuaLT0kG0J7Kk1Q2KC_IUoazBpraVputFP9RJ56drQvo9PjdIU77yQvX8hfhYVfQRaY-XY2FwaGM5iteOTQZT1h1a-zZoIz5thz2c6_t36DYwvW0rToc0lJPKgEX3vyxf7UJKl2E1fdgpjLXzVOkf10-Tk4RjmmQQ=s200"   group-title="ZEE5",&PICTURES HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="ZEE CAFE HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEif7lrlIB9kN4av3q1GDfJxyr4KheETZthvUQae95LgEYtu2oEMk59F0TlU-quksxp35TkCKAjKjmoCNuyqvChxOAfl6LJySwMDS6mqxpkX_OzTzJhD1ag3N2ThrIupcL6I-wN-ttTS_37ozW5s4YURAbQ5KgAmn9DW8JlQdQZz8dMrMwdvE7iTccGZ=s200"  group-title="ZEE5",ZEE CAFE HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecafehd
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD (IN)" tvg-logo=" "   group-title="ZEE5",ZEE BOLLYWOOD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeclassic
+#EXTINF:-1 tvg-id="ZEE ACTION (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ACTION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeaction
+#EXTINF:-1 tvg-id="DD KISAN (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgiCjHHzL_ur_qnkOSXjia7_zH0C3EShkcdSMXIIXLxKRdp6dt8xsJyydanuNm_oUkeOq8ylqXm0jMlZyNXcfcS5mC2hQeBbH5NXtfwmCWYl5nXh5PYjQ9mKmyZ20d8UghMpqa9A5DwQ-GDTAHrPbUk_xhfVctOGbckP3bBojRLp8yHLt_-3Yv3vAkk=s200"  group-title="ZEE5",DD KISAN (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddkisan
+#EXTINF:-1 tvg-id="ZEE CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE CINEMA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeecinema
+#EXTINF:-1 tvg-id="DD BHARATI (IN)" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddbharati
+#EXTINF:-1 tvg-id="ZEE SALAAM (IN)" tvg-logo=" "  group-title="ZEE5",ZEE SALAAM (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeesalaam
+#EXTINF:-1 tvg-id="DD URDU (IN)" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-ddurdu
+#EXTINF:-1 tvg-id="WION (IN)" tvg-logo=" "  group-title="ZEE5",WION (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-wion
+#EXTINF:-1 tvg-id="ZEE HINDUSTAN (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi-k_UkofsWNFwb5AhO_78UuxV0VspgOnnxdJQDttNxluI02Lsda30eeAVPMvT7HOXzNmRVJqSv_XBHCdIUwT97kMqrbeRSVxu2M5vFFTlDglrDR7ezI4ihy-1cA2uyzteztSpcwkYCD76Q4XZ_Lkh03fSUKo6T-RQLWTBiaV6vPvvtm9vsToPxiXL7=s200"  group-title="ZEE5",ZEE HINDUSTAN (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeehindustan
+#EXTINF:-1 tvg-id="ZEE BUSINESS (IN)" tvg-logo=" "  group-title="ZEE5",ZEE BUSINESS (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeebusiness
+#EXTINF:-1 tvg-id="ZEE ANMOL (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeanmol
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA (IN)" tvg-logo=" "   group-title="ZEE5",ZEE ANMOL CINEMA (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="ZEE TV (IN)" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetv
+#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjUxOoosK1nvunBRWIR8UX6jFixZdqa4D6UjlUQbAMmi6VJxPNWgkdFzuVE4u-0czW3tpRgYX8Wkb2RVnkBRsdc2MaGWzZZediWjvrGYcazUYI0KDok9pYkivzwS_SiassS43bYqYVJEB62EC_016ge3P5ilWNhKAXrl_FgvSWY-YMlbR5bWf4nexba=s200"   group-title="ZEE5",ZEE TV HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-zeetvhd                
+#EXTINF:-1 tvg-id="SATSANG (IN)" tvg-logo=" "  group-title="ZEE5",SATSANG (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-channel_1565694979
+#EXTINF:-1 tvg-id="SANSKAR (IN)" tvg-logo=" "  group-title="ZEE5",SANSKAR (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-channel_1144658965
+#EXTINF:-1 tvg-id="REPUBLIC TV (IN)" tvg-logo=" "  group-title="ZEE5",REPUBLIC TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-channel_1422341819
+#EXTINF:-1 tvg-id="BIG MAGIC (IN)" tvg-logo=" "   group-title="ZEE5",BIG MAGIC (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
