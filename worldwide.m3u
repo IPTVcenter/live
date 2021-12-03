@@ -718,16 +718,16 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?reba
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo=" "  group-title="AKAMAI-TV",SKY2 (AU)
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-id="INDTV USA (US)" tvg-logo=" "  group-title="AKAMAI-TV",INDTV USA (AU)
+#EXTINF:-1 tvg-id="IND TV USA (US)" tvg-logo=" "  group-title="AKAMAI-TV",INDTV USA (AU)
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
 
-#EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9B_vkWHo0WRz1WIbewkmKprxKzv_TqN3b2HvoKklVj8Xv4mCVe54Rgqj6LSC_8vkqQEzZsIPIgmTjAog9j1rik4EJbTsHnzYgd1OVXvINXgBso5AgEg81PB5AM68_9Taaue7su3Vhbb1zVBtBWDn-exVvZsHyiCW39610pWlrsKdtbZNER1M-tfV5Og=s200"  group-title="NET-TV",CNA (ASIA)
+#EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo=" "  group-title="NET-TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgy54TCpSEzcJl7v3gTYCk9fA4Y6zWSKCcyLdlMSvdiZjVcfm0pKb2ZuIG3B-pbWaYfESHQJAn9TtF72MjUfoDtQRcO8aw4TQPsRDOsxhE3MiIYnvK6-LRNWz4qBNTzssmEoQnpU2fMNas2khPfDpQecC9C8EypYIjmFUIrkklStbqOok9IARhPSBEa6g=s200"   group-title="NET-TV",9XM (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDRqzzBr-e3FJd7h2e31W7I1_qvBp7RvDfDvLDDMRAQHejttAmpbTfSilKFQ0odizlLTL7-2SQj4zeerIBZZgK6nPi4mRxOUaFdUTYIPCdtIig3ErFX4DNzlCEbIknNyQiZkMXj1FUsLI6hkpa4m__esUPFV0osL6uWU17kk3S_XvdrmO7_DtZyGZYAA=s200"  group-title="NET-TV",9X JALWA (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg-KjciXuGLcBc_FVrwylnBZaqoqz3MSTZ5wwcIgAbhzO7m4-n0EMUw0Lg7RE7sk5iXtYmNZjZkFSQl92KG7g8UCQ6tzaLT7QfC5FfknvYXZbfEaUK5wew_EghPnHWHdLbrCiyfRA_ozLgr-kyUhB2gtS8qEehltm2GWxTvUl0LhSXHfd_pZ_iMO6AW=s200"   group-title="NET-TV",ZEE NEWS (IN)
+#EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-logo=" "   group-title="NET-TV",ZEE NEWS (IN)
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="BESTON 25 NEWS (US)" tvg-logo=" "  group-title="NET-TV",BESTON 25 NEWS (US)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
