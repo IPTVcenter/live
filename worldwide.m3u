@@ -393,7 +393,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="PTV HOME (PK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjzLN_weotMG3yqm0BT2_4c3xBCtkQYnVHchDdhuEweEB8ruqvxzgdEiTEim8X6lpuvdXgRqoPwuFgsTt_5PbFKv_os5RUOv_Ms1y86_WxQnqwWSltT1eS8Rnd79vJcFN-3sj4sC7VKQXMCcMip3n65AhzZNxtjQ3Sf_RbBv7r3FXxwsTgIJLlNB46Nmg=s200"  group-title="ONLINE-TV",PTV HOME (PK)
 https://live.ptv.com.pk/live/stream/ptvhome/chunklist.m3u8
-#EXTINF:-1 tvg-id="UZREPORT WORLD (UZ)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg943FUq0ulxVp8YIBayDalFZqw0uJYN_uVyJKgvYVrn2EKhjFDZ_tCCSdgWN8zRRQSyC2Y3rut1xy_M1ZjOF9CwcREpqU7mLFz0WDAZglPg7PCQZYaSaNv-gO_8c-KO0ooRzeEwDeB6EM2HPFFi1rGFKQoYocYqk-k562XfxVaF7mBjiKl__-aNKri5w=s200"  group-title="ONLINE-TV",UZREPORT WORLD (UZ)
+#EXTINF:-1 tvg-id="UZREPORT WORLD (UZ)" tvg-logo=" "  group-title="ONLINE-TV",UZREPORT WORLD (UZ)
 http://vspnmy3kvpzu7q.data.mediastore.eu-central-1.amazonaws.com/liveHD.m3u8
 #EXTINF:-1 tvg-id="NASA TV (UK)" tvg-logo=" "   group-title="ONLINE-TV",NASA TV (UK)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
