@@ -1,9 +1,9 @@
 #EXTM3U TV
-#EXTINF:-1 tvg-id="EURO NEWS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjpOiN-cXAgCO9zbWn8VbS2aun3b5itDNi2NUiaspzczpy7T1H8bDb10yFN_kALzlEQqE0oAbpK9AouMcZo8nITo9dk79srcp_L2PsYh0R7dD9o9u8sItuETHd9N1Yzp8Pj7jm-QOkUgHQjuYOVevSmdkqKfPVCWJLfeFoAtaL7aBE6KXOxA2ZuQkgdaA=s200"  group-title="ROKU-TV",EURO NEWS (UK)
+#EXTINF:-1 tvg-id="EURO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png"  group-title="ROKU-TV",EURO NEWS (UK)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AFV!" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQ0_F-fRClDdBWnLUyCE1CqVw4y3Vvpy-L-YEutfCtSg0PdWLuvYACduXk-AS7PxgElZ_wvGQCLhRC2a7AZNCIAsgFumeJNHrsxTXeug-3yMe9098OJFqe8xfYlsCrqKyznj5u5LFDrW4Lo7h1D4SiY9TLk3_r0qrsp_-DgzwXXhcxqsW0MJp2f2eS9Q=s200"  group-title="ROKU-TV",AFV! (UK)
+#EXTINF:-1 tvg-id="AFV!" tvg-logo="https://cigars.roku.com/v1/contain/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F2eb931e90286c339fb656cb469761511b37764a10fa36c914789eca8ac4db23d.png"   group-title="ROKU-TV",AFV! (UK)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh3oZJ4LbG_6XLAyZNkAe1mcGMzaOUskIOnr-4GsuUmn-yo7kTNWYaFBJrRqCVTWCVUcVGkWi9KspCZEeVJZ27LL5gYxDoEA3K_TiYZj_Dd6GG84k6qaBezSwkLy21KdSCXQfH9c5nRnqIlR1j_Muh8NGXro4lu6QrNKf8tq-5TW-4TvHtT1bDj19EvxQ=s200"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
+#EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/Bloomberg_Quicktake_190x190.png"   group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWIu4f2Q6HVGFQoat9BlOvoAgURpp8YIXs2RiXbzB7qLFRjncIsdbcvKJZEaDYolh0FwbdQOHAUE5j7v5hlPcFb1DU6pRspsQB42k6yGx3WwptzgMSWNxKSUKG_XiWFVGSuC12xndZmKEHgxlTCbu_W9gFFdWS01YgNbGsvnb98fma6ouB5nXhZsb_1Q=s200"  group-title="SAMSUNG-TV",CNN (US)
