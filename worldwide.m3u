@@ -303,7 +303,7 @@ https://z5ak-live.zee5.com/ztvme/index.m3u8?hdnts=st=1638704483~exp=1638707483~a
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi74-N75MjAqr4NdBqqO7VBasosqPuLKytY0VyzZL5k9eP7iJFmhwCvgMCG-VC6rramSlrU0TpnFb5FJ3h-ga1bZMiJ5DMBzV-8HxkVTQXfoJSdGWNy--XWRnP960ozQbg6A9W4G652rbrTG9FkujWDgK6eTGLdFahPKemQcG8tQ-JVxH0GmiRhDM0dUA=s200" group-title="SONYLIV",Sony PIX HD (IN)
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="SONYLIV",Sony PIX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -329,7 +329,7 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 ch-id="SONY YAY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"  group-title="SONYLIV",SONY YAY (IN)
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="https://origin-staticv2.sonyliv.com/detail_cover_bg/Set_max_march_mashtead_logo.png"  group-title="SONYLIV",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png"  group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -338,10 +338,8 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SONYLIV",SONY WAH (IN)
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
-#EXTINF:-1 tvg-id="DUBAI ONE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEibSz7h2Fjd6kIEpIRlG7E3tRERnJ2Ovjrj3ffGTI_TqpnC8uPjSbkoZhjSJQqWu7Vjbu4cabVo5kpqSYh6hRRPSqTPlf3Wed2cYcItHH7pMMBYLVu4NJFFpP8usJTGdC4vu_2D6InHOMeSIrVFKDCwSCkR503WBuUb9CWLfnjU2X0KMpA1LJVE13zVgQ=s200"   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
+#EXTINF:-1 tvg-id="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png"   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DUBAI RACING" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgTrubE5xAdWai61iNZga8a9ZXhpea5wytgjQJjpwK2EqKXnVMvAZuCB0vLyew6l-eHhc3gCSVuzSFqBlMpYnq697mlpYZHBgNRemc_4z0vhGwu_WjrfZ-Dz78Ou1m3M37QFIsc3khVT6VZxtsd0UwC_cc8eLLRjiYX6JyM-5g_G4GC9sHhBheBZDRqEA=s200"  group-title="MANGOMOLO-TV",DUBAI RACING (ME)
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTV" tvg-logo=" "  group-title="MANGOMOLO-TV",RTV (ME)
 http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
 
