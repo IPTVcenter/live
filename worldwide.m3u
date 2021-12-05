@@ -312,7 +312,7 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4vubh1VNASJdE0CxTBrsEv2EF-ja4LKPvFw7Rx_MWU6MFDWZrz_WWFQdhdMXKo5RAzLi-1z45W38mdSNHEROW-ZP0t6cN87ShEhRrKq0gugtyfeWdm6hhVo-4MtxpYozbJ6kTUKDY_5UbTFHzxmhuAu_DfD6G_E7ERwxWnJzQuLgJCVpLNo9WuNIzdg=s200"  group-title="SONYLIV",SONY TEN 3 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="  "  group-title="SONYLIV",SONY TEN 3 (IN)
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SONYLIV",Sony SIX HD (IN)
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
@@ -326,11 +326,11 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 ch-id="SONY YAY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"  group-title="SONYLIV",SONY YAY (IN)
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEglyNue8CnoVpII07gcAogvvNRGOOsvZg_xMlNtcE2hhkoC57WXPZlNa9Ie1siewKp0c4iRPZWBIWxoLqd7MPURrzGpOZrRBWzsg4x-rcbgw7-9Rt0VUMRJXxBWHZF0K6FSOGknRRqZCpx80p5OxbtMBYOxKwBAh1g-edxkMSJ2oYROZ54-2muCOoMJhA=s200"  group-title="SONYLIV",SONY MAX HD (IN)
+#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="https://origin-staticv2.sonyliv.com/detail_cover_bg/Set_max_march_mashtead_logo.png"  group-title="SONYLIV",SONY MAX HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="SONYLIV",SONY MAX (IN)
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png"  group-title="SONYLIV",SONY MAX (IN)
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SONYLIV",SONY MAX 2 (IN)
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonymax2_Masthead_Logo.png"  group-title="SONYLIV",SONY MAX 2 (IN)
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SONYLIV",SONY WAH (IN)
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
