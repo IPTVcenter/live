@@ -297,6 +297,9 @@ https://snehz5tv.herokuapp.com/?c=0-9-channel_1422341819
 https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 tvg-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="ZEE TV HD (ME)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjUxOoosK1nvunBRWIR8UX6jFixZdqa4D6UjlUQbAMmi6VJxPNWgkdFzuVE4u-0czW3tpRgYX8Wkb2RVnkBRsdc2MaGWzZZediWjvrGYcazUYI0KDok9pYkivzwS_SiassS43bYqYVJEB62EC_016ge3P5ilWNhKAXrl_FgvSWY-YMlbR5bWf4nexba=s200"   group-title="ZEE5",ZEE TV HD (ME)
+https://z5ak-live.zee5.com/ztvme/index.m3u8?hdnts=st=1638704483~exp=1638707483~acl=/*~hmac=f16ea1e2da318ac112ac2c66f76f8ce0cf6c326822d35b559432d7258e95bf8a
+
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
