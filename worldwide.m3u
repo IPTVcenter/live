@@ -297,9 +297,8 @@ https://snehz5tv.herokuapp.com/?c=0-9-channel_1422341819
 https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 tvg-id="&FLIX HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658_379547401.png"  group-title="ZEE5",&FLIX HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
-
-
-
+#EXTINF:-1 tvg-id="ISHWAR TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-285/channel_list/1170x658withlog_1126976137.png"  group-title="ZEE5",ISHWAR TV (IN)
+https://snehz5tv.herokuapp.com/?c=0-9-285
 
 
 #EXTINF:-1 tvg-id="SAMACHAR24 HD (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/medium_16_9.jpg"  group-title="SHEMAROO-ME",SAMACHAR24 HD (IN)
