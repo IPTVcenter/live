@@ -223,11 +223,11 @@ https://snehz5tv.herokuapp.com/?c=0-9-317
 https://snehz5tv.herokuapp.com/?c=0-9-166
 #EXTINF:-1 tvg-id="SUDARSHAN NEWS (IN)" tvg-logo=" "  group-title="ZEE5",SUDARSHAN NEWS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-383
-#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 ROMANCE (IN)" tvg-logo=" "  group-title="ZEE5",SOUNDS OF ZEE5 ROMANCE (IN)
+#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 ROMANCE (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-299/channel_list/1170x658withlogo_502369782.png"  group-title="ZEE5",SOUNDS OF ZEE5 ROMANCE (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-301
-#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 ORIGINALS (IN)" tvg-logo="  https://blogger.googleusercontent.com/img/a/AVvXsEjGkIhmzIXa_5ko06Vn08ZWQ7sfFnVBHVINREaMER9pQyIkRZUQyVyU4zkL28zjPlZ5FT99TnHlkI1bvhubWu79glUBYbHeagC6hMoU_xhIAq2kREqw-yM-PdYomLGl9DeSIgc9yPbeZ2JdEPpknBzxxPkFZo-6lYZEWuFas8uY0nAMDoFH6wGMzJ-D=s200"  group-title="ZEE5",SOUNDS OF ZEE5 ORIGINALS (IN)
+#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 ORIGINALS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-299/channel_list/1170x658withlogo_502369782.png"   group-title="ZEE5",SOUNDS OF ZEE5 ORIGINALS (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-299
-#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 EDM (IN)" tvg-logo="  https://blogger.googleusercontent.com/img/a/AVvXsEjDa3HMZxe2Vc_kwtlZh8svh6HeTmfUIfpOcX8S_19ajkT3Xl4etwUtFN24NxSnsZsLsTWJnxNkuVwBr-E9SyYz7bKUNDoBspXQ8h4aVdCd5ErhX_unm1ESvQ8ylWz7WsTCTBSjc5nDZr6PaBkziMuIgSHvUvQ2MAbnQN1LIyGg3oMgkLBucSTMuUYB=s200"  group-title="ZEE5",SOUNDS OF ZEE5 EDM (IN)
+#EXTINF:-1 tvg-id="SOUNDS OF ZEE5 EDM (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-302/channel_list/1170x658withlogo_427195691.png"  group-title="ZEE5",SOUNDS OF ZEE5 EDM (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-302
 #EXTINF:-1 tvg-id="SHUBH TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/channel_list/1170x658withlog_1152304152.png"   group-title="ZEE5",SHUBH TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-327
