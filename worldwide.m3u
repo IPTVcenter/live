@@ -303,11 +303,11 @@ https://snehz5tv.herokuapp.com/?c=0-9-285
 
 #EXTINF:-1 tvg-id="SAMACHAR24 HD (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/medium_16_9.jpg"  group-title="SHEMAROO-ME",SAMACHAR24 HD (IN)
 https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8?hdnts=st=1638746922~exp=1638757722~acl=*~data=testdata~hmac=7186d2e3da527348c45cec266c13da1b572fb2f5fa97670d32d5d4dd22bedbde
-#EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/India-News/5eeb6ab9a609d28992000026/xl_image_16_9.jp "   group-title="SHEMAROO-ME",INDIA NEWS (IN)
+#EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/India-News/5eeb6ab9a609d28992000026/xl_image_16_9.jpg"   group-title="SHEMAROO-ME",INDIA NEWS (IN)
 https://shemaroomeitvnews.shemaroo.com/hls/inkhabar.m3u8?hdnts=st=1638877698~exp=1638888498~acl=*~data=testdata~hmac=b3e50a8b278755b77916c4a2d453c57c7906a258fb160e0bf9c3318bd47075e5
 #EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/NewsX/5eeb77bfa609d2aeb4000002/xl_image_16_9.jpg"   group-title="SHEMAROO-ME",NEWS X (IN)
 https://shemaroomeitvnews.shemaroo.com/hls/newsx.m3u8?hdnts=st=1638877091~exp=1638887891~acl=*~data=testdata~hmac=2d4e22e7a1a4ddafb5c0e5af24cd622550b6c478c117df67a907240656824dec
-#EXTINF:-1 tvg-id="THE Q (IN)" tvg-logo=" "   group-title="SHEMAROO-ME",THE Q (IN)
+#EXTINF:-1 tvg-id="THE Q (IN)" tvg-logo="http://static1.squarespace.com/static/5fe0d350f8f3ea3e5d5f5eac/t/5fe7bf5fba5cdf3765913dbb/1610393266307/TheQ_Logo2.png"   group-title="SHEMAROO-ME",THE Q (IN)
 https://cdn.live.shemaroome.com/qyoutv/selqyoutv/playlist.m3u8?hdnts=st=1638877949~exp=1638888749~acl=*~data=testdata~hmac=0914770daf71e9400dc444588551b66c59a5d91950843ca22909d6efdbb5a3e1
 #EXTINF:-1 tvg-id="SEVEN WONDERS TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Seven-Wonders-TV/5ff2c3daa609d26dec000005/medium_16_9.jpg"   group-title="SHEMAROO-ME",SEVEN WONDERS TV (IN)
 https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8?hdnts=st=1638877900~exp=1638888700~acl=*~data=testdata~hmac=b71ffc35f894548bba9413e8a0b033339f2c283f1255333cbae72a969d801b2
