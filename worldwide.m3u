@@ -882,6 +882,15 @@ https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
 #EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-logo=" "  group-title="MX-TV",ABZY COOL (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
+#EXTINF:-1 tvg-id="AZAAD TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Azaad_TV_Logo.png"  group-title="MX-TV",AZAAD TV (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+https://m-c050-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+
 
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
