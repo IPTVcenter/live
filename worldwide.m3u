@@ -303,15 +303,27 @@ https://snehz5tv.herokuapp.com/?c=0-9-285
 
 #EXTINF:-1 tvg-id="SAMACHAR24 HD (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/medium_16_9.jpg"  group-title="SHEMAROO-ME",SAMACHAR24 HD (IN)
 https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8?hdnts=st=1638746922~exp=1638757722~acl=*~data=testdata~hmac=7186d2e3da527348c45cec266c13da1b572fb2f5fa97670d32d5d4dd22bedbde
-#EXTINF:-1 tvg-id="THE Q (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/The-Q/5fd3871ea609d2b6de000002/medium_16_9.jpg"   group-title="SHEMAROO-ME",THE Q (IN)
-https://cdn.live.shemaroome.com/qyoutv/selqyoutv/playlist.m3u8?hdnts=st=1638719631~exp=1638730431~acl=*~data=testdata~hmac=5ba358ae2e88a813fad479a4422b3383c55e9be5998324112791059d54d34afe
+#EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/India-News/5eeb6ab9a609d28992000026/xl_image_16_9.jp "   group-title="SHEMAROO-ME",INDIA NEWS (IN)
+https://shemaroomeitvnews.shemaroo.com/hls/inkhabar.m3u8?hdnts=st=1638877698~exp=1638888498~acl=*~data=testdata~hmac=b3e50a8b278755b77916c4a2d453c57c7906a258fb160e0bf9c3318bd47075e5
+#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/NewsX/5eeb77bfa609d2aeb4000002/xl_image_16_9.jpg"   group-title="SHEMAROO-ME",NEWS X (IN)
+https://shemaroomeitvnews.shemaroo.com/hls/newsx.m3u8?hdnts=st=1638877091~exp=1638887891~acl=*~data=testdata~hmac=2d4e22e7a1a4ddafb5c0e5af24cd622550b6c478c117df67a907240656824dec
+#EXTINF:-1 tvg-id="THE Q (IN)" tvg-logo=" "   group-title="SHEMAROO-ME",THE Q (IN)
+https://cdn.live.shemaroome.com/qyoutv/selqyoutv/playlist.m3u8?hdnts=st=1638877949~exp=1638888749~acl=*~data=testdata~hmac=0914770daf71e9400dc444588551b66c59a5d91950843ca22909d6efdbb5a3e1
+#EXTINF:-1 tvg-id="SEVEN WONDERS TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Seven-Wonders-TV/5ff2c3daa609d26dec000005/medium_16_9.jpg"   group-title="SHEMAROO-ME",SEVEN WONDERS TV (IN)
+https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8?hdnts=st=1638877900~exp=1638888700~acl=*~data=testdata~hmac=b71ffc35f894548bba9413e8a0b033339f2c283f1255333cbae72a969d801b2
+#EXTINF:-1 tvg-id="HAREKRSNA TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Hare-Krsna-TV/5f341047a609d2fd45000018/medium_16_9.jpg"  group-title="SHEMAROO-ME",HAREKRSNA TV (IN)
+https://cdn.live.shemaroome.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8?hdnts=st=1638878090~exp=1638888890~acl=*~data=testdata~hmac=8258f50e2eb0f9e15bacedb7869c4f19c45190e50b43c34bf03b5ccdcc516f69
+#EXTINF:-1 tvg-id="SAILEELA TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Saileela-TV/5eac3510a609d2565f000010/medium_16_9.jpg"   group-title="SHEMAROO-ME",SAILEELA TV (IN)
+https://cdn.live.shemaroome.com/saileelatvchannel/smil:saileelatvchanneladp.smil/playlist.m3u8?hdnts=st=1638878303~exp=1638889103~acl=*~data=testdata~hmac=081036c9d89c9991ea494ed5abeee6cbebccc52a8f950d6096fb123d79abc294
+#EXTINF:-1 tvg-id="ATMADARSHAN TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Atmadarshan-Tv/60b872e3a609d2ae610000a7/medium_16_9.jpg"   group-title="SHEMAROO-ME",ATMADARSHAN TV (IN)
+https://atmadarshantv.shemaroo.com/hls18/atmadarshan/index.m3u8?hdnts=st=1638878828~exp=1638889628~acl=*~data=testdata~hmac=ed130a58c271450608cb2f1aee12b9a2a14197fdb7ecd4319dc8fc6ce09fb4c2
+#EXTINF:-1 tvg-id="NIMBARK TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Nimbark-TV/5f8b1ffba609d23213000001/medium_16_9.jpg"   group-title="SHEMAROO-ME",NIMBARK TV (IN)
+https://cdn.live.shemaroome.com/nimbaktv/selnimbaktv/playlist.m3u8?hdnts=st=1638878778~exp=1638889578~acl=*~data=testdata~hmac=d7ca767bf54bf90ebe0af2efd1b3a980222234ba86a8de74e22c88ac8279d789
+#EXTINF:-1 tvg-id="TNI AWAAZ (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/TNI-Awaaz/61127fc9a609d2097c00004f/medium_16_9.jpg"   group-title="SHEMAROO-ME",TNI AWAAZ (IN)
+https://tniawaaz.shemaroo.com/hls11/tniawaaz/index.m3u8?hdnts=st=1638879593~exp=1638890393~acl=*~data=testdata~hmac=6dd71a9845f0b4aaa96be54fa502c32b81666c5c51b7aec2fde8bbd61b60bd3d
+#EXTINF:-1 tvg-id="PASHUPATINATH (IN)"  tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shree-Pashupatinath-Temple,-Mandsaur,-Madhya-Pradesh/60407220a609d245da000001/medium_16_9.jpg"   group-title="SHEMAROO-ME",PASHUPATINATH (IN)
+https://cdn.live.shemaroome.com/pashupatinath/Stream1/playlist.m3u8?hdnts=st=1638879929~exp=1638890729~acl=*~data=testdata~hmac=243bb74801253e52155e4ad0ec51e7bb7b2f76b30d52fac1d4ed48c470ae0578
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "   group-title="SHEMAROO-ME", (IN)
-
-#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "   group-title="SHEMAROO-ME", (IN)
-
-
-#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "   group-title="SHEMAROO-ME", (IN)
-
 
 
 
