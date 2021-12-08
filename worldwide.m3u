@@ -326,6 +326,19 @@ https://cdn.live.shemaroome.com/pashupatinath/Stream1/playlist.m3u8?hdnts=st=163
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "   group-title="SHEMAROO-ME", (IN)
 
 
+#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="WATCHO",TRT WORLD (ASIA)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/653495/assetType/media/assetFileId/6564063/contextType/PLAYBACK/isAltUrl/False/a.m3u8?playSessionId=819b76b3-8e05-6dfb-b353-27a580b92ce3:26e63fb4-bc1e-9c0a-6583-a758a70a1a30&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3RydHdvcmxkLzY1MzQ5NQ==&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
+
+
+
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
