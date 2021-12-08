@@ -686,8 +686,6 @@ https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="SAAZO AWAZ" tvg-logo=" "   group-title="NET-TV",SAAZO AWAZ (PK)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
-#EXTINF:-1 tvg-id="PRAG NEWS" tvg-logo="https://pragnews.com/wp-content/uploads/2021/10/PRAG_NEWS_LOGO_UPDATED_BD.png"   group-title="NET-TV",PARAG NEWS (IN)
-https://usher.ttvnw.net/api/channel/hls/pragnews_live.m3u8?allow_source=true&fast_bread=true&p=2513289&play_session_id=06b3bd22c47ef2718260b3f243a29cf3&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=cad4faf38f304616874263f400bd46d082e9d818&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22pragnews_live%22%2C%22channel_id%22%3A523350250%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a9494a829a8b164b%22%2C%22expires%22%3A1638968183%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22223.176.9.103%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.7.0
 
 
 #EXTINF:-1 tvg-id="INH 24" tvg-logo=" "  group-title="WMNCDN-TV",INH 24 (IN)
@@ -1156,6 +1154,8 @@ http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="LAHORE RANG (PK)" tvg-logo=" "  group-title="LOCKLE",LAHORE RANG (PK)
 http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo=" "  group-title="LOCKLE",PTV SPORTS (PK)
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HORNBILL TV (IN)" tvg-logo=" "  group-title="DIGITAL-TV",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
