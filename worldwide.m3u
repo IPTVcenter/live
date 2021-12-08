@@ -527,7 +527,7 @@ http://a3.smashmalta.com:82/live/smash/smash/23.ts
 #EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
-#EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgFUWj41tiyTnTUWqehhM854UmwDeXnVLyL1-2nz9_MNoRz-XfcNKzcaOLT8_kHLay33GThcOVNwQ2kzP5yH3BvlKtCXTgA8eW8b6MAf31X9O7BIwVrVWVDLooZmHlBGc8YOzfWLeykpU-9ELNd4XDrkkQ9s3HgcADn6ea4qnF9mwcpzTWit4cvDHx7Xw=s200" group-title="SMART-STREAM",DY 365 (IN)
+#EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo=" " group-title="SMART-STREAM",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQvF3eUmD5tQOwYQ2C-ZSmYgFj9zC_5HFu-KGvL-ws_fUuKSAWDQne-jp8woJj3T9qCEjLymtYpc7_n_pJJEOmIro93QfNd9lXhdE73oiXrpRu8LrMYJ6E-LThEKd7oPuR0JWZyBCKOTLgohZGp_jJkkpQxDxkWM_lMfMRozpsHY97A23T4JMhqUNIzg=s200" group-title="SMART-STREAM",NORTH EAST LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
@@ -553,6 +553,13 @@ http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi8XNpuN_apVdK22yJKPOVmrAqDTvfGktGOKSw6ml8dYGMGxCywp6BbvbVWYXbxwmqFgAWHLMsx72JsHtFT2agWhm-pLV6LmEPBn01XOB0Yhfbx8S-WlT8pmpWuiFOJ-hL6JOZIKjsaT7LkGRCm7B0AZPQRwpRA2wsVsLP7qDFOjFidgOxdcPkAFuET1w=s200"  group-title="SMART-STREAM",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo=" "  group-title="SMART-STREAM",NEWS LIVE (IN)
+https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo=" "  group-title="SMART-STREAM",ASSAM TALKS (IN)
+https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+
+
+Ramdhenu
 
 #EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
@@ -679,6 +686,9 @@ https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="SAAZO AWAZ" tvg-logo=" "   group-title="NET-TV",SAAZO AWAZ (PK)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1 tvg-id="PRAG NEWS" tvg-logo="https://pragnews.com/wp-content/uploads/2021/10/PRAG_NEWS_LOGO_UPDATED_BD.png"   group-title="NET-TV",PARAG NEWS (IN)
+https://usher.ttvnw.net/api/channel/hls/pragnews_live.m3u8?allow_source=true&fast_bread=true&p=2513289&play_session_id=06b3bd22c47ef2718260b3f243a29cf3&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=cad4faf38f304616874263f400bd46d082e9d818&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22pragnews_live%22%2C%22channel_id%22%3A523350250%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a9494a829a8b164b%22%2C%22expires%22%3A1638968183%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22223.176.9.103%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.7.0
+
 
 #EXTINF:-1 tvg-id="INH 24" tvg-logo=" "  group-title="WMNCDN-TV",INH 24 (IN)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
