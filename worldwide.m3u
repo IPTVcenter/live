@@ -248,7 +248,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-pictures
 #EXTINF:-1 tvg-id="INDIA TODAY (IN)" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-indiatoday
 #EXTINF:-1 tvg-id="ZING (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zing/channel_list/1170x658withlogo_895666865.png"   group-title="ZEE5",ZING (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-zing
+https://z5ak-live.zee5.com/zing/index.m3u8?hdnts=st=1639089717~exp=1639092717~acl=/zing/index.m3u8*~hmac=b9734ab30095567f3892f7fc39b7771953dcbb15d2f538ea9e85aad95064f50c
 #EXTINF:-1 tvg-id="AAJ TAK (IN)" tvg-logo=" "  group-title="ZEE5",AAJ TAK (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-aajtak
 #EXTINF:-1 tvg-id="DIVYA TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-divyatv/channel_list/1170x658withlog_2128007300.png"  group-title="ZEE5",DIVYA TV (IN)
@@ -292,14 +292,17 @@ https://snehz5tv.herokuapp.com/?c=0-9-channel_1565694979
 #EXTINF:-1 tvg-id="SANSKAR (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658_379547401.png"  group-title="ZEE5",SANSKAR (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_1144658965
 #EXTINF:-1 tvg-id="REPUBLIC TV (IN)" tvg-logo=" "  group-title="ZEE5",REPUBLIC TV (IN)
-https://snehz5tv.herokuapp.com/?c=0-9-channel_1422341819
+https://z5ak-live.zee5.com/out/v1/621a7207ced84ea9a658f5ded2710969/index.m3u8?hdnea=st=1639091739~exp=1639092039~acl=*~id=8910f68a-ea13-4b01-9f53-1f0d85772f01~hmac=fc25d52de8496424de07ce23d65f0f5a002a579502e58bf550364dc836d62ee6&originpath=/linear/hls/pb/event/dIwM76ahTM-VRSZ6TKoCtg/stream/21f35b7f-5ed0-4766-846c-4e1e142cc387:SIN/master.m3u8
 #EXTINF:-1 tvg-id="BIG MAGIC (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog_2022520414.png"   group-title="ZEE5",BIG MAGIC (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 tvg-id="&FLIX HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658_379547401.png"  group-title="ZEE5",&FLIX HD (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="ISHWAR TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-285/channel_list/1170x658withlog_1126976137.png"  group-title="ZEE5",ISHWAR TV (IN)
 https://snehz5tv.herokuapp.com/?c=0-9-285
-
+#EXTINF:-1 tvg-id="DD UTTAR PRADASH (IN)" tvg-logo=" "  group-title="ZEE5",UTTAR PRADASH (IN)
+https://z5ak-live.zee5.com/out/v1/7564b38cfaad4d72b8b78514b6727073/index.m3u8?hdnts=st=1639089906~exp=1639092906~acl=/out/v1/7564b38cfaad4d72b8b78514b6727073/index.m3u8*~hmac=63338ced52f5a34b9303431cf4c47f99e18c1bf7be074ee0cfb261c7e58e30e0
+#EXTINF:-1 tvg-id="DD BIHAR (IN)" tvg-logo=" "  group-title="ZEE5",DD BIHAR (IN)
+https://z5ak-live.zee5.com/out/v1/c35546e8600541d38d0b03b18f9a2d6d/index.m3u8?hdnts=st=1639090071~exp=1639093071~acl=/out/v1/c35546e8600541d38d0b03b18f9a2d6d/index.m3u8*~hmac=de9b3056c78dc5802233a46c2c0500be65a308603a270a3d050e1848e6bd7117
 
 #EXTINF:-1 tvg-id="SAMACHAR24 HD (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/medium_16_9.jpg"  group-title="SHEMAROO-ME",SAMACHAR24 HD (IN)
 https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8?hdnts=st=1638746922~exp=1638757722~acl=*~data=testdata~hmac=7186d2e3da527348c45cec266c13da1b572fb2f5fa97670d32d5d4dd22bedbde
