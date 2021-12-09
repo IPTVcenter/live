@@ -497,7 +497,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb-WD3eABOXuR9oWN4io02YdDtk4jYIlD5B013l9jY2PRS2h4kSEMsvkPqCGAo2OkmIUhuSjKJWaF_zhzWmx1jzX9ActnWRjg7T8TPWM4evkb1FwHDl1BBJhiyMt4e9QUoSOO1Xgg4-vjR6rGGnzJR1sHu5tJ5h6XMq3g3hUhSSip1U3i6p5jT1YS3w=s200"  group-title="ONLINE-TV",I LOVE (IN)
 https://ilove.livebox.co.in/wowinhls/live.m3u8
-#EXTINF:-1 tvg-id="DD VYAS (IN)" tvg-logo=" "  group-title="ONLINE-TV",DD VYAS (IN)
+#EXTINF:-1 tvg-id="DD VYAS (IN)" tvg-logo="https://webcast.gov.in/images/nic_logo_full.gif"  group-title="ONLINE-TV",DD VYAS (IN)
 https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-logo=" "  group-title="ONLINE-TV",SADHNA PLUS (IN)
@@ -555,13 +555,13 @@ http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi8XNpuN_apVdK22yJKPOVmrAqDTvfGktGOKSw6ml8dYGMGxCywp6BbvbVWYXbxwmqFgAWHLMsx72JsHtFT2agWhm-pLV6LmEPBn01XOB0Yhfbx8S-WlT8pmpWuiFOJ-hL6JOZIKjsaT7LkGRCm7B0AZPQRwpRA2wsVsLP7qDFOjFidgOxdcPkAFuET1w=s200"  group-title="SMART-STREAM",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo=" "  group-title="SMART-STREAM",NEWS LIVE (IN)
+#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="SMART-STREAM",NEWS LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo=" "  group-title="SMART-STREAM",ASSAM TALKS (IN)
 https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 
 
-Ramdhenu
+
 
 #EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
