@@ -700,6 +700,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:-1 tvg-id="CARR WORLD" tvg-logo=" "   group-title="NET-TV",CARE WORLD (IN)
 https://video.fjrh1-1.fna.fbcdn.net/v/t42.1790-2/263831824_1432060057208802_1299930053134895267_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1NDgsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=h-VzhrgVrQ4AX9QbAqx&rl=300&vabr=165&_nc_ht=video.fjrh1-1.fna&edm=AItmks8EAAAA&oh=03909bfa0c5614e10232105e15f2d338&oe=61B16FC0
+#EXTINF:-1 tvg-id="RUNWAY TV" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg"   group-title="NET-TV",RUNWAY TV (UK)
+https://vse-as-all25.secdn.net/runway-origin/live/runway/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="INH 24" tvg-logo=" "  group-title="WMNCDN-TV",INH 24 (IN)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
