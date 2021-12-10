@@ -23,13 +23,13 @@ https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjs5Eb3xTCJg6GVtkeg9R-1HUxLFhnZYhknX0mJY6kK0iXQBuw9cuej4xk-G2SmrEn5PJm-K9GavRgCjR-IqCYQABWYSZRON9RqG4XyXOjRGm0XL4ooQCcebiC_VAOo5ObUL57EC1bRce1iuDdkYYoLuGtcCUfh396x1WwlgyQAhm4T58xl_d1_8HuDUA=s200"  group-title="MULTI-TV",DD SPORTS (IN)
+#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://s7.postimg.cc/4d7wl7b6j/Screenshot_20180516-053849_1.jpg"  group-title="MULTI-TV",DD SPORTS (IN)
 https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
-#EXTINF:-1 tvg-id="IBC 24" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi7PhNUEJqqivAxu4CS7GDH5ko4WKYO-vjL3HTiwybkzl5bv9fPyCyzJD6y3SdIwqfX2JEgIoEeVoJeZceskj0URNuwAQ4uP8JhZz6vKX9IQHSfYcieUkn7-AT33cIZn4g8itWrcWY_9WLo7RgxzAKYnX5q65tObkJQU1hJ0l-nE6zBr6eAxzRYTNwEYw=s200"  group-title="MULTI-TV",IBC 24 (IN)
+#EXTINF:-1 tvg-id="IBC 24" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png"  group-title="MULTI-TV",IBC 24 (IN)
 https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
-#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh8Nn2tCVICFs7DhnCl6UA6ci7NFo14l9O6Iz5GIfcm-lqqynyrYS-gpytSPM9TlYkIdGvI3JSpgM9ReQwAVnFHFAPLerItWapIa8IFLjVwY6zxPdrl86Gsmnr5ZagZnelbu9Jyk9pAk7EBb6O-t82iisQZwsiq5I6D9ewbwAY2vCfJwwos76_SgnNtKg=s200"   group-title="MULTI-TV",DANGAL (IN)
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png"   group-title="MULTI-TV",DANGAL (IN)
 https://itvoign.multitvsolution.com/idvo/dangal.m3u8
-#EXTINF:-1 tvg-id="NEWS INDIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhQCe9zL7Vp7r5-7rKIyjKv6q6ptTbjF6O0Nm566L_lw59gIEtXWK2SQYeD4aard-iwPQUMzQ-cZqWzYQwdPtJNF-OlnNn1e8u86n3WDOMnVLL4tE8cIwMwN7BzaISOyDbAJi8SuLKYhpcjb2VoGlCZOPjqLxHcL13rBdOEajPrGhgsRC2g0CZOoNI4zg=s200"  group-title="MULTI-TV",NEWS INDIA (IN)
+#EXTINF:-1 tvg-id="INDIA NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"   group-title="MULTI-TV",INDIA NEWS (IN)
 https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
 #EXTINF:-1 tvg-id="DD KASHIR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhNm0F3QUGxLLDMRA6id54tn-WhgWb5VPO0ManC4h-M9ID33kWx70b0MouKJZjFEgxcUu5K-CU_eeSKUeG4ZVa473P_RrnQXNYKwLG2AGkDQfK1H0luKgr2lnZXreFGt-NR74wyOc5TuzV-edGf27parwwHBia1uWIhi4h2LR9FUAPw1rBflESOTVd5rw=s200"  group-title="MULTI-TV",DD KASHIR (IN)
 https://itvoign.multitvsolution.com/idvo/ddkashir.m3u8
@@ -359,6 +359,10 @@ https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=400&e=j
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="NEWS LIVE"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="JIO-TV", NEWS LIVE (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Newslive&q=400&e=junk.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
@@ -1097,68 +1101,21 @@ http://93.152.174.144:4000/play/Penthouse/index.m3u8
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-id="BT SPORTS 2" tvg-logo=" "  group-title="PLAY",BT SPORTS 2 (UK)
 http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.png"  group-title="PLAY",ZEE ACTION (IN)
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-logo=" "  group-title="LIVE-STREAMING",FOX LIFE (UK)
 http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
-#EXTINF:-1 tvg-id="PTV HOME" tvg-logo=" "   group-title="PTCL-TV",PTV HOME (PK)
-http://103.17.201.18:8062/PTV_HOME/playlist.m3u8
-#EXTINF:-1 tvg-id="ARY DIGITAL HD" tvg-logo=" "   group-title="PTCL-TV",ARY DIGITAL HD (PK)
-http://103.17.201.18:8062/ARY_DIGITAL/index.m3u8
-#EXTINF:-1 tvg-id="ARY ZINDAGI" tvg-logo=" "   group-title="PTCL-TV",ARY ZINDAGI (PK)
-http://103.17.201.18:8062/ARY_ZINDAGI/playlist.m3u8
-#EXTINF:-1 tvg-id="GEO EENTERTAINMENT" tvg-logo=" "   group-title="PTCL-TV",GEO ENTERTAINMENT (PK)
-http://103.17.201.18:8062/GEO_ENT/index.m3u8
-#EXTINF:-1 tvg-id="HUM SITATAY" tvg-logo=" "   group-title="PTCL-TV",HUM SITARAY (PK)
-http://103.17.201.18:8062/HUM_SITARAY/index.m3u8
-#EXTINF:-1 tvg-id="HUM MASALA" tvg-logo=" "   group-title="PTCL-TV",HUM MASALA (PK)
-http://103.17.201.18:8062/HUM_MASALA/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-logo=" "   group-title="PTCL-TV",ATV (PK)
-http://103.17.201.18:8062/ATV/index.m3u8
-#EXTINF:-1 tvg-id="APNA CHANNEL" tvg-logo=" "   group-title="PTCL-TV",APNA CHANNEL (PK)
-http://103.17.201.18:8062/APNA_CHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="TV ONE" tvg-logo=" "   group-title="PTCL-TV",TV ONE (PK)
-http://103.17.201.18:8062/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="8XM HD" tvg-logo=" "   group-title="PTCL-TV",8XM HD (PK)
-http://103.17.201.18:8062/8XM/playlist.m3u8
-#EXTINF:-1 tvg-id="JALWA" tvg-logo=" "   group-title="PTCL-TV",JALWA (PK)
-http://103.17.201.18:8062/JALWA/playlist.m3u8
-#EXTINF:-1 tvg-id="TV NEWS" tvg-logo=" "   group-title="PTCL-TV",PTV NEWS (PK)
-http://103.17.201.18:8062/PTV_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BOL NEWS" tvg-logo=" "   group-title="PTCL-TV",BOL NEWS (PK)
-http://103.17.201.18:8062/BOL_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="ARY NEWS" tvg-logo=" "   group-title="PTCL-TV",ARY NEWS (PK)
-http://103.17.201.18:8062/ARY_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="GEO NEWS" tvg-logo=" "   group-title="PTCL-TV",GEO NEWS (PK)
-http://103.17.201.18:8062/GEO_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ NEWS" tvg-logo=" "   group-title="PTCL-TV", AAJ NEWS(PK)
-http://103.17.201.18:8062/AAJ_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="ABB TAKK" tvg-logo=" "   group-title="PTCL-TV",ABB TAKK (PK)
-http://103.17.201.18:8062/ABBTAKK_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="CAPITAL NEWS" tvg-logo=" "   group-title="PTCL-TV",CAPITAL NEWS (PK)
-http://103.17.201.18:8062/CAPITAL_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="LAHORE NEWS" tvg-logo=" "   group-title="PTCL-TV",LAHORE NEWS (PK)
-http://103.17.201.18:8062/LAHORE_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="EXPRESS NEWS" tvg-logo=" "   group-title="PTCL-TV",EXPRESS NEWS (PK)
-http://103.17.201.18:8062/EXPRESS_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="DUNYA NEWS" tvg-logo=" "   group-title="PTCL-TV",DUNYA NEWS (PK)
-http://103.17.201.18:8062/DUNYA_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="92 NEWS" tvg-logo=" "   group-title="PTCL-TV",92 NEWS (PK)
-http://103.17.201.18:8062/92_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="NEWS ONE" tvg-logo=" "   group-title="PTCL-TV",NEWS ONE (PK)
-http://103.17.201.18:8062/NEWS_ONE/playlist.m3u8
-#EXTINF:-1 tvg-id="NEO NEWS" tvg-logo=" "   group-title="PTCL-TV",NEW NEWS (PK)
-http://103.17.201.18:8062/NEO_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR MOVIES HD (IN)
+#EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="LOCKLE",COLORS HD (IN)
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="LOCKLE",STAR PLUS HD (IN)
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR WORLD HD (IN)
+#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png"  group-title="LOCKLE",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="LOCKLE",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
