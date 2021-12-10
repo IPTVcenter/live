@@ -1,7 +1,7 @@
 #EXTM3U TV
 #EXTINF:-1 tvg-id="EURO NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Euronews_%282016-.n.v.%29.png"  group-title="ROKU-TV",EURO NEWS (UK)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AFV!" tvg-logo="https://image.roku.com/developer_channels/prod/2eb931e90286c339fb656cb469761511b37764a10fa36c914789eca8ac4db23d.png"  group-title="ROKU-TV",AFV! (UK)
+#EXTINF:-1 tvg-id="AFV!" tvg-logo="https://i.imgur.com/lG3OHxA.png"  group-title="ROKU-TV",AFV! (UK)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/Bloomberg_Quicktake_190x190.png"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
@@ -10,15 +10,15 @@ https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg"  group-title="SAMSUNG-TV",BLOOMBERG (US)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FTF" tvg-logo="    group-title="SAMSUNG-TV",FTF (US)
+#EXTINF:-1 tvg-id="FTF" tvg-logo="https://i.imgur.com/nbzbHum.png"   group-title="SAMSUNG-TV",FTF (US)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjI4RAxK3srAf1gW40dQIgHvCEGJUIJ-Gs6WFexjkKgR4xKvnn488PCxzRHtBVKLoRHXl1JB7rkO7NB9lvRf1-vKIbGYwBTQ6dJYlNkAnbFZrk7WNO9_J2qfDPJatg4pnD4YzVhcBoxqG-pkSFAc6k4bumBBLubUySlCb9gK80EcNbDp3SolKfWukmhng=s200"  group-title="SAMSUNG-TV",FAILARMY (US)
+#EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://i.imgur.com/nbzbHum.png"  group-title="SAMSUNG-TV",FAILARMY (US)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="THE PET COLLECTIVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiSf3OLFrRz_k4fNwcam7HRwPe6OPlQRAlj-H-mnvaLtKlCVspgQ0pdWaa9976h8Nyzbpb1MZ_SdvblPVYnXC323omeu5lG_87sjUhvIlkBh3TaYA2aLH7PbAtrexlqHdexgdZhXZQyJGj_e0lxGpEGp0xCcbY75xiLahwEPXmaG-dWX590-5JaRBxhyA=s200"  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
+#EXTINF:-1 tvg-id="THE PET COLLECTIVE" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiaX5yGG6XQUimvZRcrR3G3TOwm4LM4sPhdxrWOJD52bxHDz9Y5FxI_pXJpLHRSl340wdsf3im4BJub7tv9n5b7XraC2mgUZmwM9HyEto3t1vchxnPvkHokQj0x8sjEOS6cbTsFit7UTZ_J4rbNt9C7seJK1Z-Eph9irK-PTRhwY3J3cXp5vLVMF-MK3w=s200"  group-title="SAMSUNG-TV",DUCK TV (US)
+#EXTINF:-1 tvg-id="DUCK TV" tvg-logo=" "  group-title="SAMSUNG-TV",DUCK TV (US)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0kAO1Dcv-9I8MxgEqIre7xE4l9zi6W0hsVwPfYYjG9s6qoNouxktGBavDRjtPBEq8JTQU4G2udcmxy0wNOJT2Mq1RYoiImYjsGdHoyKvng0ON1Z9VlwVvP735Ogi9BBpTQaPBzX1b53zhTivzEBcnOeetbkZ_raduK3op4iY5nDhQaXJH4khECCaJ7A=s200"  group-title="SAMSUNG-TV",CRIME 360 (US)
+#EXTINF:-1 tvg-id="CRIME 360" tvg-logo=" "  group-title="SAMSUNG-TV",CRIME 360 (US)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -1216,4 +1216,5 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
 #EXTINF:-1 tvg-id="MSNBC REPORTS" tvg-logo=" "  group-title="CDN-TV",MSNBC REPORTS (UK)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
-
+#EXTINF:-1 tvg-id="FTF" tvg-logo=" "  group-title="CDN-TV",FTF (US)
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
