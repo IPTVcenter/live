@@ -786,8 +786,8 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?reba
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo=" "  group-title="AKAMAI-TV",SKY2 (AU)
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-id="IND TV USA (US)" tvg-logo=" "  group-title="AKAMAI-TV",INDTV USA (AU)
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
+#EXTINF:-1 tvg-id="IND TV USA (US)" tvg-logo="http://www.indtvusa.com/wp-content/uploads/2017/01/INDTVUSA-Logo.png"  group-title="AKAMAI-TV",INDTV USA (AU)
+https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="AKAMAI-TV",9XM (IN)
 https://yuppindott1.akamaized.net/hls/live/2015289/9xmusicindott/9xmusicindott/playlist.m3u8?dw=60&hdnts=st=1638959121~exp=1638973521~acl=!*/2015289/9xmusicindott/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=24c656602d02ce8740b502780961b195b5218d6d705dc53df115584e24e33ac1&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
 #EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="AKAMAI-TV",ZOOM (IN)
