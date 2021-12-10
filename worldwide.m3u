@@ -347,11 +347,13 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/789812/assetType/media/assetFileId/8035286/contextType/PLAYBACK/isAltUrl/False/a.m3u8?e=1651422600&h=0377efdf10569c58e8a45457270b3cfc&playSessionId=41b27a38-7e0d-856d-45ab-574c2db992e1:08d10ccd-0bfa-a3b0-aecb-f6e764ab0092&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3JlcHVibGljLXR2Lzc4OTgxMg==&clientTag=html5:v7.42
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
 
-
-
+#EXTINF:-1 tvg-id="COLORS HD"  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="JIO-TV",COLORS HD (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="AND TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="JIO-TV", AND TV HD (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO-TV", ZEE TV HD (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="NEWS LIVE"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="JIO-TV", NEWS LIVE (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Newslive&q=400&e=junk.m3u8
 
 
@@ -1135,15 +1137,15 @@ http://103.17.201.18:8062/NEO_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-logo=" "   group-title="LOCKLE",COLORS HD (IN)
+#EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="LOCKLE",COLORS HD (IN)
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="LOCKLE",STAR PLUS HD (IN)
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" "  group-title="LOCKLE",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo=" "  group-title="LOCKLE",SONY MAX HD (IN)
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="LOCKLE",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo=" "  group-title="LOCKLE",SONY HD (IN)
+#EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="LOCKLE",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="GEO HD (PK)" tvg-logo=" "  group-title="LOCKLE",GEO HD (PK)
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
@@ -1153,7 +1155,7 @@ http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo=" "  group-title="LOCKLE",GEO SUPER (PK)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo=" "   group-title="LOCKLE",ZEE TV HD (IN)
+#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"   group-title="LOCKLE",ZEE TV HD (IN)
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="LOCKLE",ZEE CINEMA HD (IN)
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
