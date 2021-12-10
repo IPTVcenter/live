@@ -3,14 +3,14 @@
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV!" tvg-logo="https://image.roku.com/developer_channels/prod/2eb931e90286c339fb656cb469761511b37764a10fa36c914789eca8ac4db23d.png"  group-title="ROKU-TV",AFV! (UK)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo=" "  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
+#EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/Bloomberg_Quicktake_190x190.png"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWIu4f2Q6HVGFQoat9BlOvoAgURpp8YIXs2RiXbzB7qLFRjncIsdbcvKJZEaDYolh0FwbdQOHAUE5j7v5hlPcFb1DU6pRspsQB42k6yGx3WwptzgMSWNxKSUKG_XiWFVGSuC12xndZmKEHgxlTCbu_W9gFFdWS01YgNbGsvnb98fma6ouB5nXhZsb_1Q=s200"  group-title="SAMSUNG-TV",CNN (US)
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="SAMSUNG-TV",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0SBD3cMoYoKikLQ8eAANnuUQYGbOgnEaoUaPpHs2fZZy1n62JKowp4IBQ_iNhagHFMmeak5sSNq0C9sxZFpIXnkTfPdYr36rsOMlsvOsPi42IqxlIbGwnoedewgIQO3aB6h5-lnDzwIOmIdVIEobzeZ3llL7wTky8wPpSuY1tHYhuZZ6L7tBpFgqjgQ=s200"  group-title="SAMSUNG-TV",BLOOMBERG (US)
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg"  group-title="SAMSUNG-TV",BLOOMBERG (US)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FTF" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrL5OkHQ-eOhjDUplknlZvGNGHoA4Dwi609KYp35-z8LP7ZVV4zPwNMKe--9uuesJZc4CxWbOx7iKq2a2NvnJTGUGPMvVgEzSn3Nqjtt-BDBSpLXvMbTSu30gETBgKa8PDUQhpRO231Phr6pcuTxab6VVUqY_4qSzZ8cWLSypRtwbDa-TiLcQEXbeXnQ=s200"  group-title="SAMSUNG-TV",FTF (US)
+#EXTINF:-1 tvg-id="FTF" tvg-logo="    group-title="SAMSUNG-TV",FTF (US)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjI4RAxK3srAf1gW40dQIgHvCEGJUIJ-Gs6WFexjkKgR4xKvnn488PCxzRHtBVKLoRHXl1JB7rkO7NB9lvRf1-vKIbGYwBTQ6dJYlNkAnbFZrk7WNO9_J2qfDPJatg4pnD4YzVhcBoxqG-pkSFAc6k4bumBBLubUySlCb9gK80EcNbDp3SolKfWukmhng=s200"  group-title="SAMSUNG-TV",FAILARMY (US)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
