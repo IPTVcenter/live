@@ -14,11 +14,11 @@ https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://i.imgur.com/nbzbHum.png"  group-title="SAMSUNG-TV",FAILARMY (US)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="THE PET COLLECTIVE" tvg-logo=" "  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
+#EXTINF:-1 tvg-id="THE PET COLLECTIVE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-comedy/The_Pet_Collective_190x190.png"  group-title="SAMSUNG-TV",THE PET COLLECTIVE (US)
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="DUCK TV" tvg-logo=" "  group-title="SAMSUNG-TV",DUCK TV (US)
+#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://www.nicepng.com/png/detail/321-3214135_duck-tv-logo-png.png"  group-title="SAMSUNG-TV",DUCK TV (US)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CRIME 360" tvg-logo=" "  group-title="SAMSUNG-TV",CRIME 360 (US)
+#EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/aae88f63ba55546da394e8912c72efc6/images/titan/assets/aHR0cHM6Ly9ka2kwMXExbDd5bjN5LmNsb3VkZnJvbnQubmV0L3RodW1ibmFpbHMtcGxhdGZvcm0tcHJvZC9hc3NldHMvY3M6OmNvbnRlbnQ6OmNoYW5uZWxzLzAtMjA0OC9DcmltZS0zNjAtZGVmYXVsdF92MS5wbmc.png"  group-title="SAMSUNG-TV",CRIME 360 (US)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -498,6 +498,8 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyZmpudbZToppM8lXmOdVPQ/ts
 #EXTINF:-1 tvg-id="NEWSCASTS (US)" tvg-logo=" "  group-title="ONLINE-TV",NEWSCASTS (US)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+
+
 
 #EXTINF:-1 tvg-id="BRICS TV (RU)" tvg-logo=" "  group-title="ONLINE-TV",BRICS TV (RU)
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
