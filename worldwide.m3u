@@ -21,6 +21,8 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0kAO1Dcv-9I8MxgEqIre7xE4l9zi6W0hsVwPfYYjG9s6qoNouxktGBavDRjtPBEq8JTQU4G2udcmxy0wNOJT2Mq1RYoiImYjsGdHoyKvng0ON1Z9VlwVvP735Ogi9BBpTQaPBzX1b53zhTivzEBcnOeetbkZ_raduK3op4iY5nDhQaXJH4khECCaJ7A=s200"  group-title="SAMSUNG-TV",CRIME 360 (US)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjs5Eb3xTCJg6GVtkeg9R-1HUxLFhnZYhknX0mJY6kK0iXQBuw9cuej4xk-G2SmrEn5PJm-K9GavRgCjR-IqCYQABWYSZRON9RqG4XyXOjRGm0XL4ooQCcebiC_VAOo5ObUL57EC1bRce1iuDdkYYoLuGtcCUfh396x1WwlgyQAhm4T58xl_d1_8HuDUA=s200"  group-title="MULTI-TV",DD SPORTS (IN)
 https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
 #EXTINF:-1 tvg-id="IBC 24" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi7PhNUEJqqivAxu4CS7GDH5ko4WKYO-vjL3HTiwybkzl5bv9fPyCyzJD6y3SdIwqfX2JEgIoEeVoJeZceskj0URNuwAQ4uP8JhZz6vKX9IQHSfYcieUkn7-AT33cIZn4g8itWrcWY_9WLo7RgxzAKYnX5q65tObkJQU1hJ0l-nE6zBr6eAxzRYTNwEYw=s200"  group-title="MULTI-TV",IBC 24 (IN)
@@ -71,6 +73,8 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 #EXTINF:-1 tvg-id="SPORTSKOOL TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEigriYvFyh6vi_2yeaYATNTOQnI8BkDrK5Yz1MBosT5vQf33XLeZbooeM881ze8464rdnPKib70wc5UbJqDK8_BwGFxpXbqTjx5M3_cl7UT9q4iZsY38hxa2ohPPyBbcxS-fJjE_nWiu0dnY7CB4xnGyENQ4BE9EatsjryfuYmQPDXDqa9GuhlaxD6Thg=s200"  group-title="DISTRO-TV",SPORTSKOOL TV (US)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 tvg-id="THE TITANIC CHANNEL" tvg-logo=" "  group-title="DISTRO-TV",THE TITANIC CHANNEL (US)
+https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 
 #EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhaEipqGFkX1cs7uxzRugfcRWahhklpiN9u7VwM4oIdfjOC6R_eGj6gJr1cNpSxHUKngkEVJSODEQFbpHOmmWbqiWkrhyi06xiop_PjvZbgMHcWG4z1jinDQqHJv_OzS-K6gqcilRIDXBHfff9TvrGe3UOs19SrEnWsIhTDwMyVNpCYZGz_RKsLbXerUA=s200"  group-title="STIRR-TV",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
@@ -570,7 +574,12 @@ https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m
 #EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo=" "  group-title="SMART-STREAM",ASSAM TALKS (IN)
 https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="LOCAL NOW PG" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW PG (US)
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LOCAL NOW 20" tvg-logo=" "  group-title="LOCSL-NOW",LOCAL NOW 20 (US)
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LOCAL NOW ADRENALINE RUSH" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW ADRENALINE RUSH (US)
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
@@ -617,6 +626,11 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TASTE MADE (US)" tvg-logo=" "  group-title="AMAGI-TV",TASTE MADE (US)
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN WILD" tvg-logo=" "  group-title="AMAGI-TV",IN WILD (US)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN TROUBLE" tvg-logo=" "  group-title="AMAGI-TV",IN TROUBLE (US)
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="NASA TV" tvg-logo=" "   group-title="ONLINE-TV",NASA TV (UK)
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
