@@ -1029,18 +1029,20 @@ http://a3.smashmalta.com:82/live/smash/smash/23.ts
 #EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="IPTV-1",SMASH MUSIC (MT)
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
-#EXTINF:-1 tvg-id="UTV HD" tvg-logo=" "  group-title="IPTV-2",UTV HD (IN)
-http://sonyiptv.net:8080/jamal/jamal/81558
+#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" "  group-title="IPTV-2",STAR GOLD (ME)
+http://sonyiptv.net:8080/jamal/jamal/199234
 #EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo=" "  group-title="IPTV-2",AAPKA COLORS (US)
 http://sonyiptv.net:8080/jamal/jamal/63431
 #EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo=" "  group-title="IPTV-2",UTV MOVIES (IN)
 http://sonyiptv.net:8080/jamal/jamal/199245
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-2",ZEE CINEMA (UK)
 http://sonyiptv.net:8080/jamal/jamal/199273
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="IPTV-2",STAR BHARAT (IN)
+http://sonyiptv.net:8080/jamal/jamal/199225
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
