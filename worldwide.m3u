@@ -1079,10 +1079,130 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="IPTV-3",TRT WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
 
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-4", (US)
-
-
-
+#EXTINF:-1 tvg-id="HISTORY TV18 HD" tvg-logo=" "  group-title="IPTV-4",HISTORY TV18 HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo=" "  group-title="IPTV-4",SONY TEN 2 HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo=" "  group-title="IPTV-4",NAT GEO HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/12
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo=" "  group-title="IPTV-4",SONY TEN 1 HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/13
+#EXTINF:-1 tvg-id="NICK HD+" tvg-logo=" "  group-title="IPTV-4",NICK HD+ (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo=" "  group-title="IPTV-4",AND PICTURES HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/17
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="IPTV-4",NAT GEO WILD HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
+#EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo=" "  group-title="IPTV-4",ZEE CAFE HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/19
+#EXTINF:-1 tvg-id="ROMEDY NOW" tvg-logo=" "  group-title="IPTV-4",ROMEDY NOW (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/20
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-4",AND TV HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/21
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="IPTV-4",STAR BHARST HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/22
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-4",SONY HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/23
+#EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo=" "  group-title="IPTV-4",STAR GOLD SELECT HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/24
+#EXTINF:-1 tvg-id="COLORS INFINITY HD" tvg-logo=" "  group-title="IPTV-4",COLORS INFINITY HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/28
+#EXTINF:-1 tvg-id="AND FLIX HD" tvg-logo=" "  group-title="IPTV-4",AND FLIX HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/29
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" "  group-title="IPTV-4",STAR MOVIES HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/30
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-4",ZEE TV HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/34
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="IPTV-4",STAR PLUS HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/35
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="IPTV-4",COLORS HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/36
+#EXTINF:-1 tvg-id="STAR WORLD PREMIERE HD" tvg-logo=" "  group-title="IPTV",STAR GOLD PREMIERE HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/37
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="IPTV-4",ZEE CINEMA HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/38
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo=" "  group-title="IPTV-4",FOX LIFE HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/39
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="IPTV-4",SONY MAX HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/40
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="IPTV-4",STAR GOLD HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/42
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT HD 1" tvg-logo=" "  group-title="IPTV-4",STAR SPORTS SELECT HD 1 (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT HD 2" tvg-logo=" "  group-title="IPTV-4",STAR SPORTS SELECT HD 2 (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
+#EXTINF:-1 tvg-id="DD KISAN" tvg-logo=" "  group-title="IPTV-4",DD KISAN (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/105
+#EXTINF:-1 tvg-id="AAJ TAK" tvg-logo=" "  group-title="IPTV-4",AAJ TAK (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/111
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="IPTV-4",B4U MOVIES (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/112
+#EXTINF:-1 tvg-id="DD NEWS" tvg-logo=" "  group-title="IPTV-4",DD NEWS (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/116
+#EXTINF:-1 tvg-id="SEMAROO TV" tvg-logo=" "  group-title="IPTV-4",SEMAROO TV (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/117
+#EXTINF:-1 tvg-id="9XM" tvg-logo=" "  group-title="IPTV-4",9XM (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/120
+#EXTINF:-1 tvg-id="DD BHARATI" tvg-logo=" "  group-title="IPTV-4",DD BHARATI (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/122
+#EXTINF:-1 tvg-id="DD URDU" tvg-logo=" "  group-title="IPTV-4",DD URDU (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/123
+#EXTINF:-1 tvg-id="EPIC" tvg-logo=" "  group-title="IPTV-4",EPIC (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/151
+#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo=" "  group-title="IPTV-4",TRAVEL XP HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
+#EXTINF:-1 tvg-id="SONY WAH" tvg-logo=" "  group-title="IPTV-4",SONY WAH (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/184
+#EXTINF:-1 tvg-id="DA NEWS PLUS" tvg-logo=" "  group-title="IPTV-4",DA NEWS PLUS (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/188
+#EXTINF:-1 tvg-id="SAMACHAR PLUS"  tvg-logo=" "  group-title="IPTV-4",SAMACHAR PLUS (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/190
+#EXTINF:-1 tvg-id="ENTEER 10" tvg-logo=" "  group-title="IPTV-4",ENTEER 10 (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/196
+#EXTINF:-1 tvg-id="STAR USTAV MOVIES" tvg-logo=" "  group-title="IPTV-4",STAR USTAV MOVIES (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/201
+#EXTINF:-1 tvg-id="SHOW BOX" tvg-logo=" "  group-title="IPTV-4",SHOW BOX (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/205
+#EXTINF:-1 tvg-id="ABP NEWS" tvg-logo=" "  group-title="IPTV-4",ABP NEWS (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/211
+#EXTINF:-1 tvg-id="NEWS 18 INDIA" tvg-logo=" "  group-title="IPTV-4",NEWS 18 INDIA (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/219
+#EXTINF:-1 tvg-id="MTV BEATS" tvg-logo=" "  group-title="IPTV-4",MTV BEATS (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/222
+#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="IPTV-4",ZING (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/223
+#EXTINF:-1 tvg-id="DD INDIA" tvg-logo=" "  group-title="IPTV-4",DD INDIA (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/224
+#EXTINF:-1 tvg-id="PEACE TV" tvg-logo=" "  group-title="IPTV-4",PEACE TV (PK)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/232
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo=" "  group-title="IPTV-4",STAR SPORTS 1 HD (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
+#EXTINF:-1 tvg-id="CVR NEWS" tvg-logo=" "  group-title="IPTV-4",CVR NEWS (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/269
+#EXTINF:-1 tvg-id="MANGO TV" tvg-logo=" "  group-title="IPTV-4",MANGO TV (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/271
+#EXTINF:-1 tvg-id="HORNBILL TV" tvg-logo=" "  group-title="IPTV-4",HORNBILL TV (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/272
+#EXTINF:-1 tvg-id="NEWS DADA" tvg-logo=" "  group-title="IPTV-4",NEWS DADA (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/273
+#EXTINF:-1 tvg-id="TOTAL TV" tvg-logo=" "  group-title="IPTV-4",TOTAL TV (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/276
+#EXTINF:-1 tvg-id="GOOD NEWS TV" tvg-logo=" "  group-title="IPTV-4",GOOD NEWS TV (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/285
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="IPTV-4",ZEE ANMOL (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/287
+#EXTINF:-1 tvg-id="DD RETRO" tvg-logo=" "  group-title="IPTV-4",DD RETRO (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/286
+#EXTINF:-1 tvg-id="DD KASIR" tvg-logo=" "  group-title="IPTV-4",DD KADIR (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/289
+#EXTINF:-1 tvg-id="GTN" tvg-logo=" "  group-title="IPTV-4",GTN (IN)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/291
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
@@ -1104,6 +1224,24 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
