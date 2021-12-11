@@ -56,24 +56,24 @@ https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PLAYMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png"  group-title="STREAM-ONE",PLAYMAX (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhDkr-5G22t7U0-Xx6EjM9t86zVc0aXFtpczIEZ4_rFAqZgy2-huRQSnelkIXuSKwbc5Rmrqqyf_CJJmqNVe1TMtWstlRlYzU_vMI2PbHkSMLiXFZxhNifXrhRSKV0lQLuPipQk51mPw9pAMuZg8GBzrTDVPHsmjbrlyi5C17KsIdwsg0fT4eqp6W3ASg=s200"  group-title="STREAM-ONE",HUM SITARAY (PK)
+#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png"  group-title="STREAM-ONE",HUM SITARAY (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ ENTERTAINMENT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiFw_mygYAXF08ExcYKWHNo-snxFD8LZibSbdnnm4g5gpKwLfTL3_trGFtYwMA5oWZFwcgmr5K7PRhV_8yfBljwTTSm6g6KYNywddsBhJyUEbjp1h1O_MWM_C9h4CkLQKqQRkCfWYTK9lkuuQN37poeQ8UZL5nlMUQ0yE6PxZ7zUloAbZf30O5-wZKuHA=s200"  group-title="STREAM-ONE",AAJ ENTERTAINMENT (PK)
+#EXTINF:-1 tvg-id="AAJ ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png"   group-title="STREAM-ONE",AAJ ENTERTAINMENT (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjNsawpp4xw1ivjQKE70xb1EhmNTrYXTAYAeiHHLSrNyPVgl9ic_ZP4OTAcXlyw_1WJXJtwyxq3WpN_po8UneyV77zx8ve-RmMHcRf1erFf8k7Ibwug455mO7gPqcz1mULafWgr4QV3AzkAH3TYqft9zO3FW_gDtyQEFHwBpk_BIxTePoo2Nw9UYoDXGg=s200"  group-title="STREAM-ONE",NEO NEWS HD (PK)
+#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg"   group-title="STREAM-ONE",NEO NEWS HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL24 HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEivbywt6VtfA0EWwwN6wUpsQ224A9n-bjbx3FOmQSiajOOuRcciiHM36TlZcyxGYpR2CqifgvWJHFc-f1IieBfPpf71uHfQXO1lI6pwiebu06JhNp7mA_Jjv-IeXuze4wfb0DtxPcesZoY__PPGPFcyf4MET7wdeHxQ2Fc9A5pQdgPdu_cvqMmhhR0kNw=s200"  group-title="STREAM-ONE",CHANNEL24 HD (PK)
+#EXTINF:-1 tvg-id="CHANNEL24 HD" tvg-logo="https://www.dthsat.com/images/24-News-Logo.png"   group-title="STREAM-ONE",CHANNEL24 HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEilbExLVDA3E8mNPhUOwLzjsVEYwPdCqaCeqU-QsKwvUGcYjp69QFlVMLHNe7eGvVN10jq24dBuRPpmhWhhce9qO1rriX3H_OHJ4C5oY_PDFSgSQClu3rb282m5oEZSFKflhNC9AjyEZdavKiTMuXYkEMrlL4KbPeitKakrfuvT5C2Q-Xb8rwcNliU5ww=s200"  group-title="DISTRO-TV",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtSWfIwd3zZymd2EBt6aHTc_PgDqjq2zUkVxm-xjGDP2KkT4JIhRkt3T8V3iYi9voAJcAYVcNSPzwrR-8gcTDz8n1idtmktO64gNWVVhSgK4n-cHuwOp6XGSmdgJq93PCsKnQN0YhzzYzZRIaEie_mbtR9BPHQMe497gWMLlHRh04Wjg-YaI0S7r6ESw=s200"  group-title="DISTRO-TV",MMA JUNKIE (US)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1 tvg-id="REELZ" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgoVUXpEZ1fcVrv1VhfsNJvO3HxdP4fQ4FEBhN6WzRH4eiC99JHKhwpgCQ2neHDDdrDg5xQSQXWPA-uOmFLHSIbwb2-vTQPf2IoqLwE6vzBvTtVvzflz5luBRR3IP0iXiNrUzgHBiR456h30IqJ8PCL1M54nBr3gSWsGkLJdCuDRbYU4Btt26RRUWNDWw=s200"  group-title="DISTRO-TV",REELZ (US)
+#EXTINF:-1 tvg-id="REELZ" tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz-header-logo-7780989e3b.png"    group-title="DISTRO-TV",REELZ (US)
 https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 #EXTINF:-1 tvg-id="SPORTSKOOL TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEigriYvFyh6vi_2yeaYATNTOQnI8BkDrK5Yz1MBosT5vQf33XLeZbooeM881ze8464rdnPKib70wc5UbJqDK8_BwGFxpXbqTjx5M3_cl7UT9q4iZsY38hxa2ohPPyBbcxS-fJjE_nWiu0dnY7CB4xnGyENQ4BE9EatsjryfuYmQPDXDqa9GuhlaxD6Thg=s200"  group-title="DISTRO-TV",SPORTSKOOL TV (US)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 tvg-id="THE TITANIC CHANNEL" tvg-logo=" "  group-title="DISTRO-TV",THE TITANIC CHANNEL (US)
+#EXTINF:-1 tvg-id="THE TITANIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png"  group-title="DISTRO-TV",THE TITANIC CHANNEL (US)
 https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 
 #EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhaEipqGFkX1cs7uxzRugfcRWahhklpiN9u7VwM4oIdfjOC6R_eGj6gJr1cNpSxHUKngkEVJSODEQFbpHOmmWbqiWkrhyi06xiop_PjvZbgMHcWG4z1jinDQqHJv_OzS-K6gqcilRIDXBHfff9TvrGe3UOs19SrEnWsIhTDwMyVNpCYZGz_RKsLbXerUA=s200"  group-title="STIRR-TV",INSIGHT TV (US)
