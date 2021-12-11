@@ -387,15 +387,6 @@ http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo=" "  group-title="ONLINE-TV",HBO (TW)
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SMASH 7 NEWS" tvg-logo=" "  group-title="SMASH-IPTV",SMASH 7NEWS (MT)
-http://a3.smashmalta.com:82/live/smash/smash/29.ts
-#EXTINF:-1 tvg-id="SMASH FOOD" tvg-logo=" "  group-title="SMASH-IPTV",SMASH FOOD (MT)
-http://a3.smashmalta.com:82/live/smash/smash/15.ts
-#EXTINF:-1 tvg-id="SMASH EXPLORE" tvg-logo=" "  group-title="SMASH-IPTV",SMASH EXPLORE (MT)
-http://a3.smashmalta.com:82/live/smash/smash/23.ts
-#EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
-http://a3.smashmalta.com:82/live/smash/smash/8.ts
-
 #EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo=" " group-title="SMART-STREAM",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQvF3eUmD5tQOwYQ2C-ZSmYgFj9zC_5HFu-KGvL-ws_fUuKSAWDQne-jp8woJj3T9qCEjLymtYpc7_n_pJJEOmIro93QfNd9lXhdE73oiXrpRu8LrMYJ6E-LThEKd7oPuR0JWZyBCKOTLgohZGp_jJkkpQxDxkWM_lMfMRozpsHY97A23T4JMhqUNIzg=s200" group-title="SMART-STREAM",NORTH EAST LIVE (IN)
@@ -1024,3 +1015,35 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1 tvg-id="FTF" tvg-logo=" "  group-title="CDN-TV",FTF (US)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
+
+
+------------------------------------(📱💻📺)++++++++++++++++++++++++++++
+
+
+#EXTINF:-1 tvg-id="SMASH 7 NEWS" tvg-logo=" "  group-title="IPTV-1",SMASH 7NEWS (MT)
+http://a3.smashmalta.com:82/live/smash/smash/29.ts
+#EXTINF:-1 tvg-id="SMASH FOOD" tvg-logo=" "  group-title="IPTV-1",SMASH FOOD (MT)
+http://a3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1 tvg-id="SMASH EXPLORE" tvg-logo=" "  group-title="IPTV-1",SMASH EXPLORE (MT)
+http://a3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="IPTV-1",SMASH MUSIC (MT)
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
+
+#EXTINF:-1 tvg-id="UTV HD" tvg-logo=" "  group-title="IPTV-2",UTV HD (IN)
+http://sonyiptv.net:8080/jamal/jamal/81558
+#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo=" "  group-title="IPTV-2",AAPKA COLORS (US)
+http://sonyiptv.net:8080/jamal/jamal/63431
+#EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo=" "  group-title="IPTV-2",UTV MOVIES (IN)
+http://sonyiptv.net:8080/jamal/jamal/199245
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-2",ZEE CINEMA (UK)
+http://sonyiptv.net:8080/jamal/jamal/199273
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
