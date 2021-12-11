@@ -20,8 +20,8 @@ https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/aae88f63ba55546da394e8912c72efc6/images/titan/assets/aHR0cHM6Ly9ka2kwMXExbDd5bjN5LmNsb3VkZnJvbnQubmV0L3RodW1ibmFpbHMtcGxhdGZvcm0tcHJvZC9hc3NldHMvY3M6OmNvbnRlbnQ6OmNoYW5uZWxzLzAtMjA0OC9DcmltZS0zNjAtZGVmYXVsdF92MS5wbmc.png"  group-title="SAMSUNG-TV",CRIME 360 (US)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2016/12/travelxp-crystal-logo.png"  group-title="SAMSUNG-TV",TRAVEL XP (NL)
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://s7.postimg.cc/4d7wl7b6j/Screenshot_20180516-053849_1.jpg"  group-title="MULTI-TV",DD SPORTS (IN)
 https://idvd.multitvsolution.com:443/idvo/ddsports.m3u8
