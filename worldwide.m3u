@@ -65,18 +65,18 @@ https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CHANNEL24 HD" tvg-logo="https://www.dthsat.com/images/24-News-Logo.png"   group-title="STREAM-ONE",CHANNEL24 HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEilbExLVDA3E8mNPhUOwLzjsVEYwPdCqaCeqU-QsKwvUGcYjp69QFlVMLHNe7eGvVN10jq24dBuRPpmhWhhce9qO1rriX3H_OHJ4C5oY_PDFSgSQClu3rb282m5oEZSFKflhNC9AjyEZdavKiTMuXYkEMrlL4KbPeitKakrfuvT5C2Q-Xb8rwcNliU5ww=s200"  group-title="DISTRO-TV",CHIVE TV (US)
+#EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png"  group-title="DISTRO-TV",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
-#EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtSWfIwd3zZymd2EBt6aHTc_PgDqjq2zUkVxm-xjGDP2KkT4JIhRkt3T8V3iYi9voAJcAYVcNSPzwrR-8gcTDz8n1idtmktO64gNWVVhSgK4n-cHuwOp6XGSmdgJq93PCsKnQN0YhzzYzZRIaEie_mbtR9BPHQMe497gWMLlHRh04Wjg-YaI0S7r6ESw=s200"  group-title="DISTRO-TV",MMA JUNKIE (US)
+#EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png"  group-title="DISTRO-TV",MMA JUNKIE (US)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="REELZ" tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz-header-logo-7780989e3b.png"    group-title="DISTRO-TV",REELZ (US)
 https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
-#EXTINF:-1 tvg-id="SPORTSKOOL TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEigriYvFyh6vi_2yeaYATNTOQnI8BkDrK5Yz1MBosT5vQf33XLeZbooeM881ze8464rdnPKib70wc5UbJqDK8_BwGFxpXbqTjx5M3_cl7UT9q4iZsY38hxa2ohPPyBbcxS-fJjE_nWiu0dnY7CB4xnGyENQ4BE9EatsjryfuYmQPDXDqa9GuhlaxD6Thg=s200"  group-title="DISTRO-TV",SPORTSKOOL TV (US)
+#EXTINF:-1 tvg-id="SPORTSKOOL TV" tvg-logo="https://www.sportskool.com/site_images/logo_sportskool.png"  group-title="DISTRO-TV",SPORTSKOOL TV (US)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 #EXTINF:-1 tvg-id="THE TITANIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png"  group-title="DISTRO-TV",THE TITANIC CHANNEL (US)
 https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 
-#EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhaEipqGFkX1cs7uxzRugfcRWahhklpiN9u7VwM4oIdfjOC6R_eGj6gJr1cNpSxHUKngkEVJSODEQFbpHOmmWbqiWkrhyi06xiop_PjvZbgMHcWG4z1jinDQqHJv_OzS-K6gqcilRIDXBHfff9TvrGe3UOs19SrEnWsIhTDwMyVNpCYZGz_RKsLbXerUA=s200"  group-title="STIRR-TV",INSIGHT TV (US)
+#EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21GnRa4PI-L.png"  group-title="STIRR-TV",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 tvg-id="CINE LIFE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEghdNxrtEoTVGJ5ApavcWyUI-lNhXsLm9t1WlVPbhaf_VAZT9zd9P81tdsxZgps3_IB0iJ0YaX5aOqbD2Zp4Lw2wrtbJ9-uMq_e5X-WJMycrba5e4NPcGPnaoiDTpSQ36yiDLncdwZxzdtNn05OwEHtz0YPCrH2U_s0AlWpQMAW9Elak4mi7dtXPm7CPw=s200"  group-title="STIRR-TV",CINE LIFE (US)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
@@ -207,7 +207,7 @@ https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=400&e=j
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="NEWS LIVE"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="JIO-TV", NEWS LIVE (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Newslive&q=400&e=junk.m3u8
-#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo=" "  group-title="JIO-TV",MTV BEATS HD (IN)
+#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QEDNq7db.png"  group-title="JIO-TV",MTV BEATS HD (IN)
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=400&e=.m3u8
 
 
@@ -254,9 +254,9 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="RTV" tvg-logo=" "  group-title="MANGOMOLO-TV",RTV (ME)
 http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvv-id="CNN" tvg-logo=" "  group-title="TURNER-LIVE",CNN (US)
+#EXTINF:-1 tvv-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/263px-CNN.svg.png"  group-title="TURNER-LIVE",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhfMw5rKxOTdastUukOlYc2lC6H0pfkq5zk9GtXQ4z2xjnjbUGq7aqhLvp3NvbBTRS9WyeQ1mQ4hMfkV55-hQ4T4s5LknXQ9O4ugXm5aYvQ_5QIigJo96Mw2Pm16ezVjdGQe4i_5wwFaKP3u8WYS8l0-TvfGid31MQ48M1GNHjD5K4Qrkw7Sva3ouVNfA=s200"  group-title="TURNER-LIVE",HLN (US)
+#EXTINF:-1 tvg-id="HLN" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/HLN.png"  group-title="TURNER-LIVE",HLN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="ABC 7" tvg-logo=" "  group-title="SYNCBAK-TV",ABC 7 (US)
@@ -266,18 +266,18 @@ http://dai2-playlistserver.aws.syncbak.com/playlist/13736492/master.m3u8?access_
 #EXTINF:-1 tvg-id="ABC 9" tvg-logo=" "  group-title="SYNCBAK-TV",ABC 9 (US)
 http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
 
-#EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_VLjZdvneWw3K9YdcSj9uhY8UR8_aVPN2FhZIr0GLGBfU0phMl0BBtqlg03sCV6ALRwt1i3-xrOB6MDrsZXdYqTD3EcX0R71rISHAvB9qQ48d8zihpxgeGGGaIAFYABGQ-BntjvpoMgTsNsN2MqPQisy4GXrsCpTVcSPLYPzHnTwK2-9Zfc9U-qJ8sg=s200" group-title="V-PRISM",ASSAM TALKS (IN)
+#EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo="http://as.assamtalks.com/wp-content/uploads/2018/08/AssamTalks_logo.png" group-title="V-PRISM",ASSAM TALKS (IN)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV 9 BHARAT" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgM-X7g4wvI3fbY42q2A7NIN8dazNH03vrNvxPySvOev-lKU9wZeECxPj4URkddpMe2YhzDaiX8H31mIV7yl6G8tvN6v8obvucLL2GAtxWsh248V5OsD0CG0v_CWbItbJBJ0BE_FkHr3ltbZE3GI38iVeWjO5Clx1cYFL_CrCSYpiTSNVFlBA8gnBpBIg=s200"  group-title="V-PRISM",TV 9 BHARAT (IN)
+#EXTINF:-1 tvg-id="TV 9 BHARAT" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ls96LvtR.png"  group-title="V-PRISM",TV 9 BHARAT (IN)
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="NEWS 24" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjpDRVaQVkR96QIBw8zfOhmAr2HTluzYHk_Z3-cKcdl14sXfcWLdaizgAJ2-hodq9CCTVQlMjIu10prrVSBkOes9ZAS3xO7qmmuQzPEKJrc_DnwHddLbLXMVAAzfmqIf_cRt8JR2mu0qllyt_yUYePxVKONRMacAOWm_8r0g-oBefPDv7vd9W8GyYhSWg=s200"  group-title="V-PRISM",NEWS 24 (IN)
+#EXTINF:-1 tvg-id="NEWS 24" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wmsT3xGI.png"  group-title="V-PRISM",NEWS 24 (IN)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="KHABRAIN ABHI TAK" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiGMUVLn1A9UPRkZ2jEDIQBW5tl4LNkyfuaC9r-TfXOp2KhT-4Wy9Uts-_zsRXXS_5G9lSVtkycw2y9-9WATc7qERrbL6lnbareG9Y36VVTbjw13eJyDmlOTChbrokff4IQjo9o5JDQzdhRB7ALhKlzhyL1-xJreNx-MWeyXbE2ZTZ1jTmSSK_nbw04Hw=s200"  group-title="V-PRISM",KHABRAIN ABHI TAK (IN)
+#EXTINF:-1 tvg-id="KHABRAIN ABHI TAK" tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg"  group-title="V-PRISM",KHABRAIN ABHI TAK (IN)
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TV ASIA" tvg-logo="https://tvasiausa.com/assets/images/TV%20Asia%20Logo%20PNG1A_150x180.png"   group-title="WORLD-BBTV",TV ASIA (US)
 https://streaming37.worldbbtv.com/hls/tvasia.m3u8
-#EXTINF:-1 tvg-id="TV ASIA COMEDY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOszb0tUSUsor8Sf8lCR0aW9PMQQcIfCj6jxkQmCqDnSlx9ihmrQxtUj-zQUVzi7XRBO1ei9bxpNDDG_hEYPcooSXpGjKIZtObzJEgu4AcdQjU2OKrUTvwFelArEXvJUik92NTuXy2j-SdghZrztvst-ZnQ0PTt7IT6Z2RnBw_ilLMV6CQ4MMFRhrRQQ=s200"   group-title="WORLD-BBTV",TV ASIA COMEDY (US)
+#EXTINF:-1 tvg-id="TV ASIA COMEDY" tvg-logo=" "   group-title="WORLD-BBTV",TV ASIA COMEDY (US)
 https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 
 #EXTINF:-1 tvg-id="TG JUNIOR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEik70yattL_elJNRxyxNej02c53t2d3mmtPL490bOZQhg74KGmryfVrxdlKByHE4l887ONEShOCQYH8L7u8_Gmk3u6XAbOStQWHaB9P5h-pwVWcqF7xONkloN-VICjvwfW6byfjMjgbHsv6vsQpBSsOnfOSASDerniFR21o90xem_rQv3O4ooE6al8TyA=s200"   group-title="CTV",TG JUNIOR (US)
@@ -380,11 +380,11 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="CITY NEWS" tvg-logo=" "  group-title="ONLINE-TV",CITY NEWS (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" "   group-title="ONLINE-TV",AXN (TW)
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.axn.co.ao/sites/all/themes/responsive/responsive_sony_axn/logo.png"   group-title="ONLINE-TV",AXN (TW)
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo=" "  group-title="ONLINE-TV",CINEMAX (TW)
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="ONLINE-TV",CINEMAX (TW)
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo=" "  group-title="ONLINE-TV",HBO (TW)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="ONLINE-TV",HBO (TW)
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo=" " group-title="SMART-STREAM",DY 365 (IN)
@@ -1015,7 +1015,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1 tvg-id="FTF" tvg-logo=" "  group-title="CDN-TV",FTF (US)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
-
+#EXTINF:-1 tvg-id="HLN" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/HLN.png"  group-title="CDN-TV",HLN (US)
+https://1876572335.rsc.cdn77.org/n-FWGv2eRLZH5y70qVxpKA==,1639277528/1876572335/index.m3u8
 
 ------------------------------------(📱💻📺)++++++++++++++++++++++++++++
 
