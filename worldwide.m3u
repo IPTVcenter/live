@@ -80,23 +80,23 @@ https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 tvg-id="CINE LIFE" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/thumbh_20210226_000928.jpg"  group-title="STIRR-TV",CINE LIFE (US)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 tvg-id="COMET" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuvuqNGTIA65K7bW_usyeNFEAyI3ltY1xmHzoolWX_KLZQ2i4QMvXx0cC2jEaehdy8LajPYVvBI80GUi5E7HqAz8AhRx2olJdWJ5Y-YLKmIib99qQmEbVkbvn1jyT0atmnL8e0tANS_pF6dZyprdQNEvNOMPCKTi-h1qDIegN1w8uyisR-Z7XtP6YSgg=s200"  group-title="STIRR-TV",COMET (US)
+#EXTINF:-1 tvg-id="COMET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png"  group-title="STIRR-TV",COMET (US)
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjMa5AZRH0JvsCbnTGfR6pZ7XwZCT5axU5wTCJNW06z92Iaq5qdYjCxMkjR1SeOJGBxhXmnQqAFBYN6Z1lYugxCnvTQWBnPfhHvNtrFafSJmbGedqy89nRgIyMGwx1J1SD6A2tvXsmG54-V9YTH0KQxK7Xh3L5LKl2EI3tNSlFW81LPWO7HXToMoHeRRA=s200"  group-title="STIRR-TV",CBSN (US)
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png"  group-title="STIRR-TV",CBSN (US)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-id="LAW&CRIME" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEizxw71SotQI-TzyNv4HMlj__tJ0HM5bmvGwk8wdBSxVUSmX2jFpjPqNjxMIm34IP3m8BKSe12jLvFv35itfoqoDfOruENEnpts18XroOYKhOsEBPmE25rYRQACHSNYzor52BVx2_0vhWUrdlzNer1u_kzJFjRul3cfD4efeKQAb3Uwz8V6yZsGHi0jew=s200"  group-title="STIRR-TV",LAW&CRIME (US)
+#EXTINF:-1 tvg-id="LAW&CRIME" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NbzXezlVL.png"  group-title="STIRR-TV",LAW&CRIME (US)
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 tvg-id="EDGE SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjTKDoOMWAhr4YtKhC7grjOR6Od1Obha_SNgSxfsX6UbT9Nsy58Gk6W70gBRev-YEs2jMSHX4H5yEtKmgmKer2ookTiE8QU4fcq7LZp1dI080BJ5fg8j9iLIn7N-lAFwEwWwb8mU01qPXYeMZdCBo5A9mebFwbWx6iyYvLlD2t_CeUjt5Vdc4tq_2CMqQ=s200"  group-title="STIRR-TV",EDGE SPORTS (US)
+#EXTINF:-1 tvg-id="EDGE SPORTS" tvg-logo="http://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5f6f52de1d058032c88afd13/1601131233440/EDGEsport+Dark.png"  group-title="STIRR-TV",EDGE SPORTS (US)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-id="CON TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEimIznLwd0nuOw1zE7RtzfVysN0AsXhvvMbavRHAXQB_8V6jhs2r1OcECu1PbJyX4l9v5tnGq82RBMGZbP4uINs524ricrMJSXz6N8JFzZqsDmqwnA1ay8o6oCgLl7mKLfZPkH93E5EvNv7GYo1g7hrj4_EhV-c-k36SYya3RVFj18frTnbYi1X1LJnMw=s200"  group-title="STIRR-TV",CON TV (US)
+#EXTINF:-1 tvg-id="CON TV" tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png"  group-title="STIRR-TV",CON TV (US)
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 tvg-id="DOVE CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjAxGOkCdEoicJ4f0DSDZ66r3-u57DLqrZ3t-is0mqh-j_v22R2x-qa6PMm1QwvdAsplvBcx19yyyLu_mGWlcUW7XWCfvqsxiIQ-0YeZrk4nLnweSj8NDlkFjmb2VFYzKeUsDZkqjtTrXxTWqbc97ufbVkwdpUpSl2Yb_dvphLPKzFKyGmCO-C90XXIRw=s200"  group-title="STIRR-TV",DOVE CHANNEL (US)
+#EXTINF:-1 tvg-id="DOVE CHANNEL" tvg-logo="https://www.dovechannel.com/static/media/dove_logo.53946575.png"  group-title="STIRR-TV",DOVE CHANNEL (US)
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 tvg-id="POPSTAR! TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh7fPNuIL-cMcAYokYHzWDQQHMQQjUo0mnJtK24dtcuf-c2pZA5byA5f_BRvn3Xz4Y4vgK1HCWbN4iJhInx9vRMvNuqwmhonQ-GVeTykZcVWKPatsLEEDLrQA-F_sO2kaSETP-qrlQ7qDBHP52UUHQsu88c2_s37aEXbrrRCDNTMurUHVGqbZotFf3n5g=s200"  group-title="STIRR-TV",POPSTAR! TV (US)
+#EXTINF:-1 tvg-id="POPSTAR! TV" tvg-logo="https://image.roku.com/developer_channels/prod/8c4f676e367ef2b797aab0177ca30ddba58c5aec327cc95377d07c4d87c076bd.png"  group-title="STIRR-TV",POPSTAR! TV (US)
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-#EXTINF:-1 tvg-id="LIVE LIVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEifzWsYIDVYJeWKWANNVzTnY82N_9q66fTHjKOs2j5_D35iu0QvdFC2keXm7f6hgSjRTgjuYFZVtDvrjiAM5J_zey8Si5kCgzZsBFu-0i6Vdof4g2kddKkgYz3AaowrogWCRnFEJsZt1REInXT20fRDVyBJ1qITvd9ATCLGkG_s6DBSTS_yXRSx1RSjSQ=s200"  group-title="STIRR-TV",LIVE LIVE (US)
+#EXTINF:-1 tvg-id="LIVE X LIVE" tvg-logo="https://www.livexlive.com/images/logos/lxl-logo-splash.png"  group-title="STIRR-TV",LIVE X LIVE (US)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-id="TBD" tvg-logo=" "  group-title="STIRR-TV",TBD (US)
+#EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="STIRR-TV",TBD (US)
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 tvg-id="MOVIE FONE TV" tvg-logo=" "  group-title="STIRR-TV",MOVIE FONE TV (US)
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
@@ -353,8 +353,8 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyZmpudbZToppM8lXmOdVPQ/ts
 #EXTINF:-1 tvg-id="NEWSCASTS (US)" tvg-logo=" "  group-title="ONLINE-TV",NEWSCASTS (US)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-
-
+#EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE-TV",TBD (US)
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 #EXTINF:-1 tvg-id="BRICS TV (RU)" tvg-logo=" "  group-title="ONLINE-TV",BRICS TV (RU)
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
@@ -478,7 +478,8 @@ https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IN TROUBLE" tvg-logo=" "  group-title="AMAGI-TV",IN TROUBLE (US)
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="EDGE SPORTS" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5f6f52de1d058032c88afd13/1601131233440/EDGEsport+Dark.png"  group-title="AMAGI-TV",EDGE SPORTS (UK)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NASA TV" tvg-logo=" "   group-title="ONLINE-TV",NASA TV (UK)
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
@@ -689,9 +690,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="ZEE BUSINESS (IN)" tvg-logo=" "   group-title="NET-TV",ZEE BUSINESS (IN)
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mzg5NjQ4ODd9.yLkWhx541li0IwSx64UvWB_TdBZ5pK_KLUH1ePLOeSs
-
-
-
+#EXTINF:-1 tvg-id="POPSTAR! TV (IN)" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png"   group-title="NET-TV",POPSTSR! TV (US)
+https://d3fmzhzockgffb.cloudfront.net/v1/master/ec9207ed6819582289cfdc7569d8065cc8aca126/DSP_5bc3d53d98f8159d11f1092c_li-1/playlist.m3u8?ads.us_privacy=1YNN&ads.url=https%3A%2F%2Fwww.video.popstaronline.com%2F&ads.w=280&ads.h=158&ads.cb=13352163516419940&ads.ip=2401:4900:3dc4:1509:4313:8c5e:9363:5a7c&ads.ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%208.0.0%3B%20en-US%3B%20Infinix%20X573%20Build%2FOPR1.170623.032%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F78.0.3904.108%20UCBrowser%2F13.3.8.1305%20Mobile%20Safari%2F537.36&ads.lat=24.8773&ads.lon=86.9293&ads.pod_max_dur=120&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.vid=5bc3d53d98f8159d11f1092c&ads.content_id=5bc3d53d98f8159d11f1092c&ads.content_title=Popstar%21%20Live&ads.did=&ads.device_make=&ads.device_model=
 
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="EPIC-ON",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
