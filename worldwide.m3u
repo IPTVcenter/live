@@ -78,7 +78,7 @@ https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 
 #EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21GnRa4PI-L.png"  group-title="STIRR-TV",INSIGHT TV (US)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-id="CINE LIFE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEghdNxrtEoTVGJ5ApavcWyUI-lNhXsLm9t1WlVPbhaf_VAZT9zd9P81tdsxZgps3_IB0iJ0YaX5aOqbD2Zp4Lw2wrtbJ9-uMq_e5X-WJMycrba5e4NPcGPnaoiDTpSQ36yiDLncdwZxzdtNn05OwEHtz0YPCrH2U_s0AlWpQMAW9Elak4mi7dtXPm7CPw=s200"  group-title="STIRR-TV",CINE LIFE (US)
+#EXTINF:-1 tvg-id="CINE LIFE" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/thumbh_20210226_000928.jpg"  group-title="STIRR-TV",CINE LIFE (US)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 tvg-id="COMET" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuvuqNGTIA65K7bW_usyeNFEAyI3ltY1xmHzoolWX_KLZQ2i4QMvXx0cC2jEaehdy8LajPYVvBI80GUi5E7HqAz8AhRx2olJdWJ5Y-YLKmIib99qQmEbVkbvn1jyT0atmnL8e0tANS_pF6dZyprdQNEvNOMPCKTi-h1qDIegN1w8uyisR-Z7XtP6YSgg=s200"  group-title="STIRR-TV",COMET (US)
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
@@ -128,12 +128,16 @@ https://dai.google.com/linear/hls/event/RDMOOz10SfKAEdQ_ovgcUA/master.m3u8
 https://dai.google.com/linear/hls/event/F2pAtIBvQTSkZCmUKqk0Zw/master.m3u8
 #EXTINF:-1 tvg-id="SHOUT TV" tvg-logo=" "  group-title="STIRR-TV",SHOUT FACTORY TV (US)
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinrPl-D2-jhljlx4_P930oCDJv6-aw7Dg4b_N3JGB5c1Btq5Eg7I09SlCsIrqt6sD7-46eNARRA-Hl3ABhwGWhDyqgx35szp8RUrZ_bh9xdeA5qAKNJHNs67bpzyrTaKZz7j9XzmuOM3RXaH6Alz58dIwTpIo1Hf2a-jhyWCYGIBDIz1n2JrnxYw1LTA=s200"  group-title="STIRR-TV",OUTDOOR AMERICA (US)
+#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo=" "  group-title="STIRR-TV",OUTDOOR AMERICA (US)
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo=" "  group-title="STIRR-TV",NDTV 24x7 (IN)
+#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png"  group-title="STIRR-TV",NDTV 24x7 (IN)
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
-#EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4Sapas8GXkCfHrIVqn28uk4nuYguQ-i-7uf0gRMpHv3XbPESeMoxTHG88EavDcSdrjIZiRognl1NHOe7JsW2E5V88j2Vt5jom0UtpcPS20UCMN821q3ETHxccIIGwRiQcAH1CeXYzSqOICTLBLc9wUhUO3qop8HKZUFs61Nd_9mOYwsBdGU-H5f_YaQ=s200"  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
+#EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="  "  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 tvg-id="MASTIII" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="STIRR-TV",MASTIII (IN)
+https://dai.google.com/linear/hls/pb/event/6MsNAzzbR2mi29Q1rm1e0w/stream/7a58cdf6-5d3b-407c-b87f-e6b98cf2251d:SIN/master.m3u8
+#EXTINF:-1 tvg-id="ARRE" tvg-logo="https://a.jsrdn.com/hls/22982/arre/arr_thumbh_20210827_071753.png"  group-title="STIRR-TV",ARRE (US)
+https://dai.google.com/linear/hls/pb/event/VnLiVBiIT0GxM5xMvm0pCg/stream/0dff335b-075f-4679-bc4c-8c77033a785f:SIN/master.m3u8
 
 #EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
