@@ -424,7 +424,7 @@ https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL NOW PG" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW PG (US)
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LOCAL NOW 20" tvg-logo=" "  group-title="LOCSL-NOW",LOCAL NOW 20 (US)
+#EXTINF:-1 tvg-id="LOCAL NOW 20" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW 20 (US)
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LOCAL NOW ADRENALINE RUSH" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW ADRENALINE RUSH (US)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
@@ -1061,7 +1061,7 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/47
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/54
 #EXTINF:-1 tvg-id="CNA" tvg-logo=" "  group-title="IPTV-3",CNA (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/57
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="IPTV",ALJAZEERA (UK)
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="IPTV-3",ALJAZEERA (UK)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-logo=" "  group-title="IPTV-3",NHK WORLD (JP)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/62
