@@ -48,24 +48,7 @@ https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png"   group-title="MULTI-TV",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 
-#EXTINF:-1 tvg-id="HUM MASALA" tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png"  group-title="STREAM-ONE",HUM MASALA (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="K21" tvg-logo="https://pbs.twimg.com/profile_images/638402614829428740/RPWMZ14d_400x400.png"  group-title="STREAM-ONE",K21 (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/large/atv.jpg"  group-title="STREAM-ONE",ATV (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PLAYMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png"  group-title="STREAM-ONE",PLAYMAX (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png"  group-title="STREAM-ONE",HUM SITARAY (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png"   group-title="STREAM-ONE",AAJ ENTERTAINMENT (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg"   group-title="STREAM-ONE",NEO NEWS HD (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL24 HD" tvg-logo="https://www.dthsat.com/images/24-News-Logo.png"   group-title="STREAM-ONE",CHANNEL24 HD (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHIVE TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png"  group-title="DISTRO-TV",CHIVE TV (US)
+#EXTINF-1 tvg-id="CHIVE TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png"  group-title="DISTRO-TV",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png"  group-title="DISTRO-TV",MMA JUNKIE (US)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
@@ -134,10 +117,6 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
 #EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="  "  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="MASTIII" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="STIRR-TV",MASTIII (IN)
-https://dai.google.com/linear/hls/pb/event/6MsNAzzbR2mi29Q1rm1e0w/stream/7a58cdf6-5d3b-407c-b87f-e6b98cf2251d:SIN/master.m3u8
-#EXTINF:-1 tvg-id="ARRE" tvg-logo="https://a.jsrdn.com/hls/22982/arre/arr_thumbh_20210827_071753.png"  group-title="STIRR-TV",ARRE (US)
-https://dai.google.com/linear/hls/pb/event/VnLiVBiIT0GxM5xMvm0pCg/stream/0dff335b-075f-4679-bc4c-8c77033a785f:SIN/master.m3u8
 
 #EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
@@ -202,19 +181,6 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 #EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo=" "  group-title="WATCHO",REPUBLIC TV (IN)
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/789812/assetType/media/assetFileId/8035286/contextType/PLAYBACK/isAltUrl/False/a.m3u8?e=1651422600&h=0377efdf10569c58e8a45457270b3cfc&playSessionId=41b27a38-7e0d-856d-45ab-574c2db992e1:08d10ccd-0bfa-a3b0-aecb-f6e764ab0092&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3JlcHVibGljLXR2Lzc4OTgxMg==&clientTag=html5:v7.42
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="WATCHO", (ASIA)
-
-#EXTINF:-1 tvg-id="COLORS HD"  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="JIO-TV",COLORS HD (IN)
-https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=400&e=junk.m3u8
-#EXTINF:-1 tvg-id="AND TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="JIO-TV", AND TV HD (IN)
-https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=400&e=junk.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO-TV", ZEE TV HD (IN)
-https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=400&e=junk.m3u8
-#EXTINF:-1 tvg-id="NEWS LIVE"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="JIO-TV", NEWS LIVE (IN)
-https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Newslive&q=400&e=junk.m3u8
-#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QEDNq7db.png"  group-title="JIO-TV",MTV BEATS HD (IN)
-https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=400&e=.m3u8
-
-
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
