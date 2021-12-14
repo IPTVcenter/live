@@ -923,7 +923,7 @@ http://93.157.62.180:80/FoxLife/playlist.m3u8
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="LIVE-STREAMING",COLORS (IN)
-http://103.72.179.30:1935/GECHindi/COLORS.stream/Playlist.m3u8
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
