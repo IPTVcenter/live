@@ -922,8 +922,16 @@ http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="LIVE-STREAMING",COLORS (IN)
-http://103.72.179.30:1935/GECHindi/COLORS.stream_720/Playlist.m3u8
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="STREAM",COLORS (IN)
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="STREAM",SONY SAB (IN)
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="STREAM",SONY (IN)
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" "  group-title="STREAM",STAR PLUS (IN)
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="STREAM",STAR BHARAT (IN)
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
