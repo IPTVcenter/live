@@ -922,15 +922,15 @@ http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="STREAM",COLORS (IN)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="STREAM",COLORS (IN)
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="STREAM",SONY SAB (IN)
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8GJdgZXd.png"  group-title="STREAM",SONY SAB (IN)
 http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="STREAM",SONY (IN)
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="STREAM",SONY (IN)
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" "  group-title="STREAM",STAR PLUS (IN)
+#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg"  group-title="STREAM",STAR PLUS (IN)
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="STREAM",STAR BHARAT (IN)
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png"  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
