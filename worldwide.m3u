@@ -889,9 +889,9 @@ http://51.15.0.141:88/blacked_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="POKER.TV" tvg-logo=" "  group-title="STREAM",POKER.TV (IR)
 http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo=" "  group-title="STREAM",AVA FAMILY (IR)
+#EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/parnian-tv-vipotv-min.png"  group-title="STREAM",AVA FAMILY (IR)
 http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVA SERIES" tvg-logo=" "  group-title="STREAM",AVA SERIES (IR)
+#EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
 http://51.210.199.4/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HD HGTV (UK)" tvg-logo=" "  group-title="PLAY",DISCOVERY HD HGTV (UK)
