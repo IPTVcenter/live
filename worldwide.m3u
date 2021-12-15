@@ -1328,19 +1328,36 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/256
 #EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="IPTV-4",DW (PK)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
 
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" "  group-title="IPTV-5",SONY MAX (ASIA)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/152488
+#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo=" "  group-title="IPTV-5",AAPKA COLORS (US)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88795
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-5",COLORS (UK)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/48940
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-5",ZEE TV (CA)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88801
+#EXTINF:-1 tvg-id="ZEE ETC BOLLYWOOD" tvg-logo=" "  group-title="IPTV-5",ZEE RTC BOLLYWOOD (US)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88800
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-5",SONY HD (US)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88798
+#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-5",USTAV BHARAT (UK)
+http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/48935
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="IPTV-6",SONY (IN)
+http://smartestv.vip:2095/ABHVYOP/2387998104/4787
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo=" "  group-title="IPTV-7",LOVE NATURE (US)
+http://103.30.87.238:443/triaal/gratisan/64
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="IPTV-7",DISCOVERY (ASIA)
+http://103.30.87.238:443/triaal/gratisan/1296
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
