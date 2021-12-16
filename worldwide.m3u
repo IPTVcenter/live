@@ -1342,14 +1342,65 @@ http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/36087.m3u8
 #EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo=" "  group-title="XTREME-TV",NAT GEO PEOPLE (UK)
 http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/35978.ts
 
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="MYPANEL-TV",SONY SAB (UK)
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672323
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="MYPANEL-TV",COLORS (UK)
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/672308.ts
+#EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo=" "  group-title="MYPANEL-TV",UTV MOVIES (IN)
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/10615.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
 
 
