@@ -844,9 +844,9 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-id="B4U HITS" tvg-logo=" "  group-title="PLAY",B4U HITS (IN)
 http://14.199.164.20:4001/play/a0wh/index.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="PLAY",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="PLAY",B4U MUSIC (IN)
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="PLAY",B4U MOVIES (IN)
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/kxs2pmLg.png"  group-title="PLAY",B4U MOVIES (IN)
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA" tvg-logo=" "  group-title="PLAY",BOX CINEMA (IN)
 http://14.199.164.20:4001/play/a0su/index.m3u8
@@ -889,7 +889,7 @@ http://51.15.0.141:88/blacked_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="POKER.TV" tvg-logo=" "  group-title="STREAM",POKER.TV (IR)
 http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/parnian-tv-vipotv-min.png"  group-title="STREAM",AVA FAMILY (IR)
+#EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/avafamily-vipotv-min.png"   group-title="STREAM",AVA FAMILY (IR)
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
 http://51.210.199.4/hls/stream.m3u8
@@ -922,9 +922,9 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.png"  group-title="PLAY",ZEE ACTION (IN)
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo=" "  group-title="LIVE-STREAMING",FOX LIFE (UK)
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/t7DeG7oA.png"  group-title="LIVE-STREAMING",FOX LIFE (UK)
 http://93.157.62.180:80/FoxLife/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo=" "  group-title="LIVE-STREAMING",FOX MOVIES (UK)
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Fox_Movies_2017.png"  group-title="LIVE-STREAMING",FOX MOVIES (UK)
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="STREAM",COLORS (IN)
@@ -991,7 +991,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-id="GOLF (UK)" tvg-logo=" "  group-title="DIGITAL-TV",GOLF (UK)
 http://203.154.243.89:11208
-#EXTINF:-1 tvg-id="SUPER ONE HD (UK)" tvg-logo=" "  group-title="ADULT",SUPER ONE HD (UK)
+#EXTINF:-1 tvg-id="SUPER ONE HD (UK)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a1/SuperOne_%282020-.n.v.%29.png"   group-title="ADULT",SUPER ONE HD (UK)
 http://185.96.176.139:90/superone/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (RU)" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD (RU)
 http://193.33.240.8:80/NatGeoWild/playlist.m3u8
@@ -1000,7 +1000,7 @@ http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 tvg-id="SAFE TV (US)" tvg-logo=" "  group-title="ONLINE-TV",SAFE TV (US)
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX NEWS" tvg-logo=" "  group-title="CDN-TV",FOX NEWS (US)
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/225px-Fox_News_Channel_logo.svg.png"  group-title="CDN-TV",FOX NEWS (US)
 http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
 #EXTINF:-1 tvg-id="MSNBC REPORTS" tvg-logo=" "  group-title="CDN-TV",MSNBC REPORTS (UK)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
@@ -1033,11 +1033,11 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/62
 #EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="MY-NET",DW (US)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/64
-#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" "  group-title="MY-NET",ZEE NEWS (IN)
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wdPs8bpF.png"  group-title="MY-NET",ZEE NEWS (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/68
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="MY-NET",B4U MOVIES (IN)
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vanSrQll.png"  group-title="MY-NET",B4U MOVIES (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/69
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="MY-NET",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="MY-NET",B4U MUSIC (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
 #EXTINF:-1 tvg-id="CGTN" tvg-logo=" "  group-title="MY-NET",CGTN (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/71
@@ -1045,7 +1045,7 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/71
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/72
 #EXTINF:-1 tvg-id="ARIRANG WORLD" tvg-logo=" "  group-title="MY-NET",ARIRANG WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/82
-#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="MY-NET",ZING (IN)
+#EXTINF:-1 tvg-id="ZING" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1x8qAt8z.png"  group-title="MY-NET",ZING (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="MY-NET",TRT WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
@@ -1170,7 +1170,7 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/289
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/291
 #EXTINF:-1 tvg-id="ABZY DHAKAD" tvg-logo=" "  group-title="IPTV-4",DHAKAD (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/292
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-4",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="IPTV-4",B4U MUSIC (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/294
 #EXTINF:-1 tvg-id="INDIA TV" tvg-logo=" "  group-title="IPTV-4",INDIA TV (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/295
@@ -1294,7 +1294,7 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/103
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/126
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="IPTV-4",ALJAZEERA (PK)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/135
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-4",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="IPTV-4",B4U MUSIC (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/145
 #EXTINF:-1 tvg-id="PTV SPORTS" tvg-logo=" "  group-title="IPTV-4",PTV SPORTS (PK)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/239
@@ -1307,7 +1307,7 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/256
 #EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="IPTV-4",DW (PK)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-2",COLORS (UK)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-uk.jpg"  group-title="IPTV-2",COLORS (UK)
 http://meu02.cularu.com:8880/sch6m101857/dsfr3wcxv/1945
 #EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" "  group-title="IPTV-2",STAR PLUS (IN)
 http://meu02.cularu.com:8880/live/sch6m101857/dsfr3wcxv/1895.m3u8
@@ -1320,9 +1320,9 @@ http://meu02.cularu.com:8880/live/sch6m101857/dsfr3wcxv/28735.ts
 
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="NASA-SERVERS",SONY (UK)
 http://s1.nasaservers.com:8080/live/mk2031/z996655/200668.m3u8
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="NASA-SERVERS",COLORS (UK)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-uk.jpg"  group-title="NASA-SERVERS",COLORS (UK)
 http://s1.nasaservers.com:8080/live/mk2031/z996655/200846.ts
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="NASA-SERVERS",ZEE TV (UK)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-uk.jpg"  group-title="NASA-SERVERS",ZEE TV (UK)
 http://s1.nasaservers.com:8080/mk2031/z996655/200634
 
 
@@ -1335,18 +1335,18 @@ http://103.30.87.238:443/live/triaal/gratisan/1296.ts
 
 
 
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="XTREME-TV",ZEE CINEMA (UK)
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg"  group-title="XTREME-TV",ZEE CINEMA (UK)
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/36133
 #EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="XTREME-TV",STAR BHARAT (IN)
 http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/36087.m3u8
-#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo=" "  group-title="XTREME-TV",NAT GEO PEOPLE (UK)
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo="https://assets.streamtest.in/logo/2783/181_nat-geo-people.jpg"  group-title="XTREME-TV",NAT GEO PEOPLE (UK)
 http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/35978.ts
 
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="MYPANEL-TV",SONY SAB (UK)
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8GJdgZXd.png"  group-title="MYPANEL-TV",SONY SAB (UK)
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672323
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="MYPANEL-TV",COLORS (UK)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-uk.jpg"   group-title="MYPANEL-TV",COLORS (UK)
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/672308.ts
-#EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo=" "  group-title="MYPANEL-TV",UTV MOVIES (IN)
+#EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/UTV-Movies-Int-black.png"  group-title="MYPANEL-TV",UTV MOVIES (IN)
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/10615.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
