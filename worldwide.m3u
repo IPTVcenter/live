@@ -1307,7 +1307,15 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/256
 #EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="IPTV-4",DW (PK)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
 
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-2",COLORS (UK)
+http://meu02.cularu.com:8880/sch6m101857/dsfr3wcxv/1945
+#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" "  group-title="IPTV-2",STAR PLUS (IN)
+http://meu02.cularu.com:8880/live/sch6m101857/dsfr3wcxv/1895.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="IPTV-2",STAR BHARAT (IN)
+http://meu02.cularu.com:8880/live/sch6m101857/dsfr3wcxv/28735.ts
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
 
 
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="NASA-SERVERS",SONY (UK)
@@ -1327,14 +1335,12 @@ http://103.30.87.238:443/live/triaal/gratisan/1296.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="XTREME-TV",ZEE CINEMA (UK)
+http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/36133
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="XTREME-TV",STAR BHARAT (IN)
+http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/36087.m3u8
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo=" "  group-title="XTREME-TV",NAT GEO PEOPLE (UK)
+http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/35978.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
