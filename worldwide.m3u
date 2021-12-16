@@ -1012,74 +1012,53 @@ https://1876572335.rsc.cdn77.org/n-FWGv2eRLZH5y70qVxpKA==,1639277528/1876572335/
 ------------------------------------(📱💻📺)++++++++++++++++++++++++++++
 
 
-#EXTINF:-1 tvg-id="SMASH 7 NEWS" tvg-logo=" "  group-title="IPTV-1",SMASH 7NEWS (MT)
+#EXTINF:-1 tvg-id="SMASH 7 NEWS" tvg-logo=" "  group-title="SMASH-IPTV",SMASH 7NEWS (MT)
 http://a3.smashmalta.com:82/live/smash/smash/29.ts
-#EXTINF:-1 tvg-id="SMASH FOOD" tvg-logo=" "  group-title="IPTV-1",SMASH FOOD (MT)
+#EXTINF:-1 tvg-id="SMASH FOOD" tvg-logo=" "  group-title="SMASH-IPTV",SMASH FOOD (MT)
 http://a3.smashmalta.com:82/live/smash/smash/15.ts
-#EXTINF:-1 tvg-id="SMASH EXPLORE" tvg-logo=" "  group-title="IPTV-1",SMASH EXPLORE (MT)
+#EXTINF:-1 tvg-id="SMASH EXPLORE" tvg-logo=" "  group-title="SMASH-IPTV",SMASH EXPLORE (MT)
 http://a3.smashmalta.com:82/live/smash/smash/23.ts
-#EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="IPTV-1",SMASH MUSIC (MT)
-http://a3.smashmalta.com:82/live/smash/smash/8.ts
+#EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
+http://a3.smashmalta.com:82/live/smash/smash/8.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" "  group-title="IPTV-2",STAR GOLD (ME)
-http://sonyiptv.net:8080/jamal/jamal/199234
-#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo="https://pbs.twimg.com/profile_images/1230017608851869697/kk8ds8H__400x400.jpg"  group-title="IPTV-2",AAPKA COLORS (US)
-http://sonyiptv.net:8080/jamal/jamal/63431
-#EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo=" "  group-title="IPTV-2",UTV MOVIES (IN)
-http://sonyiptv.net:8080/jamal/jamal/199245
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-2",ZEE CINEMA (UK)
-http://sonyiptv.net:8080/jamal/jamal/199273
-#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="IPTV-2",STAR BHARAT (IN)
-http://sonyiptv.net:8080/jamal/jamal/199225
-#EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" "  group-title="IPTV-2",COLORS CINEPLEX (IN)
-http://sonyiptv.net:8080/jamal/jamal/199248
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-2",ZEE TV HD (IN)
-http://sonyiptv.net:8080/jamal/jamal/199312
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-2",COLORS (UK)
-http://sonyiptv.net:8080/jamal/jamal/199224
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="IPTV-2",COLORS HD (IN)
-http://sonyiptv.net:8080/jamal/jamal/199223
-#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo=" "  group-title="IPTV-2",COLORS RISHTEY (UK)
-http://sonyiptv.net:8080/jamal/jamal/199254
-
-#EXTINF:-1 tvg-id="FRANCE 24" tvg-logo=" "  group-title="IPTV-3",FRANCE 24 (IN)
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/47
-#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="IPTV-3",SAHARA ONE (IN)
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/54
-#EXTINF:-1 tvg-id="CNA" tvg-logo=" "  group-title="IPTV-3",CNA (ASIA)
+#EXTINF:-1 tvg-id="FRANCE 24" tvg-logo=" "  group-title="MY-NET",FRANCE 24 (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/47.m3u8
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="MY-NET",SAHARA ONE (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/54.ts
+#EXTINF:-1 tvg-id="CNA" tvg-logo=" "  group-title="MY-NET",CNA (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/57
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="IPTV-3",ALJAZEERA (UK)
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="MY-NET",ALJAZEERA (UK)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
-#EXTINF:-1 tvg-id="NHK WORLD" tvg-logo=" "  group-title="IPTV-3",NHK WORLD (JP)
+#EXTINF:-1 tvg-id="NHK WORLD" tvg-logo=" "  group-title="MY-NET",NHK WORLD (JP)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/62
-#EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="IPTV-3",DW (US)
+#EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="MY-NET",DW (US)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/64
-#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" "  group-title="IPTV-3",ZEE NEWS (IN)
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" "  group-title="MY-NET",ZEE NEWS (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/68
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="IPTV-3",B4U MOVIES (IN)
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="MY-NET",B4U MOVIES (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/69
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-3",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="MY-NET",B4U MUSIC (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
-#EXTINF:-1 tvg-id="CGTN" tvg-logo=" "  group-title="IPTV-3",CGTN (ASIA)
+#EXTINF:-1 tvg-id="CGTN" tvg-logo=" "  group-title="MY-NET",CGTN (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/71
-#EXTINF:-1 tvg-id="CGTN DOCUMENTARY" tvg-logo=" "  group-title="IPTV-3",CGTN DOCUMENTARY (ASIA)
+#EXTINF:-1 tvg-id="CGTN DOCUMENTARY" tvg-logo=" "  group-title="MY-NET",CGTN DOCUMENTARY (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/72
-#EXTINF:-1 tvg-id="ARIRANG WORLD" tvg-logo=" "  group-title="IPTV-3",ARIRANG WORLD (ASIA)
+#EXTINF:-1 tvg-id="ARIRANG WORLD" tvg-logo=" "  group-title="MY-NET",ARIRANG WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/82
-#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="IPTV-3",ZING (IN)
+#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="MY-NET",ZING (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
-#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="IPTV-3",TRT WORLD (ASIA)
+#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="MY-NET",TRT WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
 
-#EXTINF:-1 tvg-id="HISTORY TV18 HD" tvg-logo=" "  group-title="IPTV-4",HISTORY TV18 HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
-#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo=" "  group-title="IPTV-4",SONY TEN 2 HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo=" "  group-title="IPTV-4",NAT GEO HD (IN)
+#EXTINF:-1 tvg-id="HISTORY TV18 HD" tvg-logo=" "  group-title="WORLD-IPTV",HISTORY TV18 HD (IN)
+http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/3.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo=" "  group-title="WORLD-IPTV",SONY TEN 2 HD (IN)
+http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/4.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo=" "  group-title="WORLD-IPTV",NAT GEO HD (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/12
 #EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jMu6eNnw.png"  group-title="IPTV-4",SONY TEN 1 HD (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/13
-#EXTINF:-1 tvg-id="NICK HD+" tvg-logo=" "  group-title="IPTV-4",NICK HD+ (IN)
+#EXTINF:-1 tvg-id="NICK HD+" tvg-logo=" "  group-title="WORLD-IPTV",NICK HD+ (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
 #EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo=" "  group-title="IPTV-4",AND PICTURES HD (IN)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/17
@@ -1328,39 +1307,38 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/256
 #EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="IPTV-4",DW (PK)
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
 
-#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/O3SqMe3e.png"  group-title="IPTV-5",SONY MAX (ASIA)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/152488
-#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo="https://pbs.twimg.com/profile_images/1230017608851869697/kk8ds8H__400x400.jpg"  group-title="IPTV-5",AAPKA COLORS (US)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88795
-#EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="IPTV-5",COLORS (UK)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/48940
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2021/08/cropped-Zee-TV-Canada_PS-1.png"  group-title="IPTV-5",ZEE TV (CA)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88801
-#EXTINF:-1 tvg-id="ZEE ETC BOLLYWOOD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/zee-etc-bollywood_TV.jpg"  group-title="IPTV-5",ZEE RTC BOLLYWOOD (US)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88800
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-5",SONY HD (US)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/88798
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-5",USTAV BHARAT (UK)
-http://grjts.nsfms.com:2082/yahya21_970031/XPbQBNiy/48935
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="IPTV-6",SONY (IN)
-http://smartestv.vip:2095/ABHVYOP/2387998104/4787
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
 
-#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png"  group-title="IPTV-7",LOVE NATURE (US)
-http://103.30.87.238:443/triaal/gratisan/64
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="IPTV-7",DISCOVERY (ASIA)
-http://103.30.87.238:443/triaal/gratisan/1296
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="NASA-SERVERS",SONY (UK)
+http://s1.nasaservers.com:8080/live/mk2031/z996655/200668.m3u8
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="NASA-SERVERS",COLORS (UK)
+http://s1.nasaservers.com:8080/live/mk2031/z996655/200846.ts
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="NASA-SERVERS",ZEE TV (UK)
+http://s1.nasaservers.com:8080/mk2031/z996655/200634
 
+
+
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png"  group-title="IPTV-1",LOVE NATURE (US)
+http://103.30.87.238:443/live/triaal/gratisan/64.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="IPTV-1",DISCOVERY (ASIA)
+http://103.30.87.238:443/live/triaal/gratisan/1296.ts
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
 
