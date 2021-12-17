@@ -833,6 +833,35 @@ http://www.filmon.com/vr-streams/6152.low/playlist.m3u8
 #EXTINF:-1 tvg-id="NEW SENSATIONS" tvg-logo=" "  group-title="ADULT",NEW SENSATIONS (UK)
 http://www.filmon.com/vr-streams/6158.low/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog_1476130363.png"  group-title="ZEE5",AND PICTURES HD (IN)
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="AND XPLOR HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo_358457080.png"  group-title="ZEE5",AND XPLOR HD (IN)
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-209
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg"   group-title="ZEE5",ZEE CLASSIC (IN)
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-176
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo_358457080.png"  group-title="ZEE5",ZEE ANMOL CINEMA (IN)
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
+
+
+
+
 #EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo=" "  group-title="FEEDS-TV",AAJ TAK HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo=" "  group-title="FEEDS-TV",INDIA TODAY (IN)
@@ -921,6 +950,8 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.png"  group-title="PLAY",ZEE ACTION (IN)
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-uk.jpg"  group-title="PLAY",ZEE TV (UK)
+http://93.152.174.144:4000/play/zee/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/t7DeG7oA.png"  group-title="LIVE-STREAMING",FOX LIFE (UK)
 http://93.157.62.180:80/FoxLife/playlist.m3u8
