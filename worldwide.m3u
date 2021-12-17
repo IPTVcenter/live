@@ -1380,10 +1380,18 @@ http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/672308.ts
 #EXTINF:-1 tvg-id="UTV MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/UTV-Movies-Int-black.png"  group-title="MYPANEL-TV",UTV MOVIES (IN)
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/10615.m3u8
 
+#EXTINF:-1 tvg-id="VENUE" tvg-logo=" "  group-title="LIVE-TV",VENUE (US)
+http://livetv2021.site:8080/9897876765/6576567/8855
+#EXTINF:-1 tvg-id="SEXY HOT" tvg-logo=" "  group-title="LIVE-TV",SEXY HOT (US)
+http://livetv2021.site:8080/9897876765/6576567/8853
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="KY-IPTV",SONY (US)
+http://ky-iptv.com:25461/live/ebSyJMtz5K/SRp6nyt3CZ/1791019.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
