@@ -836,13 +836,13 @@ http://www.filmon.com/vr-streams/6158.low/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog_1476130363.png"  group-title="ZEE5",AND PICTURES HD (IN)
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="AND XPLOR HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo_358457080.png"  group-title="ZEE5",AND XPLOR HD (IN)
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-209
 #EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg"   group-title="ZEE5",ZEE CLASSIC (IN)
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-176
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo_358457080.png"  group-title="ZEE5",ZEE ANMOL CINEMA (IN)
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo="ZEE CINEMA"  group-title="ZEE5",ZEE CINEMA (IN)
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php/?c=0-9-zeecinema
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
