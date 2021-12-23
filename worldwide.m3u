@@ -245,11 +245,6 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="KHABRAIN ABHI TAK" tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg"  group-title="V-PRISM",KHABRAIN ABHI TAK (IN)
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TV ASIA" tvg-logo="https://tvasiausa.com/assets/images/TV%20Asia%20Logo%20PNG1A_150x180.png"   group-title="WORLD-BBTV",TV ASIA (US)
-https://streaming37.worldbbtv.com/hls/tvasia.m3u8
-#EXTINF:-1 tvg-id="TV ASIA COMEDY" tvg-logo=" "   group-title="WORLD-BBTV",TV ASIA COMEDY (US)
-https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
-
 #EXTINF:-1 tvg-id="TG JUNIOR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEik70yattL_elJNRxyxNej02c53t2d3mmtPL490bOZQhg74KGmryfVrxdlKByHE4l887ONEShOCQYH8L7u8_Gmk3u6XAbOStQWHaB9P5h-pwVWcqF7xONkloN-VICjvwfW6byfjMjgbHsv6vsQpBSsOnfOSASDerniFR21o90xem_rQv3O4ooE6al8TyA=s200"   group-title="CTV",TG JUNIOR (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-id="SMILE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg22OakpD4I05pd0MH-FB1Kgt5aRxl0M7hyQ2MPjyHpIkcG8bV7MyjkKqDbq1qhJ51TvPX205wWp8JpVfvddyeblO7tqT1uBZbBe7mobso8OmytakpqG-7gatdsyVSlLEeSXBcjt3ntaVfta9cKGxaS5yEygWCe2qRRyu1NO7pa4Bdd8hNOUun2eMK2yQ=s200"   group-title="CTV",SMILE (US)
@@ -395,8 +390,6 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="SMART-STREAM",NEWS LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo=" "  group-title="SMART-STREAM",ASSAM TALKS (IN)
-https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL NOW PG" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW PG (US)
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
@@ -525,8 +518,6 @@ https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 tvg-id="ALJAZEERA (USA)" tvg-logo=" "   group-title="NET-TV",ALJAZEERA (US)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="HBO (ASIA)" tvg-logo=" "   group-title="NET-TV",HBO (ASIA)
-https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 tvg-id="GAY TV (UK)" tvg-logo=" "  group-title="ADULT",GAY TV (UK)
 http://play.iptvxxx.net/gay.m3u8
 #EXTINF:-1 tvg-id="ARIRANG (ASIA)" tvg-logo=" "  group-title="NET-TV",ARIRANG (ASIA)
@@ -579,8 +570,6 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="AKAMAI-TV",BLOOMBERG (UK)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="SKY NEWS (UK)" tvg-logo=" "  group-title="AKAMAI-TV",SKY NEWS (UK)
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-id="NEWS MAX (US)" tvg-logo=" "  group-title="AKAMAI-TV",NEWS MAX (US)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="HBTV 1 (US)" tvg-logo=" "  group-title="AKAMAI-TV",HBTV 1 (US)
@@ -629,9 +618,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-id="IND TV USA (US)" tvg-logo="http://www.indtvusa.com/wp-content/uploads/2017/01/INDTVUSA-Logo.png"  group-title="AKAMAI-TV",INDTV USA (AU)
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
-#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="AKAMAI-TV",9XM (IN)
-https://yuppindott1.akamaized.net/hls/live/2015289/9xmusicindott/9xmusicindott/playlist.m3u8?dw=60&hdnts=st=1638959121~exp=1638973521~acl=!*/2015289/9xmusicindott/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=24c656602d02ce8740b502780961b195b5218d6d705dc53df115584e24e33ac1&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
-#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="AKAMAI-TV",ZOOM (IN)
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="AKAMAI-TV",ZOOM (US)
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_360_av-b.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo=" "  group-title="NET-TV",CNA (ASIA)
@@ -664,8 +651,6 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="ZEE BUSINESS (IN)" tvg-logo=" "   group-title="NET-TV",ZEE BUSINESS (IN)
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mzg5NjQ4ODd9.yLkWhx541li0IwSx64UvWB_TdBZ5pK_KLUH1ePLOeSs
 #EXTINF:-1 tvg-id="POPSTAR! TV (IN)" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png"   group-title="NET-TV",POPSTSR! TV (US)
 https://d3fmzhzockgffb.cloudfront.net/v1/master/ec9207ed6819582289cfdc7569d8065cc8aca126/DSP_5bc3d53d98f8159d11f1092c_li-1/playlist.m3u8?ads.us_privacy=1YNN&ads.url=https%3A%2F%2Fwww.video.popstaronline.com%2F&ads.w=280&ads.h=158&ads.cb=13352163516419940&ads.ip=2401:4900:3dc4:1509:4313:8c5e:9363:5a7c&ads.ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%208.0.0%3B%20en-US%3B%20Infinix%20X573%20Build%2FOPR1.170623.032%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F78.0.3904.108%20UCBrowser%2F13.3.8.1305%20Mobile%20Safari%2F537.36&ads.lat=24.8773&ads.lon=86.9293&ads.pod_max_dur=120&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.vid=5bc3d53d98f8159d11f1092c&ads.content_id=5bc3d53d98f8159d11f1092c&ads.content_title=Popstar%21%20Live&ads.did=&ads.device_make=&ads.device_model=
 
@@ -1338,12 +1323,6 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
 
 
 
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg"  group-title="XTREME-TV",ZEE CINEMA (UK)
-http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/36133
-#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="XTREME-TV",STAR BHARAT (IN)
-http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/36087.m3u8
-#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo="https://assets.streamtest.in/logo/2783/181_nat-geo-people.jpg"  group-title="XTREME-TV",NAT GEO PEOPLE (UK)
-http://ip.xtremetv.eu:8000/megaott1000/live/4p7c4mMdLn/35978.ts
 
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8GJdgZXd.png"  group-title="MYPANEL-TV",SONY SAB (UK)
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672323
