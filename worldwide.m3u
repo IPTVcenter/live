@@ -620,7 +620,7 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="AKAMAI-TV",ZOOM (US)
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_360_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-id="9XM" tvg-logo=" "  group-title="AKAMAI-TV",9XM (IN)
+#EXTINF:-1 tvg-id="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="AKAMAI-TV",9XM (IN)
 https://yuppindott1.akamaized.net/hls/live/2015289/9xmusicindott/9xmusicindott/playlist.m3u8?dw=60&hdnts=st=1640308510~exp=1640322910~acl=!*/2015289/9xmusicindott/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=d1b0e64fbe0cc4c6815907ab1813913cd5c9e5b2344ff2afa95a335d70b6acd0&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
 
 #EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo=" "  group-title="NET-TV",CNA (ASIA)
