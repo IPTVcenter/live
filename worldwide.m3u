@@ -620,6 +620,8 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="AKAMAI-TV",ZOOM (US)
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_360_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-id="9XM" tvg-logo=" "  group-title="AKAMAI-TV",9XM (IN)
+https://yuppindott1.akamaized.net/hls/live/2015289/9xmusicindott/9xmusicindott/playlist.m3u8?dw=60&hdnts=st=1640308510~exp=1640322910~acl=!*/2015289/9xmusicindott/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=d1b0e64fbe0cc4c6815907ab1813913cd5c9e5b2344ff2afa95a335d70b6acd0&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
 
 #EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo=" "  group-title="NET-TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -832,8 +834,35 @@ http://www.filmon.com/vr-streams/6158.low/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
+#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://newslivetv.com/wp-content/uploads/2019/04/logo-1-1-1.png"  group-title="JIO-TV",NEWS LIVE (IN)
+https://tvstream.space/jtv/bxb.php?c=Newslive&=400&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog_1554775145.png"    group-title="JIO-TV",ZEE TV HD (IN)
+https://tvstream.space/jtv/bxb.php?c=Zee_TV_HD&=400&e=.m3u8
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="JIO-TV",ZEE CINEMA HD (IN)
+https://tvstream.space/jtv/bxb.php?c=AND_TV_HD&=400&e=.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="JIO-TV",COLORS HD (IN)
+https://tvstream.space/jtv/bxb.php?c=Colors_HD&=400&e=.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="JIO-TV",SONY HD (IN)
+https://tvstream.space/jtv/bxb.php?c=Sony_HD&=&e=.m3u8
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://b4umusic.in/images/logo.png"  group-title="JIO-TV",B4U MUSIC (IN)
+https://tvstream.space/jtv/bxb.php?c=B4U_Music&=&e=.m3u8
+#EXTINF:-1 tvg-id="ZING" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/1x8qAt8z.png"  group-title="JIO-TV",ZING (IN)
+https://tvstream.space/jtv/bxb.php?c=Zing&=&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+
+
+
+
+
+
 
 
 
