@@ -838,17 +838,17 @@ http://www.filmon.com/vr-streams/6158.low/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COLORS CINEPLEX BOLLYWOOD" tvg-logo="https://cdn.colorscineplexbollywood.com/wp-content/uploads/2021/06/colorbollyhithai-logo.png"  group-title="JIO-TV",COLORS CINEPLEX BOLLYWOOD (IN)
 https://tvstream.space/jtv/ddx.php?c=Colors_Cineplex_Bollywood&=400&e=.m3u8
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="JIO-TV",COLORS HD (IN)
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="JIO-TV",COLORS HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Colors_HD&=400&e=.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO-TV", ZEE TV HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Zee_TV_HD&=400&e=.m3u8
 #EXTINF:-1 tvg-id="AND TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"  group-title="JIO-TV", AND TV HD (IN)
 https://tvstream.space/jtv/ddx.php?c=And_TV_HD&=&e=.m3u8
-#EXTINF:-1 tvg-id="COLORS CINEPLEX HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png"  group-title="JIO-TV", COLORS CINEPLEX HD (IN)
+#EXTINF:-1 tvg-id="COLORS CINEPLEX HD"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="JIO-TV", COLORS CINEPLEX HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Colors_Cineplex_HD&=&e=.m3u8
 #EXTINF:-1 tvg-id="SONY HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="JIO-TV",SONY HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Sony_HD&=&e=.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="JIO-TV",ZEE CINEMA (IN)
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://media.giphy.com/avatars/ZeeCinema/jpEJFwyuhcSG.png"  group-title="JIO-TV",ZEE CINEMA (IN)
 https://tvstream.space/jtv/ddx.php?c=Zee_Cinema&=&e=.m3u8
 
 
@@ -885,6 +885,77 @@ https://tvstream.space/jtv/ddx.php?c=TLC_Hindi&=&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id="AB NEWS"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="JIO-TV", AB NEWS (IN)
 https://tvstream.space/jtv/ddx.php?c=AB_News&=&e=.m3u8
+#EXTINF:-1 tvg-id="SAMACHAR TODAY"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" group-title="JIO-TV", SAMACHAR TODAY (IN)
+https://tvstream.space/jtv/ddx.php?c=Samachar_Today&=&e=.m3u8
+#EXTINF:-1 tvg-id="9 BHARAT SAMACHAR"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="JIO-TV", 9 BHARAT SAMACHAR (IN)
+https://tvstream.space/jtv/ddx.php?c=9_Bharat_Samachar&=&e=.m3u8
+#EXTINF:-1 tvg-id="YTV INDIA"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="JIO-TV", YTV INDIA (IN)
+https://tvstream.space/jtv/ddx.php?c=YTV_INDIA&=&e=.m3u8
+#EXTINF:-1 tvg-id="KRISHNA VANI"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" group-title="JIO-TV", KRISHNA VANI (IN)
+https://tvstream.space/jtv/ddx.php?c=Krishna_Vani&=&e=.m3u8
+#EXTINF:-1 tvg-id="TIME8"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" group-title="JIO-TV", TIME8 (IN)
+https://tvstream.space/jtv/ddx.php?c=TIME8&=&e=.m3u8
+#EXTINF:-1 tvg-id="MUMBADEVI MUMBAI"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" group-title="JIO-TV", MUMBADEVI MUMBAI (IN)
+https://tvstream.space/jtv/ddx.php?c=Mumbadevi_Mumbai&=&e=.m3u8
+#EXTINF:-1 tvg-id="BABULNAATH MUMBAI"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" group-title="JIO-TV", BABULNAATH MUMBAI (IN)
+https://tvstream.space/jtv/ddx.php?c=Babulnaath_Mumbai&=&e=.m3u8
+#EXTINF:-1 tvg-id="MAHALAXMI MUMBAI"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" group-title="JIO-TV", MAHALAXMI MUMBAI (IN)
+https://tvstream.space/jtv/ddx.php?c=Mahalaxmi_Mumbai&=&e=.m3u8
+#EXTINF:-1 tvg-id="KARANI MATA RAJASTHAN"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" group-title="JIO-TV", KARANI MATA RAJASTHAN (IN)
+https://tvstream.space/jtv/ddx.php?c=Karani_Mata_Rajasthan&=&e=.m3u8
+#EXTINF:-1 tvg-id="ASHTAVINAYAK RANJANGAON"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" group-title="JIO-TV", ASHTAVINAYAK RANJANGAON (IN)
+https://tvstream.space/jtv/ddx.php?c=Ashtavinayak_Ranjangaon&=&e=.m3u8
+#EXTINF:-1 tvg-id="ISKON GIRGAON"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" group-title="JIO-TV", ISKON GIRGAON (IN)
+https://tvstream.space/jtv/ddx.php?c=Iskon_Girgaon&=&e=.m3u8
+#EXTINF:-1 tvg-id="ICHHAPURAN BALAJI RAJASTHAN"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" group-title="JIO-TV", ICHHAPURAN BALAJI RAJASTHAN (IN)
+https://tvstream.space/jtv/ddx.php?c=Ichhapuran_Balaji_Rajasthan&=&e=.m3u8
+#EXTINF:-1 tvg-id="ASHTAVINAYAK OZAR"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png" group-title="JIO-TV", ASHTAVINAYAK OZAR (IN)
+https://tvstream.space/jtv/ddx.php?c=Ashtavinayak_Ozar&=&e=.m3u8
+#EXTINF:-1 tvg-id="GANGA DARSHAN VARANASI"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" group-title="JIO-TV", GANGA DARSHAN VARANASI (IN)
+https://tvstream.space/jtv/ddx.php?c=Ganga_Darshan_Varanasi&=&e=.m3u8
+#EXTINF:-1 tvg-id="PRATI SHIRDI SAIBABA"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" group-title="JIO-TV", PRATI SHIRDI SAIBABA (IN)
+https://tvstream.space/jtv/ddx.php?c=Prati_Shirdi_Saibaba&=&e=.m3u8
+
+
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+
+
+https://tvstream.space/jtv/ddx.php?c= &=&e=.m3u8
+
+
 
 
 
