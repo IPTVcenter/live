@@ -840,27 +840,29 @@ http://www.filmon.com/vr-streams/6158.low/playlist.m3u8
 https://tvstream.space/jtv/ddx.php?c=Colors_Cineplex_Bollywood&=400&e=.m3u8
 #EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="JIO-TV",COLORS HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Colors_HD&=400&e=.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="JIO-TV",ZEE TV HD (IN)
+#EXTINF:-1 tvg-id="ZEE TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO-TV", ZEE TV HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Zee_TV_HD&=400&e=.m3u8
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="JIO-TV",AND TV HD (IN)
+#EXTINF:-1 tvg-id="AND TV HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"  group-title="JIO-TV", AND TV HD (IN)
 https://tvstream.space/jtv/ddx.php?c=And_TV_HD&=&e=.m3u8
-#EXTINF:-1 tvg-id="COLORS CINEPLEX HD" tvg-logo=" "  group-title="JIO-TV",COLORS CINEPLEX HD (IN)
+#EXTINF:-1 tvg-id="COLORS CINEPLEX HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png"  group-title="JIO-TV", COLORS CINEPLEX HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Colors_Cineplex_HD&=&e=.m3u8
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="JIO-TV",SONY HD (IN)
+#EXTINF:-1 tvg-id="SONY HD"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="JIO-TV",SONY HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Sony_HD&=&e=.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="JIO-TV",ZEE CINEMA (IN)
 https://tvstream.space/jtv/ddx.php?c=Zee_Cinema&=&e=.m3u8
+
+
 #EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo=" "  group-title="JIO-TV",NEWS LIVE (IN)
 https://tvstream.space/jtv/ddx.php?c=Newslive&=&e=.m3u8
 #EXTINF:-1 tvg-id="POGO" tvg-logo=" "  group-title="JIO-TV",LOGO (IN)
 https://tvstream.space/jtv/ddx.php?c=Pogo_Hindi&=&e=.m3u8
-#EXTINF:-1 tvg-id="NICK" tvg-logo=" "  group-title="JIO-TV",NICK (IN)
+#EXTINF:-1 tvg-id="NICK"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="JIO-TV", NICK (IN)
 https://tvstream.space/jtv/ddx.php?c=Nick_Hindi&=&e=.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS" tvg-logo=" "  group-title="JIO-TV",BBC NEWS (IN)
 https://tvstream.space/jtv/ddx.php?c=BBC_Hindi&=&e=.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="JIO-TV",ANIMAL PLANET (IN)
 https://tvstream.space/jtv/ddx.php?c=Animal_Planet_Hindi&=&e=.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="JIO-TV",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="JIO-TV", B4U MUSIC (IN)
 https://tvstream.space/jtv/ddx.php?c=B4U_Music&=&e=.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="JIO-TV",B4U MOVIES (IN)
 https://tvstream.space/jtv/ddx.php?c=B4U_Movies&=&e=.m3u8
@@ -876,13 +878,13 @@ https://tvstream.space/jtv/ddx.php?c=ID&=&e=.m3u8
 https://tvstream.space/jtv/ddx.php?c=Arre&=&e=.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="JIO-TV",SONY MAX HD (IN)
 https://tvstream.space/jtv/ddx.php?c=Sony_Max_HD&=&e=.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-logo=" "  group-title="JIO-TV",TLC (IN)
+#EXTINF:-1 tvg-id="TLC"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png"  group-title="JIO-TV", TLC (IN)
 https://tvstream.space/jtv/ddx.php?c=TLC_Hindi&=&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
-
-
+#EXTINF:-1 tvg-id="AB NEWS"  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="JIO-TV", AB NEWS (IN)
+https://tvstream.space/jtv/ddx.php?c=AB_News&=&e=.m3u8
 
 
 
