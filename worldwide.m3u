@@ -1802,31 +1802,56 @@ http://77.72.17.10/auth/SyI7s18lF9DEturvggj6l3xLmuvo9EUMigTTP8cW66PIyaQlqxI4bwBJ
 http://77.72.17.10/auth/Y98J2Bmks_TEjzuhNIuKeNgBVLq_ZSqqEIyjjujilIJVv1BG95EGAfcm3LgINuVyhBBpPmMP-NPLYnn-bqj85lEgpfM480ws6OtFiXWKKR622OHKcmGil3v8E166VxOJfO6pstsDm1edCsiorZB_EIcL6fphg2RNFnZElWwve-ouCbe-df7lW6NtPe_kB1suXLfCmmnQfUSOKGjHTJszNQH78mw7KGGRFohTiBC3L8mQfhKU1cx-_AI-QJWpmTCSGnL6Rs9Z7Z9vWaId1VhSdodYY4G1kuY1s7KW25TXHkmcy9tYnMW8Qr8rKBjPH1W9dCYeDKTF0gOqfXj1a9grCqIi19TQqbfW6HKXHZZj4IwLUKgfJcx3Hg0GNYCm_qLvFgY4KdEVae6UYDKpLT3_E8Xh4t8T9vMfyAwhRj7xdXj0RVq3wEEttkwUmLXuHmPbBMf4NPWeYhA9ViHSCwidCjPHyaTkJH9H84xTRKCEIM8b_0FRWJ6LQXFhGcpvxIn7eBKg0FiESpSINrNF1FWZ7hdY7_R0QV1ARR030PGb5z8Qu8fynueDJQOS8hC2yVfv5dO-WmTXkMH3g9B82gOhKOedr8re7WrY0xnJ3WZkWQxFgIGL4h1ii6W7XiwqnkNI
 #EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-logo=" "  group-title="IPTV-2",STAR SPORTS 3 (IN)
 http://212.192.240.66/auth/sK2E0dblm4PLoGolNjrdIctwBBGGNF1j7iUXi9wK3WvNj1m4rez9cqEpSLTuCZnhxBCScvBJ7tGnpZ34OUzeuvH9UQ9_iiEjkCOpU7Sc8wGypQo33DmySdswskCptHAm8TxDtny6OuGC3AUV0FGL7d_DKm5bZElS0lGkNaypEs-HaDgT9RlKGHVWtgpQ5R3DeexJvENeEeRuN6KINwvKYt3Ts5NLNYnXyBGgTQ_EdYXtjdqv9Mr289slyIz7so1Ay5-UxZm1bNeQ4e977DXZYbXts67r4IDCtyIODPUXS_a3ZvXpGO3WyHMBhP0uuRv13nHC-OIdgeQV0h8RMTWggS2L_fROtXENu3IzF3cE1Gehx9pYelgGC49kDTSkoEB4CKqFcuOSJnPGppo0xg9bF_gd2-TLn4gRHDIMGO1g1tXBlp5f6o2962DkW_4wAzhfXHLgkjCd-W1jQFOtuA_EXkKrP4nPm8wwX2g3j3SqUpkXKbG2uWY5fUQi4oyc1yJ2KrLuaBcLqx5wzsZ7A3bqwA4XMOLEzxks26FRV1hgFPAwz1TuOwMLRAR4y0rTegI4KBnp_oqdLsxn9T9aH-41bAARATb42FSbsLFudGVcUgb7vCiCBRlV2ImP5ZCkAR6h
-
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
-
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-2",AND TV HD (IN)
+http://185.191.126.109:8080/kkN0WJpq/ncQMzkF9Rn/136580?play_token=GxlVkDNVib&token=GhYNABZdEQkaXAkCAQFWBlcHW1BWVAZSAgJWUAEJUFNSUFVSXFYCUAkaFRAQFxAGVVhnCFNBDgZQBlRcCRRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADF8GUgBJQxVcVxECGg8AVVtRQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBU1AMBRpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFSUlEGAw5DSg==
+#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo=" "  group-title="IPTV-2",AAPKA COLORS (US)
+http://212.102.58.232:8080/kkN0WJpq/ncQMzkF9Rn/134326?play_token=GpcO6PCQD8&token=GhYNABZdEQkaDwlRBwAGVQAAXlAHVAMAW1FXUFgAAAMAUANTBwEHVQ4aFRAQFxAGVVhnCFNBDgZQBFJWDxRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADF8IVQFJQxVcVxECGg0FUlJTQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBVlYFAxpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFSUFACBA5DSg==
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="IPTV-2",NAT GEO WIL HD (IN)
+http://185.191.126.109:8080/kkN0WJpq/ncQMzkF9Rn/136665?play_token=5MaOOXv4Li&token=GhYNABZdEQkaW1sAVgVSB1ADCgdUWwwEUlZVAQoPXwdVAlcDVQdSUQAaFRAQFxAGVVhnCFNBDgZQBldSDBRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADVYAWANJQxVcVxECGggDVlBSVxYZGgRPF1FFDVENO11dEFgCUUdbC0BfXxQaVlw8BwcOVVtcQw1BBBVPEggXSRpcXxRYCU1HV1pHSllNV0FZQFEAAw1DG0FXWBZeFRZAGlwTKHpHTUdQS0ddVkpbDA1AWRZBS0MbQV1EPEIEF01KA1AMURdDXxcDERQaVFMbPAEMWltdAkMKW1kQEltGCBpKEwxbCwgRWkFsSFFdEFlBU1MNBw9SFR4=
+#EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" "  group-title="IPTV-2",USTAV PLUS (UK)
+http://185.191.126.109:8080/kkN0WJpq/ncQMzkF9Rn/136633?play_token=AAIr0Sbty2&token=GhYNABZdEQkaCA8LWlYGVFUNDQdRVwcBVwUAXFsKAwQABFVXXVQGUV0aFRAQFxAGVVhnCFNBDgZQBldXChRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADVYDVA1JQxVcVxECGg8CVVNRQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBUFMMARpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFaV1oMABoc
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-2",ZEE TV HD (IM)
+http://146.19.16.177:25461/1we56xkL3Q3VXj1Il4VJ5/bhJU7XmxDU/182681?play_token=WwhuCi8DDb&token=GBFaURELG1sRA1cEUFBUUlIAVQICUgJfAFFRAAYOA1RQAQABVVcJAAcVGRYWEUMEVg9oXAVDXggABwRZBBUQRBBWQG8LBxtbEQYEDFNcCVcVThVBCAwBGwIEBFUFAAcBVwMAHEATUAURDRcBVlwHVRVOFVAZFQFLVlRePlFcRFgAVhAKDBZVDR8VWlo6AVQMVgxTF1tDVRsUF1sSRRsIEyFbU0IWChkgWkVBUQlFfRVTTBUZQwMNTUpURgQXAxAAUAoGEk5BWg5GWUFGHEcLQ34sFRlDBBxNXVtBCFpXEAtBR0ESTkFQEmxFUEcRF1QAWgdFF1tDVBsUF18ATWZRXg1dV1MWClYPQBUPFlRHHUNaDVlcFQ4WZkhcVkMPGwcCVgoAEh8=
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
 
 
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
 
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
