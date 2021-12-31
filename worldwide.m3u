@@ -995,6 +995,56 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png"  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
+#EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo=" "  group-title="STREAM",TEN SPORTS (PK)
+http://208.86.19.21:80/711.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="STREAM", (US)
+http://208.86.19.21:80/111.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sLCJGc6R.png"  group-title="STREAM",STAR GOLD SELECT HD (IN)
+http://208.86.19.21:80/709.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="STREAM",SONY MAX HD (IN)
+http://208.86.19.21:80/706.stream/index.m3u8
+#EXTINF:-1 tvg-id="AND PICTURES" tvg-logo=" "  group-title="STREAM",AND PICTURES (IN)
+http://208.86.19.21:80/705.stream/index.m3u8
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="STREAM",AND TV HD (IN)
+http://208.86.19.21:80/703.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-logo=" "  group-title="STREAM",ZEE BOLLYWOOD (IN)
+http://208.86.19.21:80/701.stream/index.m3u8
+#EXTINF:-1 tvg-id="WION" tvg-logo=" "  group-title="STREAM",WION (IN)
+http://208.86.19.21:80/714.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo=" "  group-title="STREAM",SONY TEN 2 HD (IN)
+http://208.86.19.21:80/712.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo=" "  group-title="STREAM",SONY TEN 3 HD (IN)
+http://208.86.19.21:80/713.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DvfrYoaM.png"  group-title="STREAM",STAR GOLD HD (IN)
+http://208.86.19.21:80/717.stream/index.m3u8
+#EXTINF:-1 tvg-id="GEO NEWS" tvg-logo=" "  group-title="STREAM",GEO NEWS (PK)
+http://208.86.19.21:80/718.stream/index.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="STREAM",E24 (IN)
+http://208.86.19.21:80/719.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="STREAM",ZEE ANMOL CINEMA (IN)
+http://208.86.19.21:80/722.stream/index.m3u8
+#EXTINF:-1 tvg-id="UTV HD" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/utv-hd.gif"  group-title="STREAM",UTV HD (IN)
+http://208.86.19.21:80/723.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo=" "  group-title="STREAM",SONY TEN 1 HD (IN)
+http://208.86.19.21:80/726.stream/index.m3u8
+#EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo=" "  group-title="STREAM",REPUBLIC TV (IN)
+http://208.86.19.21:80/727.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="STREAM",ZEE ACTION (IN)
+http://208.86.19.21:80/728.stream/index.m3u8
+#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo=" "  group-title="STREAM",MUSIC INDIA (IN)
+http://208.86.19.21:80/733.stream/index.m3u8
+#EXTINF:-1 tvg-id="COLORS CINEPLEX HD" tvg-logo=" "  group-title="STREAM",COLORS CINEPLEX HD (IN)
+http://208.86.19.21:80/735.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2 HD" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/tgtOjQpw.png"  group-title="STREAM",STAR SPORTS SELECT 2 HD (IN)
+http://208.86.19.21:80/737.stream/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="STREAM", (US)
+
+
+
+
+
 #EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="LOCKLE",COLORS HD (IN)
