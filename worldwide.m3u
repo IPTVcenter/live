@@ -1141,6 +1141,32 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png"  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo=" "  group-title="DIGITAL-TV",SONY PIX HD (IN)
+http://103.161.2.142/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo=" "  group-title="DIGITAL-TV",BBC WORLD NEWS (IN)
+http://103.161.2.142/hls/bbcworld.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="DIGITAL-TV",AXN (IN)
+http://103.161.2.142/hls/axn.m3u8
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="DIGITAL-TV",ZOOM (IN)
+http://103.161.2.142/hls/zoom.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD HD (IN)
+http://103.161.2.142/hls/wild.m3u8
+#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo=" "  group-title="DIGITAL-TV",TRAVEL XP HD (IN)
+http://103.161.2.142/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo=" "  group-title="DIGITAL-TV",TLC HD (IN)
+http://103.161.2.142/hls/tlc.m3u8
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" "  group-title="DIGITAL-TV",STAR MOVIES HD (IN)
+http://103.161.2.142/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="BBC CABBIES" tvg-logo=" "  group-title="DIGITAL-TV",BBC CABBIES (UK)
+http://103.161.2.142/hls/sonyyay.m3u8
+#EXTINF:-1 tvg-id="SUN DIRECT" tvg-logo=" "  group-title="DIGITAL-TV",SUN DIRECT (IN)
+http://103.161.2.142/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="MASTII" tvg-logo=" "  group-title="DIGITAL-TV",MASTIII (IN)
+http://103.161.2.142/hls/9xm.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo=" "  group-title="STREAM",TEN SPORTS (PK)
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="STREAM", (US)
