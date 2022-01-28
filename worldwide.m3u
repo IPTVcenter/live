@@ -1169,6 +1169,20 @@ http://103.161.2.142/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-id="MASTII" tvg-logo=" "  group-title="DIGITAL-TV",MASTIII (IN)
 http://103.161.2.142/hls/9xm.m3u8
 
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="DIGITAL-TV",SONY SAB (UK)
+http://144.217.70.181:9587/hin2/SONYSABUK/video.m3u8
+
+
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+
+http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/2022/01/28/00/38/19-06000.ts
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/2022/01/28/00/39/17-08000.ts
+
+http://144.217.70.181:9587/hin2/ZEETVUK/tracks-v1a1/2022/01/28/00/40/15-05280.ts
+http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/2022/01/28/00/39/56-08000.ts
+http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/2022/01/28/00/41/11-06000.ts
+http://144.217.70.181:9587/hin2/COLORSUK/tracks-v1a1/2022/01/27/19/33/50-06000.ts
+http://144.217.70.181:9587/hin2/SAHARAONE/tracks-v1a1/2022/01/28/00/42/09-08000.ts
 
 
 
