@@ -53,6 +53,10 @@ https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png"   group-title="MULTI-TV",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 
+
+https://idvd.multitvsolution.com/idvo/ddretro.m3u8
+
+
 #EXTINF-1 tvg-id="CHIVE TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png"  group-title="DISTRO-TV",CHIVE TV (US)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="MMA JUNKIE" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png"  group-title="DISTRO-TV",MMA JUNKIE (US)
