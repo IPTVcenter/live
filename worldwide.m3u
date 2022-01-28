@@ -6,6 +6,11 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/Bloomberg_Quicktake_190x190.png"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="BDCABLE-TV",SONY HD (IN)
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+
+
+
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="SAMSUNG-TV",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg"  group-title="SAMSUNG-TV",BLOOMBERG (US)
