@@ -9,6 +9,27 @@ https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="BDCABLE-TV",SONY HD (IN)
 http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="JIO-TV",DISCOVERY (IN)
+https://tvstream.fun/jtv/m3uu8.php?c=Discovery_Channel_Hindi&q=400&e=.m3u8
+
+https://tvstream.fun/jtv/m3uu8.php?c=History_18_Hindi&q=400&e=.m3u8
+
+
+
+
+https://playhls.media.nic.in/live/rstv/index.m3u8
+https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/ottrbintl3/master.m3u8?e=1651410000&h=451b3f2f647081a12bb8f6792c76a49a
+https://pull-2742.5centscdn.com/abrout/suryacinema/playlist.m3u8
+https://yupptvmsldevnonind.akamaized.net/hls/live/2004033/bboclassicpxy/bboclassicpxy/playlist.m3u8?hdnts=st=1613183104~exp=1713183004~acl=*/2004033/*~data=YuppTV_Monitoring~hmac=4ee622b2e3c0fb48623afc4416faa1398bb3625fa577c24b02180e989bee5b11
+https://yuppsportsind.akamaized.net/121120/zingus/playlist.m3u8
+https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
+https://pull-2742.5centscdn.com/zeetvhdout/zeetvhdlive/playlist.m3u8
+https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
+
+https://sport.livedoomovie.com//02_WarnerTVHD_720p/chunklist.m3u8
+https://indxtv.com/ytv/ytv.php?c=ndtv-goodtimes&e=.m3u8
+https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TEHELKA TV" tvg-logo=" "  group-title="JAGO-BD",TEHELKA TV (IN)
@@ -667,6 +688,9 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="POPSTAR! TV (IN)" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png"   group-title="NET-TV",POPSTSR! TV (US)
 https://d3fmzhzockgffb.cloudfront.net/v1/master/ec9207ed6819582289cfdc7569d8065cc8aca126/DSP_5bc3d53d98f8159d11f1092c_li-1/playlist.m3u8?ads.us_privacy=1YNN&ads.url=https%3A%2F%2Fwww.video.popstaronline.com%2F&ads.w=280&ads.h=158&ads.cb=13352163516419940&ads.ip=2401:4900:3dc4:1509:4313:8c5e:9363:5a7c&ads.ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%208.0.0%3B%20en-US%3B%20Infinix%20X573%20Build%2FOPR1.170623.032%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F78.0.3904.108%20UCBrowser%2F13.3.8.1305%20Mobile%20Safari%2F537.36&ads.lat=24.8773&ads.lon=86.9293&ads.pod_max_dur=120&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.vid=5bc3d53d98f8159d11f1092c&ads.content_id=5bc3d53d98f8159d11f1092c&ads.content_title=Popstar%21%20Live&ads.did=&ads.device_make=&ads.device_model=
+#EXTINF:-1 tvg-id="ARRE (IN)" tvg-logo=" "  group-title="NET-TV",ARRE (IN)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
+
 
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="EPIC-ON",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
