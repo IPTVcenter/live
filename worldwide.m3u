@@ -6,7 +6,7 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/Bloomberg_Quicktake_190x190.png"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="BDCABLE-TV",SONY HD (IN)
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,q_auto:low/e_brightness:10/https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png"  group-title="BDCABLE-TV",SONY HD (IN)
 http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="JIO-TV",DISCOVERY (IN)
@@ -105,42 +105,65 @@ https://tvstream.fun/jtv/m3uu8.php?c=Colors_Infinity_HD&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-id="SURYA CINEMA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png"  group-title="OUT-TV",SURYA CINEMA (IN)
 https://pull-2742.5centscdn.com/abrout/suryacinema/playlist.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/zee_Tv-hd.jpeg"  group-title="OUT-TV",ZEE TV HD (IN)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png"  group-title="OUT-TV",ZEE TV HD (IN)
 https://pull-2742.5centscdn.com/zeetvhdout/zeetvhdlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WB TV" tvg-logo=" "  group-title="LIVE-DO",WB TV (ASIA)
+#EXTINF:-1 tvg-id="WB TV" tvg-logo="https://www.withanaccent.com/wp-content/uploads/2018/07/d395fa0ea7a0c7a43df71790e1137f7a.jpg"  group-title="LIVE-DO",WB TV (ASIA)
 https://sport.livedoomovie.com//02_WarnerTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NDTV GOOD TIMES" tvg-logo=" "  group-title="YUPP-TV",NDTV GOOD TIMES (IN)
+#EXTINF:-1 tvg-id="NDTV GOOD TIMES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-goodtimes.jpg"  group-title="YUPP-TV",NDTV GOOD TIMES (IN)
 https://indxtv.com/ytv/ytv.php?c=ndtv-goodtimes&e=.m3u8
-#EXTINF:-1 tvg-id="NDTV INDIA" tvg-logo=" "  group-title="YUPP-TV",NDTV INDIA (IN)
+#EXTINF:-1 tvg-id="NDTV INDIA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-india.jpg"  group-title="YUPP-TV",NDTV INDIA (IN)
 https://indxtv.com/ytv/ytv.php?c=ndtv-india&e=.m3u8
-#EXTINF:-1 tvg-id="NDTV PROFIT" tvg-logo=" "  group-title="YUPP-TV",NDTV PROFIT (IN)
+#EXTINF:-1 tvg-id="NDTV PROFIT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-profit.jpg"  group-title="YUPP-TV",NDTV PROFIT (IN)
 https://indxtv.com/ytv/ytv.php?c=ndtv-profit&e=.m3u8
 #EXTINF:-1 tvg-id="GOOD NEWS TODAY" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Good_News_Today_TV.jpg"  group-title="YUPP-TV",GOOD NEWS TODAY (IN)
 https://indxtv.com/ytv/ytv.php?c=tez-tv&e=.m3u8
+#EXTINF:-1 tvg-id="INDIA TODAY NEWS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-today-news.jpg"  group-title="YUPP-TV",INDIA TODAY NEWS (IN)
 https://indxtv.com/ytv/ytv.php?c=india-today-news&e=.m3u8
+#EXTINF:-1 tvg-id="ASTRO SCIENCE" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Astroscience_TV.jpg"  group-title="YUPP-TV",ASTRO SCIENCE (IN)
 https://indxtv.com/ytv/ytv.php?c=-astroscience&e=.m3u8
+#EXTINF:-1 tvg-id="NDTV 24X7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-24x7.jpg"  group-title="YUPP-TV",NDTV 24X7 (IN)
 https://indxtv.com/ytv/ytv.php?c=ndtv-24x7&e=.m3u8
+#EXTINF:-1 tvg-id="CVR ENGLISH" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/cvr-english-news.jpg"  group-title="YUPP-TV",CVR ENGLISH (IN)
 https://indxtv.com/ytv/ytv.php?c=cvr-english-news&e=.m3u8
+#EXTINF:-1 tvg-id="SONGDEW" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/songdew_tv_960x540.jpg"  group-title="YUPP-TV",SONGDEW (IN)
 https://indxtv.com/ytv/ytv.php?c=songdew&e=.m3u8
+#EXTINF:-1 tvg-id="HARE KRISHNA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/HareKrsna_TV.jpg"  group-title="YUPP-TV",HARE KRISHNA (IN)
 https://indxtv.com/ytv/ytv.php?c=hare-krishna-tv&e=.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/e24.jpg"  group-title="YUPP-TV",E24 (IN)
 https://indxtv.com/ytv/ytv.php?c=e24&e=.m3u8
+#EXTINF:-1 tvg-id="BRAHMA KUMARIS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/brahma-kumaris.jpg"  group-title="YUPP-TV",BRAHMA KUMARIS (IN)
 https://indxtv.com/ytv/ytv.php?c=brahma-kumaris&e=.m3u8
+#EXTINF:-1 tvg-id="SATSANG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Satsang_TV.jpg"  group-title="YUPP-TV",SATSANG (IN)
 https://indxtv.com/ytv/ytv.php?c=satsang-tv&e=.m3u8
+#EXTINF:-1 tvg-id="KRISHNA VANI" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Krishna_Vani_Tv.jpg"  group-title="YUPP-TV",KRISHNA VANI (IN)
 https://indxtv.com/ytv/ytv.php?c=krishna-vani&e=.m3u8
+#EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Aajtak_TV.jpg"  group-title="YUPP-TV",AAJ TAK (IN)
 https://indxtv.com/ytv/ytv.php?c=aajtak&e=.m3u8
+#EXTINF:-1 tvg-id="PEACE OF MIND" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Peace_of_Mind_TV.jpg"  group-title="YUPP-TV",PEACE OF MIND (IN)
 https://indxtv.com/ytv/ytv.php?c=peace-of-mind&e=.m3u8
+#EXTINF:-1 tvg-id="IIT JEET CRASH COURSE" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Crash_Course_IIT-JEE_TV.jpg"  group-title="YUPP-TV",IIT JEET CRASH COURSE (IN)
 https://indxtv.com/ytv/ytv.php?c=iit-jee-crash-course&e=.m3u8
+#EXTINF:-1 tvg-id="NEET CRASH COURSE" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Crash_Course_NEET_TV.jpg"  group-title="YUPP-TV",NEET CRASH COURSE (IN)
 https://indxtv.com/ytv/ytv.php?c=neet-crash-course&e=.m3u8
+#EXTINF:-1 tvg-id="NEWS 24" tvg-logo="https://media.news24online.com/static_dev/static_root/images/live-tv/n24.png"  group-title="YUPP-TV",NEWS 24 (IN)
 https://indxtv.com/ytv/ytv.php?c=news24&e=.m3u8
+#EXTINF:-1 tvg-id="GOD TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/god-tv.jpg"  group-title="YUPP-TV",GOD TV (IN)
 https://indxtv.com/ytv/ytv.php?c=god-tv&e=.m3u8
+#EXTINF:-1 tvg-id="SUDARSHAN NEWS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sudarshan-news.jpg"  group-title="YUPP-TV",SUDARSHAN NEWS (IN)
 https://indxtv.com/ytv/ytv.php?c=sudarshan-news&e=.m3u8
+#EXTINF:-1 tvg-id="SAMAY AALAMI" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-aalami.jpg"  group-title="YUPP-TV",SAMAY AALAMI (IN)
 https://indxtv.com/ytv/ytv.php?c=samay-aalami&e=.m3u8
+#EXTINF:-1 tvg-id="MANGALMAY TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mangalmay-tv.jpg"  group-title="YUPP-TV",MANGALMAY TV (IN)
 https://indxtv.com/ytv/ytv.php?c=mangalmay-tv&e=.m3u8
+#EXTINF:-1 tvg-id="DIVYA TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/divya-tv.jpg"  group-title="YUPP-TV",DIVYA TV (IN)
 https://indxtv.com/ytv/ytv.php?c=divya-tv&e=.m3u8
+#EXTINF:-1 tvg-id="DARSHAN 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/darshan24.jpg"  group-title="YUPP-TV",DARSHAN 24 (IN)
 https://indxtv.com/ytv/ytv.php?c=darshan24&e=.m3u8
+#EXTINF:-1 tvg-id="REPUBLIC BHARAT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/REPUBLIC_BHARAT_TV.jpg"  group-title="YUPP-TV",REPUBLIC BHARAT (IN)
 https://indxtv.com/ytv/ytv.php?c=republic-bharat&e=.m3u8
+#EXTINF:-1 tvg-id="INDIA TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"  group-title="YUPP-TV",INDIA TV (IN)
 https://indxtv.com/ytv/ytv.php?c=indiatv&e=.m3u8
 
 
@@ -176,7 +199,7 @@ https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
 https://itvoign.multitvsolution.com/idvo/ddkashir.m3u8
 #EXTINF:-1 tvg-id="MANORANJAN TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Tt3HO3dS.png"   group-title="MULTI-TV",MANORANJAN TV (IN)
 https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
-#EXTINF:-1 tvg-id="NEWS X" tvg-logo="https://newsx.com/wp-content/themes/newsxlite/images/logo2.png"  group-title="MULTI-TV",NEWS X (IN)
+#EXTINF:-1 tvg-id="NEWS X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/320px-NewsX_Logo.png"   group-title="MULTI-TV",NEWS X (IN)
 https://itvoign.multitvsolution.com/hls/newsx.m3u8
 #EXTINF:-1 tvg-id="B4U KADAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png"  group-title="MULTI-TV",B4U KADAK (IN)
 https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
@@ -188,9 +211,9 @@ https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png"   group-title="MULTI-TV",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
-#EXTINF:-1 tvg-id="ENTERR 10 MOVIES" tvg-logo=" "  group-title="MULTI-TV",ENTERR 10 MOVIES (IN)
+#EXTINF:-1 tvg-id="ENTERR 10 MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Enterr10-Movies.jpg"  group-title="MULTI-TV",ENTERR 10 MOVIES (IN)
 https://itvoign.multitvsolution.com/idvo/enterr10movies.m3u8
-#EXTINF:-1 tvg-id="DD RETRO" tvg-logo=" "  group-title="MULTI-TV",DD RETRO (IN)
+#EXTINF:-1 tvg-id="DD RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png"  group-title="MULTI-TV",DD RETRO (IN)
 https://idvd.multitvsolution.com/idvo/ddretro.m3u8
 
 
@@ -777,7 +800,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_360_av-b.m3u8?sd=10
 https://yuppindott1.akamaized.net/hls/live/2015289/9xmusicindott/9xmusicindott/playlist.m3u8?dw=60&hdnts=st=1640308510~exp=1640322910~acl=!*/2015289/9xmusicindott/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=d1b0e64fbe0cc4c6815907ab1813913cd5c9e5b2344ff2afa95a335d70b6acd0&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
 #EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="AKAMAI-TV",ZING (US)
 https://yuppsportsind.akamaized.net/121120/zingus/playlist.m3u8
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="  "  group-title="AKAMAI-TV",AND TV HD (US)
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvhd_0/list/1170x658withlogo_378606665.jpg"  group-title="AKAMAI-TV",AND TV HD (US)
 https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png "  group-title="AKAMAI-TV",ZEE TV HD (US)
 https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
