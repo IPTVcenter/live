@@ -340,8 +340,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="FREE SPORTS (UK)" tvg-logo=" "  group-title="ONLINE-TV",FREE SPORTS (UK)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
-#EXTINF:-1 tvg-id="HBO (ASIA)" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/13/w900X450/HBO_FB.JPG"  group-title="ONLINE-TV",HBO (ASIA)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="SKY NEWS (UK)" tvg-logo=" "  group-title="ONLINE-TV",SKY NEWS (UK)
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="PTV HOME (PK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjzLN_weotMG3yqm0BT2_4c3xBCtkQYnVHchDdhuEweEB8ruqvxzgdEiTEim8X6lpuvdXgRqoPwuFgsTt_5PbFKv_os5RUOv_Ms1y86_WxQnqwWSltT1eS8Rnd79vJcFN-3sj4sC7VKQXMCcMip3n65AhzZNxtjQ3Sf_RbBv7r3FXxwsTgIJLlNB46Nmg=s200"  group-title="ONLINE-TV",PTV HOME (PK)
@@ -403,8 +401,7 @@ https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/ottrbintl
 
 #EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE-TV",TBD (US)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 tvg-id="TND (US)" tvg-logo=" "  group-title="ONLINE-TV",TND (US)
-https://content.uplynk.com/1ba3a99278cc4f4593a864aecf3eae0f.m3u8?tc=1&exp=1639479622&rn=227693&ct=a&cid=1ba3a99278cc4f4593a864aecf3eae0f&sig=093162324bed2fdd44dd44834aca81e3e7363bc2a60411318fa76736bf98d557
+
 
 #EXTINF:-1 tvg-id="BRICS TV (RU)" tvg-logo=" "  group-title="ONLINE-TV",BRICS TV (RU)
 http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
@@ -435,7 +432,7 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo=" "  group-title="ONLINE-TV",ANJAN TV (IN)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="CITY NEWS" tvg-logo=" "  group-title="ONLINE-TV",CITY NEWS (PK)
+#EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo=" "  group-title="ONLINE-TV",CITY NEWS HD (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.axn.co.ao/sites/all/themes/responsive/responsive_sony_axn/logo.png"   group-title="ONLINE-TV",AXN (TW)
@@ -578,22 +575,6 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo=" "  group-title="PLUTO-TV",NICK JR (UK)
 https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
 
-#EXTINF:-1 tvg-id="WIZ TV (ASIA)" tvg-logo=" "  group-title="AS-LIVE",WIZ TV (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/playlist.m3u8
-#EXTINF:-1 tvg-id="NRA ONESHORT (ASIA)" tvg-logo=" "  group-title="AS-LIVE",NRA ONESHORT (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/playlist.m3u8
-#EXTINF:-1 tvg-id="TENNIS TV (ASIA)" tvg-logo=" "  group-title="AS-LIVE",TENNIS TV (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports3/playlist.m3u8
-#EXTINF:-1 tvg-id="SKY NET SPORTS 2 (ASIA)" tvg-logo=" "  group-title="AS-LIVE",SKY NET SPORTS 2 (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
-#EXTINF:-1 tvg-id="SKY NET SPORTS 1 (ASIA)" tvg-logo=" "  group-title="AS-LIVE",SKY NET SPORTS 1 (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/playlist.m3u8
-#EXTINF:-1 tvg-id="SKY NET SPORTS 3 (ASIA)" tvg-logo=" "  group-title="AS-LIVE",SKY NET SPORTS 3 (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
-#EXTINF:-1 tvg-id="BABY TV (ASIA)" tvg-logo=" "  group-title="AS-LIVE",BABY TV (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (ASIA)" tvg-logo=" "  group-title="AS-LIVE",NAT GEO WILD (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/natgeowild/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MADNI TV (UK)" tvg-logo=" "  group-title="NET-TV",MADNI TV (UK)
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish/madnienglish_360p/chunks.m3u8
@@ -855,8 +836,6 @@ https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
 #EXTINF:-1 tvg-id="AZAAD TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Azaad_TV_Logo.png"  group-title="MX-TV",AZAAD TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
-#EXTINF:-1 tvg-id="UPDATE INDIA (IN)" tvg-logo=" "  group-title="MX-TV",UPDATE INDIA (IN)
-https://m-c050-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
 #EXTINF:-1 tvg-id="THE Q (IN)" tvg-logo="http://static1.squarespace.com/static/5fe0d350f8f3ea3e5d5f5eac/t/5fe7bf5fba5cdf3765913dbb/1610393266307/TheQ_Logo2.png"  group-title="MX-TV",THE Q (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
@@ -973,14 +952,6 @@ http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="LIVE-STREAMING",AXN (ASIA)
 http://50.7.61.148:30080/Entry/axn
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://1.bp.blogspot.com/-VKwVxjzXfHo/YRZPfTuGcKI/AAAAAAAAA2o/Uc4yOJftGkYI25HgZmS0z8tiV3eN7vmwACLcBGAsYHQ/s200/PicsArt_07-25-05.13.13.jpg"  group-title="LIVE-STREAMING",AXN HD (UK)
-http://51.15.0.141:88/axn/index.m3u8
-#EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
-http://51.15.0.141:88/redlightHD/index.m3u8
-#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo=" "  group-title="ADULT",HUSTLER HD (UK)
-http://51.15.0.141:88/hustlerhd/index.m3u8
-#EXTINF:-1 tvg-id="BLACKED HD" tvg-logo=" "  group-title="ADULT",BLACKED HD (UK)
-http://51.15.0.141:88/blacked_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="POKER.TV" tvg-logo=" "  group-title="STREAM",POKER.TV (IR)
 http://51.210.199.17/hls/stream.m3u8
@@ -1006,10 +977,6 @@ http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-id="HISTORY (UK)" tvg-logo=" "  group-title="PLAY",HISTORY (UK)
 http://58.65.171.202:8000/play/3119/index.m3u8
 
-#EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo=" "  group-title="ADULT",REDLIGHT HD (UK)
-http://93.152.174.144:4000/play/Redlight/index.m3u8
-#EXTINF:-1 tvg-id="PENTHOUSE GOLD" tvg-logo=" "  group-title="ADULT",PENTHOUSE GOLD (UK)
-http://93.152.174.144:4000/play/Penthouse/index.m3u8
 #EXTINF:-1 tvg-id="BT SPORTS 1" tvg-logo=" "  group-title="PLAY",BT SPORTS 1 (UK)
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-id="BT SPORTS 2" tvg-logo=" "  group-title="PLAY",BT SPORTS 2 (UK)
@@ -1035,31 +1002,7 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png"  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo=" "  group-title="DIGITAL-TV",SONY PIX HD (IN)
-http://103.161.2.142/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo=" "  group-title="DIGITAL-TV",BBC WORLD NEWS (IN)
-http://103.161.2.142/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="DIGITAL-TV",AXN (IN)
-http://103.161.2.142/hls/axn.m3u8
-#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="DIGITAL-TV",ZOOM (IN)
-http://103.161.2.142/hls/zoom.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD HD (IN)
-http://103.161.2.142/hls/wild.m3u8
-#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo=" "  group-title="DIGITAL-TV",TRAVEL XP HD (IN)
-http://103.161.2.142/hls/travelxp.m3u8
-#EXTINF:-1 tvg-id="TLC HD" tvg-logo=" "  group-title="DIGITAL-TV",TLC HD (IN)
-http://103.161.2.142/hls/tlc.m3u8
-#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" "  group-title="DIGITAL-TV",STAR MOVIES HD (IN)
-http://103.161.2.142/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="BBC CABBIES" tvg-logo=" "  group-title="DIGITAL-TV",BBC CABBIES (UK)
-http://103.161.2.142/hls/sonyyay.m3u8
-#EXTINF:-1 tvg-id="SUN DIRECT" tvg-logo=" "  group-title="DIGITAL-TV",SUN DIRECT (IN)
-http://103.161.2.142/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="MASTII" tvg-logo=" "  group-title="DIGITAL-TV",MASTIII (IN)
-http://103.161.2.142/hls/9xm.m3u8
 
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="DIGITAL-TV",SONY SAB (UK)
-http://144.217.70.181:9587/hin2/SONYSABUK/index.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="DIRECT-TV",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="DIRECT-TV",STAR BHARAT HD (IN)
@@ -1165,25 +1108,15 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-id="BEACHY (UK)" tvg-logo=" "  group-title="DIGITAL-TV",BEACHY (UK)
 http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 tvg-id="GOLF (UK)" tvg-logo=" "  group-title="DIGITAL-TV",GOLF (UK)
-http://203.154.243.89:11208
 #EXTINF:-1 tvg-id="SUPER ONE HD (UK)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a1/SuperOne_%282020-.n.v.%29.png"   group-title="ADULT",SUPER ONE HD (UK)
 http://185.96.176.139:90/superone/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD (RU)" tvg-logo=" "  group-title="DIGITAL-TV",NAT GEO WILD (RU)
-http://193.33.240.8:80/NatGeoWild/playlist.m3u8
 #EXTINF:-1 tvg-id="XY PLUS (UK)" tvg-logo=" "  group-title="ADULT",XY PLUS (UK)
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 tvg-id="SAFE TV (US)" tvg-logo=" "  group-title="ONLINE-TV",SAFE TV (US)
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/225px-Fox_News_Channel_logo.svg.png"  group-title="CDN-TV",FOX NEWS (US)
-http://1111296894.rsc.cdn77.org/ls-54548-2/playlist.m3u8
-#EXTINF:-1 tvg-id="MSNBC REPORTS" tvg-logo=" "  group-title="CDN-TV",MSNBC REPORTS (UK)
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1 tvg-id="FTF" tvg-logo=" "  group-title="CDN-TV",FTF (US)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
-#EXTINF:-1 tvg-id="HLN" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/HLN.png"  group-title="CDN-TV",HLN (US)
-https://1876572335.rsc.cdn77.org/n-FWGv2eRLZH5y70qVxpKA==,1639277528/1876572335/index.m3u8
 
 ------------------------------------(📱💻📺)++++++++++++++++++++++++++++
 
@@ -1195,7 +1128,7 @@ http://a3.smashmalta.com:82/live/smash/smash/15.ts
 #EXTINF:-1 tvg-id="SMASH EXPLORE" tvg-logo=" "  group-title="SMASH-IPTV",SMASH EXPLORE (MT)
 http://a3.smashmalta.com:82/live/smash/smash/23.ts
 #EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
-http://a3.smashmalta.com:82/live/smash/smash/8.m3u8
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-logo=" "  group-title="MY-NET",FRANCE 24 (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/47.m3u8
@@ -1225,263 +1158,10 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/82
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="MY-NET",TRT WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
+#EXTINF:-1 tvg-id="RT" tvg-logo=" "  group-title="MY-NET",RT (US)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/56
 
-#EXTINF:-1 tvg-id="HISTORY TV18 HD" tvg-logo=" "  group-title="WORLD-IPTV",HISTORY TV18 HD (IN)
-http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/3.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo=" "  group-title="WORLD-IPTV",SONY TEN 2 HD (IN)
-http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/4.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo=" "  group-title="WORLD-IPTV",NAT GEO HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/12
-#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jMu6eNnw.png"  group-title="IPTV-4",SONY TEN 1 HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/13
-#EXTINF:-1 tvg-id="NICK HD+" tvg-logo=" "  group-title="WORLD-IPTV",NICK HD+ (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
-#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo=" "  group-title="IPTV-4",AND PICTURES HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/17
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="IPTV-4",NAT GEO WILD HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
-#EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo=" "  group-title="IPTV-4",ZEE CAFE HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/19
-#EXTINF:-1 tvg-id="ROMEDY NOW" tvg-logo=" "  group-title="IPTV-4",ROMEDY NOW (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/20
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png"  group-title="IPTV-4",AND TV HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/21
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="IPTV-4",STAR BHARST HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/22
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="IPTV-4",SONY HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/23
-#EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo=" "  group-title="IPTV-4",STAR GOLD SELECT HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/24
-#EXTINF:-1 tvg-id="COLORS INFINITY HD" tvg-logo=" "  group-title="IPTV-4",COLORS INFINITY HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/28
-#EXTINF:-1 tvg-id="AND FLIX HD" tvg-logo=" "  group-title="IPTV-4",AND FLIX HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/29
-#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" "  group-title="IPTV-4",STAR MOVIES HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/30
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"  group-title="IPTV-4",ZEE TV HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/34
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="IPTV-4",STAR PLUS HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/35
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="IPTV-4",COLORS HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/36
-#EXTINF:-1 tvg-id="STAR WORLD PREMIERE HD" tvg-logo=" "  group-title="IPTV-4",STAR GOLD PREMIERE HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/37
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="IPTV-4",ZEE CINEMA HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/38
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo=" "  group-title="IPTV-4",FOX LIFE HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/39
-#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="IPTV-4",SONY MAX HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/40
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="IPTV-4",STAR GOLD HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/42
-#EXTINF:-1 tvg-id="STAR SPORTS SELECT HD 1" tvg-logo=" "  group-title="IPTV-4",STAR SPORTS SELECT HD 1 (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
-#EXTINF:-1 tvg-id="STAR SPORTS SELECT HD 2" tvg-logo=" "  group-title="IPTV-4",STAR SPORTS SELECT HD 2 (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
-#EXTINF:-1 tvg-id="DD KISAN" tvg-logo=" "  group-title="IPTV-4",DD KISAN (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/105
-#EXTINF:-1 tvg-id="AAJ TAK" tvg-logo=" "  group-title="IPTV-4",AAJ TAK (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/111
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="IPTV-4",B4U MOVIES (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/112
-#EXTINF:-1 tvg-id="DD NEWS" tvg-logo=" "  group-title="IPTV-4",DD NEWS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/116
-#EXTINF:-1 tvg-id="SEMAROO TV" tvg-logo=" "  group-title="IPTV-4",SEMAROO TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/117
-#EXTINF:-1 tvg-id="9XM" tvg-logo=" "  group-title="IPTV-4",9XM (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/120
-#EXTINF:-1 tvg-id="DD BHARATI" tvg-logo=" "  group-title="IPTV-4",DD BHARATI (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/122
-#EXTINF:-1 tvg-id="DD URDU" tvg-logo=" "  group-title="IPTV-4",DD URDU (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/123
-#EXTINF:-1 tvg-id="EPIC" tvg-logo="https://images.livemint.com/img/2021/12/08/1600x900/thumbnail_Epic_Logo_with__Black_background_1638938328526_1638938345893.jpg"  group-title="IPTV-4",EPIC (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/151
-#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo=" "  group-title="IPTV-4",TRAVEL XP HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
-#EXTINF:-1 tvg-id="SONY WAH" tvg-logo=" "  group-title="IPTV-4",SONY WAH (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/184
-#EXTINF:-1 tvg-id="DA NEWS PLUS" tvg-logo="https://scontent.fgau3-1.fna.fbcdn.net/v/t39.30808-1/p200x200/241166420_221152190039395_8017542540917539033_n.png"   group-title="IPTV-4",DA NEWS PLUS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/188
-#EXTINF:-1 tvg-id="SAMACHAR PLUS"  tvg-logo=" "  group-title="IPTV-4",SAMACHAR PLUS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/190
-#EXTINF:-1 tvg-id="ENTEER 10" tvg-logo=" "  group-title="IPTV-4",ENTEER 10 (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/196
-#EXTINF:-1 tvg-id="STAR USTAV MOVIES" tvg-logo=" "  group-title="IPTV-4",STAR USTAV MOVIES (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/201
-#EXTINF:-1 tvg-id="SHOW BOX" tvg-logo=" "  group-title="IPTV-4",SHOW BOX (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/205
-#EXTINF:-1 tvg-id="ABP NEWS" tvg-logo=" "  group-title="IPTV-4",ABP NEWS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/211
-#EXTINF:-1 tvg-id="NEWS 18 INDIA" tvg-logo=" "  group-title="IPTV-4",NEWS 18 INDIA (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/219
-#EXTINF:-1 tvg-id="MTV BEATS" tvg-logo=" "  group-title="IPTV-4",MTV BEATS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/222
-#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="IPTV-4",ZING (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/223
-#EXTINF:-1 tvg-id="DD INDIA" tvg-logo=" "  group-title="IPTV-4",DD INDIA (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/224
-#EXTINF:-1 tvg-id="PEACE TV" tvg-logo=" "  group-title="IPTV-4",PEACE TV (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/232
-#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo=" "  group-title="IPTV-4",STAR SPORTS 1 HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
-#EXTINF:-1 tvg-id="CVR NEWS" tvg-logo=" "  group-title="IPTV-4",CVR NEWS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/269
-#EXTINF:-1 tvg-id="MANGO TV" tvg-logo=" "  group-title="IPTV-4",MANGO TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/271
-#EXTINF:-1 tvg-id="HORNBILL TV" tvg-logo=" "  group-title="IPTV-4",HORNBILL TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/272
-#EXTINF:-1 tvg-id="NEWS DADA" tvg-logo=" "  group-title="IPTV-4",NEWS DADA (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/273
-#EXTINF:-1 tvg-id="TOTAL TV" tvg-logo=" "  group-title="IPTV-4",TOTAL TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/276
-#EXTINF:-1 tvg-id="GOOD NEWS TV" tvg-logo=" "  group-title="IPTV-4",GOOD NEWS TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/285
-#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="IPTV-4",ZEE ANMOL (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/287
-#EXTINF:-1 tvg-id="DD RETRO" tvg-logo=" "  group-title="IPTV-4",DD RETRO (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/286
-#EXTINF:-1 tvg-id="DD KASIR" tvg-logo=" "  group-title="IPTV-4",DD KADIR (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/289
-#EXTINF:-1 tvg-id="GTN" tvg-logo=" "  group-title="IPTV-4",GTN (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/291
-#EXTINF:-1 tvg-id="ABZY DHAKAD" tvg-logo=" "  group-title="IPTV-4",DHAKAD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/292
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="IPTV-4",B4U MUSIC (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/294
-#EXTINF:-1 tvg-id="INDIA TV" tvg-logo=" "  group-title="IPTV-4",INDIA TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/295
-#EXTINF:-1 tvg-id="BFLIX MOVIES" tvg-logo=" "  group-title="IPTV-4",BFLIX MOVIES (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/296
-#EXTINF:-1 tvg-id="REPUBLIC BHARAT" tvg-logo=" "  group-title="IPTV-4",REPUBLIC BHARAT (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/297
-#EXTINF:-1 tvg-id="ABZY COOL" tvg-logo=" "  group-title="IPTV-4",ABZY COOL (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/305
-#EXTINF:-1 tvg-id="SANSAD TV" tvg-logo=" "  group-title="IPTV-4",SANSAD TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/304
-#EXTINF:-1 tvg-id="THE Q" tvg-logo=" "  group-title="IPTV-4",THE Q (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/307
-#EXTINF:-1 tvg-id="COLORS CINEPLEX BOLLYWOOD" tvg-logo=" "  group-title="IPTV-4",COLORS CINEPLEC BOLLYWOOD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/308
-#EXTINF:-1 tvg-id="ZEE HINDUSTAN" tvg-logo=" "  group-title="IPTV-4",ZEE HINDUSTAN (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/309
-#EXTINF:-1 tvg-id="SONY PAL" tvg-logo=" "  group-title="IPTV-4",SONY PAL (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/310
-#EXTINF:-1 tvg-id="RISHTEY CINEPLEX" tvg-logo=" "  group-title="IPTV-4",RISHTEY CINEPLEX (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/311
-#EXTINF:-1 tvg-id="MOVIE PLUS" tvg-logo=" "  group-title="IPTV-4",MOVIE PLUS (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/312
-#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo=" "  group-title="IPTV-4",COLORS RISHTEY (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/314
-#EXTINF:-1 tvg-id="DD ASSAM" tvg-logo=" "  group-title="IPTV-4",DD ASSAM (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/323
-#EXTINF:-1 tvg-id="NDTV" tvg-logo=" "  group-title="IPTV-4",NDTV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/320
-#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="IPTV-4",ZEE ANMOL CINEMA (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/319
-#EXTINF:-1 tvg-id="MANORANHAN TV" tvg-logo=" "  group-title="IPTV-4",MANORANJAN TV (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/316
-#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo=" "  group-title="IPTV-4",B4U KADAK (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/315
-#EXTINF:-1 tvg-id="" tvg-logo="URDU ONE"  group-title="IPTV-4",URDU ONE (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/2
-#EXTINF:-1 tvg-id="ARY ZINDAGI" tvg-logo=" "  group-title="IPTV-4",ARY ZINDAGI (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/8
-#EXTINF:-1 tvg-id="PUBLIC NEWS HD" tvg-logo=" "  group-title="IPTV-4",PUBLIC NEWS HD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/6
-#EXTINF:-1 tvg-id="ARY MUSIC" tvg-logo=" "  group-title="IPTV-4",ARY MUSIC (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/51
-#EXTINF:-1 tvg-id="ARY QTV" tvg-logo=" "  group-title="IPTV-4",ARY QTV (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/9
-#EXTINF:-1 tvg-id="ARY NEWS" tvg-logo=" "  group-title="IPTV-4",ARY NEWS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/10
-#EXTINF:-1 tvg-id="ARY DIGITAL HD" tvg-logo=" "  group-title="IPTV-4",ARY DIGITAL HD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/11
-#EXTINF:-1 tvg-id="DISCOVER PAKISTAN" tvg-logo=" "  group-title="IPTV-4",DISCOVER PAKISTAN (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/25
-#EXTINF:-1 tvg-id="8XM HD" tvg-logo=" "  group-title="IPTV-4",8XM HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/53
-#EXTINF:-1 tvg-id="JALWA" tvg-logo=" "  group-title="IPTV-4",JALWA (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/54
-#EXTINF:-1 tvg-id="DAWN NEWS" tvg-logo=" "  group-title="IPTV-4",DAWN NEWS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/55
-#EXTINF:-1 tvg-id="24 NEWS HD" tvg-logo=" "  group-title="IPTV-4",24 NEWS HD (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/56
-#EXTINF:-1 tvg-id="ROOHI NEWS" tvg-logo=" "  group-title="IPTV-4",ROOHI NEWS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/59
-#EXTINF:-1 tvg-id="GEO NEWS" tvg-logo=" "  group-title="IPTV-4",GEO NEWS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/60
-#EXTINF:-1 tvg-id="GEO TEEZ" tvg-logo=" "  group-title="IPTV-4",GEO TEEZ (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/61
-#EXTINF:-1 tvg-id="EXPRESS NEWS" tvg-logo=" "  group-title="IPTV-4",EXPRESS NEWS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/63
-#EXTINF:-1 tvg-id="EXPRESS" tvg-logo=" "  group-title="IPTV-4",EXPRESS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/64
-#EXTINF:-1 tvg-id="SAMAA NEWS" tvg-logo=" "  group-title="IPTV-4",SAMAA NEWS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/65
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="IPTV-4",AXN (CH)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/66
-#EXTINF:-1 tvg-id="GEO HD" tvg-logo=" "  group-title="IPTV-4",GEO HD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/67
-#EXTINF:-1 tvg-id="GEO KAHANI" tvg-logo=" "  group-title="IPTV-4",GEO KAHANI (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/68
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo=" "  group-title="IPTV-4",BABY TV (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/69
-#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="IPTV-4",ATV (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/70
-#EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo=" "  group-title="IPTV-4",TEN SPORTS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/71
-#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo=" "  group-title="IPTV-4",NEO NEWS HD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/75
-#EXTINF:-1 tvg-id="LAHORE RANG HD" tvg-logo=" "  group-title="IPTV-4",LAHORE RANG HD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/76
-#EXTINF:-1 tvg-id="TV ONE" tvg-logo=" "  group-title="IPTV-4",TV ONE (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/77
-#EXTINF:-1 tvg-id="WASEED TV" tvg-logo=" "  group-title="IPTV-4",WASEED TV (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/78
-#EXTINF:-1 tvg-id="NEWS ONE" tvg-logo=" "  group-title="IPTV-4",NEWS ONE (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/79
-#EXTINF:-1 tvg-id="HUM MASALA" tvg-logo=" "  group-title="IPTV-4",HUM MASALA (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/80
-#EXTINF:-1 tvg-id="HUM SITARAY" tvg-logo=" "  group-title="IPTV-4",HUM SITARAY (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/81
-#EXTINF:-1 tvg-id="PTV HOME" tvg-logo=" "  group-title="IPTV-4",PTV HOME (PJ)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/82
-#EXTINF:-1 tvg-id="PLAY" tvg-logo=" "  group-title="IPTV-4",PLAY (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/85
-#EXTINF:-1 tvg-id="HUM HD" tvg-logo=" "  group-title="IPTV-4",HUM HD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/87
-#EXTINF:-1 tvg-id="AAJ" tvg-logo=" "  group-title="IPTV-4",AAJ (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/86
-#EXTINF:-1 tvg-id="POP" tvg-logo=" "  group-title="IPTV-4",POP (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/88
-#EXTINF:-1 tvg-id="BBC EARTH" tvg-logo=" "  group-title="IPTV-4",BBC EARTH (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/89
-#EXTINF:-1 tvg-id="SAB" tvg-logo=" "  group-title="IPTV-4",SAB (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/90
-#EXTINF:-1 tvg-id="BOL" tvg-logo=" "  group-title="IPTV-4",BOL (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/92
-#EXTINF:-1 tvg-id="KIDS ZONE" tvg-logo=" "  group-title="IPTV-4",KIDS ZONE (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/93
-#EXTINF:-1 tvg-id="GEO SUPER" tvg-logo=" "  group-title="IPTV-4",GRO SUPER (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/102
-#EXTINF:-1 tvg-id="PTV WORLD" tvg-logo=" "  group-title="IPTV-4",PTV WORLD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/103
-#EXTINF:-1 tvg-id="FILM WORLD" tvg-logo=" "  group-title="IPTV-4",FILM WORLD (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/126
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="IPTV-4",ALJAZEERA (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/135
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="IPTV-4",B4U MUSIC (IN)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/145
-#EXTINF:-1 tvg-id="PTV SPORTS" tvg-logo=" "  group-title="IPTV-4",PTV SPORTS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/239
-#EXTINF:-1 tvg-id="A SPORTS" tvg-logo=" "  group-title="IPTV-4",A SPORTS (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/247
-#EXTINF:-1 tvg-id="APNA CHANNEL" tvg-logo=" "  group-title="IPTV-4",APNA CHANNEL (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/249
-#EXTINF:-1 tvg-id="V" tvg-logo=" "  group-title="IPTV-4",V (CH)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/256
-#EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="IPTV-4",DW (PK)
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
 
@@ -1506,60 +1186,49 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5557
 
 
 
-
-
-#EXTINF:-1 tvg-id="VENUE" tvg-logo=" "  group-title="LIVE-TV",VENUE (US)
-http://livetv2021.site:8080/9897876765/6576567/8855
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-logo=" "  group-title="LIVE-TV",SEXY HOT (US)
-http://livetv2021.site:8080/9897876765/6576567/8853
-
-
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="KY-IPTV",SONY (US)
-http://ky-iptv.com:25461/live/ebSyJMtz5K/SRp6nyt3CZ/1791019.ts
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="IPTV-2",AXN (ASIA)
+#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="IPTV-",AXN (ASIA)
 http://62.210.127.217:8080/6Btag3SFEYkPJj95/w8tXA1TYYD6bsatt/28696?play_token=0xUPBxHJIT&token=TURYAhZYEAwSXFQBXlEHWgBWBgdTWgEDVVcGAwcOA11UVVZRVgAADgdGTxBLF0AGVA9uD1IbCQQJBV0DShsTFlMUbwoBEggUAVdWAwlRC0EZQEUPW1wRDAAFUAVQAV9WAVEcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEggUBlxSBRoe
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-2",SONY HD (UK)
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-",SONY HD (UK)
 http://195.154.184.243:25461/6Btag3SFEYkPJj95/w8tXA1TYYD6bsatt/2839?play_token=lhfKUm2HPH&token=TURYAhZYEAwSUwBWWVYBVg0HVVNUWwJQUAFQDQBYUAcPUlVQVAZWVwZGTxBLF0AGVA9uD1IbCQQJAF0ZREwVAEQ5WQdHChAHA1FSAwpaEE8XFlgLUxsJBwcHVANfCVRRA0oSEwxUEAwSVlsADlMQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFcMQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEApbAFYDQEw=
-#EXTINF:-1 tvg-id="ABC" tvg-logo=" "  group-title="IPTV-1",ABC (US)
+#EXTINF:-1 tvg-id="ABC" tvg-logo=" "  group-title="IPTV-",ABC (US)
 
 
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-1",B4U MUSIC (UK)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-",B4U MUSIC (UK)
 
 
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-2",AND TV HD (US)
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-",AND TV HD (US)
 http://45.86.190.64:25461/1PMZ2u8QHV/d6bVY7qSCs/34480?play_token=EBtgMFF1jX&token=TURYAhZYEAwSVVJQXVMEUFdaB1MHDlBVUAJSA14MVgZUBFVRXAVXDghGTxBLF0AGVA9uD1IbCQUFB1wFShsTFlMUbwoBEggUAVFTAgFSAEEZQEUPW1wRDAAFUAVUDl9UA1AcQRVZVhQKRlIKAVEFQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFcCVxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSCloFUxMb
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="IPTV-2",SONY SAB (UK)
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="IPTV-",SONY SAB (UK)
 http://45.86.190.64:25461/1PMZ2u8QHV/d6bVY7qSCs/34149?play_token=wPYXoiHnP4&token=TURYAhZYEAwSXVcDAQYCWlRaBgMFWAZUCVYHU18PX11QAgFaXVFTB1JGTxBLF0AGVA9uD1IbCQUFAlAMShsTFlMUbwoBEggUAVFTAgFSAEEZQEUPW1wRDAAFUAVUDl9WD1IcQRVZVhQKRlcECFoEQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFYDVBNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpXBFMCWxMb
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-2",ZEE TV HD (ME)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-",ZEE TV HD (ME)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34171?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-2",ZEE TV (ASIA)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-",ZEE TV (ASIA)
 http://45.86.190.64:25461/6Btag3SFEYkPJj95/w8tXA1TYYD6bsatt/34515?play_token=BELM4a8gy6&token=TURYAhZYEAwSVlQCXlUEBVRbAQAEXwFTBVICB14IUlQPUFNaBlEDAFNGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVdWAwlRC0EZQEUPW1wRDAAFUAVQAFZWAlAcQRVZVhQKRlcGCFAAQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHVBNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpXAVECUBMb
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-2",ZEE TV (UK)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-",ZEE TV (UK)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34172?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" "  group-title="IPTV-2",ZEE TV CANADA (CA)
+#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" "  group-title="IPTV-",ZEE TV CANADA (CA)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34511?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-2",ZEE TV (US)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-",ZEE TV (US)
 http://45.86.190.64:25461/VWsknTaUXCpEkGyX/NFcuvgDB7Gnhr9eC/34516?play_token=KV7U4jxhXf&token=TURYAhZYEAwSUFUGD1EHUAVUBwMEWwMCVAtSBFABXwABAlFbAVQLVQBGTxBLF0AGVA9uD1IbCQUFBlUDShsTFlMUbwoBEggUAVZRAA9aCkEZQEUPW1wRDAAFUARUAF9RBFYcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-2",ZEE TV (IN)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-",ZEE TV (IN)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34170?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="IPTV-2",SONY (UK)
+#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="IPTV-",SONY (UK)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34153?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-2",COLORS (UK)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-",COLORS (UK)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34123?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-2",COLORS (IN)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-",COLORS (IN)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34122?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="IPTV-2",COLORS HD (IN)
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="IPTV-",COLORS HD (IN)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34476?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-2",USTAV BHARAT (UK)
+#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-",USTAV BHARAT (UK)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34155?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="IPTV-2",STAR BHARAT (IN)
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" "  group-title="IPTV-",STAR BHARAT (IN)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34154?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="USTAV GOLD HD" tvg-logo=" "  group-title="IPTV-2",USTAV GOLD HD (UK)
+#EXTINF:-1 tvg-id="USTAV GOLD HD" tvg-logo=" "  group-title="IPTV-",USTAV GOLD HD (UK)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34157?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-2",AND TV HD (US)
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-",AND TV HD (US)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34119?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-2",AND TV HD (IN)
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-",AND TV HD (IN)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34479?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-2",B4U MUSIC (IN)
 http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34121?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -1577,14 +1246,10 @@ http://45.86.190.64:25461/VWsknTaUXCpEkGyX/NFcuvgDB7Gnhr9eC/34166?play_token=Ki7
 http://45.86.190.64:25461/VWsknTaUXCpEkGyX/NFcuvgDB7Gnhr9eC/34165?play_token=Fy4CeumaZ6&token=TURYAhZYEAwSVgZTXgYDBlcBB1YCCwBVUlVcBFMPA1QPVABSXQQLVwFGTxBLF0AGVA9uD1IbCQUFAlIAShsTFlMUbwoBEggUAVZRAA9aCkEZQEUPW1wRDAAFUARUAF9WAF4cQRVZVhQKRlADCVcCQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1EBWhNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1MAVBMb
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/249x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png"   group-title="IPTV-2",ZEE TV HD (IN)
 http://62.210.99.88:25461/VWsknTaUXCpEkGyX/NFcuvgDB7Gnhr9eC/181?play_token=2NFRLQ2lFw&token=TURYAhZYEAwSXQAAAFdXVFNRCVUHDAQFVFFdUVUIXgABAgFWBglQAgJGTxBLF0AGVA9uD1IbCQcJAkgXE0oDF2kPVEFfEgMEAlZUCwBBHkFBC1wDFAMCAAUCVgxfDV5RGkRACgESCBQDV1QBGk8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0ABRBobWkVBEV5bE1UKSRQEWRcXUUZTEl5BAAhWC0EZQFIJQ1dHREgRXhcvd0RJFANIFwBeQV9fCkEIGhdBQRlAWBVpS1ZFRUEBVAtcFEcMRABBSRJfV0g7AF1WDVcAQQteCEUbCRQAEUgXC1YIDEIJQjwVWVYUCkZQAAtUEB4=
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-2",ZEE TV (ASIA)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-",ZEE TV (ASIA)
 http://45.86.190.64:25461/VWsknTaUXCpEkGyX/NFcuvgDB7Gnhr9eC/34515?play_token=80K60JEGdk&token=TURYAhZYEAwSXAIADFYAWldTUlZQCwAABQtdV1JdVAMCBFNRUgFTBAdGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVZRAA9aCkEZQEUPW1wRDAAFUARUAF9QA1AcQRVZVhQKRlEAAVIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSAVEAQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEApRClMXHw==
 
 
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-logo=" "  group-title="IPTV-1",STAR LIFE (ZA)
-http://185.76.9.78:8080/K9FqBfTgd4/UTJhs1puE1/45649?play_token=me5NjnQraV&token=GhYNABZdEQkaXFsKUVdWBlECD1ADVAYGUQMHUV0KAwZSVlQAAQRVUA0aFRAQFxAGVVhnCFNBDgNWBlVdFRoTQgRGOggBFwkRCQsJBlRRQE8WQVEMUkEOBlUEUVcLAFMFWRhHEQxREQkaCgkEUEFOQVFNTARFDVVbPFQEElBbAxNbWhANCRkRXFZnXVcOAgwHFg8aURVPFl4QQENeV00KXU0WBwgRR1JHXRoDEFJSUFYWGRoCWBZaQxFJQ14bcSgTTRYAGRFQXUBRV1cQWUEWEBYZGghEPEZSEEQTAVhVA0NDDkdRRxkRXllAZlEMDQwGV0FRDlkQFg1BAUNIG1UJXwhAChM6RVpXGgIbA1JUUVYWSA==
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-1",ZEE TV HD (IN)
-http://185.191.126.109:8080/K9FqBfTgd4/UTJhs1puE1/136627?play_token=7ze5U8x0Et&token=GhYNABZdEQkaDQgEUABVUAxUDlJTAA0GU1FXXQhbB1JVVQAHUgAGVQ0aFRAQFxAGVVhnCFNBDgZQBldWDhRERBJRFz4MUREJGgkKAldUUEEYF0wIWgYWDVIGVVQKCl4HWAVJQxVcVxECGg8EWlFbQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBU1QNBBpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFaV1oGBxoc
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-15",COLORS (UK)
 http://195.154.184.243:25461/GrxRdkwQxk/geMfuXAXtX/2845?play_token=SEox8s8fcA&token=TURYAhZYEAwSUFJUDQcCAgwHB1RXCgcCBQYGBlQJUFAPXgcCAQUBBwlGTxBLF0AGVA9uD1IbCQQJB1EZREwVAEQ5WQdHChAHAlJaCwxWEE8XFlgLUxsJBwcHVQFRCFRVAEoSEwxUEAwSUlsED0EeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEApQC1sXThMFWUxdQkNKRg9EcChHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BBwhQCkFI
@@ -1646,218 +1311,12 @@ http://45.86.190.64:25461/xQTSjm3NBw/zgAbEszSzg/34214?play_token=2hYSOwxori&toke
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-1",USTAV BHARAT (UK)
-http://103.71.172.146:8080/live/token/YmpkemJsQkxRVFpxYVZwcWFEY3ZjSE54ZFVsSWEzaFJNRzFFY1RKUVdHeEJZMk54ZGtOMVdtTnVObWt5TjJOTGNrOXBURXc1VXpKcVRFZFpTbkZyTUVOek4xZ3Zka3gxTVZOeFVYUnpZWFZCUWxOS05XVkhjSG80TDJKRlltVlRZalF2Um1GUVVsa3JXblY1SzFoWlZuVTBObGd5TjJaUGFuWTBSak5PTmtVdk1WaHVkazlXYjJoUU9YbFJTRzFYUW1Wd1pESTJNRFIwTDNNeGQwWlNiVzFrVnpsUWNXUlBNa2N3Tm5CRlJ6Vk1lVE5KYTNkRk5TOXhha294Y0dsNlJ5czRSSGRKTHpSc1FqVnpjM2RWZFhwb1VFcFVjVloxTldveVJ6WnllRGg0YzI1NGMwWjZUaXRvVUdNNFNXSmtaR0ZNVGpKS1psZzRSa2R3YTBrMmFGZE9aMW81TlRCbUwyMU9kSEpvTkVWdmMzQnBXVzAzZDBKbFRXVjRaVU5hU1RKSk5uQlBPVXRyVTJNMGFYUlZlVk5GVTBOb2N6QlpjalJpUW10dlUyRnNibWt6WlZsRWVtSm5ibmxvWVdkMmNGWmpNRXhzUjJkR1ZHZDFiRXgzVmtoRVdFaFJVSFVyUWxSUlNVeFZTa1ZwU3psaVYwSnBlWFpsVEhKQlNtY3JLMjl5VmpKYVRUVnFiekJGV0ZkdU1ERXdWVkYyTlVSbFRVeHZlbkpCV2pGWmNGTjZOVVZOZDFVM2N6MD0=
-#EXTINF:-1 tvg-id="USTAV PLUS HD" tvg-logo=" "  group-title="IPTV-1",USTAV PLUS HD (UK)
-http://103.71.172.146:8080/live/token/WTFkT1NHSnRVbTlxV1dkM09GTXlaQzgzZW1Vck9VZHdhMGxTTm5OaVdVVk5Na3BCZG5CakwxVTRkV0Y2UmxNclpVa3ZiSFJSZDB0bVdqSkZWemxDV25ObWJDOW5UWFJGVUdJNFFYaEZjM2QzZEZsTGNWVTVlVWh5UkV4R2RFb3dXbTgxZDNKRldFOU5jSGRzVTFWb1kwdzJiRmRPV2s1VVNWSnRUMDlXYm1WNVdtZE9lVU13U0dsSlQyeEdhR0Z2S3pWbldGTm5PV3RpWlhONlFXRTRZV3MyY1RaVU5FcGtWRU1yUTFSVlVXRTVWRmRMZWxaS2JERjBRVXhuVERRM1QzRk1ZVVoyVG1rMGJXdFFVamwyVjFsNVVXTk5SMUZ2VUZndmNHOUJRakJEZW5ZMGMyNVNlbE5QVWtKbWFWTmFPR3hHTTFrMVZuRlZPSFEwYVVoUVNrSkpMMk5IZG1Sa015OUthbEJIYlRab1VXdDBWWFpUT1RZeE9XZEpWRlZDTTBOSFZETndlRlZUUjNaemMyWmpkRWxvTlc4MlluRjRTakJWUm1SUlZEZEVXbTUxUVU5RFpuUXJZME5pYVhCQ04zUjVia2d2VEdSRFRsUmtWRU5IUzFjd1RsQnBWMGt3WmtSalRscDBVU3RTTlhGWU9HRm5kRkZOY0V0MFEwaFhObnBqZFVSblJGb3hSV0V2T1hWWVJIVnJSbGcyZFVWWWIyeFhMMHQ0VTBSeFZqZFJhbVZLUkZWR05FMUVNMjkzZEVOclUyUnNRMWw2TVZSWE9UTldTQT09
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-1",B4U MUSIC (UK)
-http://103.71.172.146:8080/live/token/UW0xRllWbDVhMnR1U1ZaRGQwZ3hiMEl2VHk5NVNIcFVLMkl2V0VaV1RVbDBNRlowWjNOMU9UTm1RemtyVTFBd1RqVnFSbE13YjJWV1pqRkxlR1l6U2pGalRuWlNMekp0WlZSVlFXTllaVFZXVWk5RFNGQnFSVU0yWW1WTmFWaDNOME5qZG10UlVDczNVMDAyT1RKVVVESTFZWFppY21kVlduQktXSFJPWTNOVWRrTkVUWE5tY1ZSRE5tWnhhMHROVjNsSVYxUmlkSE5LU2t0VlNISnJTVloxWVVScWFrWjZiVWxvVG5OSFJqTkdUbUZaYzB0M2IxVnZTRWRqWVVsRlZqaEtOemRJTDA1UGRUSm1lWEpXVFdZMGVWaFFiV0pCZVRKS1RtczBRbEJXTlc1eFQyRXlTelp2VkdWblZGcG5OMHBIZFN0YVVIQk9UbEZrWTBNd2JsZDRRM2MyVkZaWVRXRlZMMmRtTTFaWlpFUTRTMWs1U0dWTUsxTnhNVzAyV21KcU4yRTRaSHByYTJOT1RrdzFSWFI2YzAxT1FWRkJOMWxGVTFSSlRqUktXblZxVDNSc0szVTRSVVV5ZDJSR1RXUTFWU3RXZWpOTVVsUjZWM2QzYTJsVmFrUnRaWE5CV25BeVZIaFpiMGxHV0ZkVldVRklieXRhY1ZsUk4wazVTRVJ3TkhneFZTc3dNbFl3UjFNM1lVWTNNVmg1ZEhNM1RrRlliR3BWVjJFMFYzTm5aVXB3VFU5UmFETkVSSFJCYmtFM1lXWm9TVUZHU2pGeFZVZ3hiUT0
-#EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" "  group-title="IPTV-1",USTAV PLUS (UK)
-http://45.153.33.71:25461/SKvzGOv2nbFnUKY/YiM36jW1dK/100799?play_token=7si7ZNqHlk&token=S0ZcVxENFggUBwwBCQAHXQIOX1BUCVQJAwcHAFYJV1RRVgUBAQMFBlNDGBVCFkQBAls5CwcTDAgHBlIKWxQQFEMBRmkLARYIFFAHAwdWB1xBGkQWClxTGw0HUwdSCwJZB1YFGkAVXVYUWxYGCVAGVkEaRAcbRVNLWVcJbAZdRAhTARYMDBBYXhpDW1luBlMJAlgCQFkTBhsbFAxAEhoID0UIWBpAB11GRABAUhNYFFZQDlRATxNVVkJYEUEbGghDeSoWGkAATEZTD0deXgwUXkFCFUBPE19KaEQAQBZKVwBdAUYUWEcEEBpDWVZJPVULDVgDARdYWVdEFF8RUxoeQ10LWl8WCkZtRghQFQtAAFZSAF9AHg==
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-1",ZEE TV (UK)
-http://45.153.33.71:25461/SKvzGOv2nbFnUKY/YiM36jW1dK/100803?play_token=LupIQEtO2Q&token=S0ZcVxENFggUAgICCAdXAFQOXgZbUwJaUg5XB1FbU1gHAgADAAMHB1dDGBVCFkQBAls5CwcTDAgHBl0DURQQFEMBRmkLARYIFFAHAwdWB1xBGkQWClxTGw0HUwdSCwJZCFAMGkAVXVYUWxYECFIHVEEaRAcbRVNLWVcJbAZdRAhTARYMDBBYXhpDW1luBlMJAlgCQFkTBhsbFAxAEhoID0UIWBpAB11GRABAUhNYFFZRAVJATxNVVkJYEUEbGghDeSoWGkAATEZTD0deXgwUXkFCFUBPE19KaEQAQBZKVwBdAUYUWEcEEBpDWVZJPVULDVgDARdYWVdEFF8RUxoeQ10LWl8WCkZtRghQFQtAAFZRBl5AHg==
-#EXTINF:-1 tvg-id="PET" tvg-logo=" "  group-title="IPTV-2",PET (US)
-http://50.7.113.202/vMdBE2Qw/agnzAb7P/364339?play_token=dCAuNwWo50&token=SRtZWEMNRlsVAgUABAIGDgVaBlJRVwFXB1FSVVdXVQNWWgIMUwNWBVEXGxpGRhBdVFU6XlEUD1EHUgIHDx5HE0FcQ2ZZAUZbFQQEAAAEVhoZGhFeWFMXWABQBQQFAFJVBAAdG0AMAEMNW0JUWR5AXU1MAEVbV1k9VQNHXVVXR1xcTF1VHEcLD2hRUlVUXAYaDxpUFRkUXBFBRAsWdFoEFEZQEXhZFxAEWxV7TFEcQBQXWgxDR1dBBxNcX0FaXklEUVZEV0QXHUMNF352Fx5AXU1MAFlGX1oME1wTQEUQSURbSm5LVRYQE1JUWl1HEFgaBRpJFVhXTT1SCV9aU1ERD11XQhsKR1VDGxdaV1tbFldHZxVeURQPDEQKXUk=
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="IPTV-1",COLORS HD (IN)
-http://fitnesscigars.co.uk:8880/auth/0NtLDnwndDxuR3wHXPIfQ-Erpec8OQSILdv_4vU9nfPgZjD8ulKQZZP2K4vW1u8Sw0_CKkpX5RNUZXskYmg3qNeyRL4AHh6MPrAmNr_Pd3k
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-2",FILMYARY (US)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1",FILMYARY (US)
 http://50.7.113.202/vMdBE2Qw/agnzAb7P/364342?play_token=hyJlmlQOlB&token=SRtZWEMNRlsVUQAPAVFQCANaVVZUVFQDUAQDBQIKVlEGCAcJAARSUAUXGxpGRhBdVFU6XlEUD1EHUgIABB5HE0FcQ2ZZAUZbFQQEAAAEVhoZGhFeWFMXWABQBQQFAFJSBg0dG0AMAEMNFwYOAAVVGhkaAE9BU0cMUApuUFNEDAVXGwtXRQkITRVaWWdRVw9ZW1xHDRcHF04TD0JEFAhHJFpYQ01ZRSUIRUFSVBV+FlwbGkkVV19BEFASVBYMXBAKXhUTWl8QChVFTBUCF3ssGhkaAE9BU1sRWAlfFgwQERUQFRNQQzoWBERBRV1UXwdKFwJHBxcaFw9QHm5XWVwLA1FNWFZeFkZbFQQVFBdfDVZcTApFakZcBhNcEwUAB1NSEEQ=
-#EXTINF:-1 tvg-id="" tvg-logo="TRAVEL XP"  group-title="IPTV-2",TRAVEL XP (UK)
+#EXTINF:-1 tvg-id="" tvg-logo="TRAVEL XP"  group-title="IPTV-1",TRAVEL XP (UK)
 http://89.163.146.164:25461/qWZu1k5x/df3u6wdU/374315?play_token=hllqeVW5XK&token=SRtZWEMNRlsVAwUJVwNXCFEBVQAABQwDUgcBBA4EAwdXAFVYBl0GWQcXGxpGRhBdVFU6XlEUD1EGUgIFAx5HE0FcQ2ZZAUZbFQQDCQIDUBoZGhFeWFMXWABQBQQFAFJfBwsdG0AMAEMNW0JUWR5AXU1MAEVbV1k9VQNHXVVXR1xcTF1VHEcLD2hRUlVUXAYaDxpUFRkUXBFBRAsWdFoEFEZQEXhZFxAEWxV7TFEcQBQXWgxDR1dBBxNcX0FaXklEUVZEV0QXHUMNF352Fx5AXU1MAFlGX1oME1wTQEUQSURbSm5LVRYQE1JUWl1HEFgaBRpJFVhXTT1SCV9aU1ERD11XQhsKR1VDGxdaV1tbFldHZxVeURQPDEQKXUk=
 
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-1",USTAV BHARAT (UK)
-http://xtbukguru.space:8080/2QYoTh7BeH/M0nUNOwo3a/33256?play_token=3LPvcOEGt3&token=GBNZVkBdQ1kRUgFVV1INBwNWAQ8CBlUBCVcGD1dWAVoCBQgGVQBWAAYVHxZBFUsAVl5pXlATCgUDBFAPT0BBSgZDbl5XF1tBAgIGAQRDFUdDWltSFgsBAAQGVgtaVAYITxNBXlcXW0EBAwIMEE0bAE9HU0VaUFxpVFMTUAAHFgMNRF1bHxcODWxTVllTD11HDREGFRgTWUVAFF8bIQpVSxdYEXZaRxUGXxd/QFZPG0kVUV9DRlBEUxIMRwtbUQQbTxNSWEZbFRFKFQkWey8bSRVWTkNRX0NfX1hHA0EWRxtPE1hEbEcEEEdFVlVfBEtHDREGFRgTXVdIaQZWDQxRWhdYXllAF1tBAhUfFl8OVwxDXERoRFhUFAoUVwFQVAwbHg==
-#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="IPTV-1",SONY (UK)
-http://xtbukguru.space:8080/xx29/12/2021/Al90VrK2n1/12246?play_token=W1JJP6Ex7n&token=GBNZVkBdQ1kRUgRSBVBbVgYLBQAHUwdSAVcEC1JUBl9WCVIGBgJYVFIVHxZBFUsAVl5pXlATCgcCBFEPT0BBSgZDbl5XF1tBAgULDAFDFUdDWltSFgsBAAQGVgtbUA0ATxNBXlcXW0EBBQUNEE0bAE9HU0VaUFxpVFMTUAAHFgMNRF1bHxcODWxTVllTD11HDREGFRgTWUVAFF8bIQpVSxdYEXZaRxUGXxd/QFZPG0kVUV9DRlBEUxIMRwtbVAwbTxNSWEZbFRFKFQkWey8bSRVWTkNRX0NfX1hHA0EWRxtPE1hEbEcEEEdFVlVfBEtHDREGFRgTXVdIaQZWDQxRWhdYXllAF1tBAhUfFl8OVwxDXERoRFhUFAoUVwFUWg0bHg==
-#EXTINF:-1 tvg-id="USTAV PLUS HD" tvg-logo=" "  group-title="IPTV-1",USTAV PLUS HD (UK)
-http://kulkulkulkul.xyz:8080/xx29/12/2021/Al90VrK2n1/87480?play_token=HnWYmdXmHE&token=GBNZVkBdQ1kRAFUNB1laBwIHBAYDVwIAVQdRX1oDAQ4HBgdUBQYAUQQVHxZBFUsAVl5pXlATCg4HAl0JT0BBSgZDbl5XF1tBAgULDAFDFUdDWltSFgsBAAQGVgtbUwMMTxNBXlcXW0ECAQMEBkMVR1JLQlJGX1Fab1IATwoBURtZX0RbXxlDDF1oV1FfAFcBFQkUBxYdEl9DRkcDQSBcWBFFWBdyXBMXVlsTeEYFF0cbEVReQENRQlUUXxtWVgwOQR0TVFxADxdBThEOECh3RxsRU09AVF5FWVkLG1lAQEpBHRNeQGoTBkBDQVFTDFwXFQkUBxYdEltRTjpaDAxaXABFWFhdRkNZEQYRGBAMVgteR1lFa0FZUhIMRwhRVQEPQUw=
 
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-1",ZEE TV (IN)
-http://5.206.230.120:8000/mag00:1A:79:A9:D6:49/xiIg286qR0/174692?play_token=ScILjMHsKO&token=HRBaWUoKFwlBCARWCVteVARXVABRVA1YAVMDWAUMAAUEVlRcAQBQV1cTHBJCFxQEVFs+DABDAggEV1dYVhUbQBVXQGdQBhcJQQIEBAlWRE0XQggIAUMCCAVXUVJWAQEEUx4QSFAGFwlBBAMIAUFKQ1BOFQAWD1lVbAcEFw1aXBdcXEdUVU4XXA1uVFVcAggFFwxDVUZNGlBAE0NbCkxVWUoQUFFNEFRHBhMKEgBVV1kXGkMGCxRWTUEaQ1tGcHcXShBXQE0HW0AKXl4SC0ESEhcaQwwXPkpcQBcTBAVUXEdECBAIG04XXgJJb1NeDQgEVkIICgoSGgMRUkNNRlRWWw9GXUpmElxXQQsSBQJVU0NI
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-1",COLORS (UK)
-http://188.93.238.28:8000/mag00:1A:79:A9:D6:49/xiIg286qR0/143324?play_token=nJrhGiDSzH&token=HRBaWUoKFwlBUFIFAFpQBAMDV1ZSA1xcBlVYVVdfAQEAVwABDFpTUlITHBJCFxQEVFs+DABDAggHUFJTUBUbQBVXQGdQBhcJQQIEBAlWRE0XQggIAUMCCAVXUVJWAQANVh4QSFAGFwlBAAEJB1NSQxkUBB0QBEpXUg8+BQFPUFYDEAhWTA5ZH0FeXm9VBgsAW1JDX0ZRGhURChIRRgNXQApeHhpbC0FBAkVVEgtBVFQHAkNJRgJXTF0XExhGAxt8KBAeGlwaQVYNQllfX0FcQ0FFQ0lGCEtmQQYSFRZcWFgDQBACG1IXH0FcUUhuAAkPW1MCEQ0OVkoRWUNQRhUbWAlcW0xWEGpDClUSChNSV1gBD1lHGQ==
-#EXTINF:-1 tvg-id="RUBBY WORLD TV" tvg-logo=" "  group-title="IPTV-1",RUBBY WORLD TV (UK)
-http://62.210.151.201:8080/t7nMx95fsu/U6M9D5Io7i/196469?play_token=c2rQIlrITp&token=TxtcA0JdFg4RVAFWCgQCBQABB1EHUlBRBwkFBQAABQVXX1JSU1QNVVdEHkFLFRMGAg5pCgYRDAFfDwYBDE0XREdcRj1YURYOEVcGUQpVWEFPQUIKD1YUClcPBgcGVQcHBgsYQEFcUBYJCEcPVE1DBhsXUxEMUlpvAlxEXlYEFwtaTFgOHRdbWmwCVw5ZDwVBWUEHQU4RX0MWGwhZQA1ZHRZbXRZDVEBREVxcFlQNTUEADEMNFkFPElwbe3kXTRdUTE1RDEJcW1oRXBAXS0NNQQoQaREHQEJCA1hfUkdDDxMEGxhAXFRMa1AJXA1dAhUKDA1FQVgRBxJKG19YWwhBXkZmRAtVFw5aRgpeHg==
-#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-logo=" "  group-title="IPTV-1",STAR SPORTS 2 HD (IN)
-http://185.191.126.109:8080/sHdkq7nU/9OKDn8s3vL/136615?play_token=scOOTCbeDf&token=GhYNABZdEQkaDQ0AW1FTVFYAWQJWUwwBVgYHUQAMVwdXBVQEVVRVAQ8aFRAQFxAGVVhnCFNBDgZQBldVDBRERBJRFz4MUREJGgsOA1pWW0EYF0wIWgYWDVIGVVQKDFUAUAxJQxVcVxECGgsFVlNWQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBU1UFBBpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFVVVQADBoc
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-http://5.206.230.120:8000/U12elfm26k/OysxH0HU2EJM/9234?play_token=5yTy21SILG&token=HRBaWUoKFwlBCQMAAFpQWFMPV1dXBQ8BVVZXVlMICwUABgsKCwEDBQUTHBJCFxQEVFs+DABDAgABUFVNRkxKUBRtW1wbWBcBVAAFBBNPRBVcWwRHXlAODQNQVVJQDwAZREJbXBtYFwJXCQYJE09EBE1CBBcKAFRmVwYXCAdcGw8IR15UFUBaXTxVVV1QDQJDDxRRR0hDUUpDQVsPEVVVGURQW0xLA0FWQQsSAgdUUEMZFAIKEQ9MS0pBW0MtdxsZRFdKTFwMRloMXxIKExcVQxkUCBY7E11KRxEEAAlcSxdcEAIaFUBYUhtuU19fDQMCQV8OCxdDAhsCQU1DCVZXXBJdQGdJC1ERWRMJBglSRBw=
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV", (US)
-http://195.181.166.92:8080/zrX76jHy/Hrwdkhvoue/10820?play_token=Vj1dusY0Ve&token=GhYNABZdEQkaXgsHVFMGVVcGAQMCBVYCWgZRXQ5ZVQEEBQAEBlAGUgkaFRAQFxAGVVhnCFNBDgZTCFNUFRoTQgRGOggBFwkRDA4BC1JRQE8WQVEMUkEOBlUEUVcNDFYFVBhHEQxREQkaDA4AW1dATxZQQBVSEVpWD28FAU9RBVRDDgsUCVkfEVdWZlYGDgMNUBcCQwdBGBUKQxFGA1YTXQ0YRwMMQUFSTF0bCEFWVlEWGRoCWBZaQxFJQ14bcSgTTRYAGRFQXUBRV1cQWUEWEBYZGghEPEZSEEQTAVhVA0NDDkdRRxkRXllAZlEMDQwGV0FRDlkQFg1BAUNIG1UJXwhAChM6RVpXGgIbBlNVVkFJ
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" "  group-title="IPTV-1",SONY SAB HD (IN)
-http://146.19.16.177:25461/8Xq6EwKa067XYwM7HdRxK/qL8fo7cIc7/182657?play_token=PS0hVhXODN&token=GBFaURELG1sRUVYEBABTUVEDAFFYVAdfDlQEWVENVARRUFMAUFpbWAoVGRYWEUMEVg9oXAVDXggABwRUAhUQRBBWQG8LBxtbEQUEBFNWBVMVThVBCAwBGwIEBFUFCgYFUAQHHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="AND TV" tvg-logo=" "  group-title="IPTV-1",AND TV (IN)
-http://185.205.201.75:8080/jzZDKSbfc6DJ/5RzDckmzO4/2174?play_token=1OWLLn6gCF&token=S0YLWBELGgkSV10GUVYEXVwHAVdQWgkAAVFcAFdRCVdTAAYOAQcLAgkUFBYRFUQAWVhqWFIaAwYGUgweQBRKUEI7Cl1AWRoCAAUJFk5DQgxVUBcLBw4NBANWCwRaWBUXQA0HG1gNTV9cGhpRGhVTF1ZUWW5SXU9dVAAaCAwUVVkcRgxXPQddXlFYXBZYQwdHFBdcQkYaA1pCCVQeQANQQUIFF1xAWVZGXFoUFgEOQwtMR0wTDBpwehVJGlcaFVxbQw0MV0BZGkdDFBQWCxJpF11GQUNTWVRRRUcCEFJDFRddBRtmAQxWXVVVTF0ND0VHAhcEExoaVFtZDExdED5JXFRGWRtQVA8FBBRF
-#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo=" "  group-title="IPTV-1",NEWS LIVE (IN)
-http://5.181.167.114:8880/wKc2Bhqq/zORoJ2h1PB/325407?play_token=mH979UOOtM&token=TBINUUtRElhGCANWVgFZUQBQVlcLVwALB1YDB1FRBVMOU1wEAAoCAVcSHBcQTUpSUVw6DF1HAwoCAVIABRsWEURVF29RXRJYRgMAB1MIChUcExEMVAAbAwECUgAGBABVAQRJEkhQVEBeXkVZDxUaUkhFABdXBFVmVFEQWVFSFl5ZRQlcFBtfDDtUVVgCV1wVChNURxVHUEpAFlxeR1tYSBVSDERKWEQHRgpeQA9VFBVTXhALTRdAGwoWL34QGxYBT0QAXktQXwxGChJBEBsUFVlCOhdcFk1LVVULVUAVDkYHEkkSVVhIPQdfXlsGWkxeX18WRwNHCBscFgtfXF5AC0VvFVlcGwoMEVxcSA==
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-1",COLORS (UK)
-http://45.148.146.148:8880/wKc2Bhqq/zORoJ2h1PB/117712?play_token=4v8m3Y0yWp&token=TBINUUtRElhGAghTAQ0OBFEHUgYJAF8KUVdeUwtSAF1WAl1TAA5WAwESHBcQTUpSUVw6DF1HAwgBA1EBABsWEURVF29RXRJYRgMAB1MIChUcExEMVAAbAwECUgAGBABQBwJJEkhQVEBeXkVZDxUaUkhFABdXBFVmVFEQWVFSFl5ZRQlcFBtfDDtUVVgCV1wVChNURxVHUEpAFlxeR1tYSBVSDERKWEQHRgpeQA9VFBVTXhALTRdAGwoWL34QGxYBT0QAXktQXwxGChJBEBsUFVlCOhdcFk1LVVULVUAVDkYHEkkSVVhIPQdfXlsGWkxeX18WRwNHCBscFgtfXF5AC0VvFVlcGwoMEVxcSA==
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-1",USTAV BHARAT (UK)
-http://5.181.167.114:8880/wKc2Bhqq/zORoJ2h1PB/538057?play_token=LsvlIrMBvX&token=TBINUUtRElhGBVMGAFoBBlYHBFNcVgkKAQwAVABRB1YHVgNRDwhTUFMSHBcQTUpSUVw6DF1HAwwDDFYFBRsWEURVF29RXRJYRgMAB1MIChUcExEMVAAbAwECUgAGBABQAQhJEkhQVEBeEgIFWwoJFRwTAB1NAEtXUVg5VFdBXQdSEl9eTVVcTkZfXmoHXFVWXlVHXxtUGxUSXRVAEA1aEVtcSRJaUEQQBURVF1kbCQICA0dJGwZWTF5AFEkQDRYteRJJEl1BRAcKQ1laDRsCFURCR0kbDEpmQlEVREBSVQlSQkcKGgkSTkZdUU08WldZXlQGEVAKV0oSDkQBEBsWCVheDERXS28SDVQSD0ELCAMGA0cY
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-logo=" "  group-title="IPTV-1",STAR LIFE (ZA)
-http://185.217.136.3:8880/wKc2Bhqq/zORoJ2h1PB/522297?play_token=hNUEBy6xBV&token=TBINUUtRElhGUQRRWg8IDlRQVFVYAQoKVFEDAgZRVlIGCV1VWglRU1YSHBcQTUpSUVw6DF1HAwwCBlQJBRsWEURVF29RXRJYRgMAB1MIChUcExEMVAAbAwECUgAGBABSBAdJEkhQVEBeXkVZDxUaUkhFABdXBFVmVFEQWVFSFl5ZRQlcFBtfDDtUVVgCV1wVChNURxVHUEpAFlxeR1tYSBVSDERKWEQHRgpeQA9VFBVTXhALTRdAGwoWL34QGxYBT0QAXktQXwxGChJBEBsUFVlCOhdcFk1LVVULVUAVDkYHEkkSVVhIPQdfXlsGWkxeX18WRwNHCBscFgtfXF5AC0VvFVlcGwoMEVxcSA==
-#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" "  group-title="IPTV-1",ZEE TV CANADA (US)
-http://136.243.47.231:8880/wKc2Bhqq/zORoJ2h1PB/325210?play_token=R5A4y6GbPz&token=TBINUUtRElhGCQgDVAgLBQBXVFdcXVpaAFFeAwEFBVIGBFxRCwpSU10SHBcQTUpSUVw6DF1HAwoCAVQBAhsWEURVF29RXRJYRgMAB1MIChUcExEMVAAbAwECUgAGBABTAgBJEkhQVEBeEgIEVg4KFRwTAB1NAEtXUVg5VFdBXQdSEl9eTVVcTkZfXmoHXFVWXlVHXxtUGxUSXRVAEA1aEVtcSRJaUEQQBURVF1lXTVtcHUcGVhBXTUJNRAoQfnpGGxIASExcXhENX14XWRtMRBIdRwxKOktcQ0AUVVNaURYVCkcAGhUSDwVIb1YMV1ZSU0UMClcWGwMSBUQcEFpbCl5ECkJnSVkGRgoSB1IMCwcSTA==
-#EXTINF:-1 tvg-id="GAY" tvg-logo=" "  group-title="IPTV-1",GAY (US)
-http://151.115.42.244/auth/264378.ts?token=8_yXcaPpe1TR_rDqctaqI1Wa5H8XrmAv5YGMlF_aXX961R8BPtaIVRHlSuPHrfXVuje89cWYYwri3Z1SUPDyC12sOs6aC-gl-TSblinaK5-qeL8k5J1G5P8IF5-hC8s9IKV_6t-3moKf82ZuMFpN9tzs4GNlJUCJjrQSTDxGgYCmd3JCYmB0NzhbY97yCHyeHBqeTGJnXwU0ekLoNfmtXOiqzW257YhBgpNY0ffI7cFS1c9Buv1ypCqRJNAHZLVnXpOULUNIG8HTZxdeR9yNghZASkrbOLU1s1VnEARjBUw-OPugu2vM-Amkw1FDE3OlZ15LjO6ZPtBVnBbvzNUCZjRuc-SXuh4YKG8OxEh38lHqbwtJsX3rKuRqnOmX49HVc_D3O8IOdRlj4GsCW4GK0dL1tEusWfkA6lRLew4UHG_5DaxPNeCBk6qoRAJbxUHm2uXm1XI1XrdvO6rCxNyo1cQ-xuxS1fLJ-JvY5O-DIuVCuZZkLx676ULNtZ9S6jGlifY5gGwl5pkK2urPskwoNICkmXG64jzrAWHN-GuLMfQkl2G7L6AgNcbIF3jhCXPaFFl50GrGxpU41KZDNP0L83EF_sGNC_gev3ax_r9LbxYreqFKMVLHj-h7-ZmY2LTm
-#EXTINF:-1 tvg-id="XY" tvg-logo=" "  group-title="IPTV-1",XY (US)
-http://89.163.146.164:25461/cLzUQyOCH6/Vj0bYMtm1i/375420?play_token=XFfP5Jnm6i&token=SRtZWEMNRlsVUAJcBwdTDlAOAwAMBwJXAAJQAQIBBlALDwddUVRQVlIXGxpGRhBdVFU6XlEUD1EGUwUGBh5HE0FcQ2ZZAUZbFQQHAQQDWhoZGhFeWFMXWABQBQQCAVNSBgwdG0AMAEMNFwUPAwZQGhkaAE9BU0cMUApuUFNEDAVXGwtXRQkITRVaWWdRVw9ZW1xHDRcHF04TD0JEFAhHJFpYQ01ZRSUIRUFSVBV+FlwbGkkVV19BEFASVBYMEFZTBg4TFRIGCxRZQUVBFwhAcXsaSRVQTkEHXxVYW1gQX0RGShMVEgwXPkVQRExHVwNVUEpHDRcGF04TC1BMaVEKCFxcUk1ZCgoSFQ8VCRceQFVaVgxDWkRqElgCEw4UAFJQAQwTRA==
-#EXTINF:-1 tvg-id="XX" tvg-logo=" "  group-title="IPTV-1",XX (US)
-http://151.115.42.244/auth/264174.ts?token=8_yXcaPpe1TR_rDqctaqI6FLOW92cM9zS4CP1xSLlX9TH0Ipo2OCOa8yAFDvNe3IhSbg4_ylpaF75P5777kKqRsJ3oIhGJpxafXLERRO9gx4jW7jJTRR8xdbApv4TGqh0VCtyu2ZwAze0gu7hPvKU-0VzBMLDV0zad7pk_-_0I5usxQ97zbfkISg3koCQybr2vloS9SBWgnJy_Ay32frw_AaSDkScD0jnSW44Da0HDC6WdwZUIG_qqBwGP0JS6Qb1KCTsg7Ftw0NoiMZtjz5L5NJHwuVzhbgCwwHPFcOQj-9wNU6f697VY97HNMyxIvLqKE2yFWvAvfAH7EVuiQ945U5W_dxk6I1DcOheAb-KAwXhGT06_uIkNQ5h0HgtM1VOxzu_1RKmNoyWmJH6LcXIfHEcbHiS4zSiwJz1NMa4WGxOriBXjenP--_t83FIF7_JwN-RsgN-pKYbs-ktsR2eOmJVi7qBjZ0BzmHVmWTJ7m5856vVznsJRW8OjUXdzQnWAtZ93LwokYYYAwaumrfT2Rq5Wwc1v_vAcO6Aifo0TIsRR89gah79cmfdtgKy1Zt8yTnTW-3YzxGrHBUaT8jQZiS2ds9uhzLiWk69fp4SFNzX0EyiCsyZYu-3vE0o4X2Ydulj2dBhVVabHe06T1NOw
-#EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-logo=" "  group-title="IPTV-1",STAR SPORTS 3 (IN)
-http://141.95.64.63:8080/guuEekjzyr/TI2WDQTa3X/269420?play_token=AZFRbcORif&token=QkdcVUpYRFlBVQFUUFUEVVRQAlEGVlZTBlABUAAPClYAVVcACwNVB1ITTxIVFUAGUQhvC1YWWwICWwwECRURRkoARmtQVERZQQBXA1JSEE8SEVkPVxZbAQJWCAIKDwQDAEkWRFBURFkNRA9cSkNXG0QAQgxTWD5UURRRVVwbCV1MCVgYG18IPAdUDlEIBRBZElQSThBdEkAWWFZDVVUfEVsMQEZYRANBWV8WXApNEABfEF4WQE1DChYrdhQVG1ZLTQBaR1BfCEFZExdDRE0QCkM6QgdBQBNVVQ9dRBsDEQMbSRZZWEg5AAxfDVUFFVsMXhYSWBAFQxwWD1dYUE1cQWYVXVAbCggWD10e
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-1",COLORS (UK)
-http://51.89.172.169:8080/guuEekjzyr/TI2WDQTa3X/202355?play_token=HLL1ZNNVRa&token=QkdcVUpYRFlBAAcGX1gDU1NRVQcBBAAIAlANAQEIAwcNU1ACD1ECUQUTTxIVFUAGUQhvC1YWWwIEUAsDDBURRkoARmtQVERZQQBXA1JSEE8SEVkPVxZbAQJWCAIKDwsADkkWRFBURFkNRA9cSkNXG0QAQgxTWD5UURRRVVwbCV1MCVgYG18IPAdUDlEIBRBZElQSThBdEkAWWFZDVVUfEVsMQEZYRANBWV8WXApNEABfEF4WQE1DChYrdhQVG1ZLTQBaR1BfCEFZExdDRE0QCkM6QgdBQBNVVQ9dRBsDEQMbSRZZWEg5AAxfDVUFFVsMXhYSWBAFQxwWD1dYUE1cQWYVXVAbCggWD10e
-#EXTINF:-1 tvg-id="AND EXPLORE HD" tvg-logo=" "  group-title="IPTV-1",AND EXPLORE HD (IN)
-http://185.83.69.164/auth/3by0FXv-QFJrM0hULfcZD2bkB7OjcxYHIS-YmX1dkqIJyI-Ot8lH19JfsXgav8UxiJFi3IiMEcxmAT_L-OxihV4Gpwi4JS74tkXDo-rxt2ePVkKaEDgXe78Ffq0F7ucs3xxtMRD0XxqVXXLUdCvdH_kw1XYq9Ik4E4OCwcj3EV3Il5AWCt42FKGEy4ygm2lUUhWkzn0UYAdbS2n2gbcPNxY5Hk-f2sspSRX9g-Hwm0HJSjRQkZAXLbBOFFVCVXYjI7IXDn0ugFhmpJXRjsqGku4asZMCITiLpiO4QKlvizy161QoKIuJVVJOhm0cdv0lUCv1KUJeoyRGshzKO4aM5fEkAWUUMWfaveDv9XY9N5YFHnfeS-V79FKftaSHgvqpFrk3WfHzLCBv1c2sHwisOd-QpLJCjMnuasFdrHdDq6HysC6znSbS56JvPRqUsIKwrPuDLJZdrt4PI5raIZp9eR8rjUz9JtOF4yCQjdSmtEGdhsoALlGxTgN4gbUuxhZzHp0NovApKDKTAaiuVYC0KnPg3u8wS6h94Jw9tpw3CRWxzDEiVau8GDY6Lk5jZqlBEaESZzOzSYWmd0_j1mUXc-9WINEVAMuiOgWCOIOxVfLv27Tb-P3TWPl5b7zfBsLMPev3TCe_YwY_PHEFjmCu1g
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-1",ZEE TV (IN)
-http://146.19.16.177:25461/jktAxWGR1mwJiKeIaO7XK/V4Ye4qEeQV/182679?play_token=k6Jbs5P1EE&token=GBFaURELG1sRBgAHXQcGUFQGBwdSBwUBAQNUVVQOUAJRAFcIU1oAWAoVGRYWEUMEVg9oXAVDXggABwRWDBUQRBBWQG8LBxtbEQYCAldVAlcVThVBCAwBGwIEBFUFDQEGWgMBHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="REEZ" tvg-logo=" "  group-title="IPTV-1",REEZ (US)
-http://185.169.253.95/B18531N6121C/KCuCnXXVz1/208?play_token=bwsDZOYQUt&token=QxcKVhcOFghECw8AU1cBDFYHCQBSDwcDDgdVBF8DAVcKVwEDUQMHUFIRFRUQQUtcVFtnW1MUXFcJXBwTTEYAF2dcBhVeRAcBVwMIBlIACBsZFExbWlNEXwhSBAENAlxQDgZOFRQPUBBcEQ8BVQwbFRdTQEZSRAgEVTtUVE9cBgAaDwxCCAoYEAldZlMGWFhXURQCEAcUSkdQF0ATA1sQCVQZQFUNEkZTElYbDUEHCgEMFBQQVFkTC00WSRMDFywrGhlAUhwSUVwVWlZZQQ8bTUYUFBBeRTkXXBdEQ1xUCABKF1gVVEQYEAtSQWgAWldXUFVMW1hYFUcDRgETFRcIClZcFlgWOURbAhEDFVIMDwoMFEU=
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="IPTV-1",STAR BHARAT HD (IN)
-http://45.153.33.71:25461/02584348879538/VWbbCypIRq/100802?play_token=kdpsACb6X5&token=S0ZcVxENFggUBwwGBwdXAVRXVAZUBg8MBFMAV1NeU1JTXAVSUldSBAdDGBVCFkQBAls5CwcTDAgHBl0DUBQQFEMBRmkLARYIFFYDAwFaA0ZPFBILDlQUAwYAUQNWDwtRBVcYFBIMUBAMQwAFA1QDRk8UAxoXVERXVlo6VwdOWwJVRg5YFwlYHhQOWmhVB1sFDVJEWEEBFBUVXxZDQAJcFFwIGBQADEBAVxVRFQtABFBUA0ROQVJZTFlCF0pAAhAofkYYFAcdQFdYEl1YX0AMRhdFRE5BWEVmRVMWRxBdUwxVFhYMQFUWHhQMVU9uAVkKDVMFFgpeWEoVDEcCQBQQDF8KXUINF2tCXwUWDRNUBFZTBEQf
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-1",COLORS (UK)
-http://45.153.33.71:25461/02584348879538/VWbbCypIRq/100811?play_token=VbQ25BYYOa&token=S0ZcVxENFggUV1JUAQEBB1EDAAYGBgFaDldWUgZZAVNTUANXVFEBAABDGBVCFkQBAls5CwcTDAgHBl0CUxQQFEMBRmkLARYIFFYDAwFaA0ZPFBILDlQUAwYAUQNWDwtQA1wYFBIMUBAMQwIHB1EGRk8UAxoXVERXVlo6VwdOWwJVRg5YFwlYHhQOWmhVB1sFDVJEWEEBFBUVXxZDQAJcFFwIGBQADEBAVxVRFQtAB1xTBkROQVJZTFlCF0pAAhAofkYYFAcdQFdYEl1YX0AMRhdFRE5BWEVmRVMWRxBdUwxVFhYMQFUWHhQMVU9uAVkKDVMFFgpeWEoVDEcCQBQQDF8KXUINF2tCXwUWDRNTAVBVFBs=
-#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo=" "  group-title="IPTV-1",AND PICTURES HD (IN)
-http://31.43.191.232:8080/0cnQ6ZZ9l9/lzZCI9d4fk/218161?play_token=0GU4ta9mHf&token=eUZpd01wd0lZS05pcURy
-#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="IPTV-1",ZOOM (US)
-http://103.71.172.146:8080/live/token/Tms1TVpGQTVLMkpKZEc1elVYTXlOazVLVUdSU2JrZHNkamxRUVhwelRrbFVRa1kzU1V4UlQwVnNjazlJWmxadldtd3JNV3BwWVdNMFpUYzFWMVp2Umt0TWVFTnJUbTVtVDFkWlNEbEllREZDVEcxVFJWcDNaMEZHV0dWM2VHOTVNWGhpZGtGeVF6bE5TQ3RoYVZWcVFVc3pjRFV3Y0Vkd01WQmlXRVF4TUVNNE5sSlZaRTVEYkZKeFFTdHlkRmRHU0M5WFJUbERkelJ6U0dwRlRubGtRbmt3WVdaWFFqSXdTSEl5Umt0MlRHd3lkbXhsSzI4elRXUk1NbFY1VDJKRmRrSm5kWFZWTkdaM2NsTm1UMjA0T0hOalIycDFVMFYzUkhCVlNERk9aMVp6ZEZWRVduRkhVSGxCUlRCNWVFOHJXVUp3YjJ4UWIycDZTU3RPVTNONFFYUnpRWEJSUW05TU1IWjFjbTFtWnpOd1JYSTRhVlIxTm14T2NIUmpZWEpaY1ZjMlZraE9TRGg1V1daRFRtUkxTbWRIVEZrelNIUk1MelpOU2xNMldrVmFUVFpQTTJaSFRFWlNhWE41ZFV4M01tUjJURGhZVDFNM1dqQTRSMHBoWW0xR2NIQnRVbFkxYmpVNU9URTRhMk5YT1VGclNraHJRbmN2WlhJNGIzWmlSbkZCZHpWb1UzQkpiR1pGVkZZMGNqTlJRM2R4TTFneVJHNW5lbGRrV1hSaldYQmlZMEZ2VFVkUldUMD0=
-#EXTINF:-1 tvg-id="MBC BOLLYWOOD" tvg-logo=" "  group-title="IPTV-1",MBC BOLLYWOOD (ME)
-http://146.19.16.179:25461/ldBGj9AUpUzdmIKjW3zWH/aD0e9pVGiI/27510?play_token=hFcovmHNkJ&token=GBFaURELG1sRA1ACVlMIVVNRDgQAUgUMWVdXAAEOA1cFAVcEWwcABVAVGRYWEUMEVg9oXAVDXgsPAANRGRtHQgZBbVkGQQNDAgMNBFdVAkMbQENcDARGAwkDBlEBAQMBVQceEhIKXUMJFQQDVVMJQxtAUk0VBBZXWVltBVBPW1IGEQheFw9VTRFYW2sBAFwAWQYVD0NQRhUaXEERFwMQcwtSQEQLQ3gIQUNQWEUpRQUZQBsXAwgQS1lBV0MPGwoJVBEeEgEMTA9HRUwWX0d4LxVOFVAZFQFXS1xdDxcDEEUQER4SCxBmE1ZEQUYABFwERUANF1FDSBtVVEo+VlZcXwZQRlkNDUpDCRUEFklHXA5ZC0NaEz4UUFwXCEMDCgYJQU4=
-#EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" "  group-title="IPTV-1",USTAV PLUS (UK)
-http://45.153.33.71:25461/F24uDirH8DyjZpq/9JESTpnxdb/100799?play_token=Q7DWwjaSWq&token=S0ZcVxENFggUBFUFV1IFVwFXVwMGV1ddAQMBVlpZV1BTXQQBUAMGUw5DGBVCFkQBAls5CwcTDAgHBlIKWxQQFEMBRmkLARYIFFkFAQlWDkZPFBILDlQUAwYAUQNWAAJSAVUYFBIMUBAMQwAPAVoARk8UAxoXVERXVlo6VwdOWwJVRg5YFwlYHhQOWmhVB1sFDVJEWEEBFBUVXxZDQAJcFFwIGBQADEBAVxVRFQtABVVVBkROQVJZTFlCF0pAAhAofkYYFAcdQFdYEl1YX0AMRhdFRE5BWEVmRVMWRxBdUwxVFhYMQFUWHhQMVU9uAVkKDVMFFgpeWEoVDEcCQBQQDF8KXUINF2tCXwUWDRNUBFVVD0Qf
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-1",SONY HD (UK)
-http://45.153.33.71:25461/K3XuhgyJ8gnxtlz/LDtondROWD/100807?play_token=HzTc6w5AIZ&token=S0ZcVxENFggUVlcAAVRVUgVXAlVRUAdfB1UAAwcJVlkEAAAOUFICBANDGBVCFkQBAls5CwcTDAgHBl0DVRQQFEMBRmkLARYIFFYMAAlbAEZPFBILDlQUAwYAUQNWAAJUBVAYFBIMUBAMQwAPBlIFRk8UAxoXVERXVlo6VwdOWwJVRg5YFwlYHhQOWmhVB1sFDVJEWEEBFBUVXxZDQAJcFFwIGBQADEBAVxVRFQtABFxRBkROQVJZTFlCF0pAAhAofkYYFAcdQFdYEl1YX0AMRhdFRE5BWEVmRVMWRxBdUwxVFhYMQFUWHhQMVU9uAVkKDVMFFgpeWEoVDEcCQBQQDF8KXUINF2tCXwUWDRNUBFZXAEQf
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-1",COLORS (UK)
-http://45.153.33.71:25461/sKAsoPPk8ev4SkP/wiiYUMIlOr/100811?play_token=4BX96ukFMK&token=S0ZcVxENFggUWFIAVAMAUlNTAlZVBg5dVVVVC1pcAgcAVVYBBFZQUA5DGBVCFkQBAls5CwcTDAgHBl0CUxQQFEMBRmkLARYIFFcHBwVaAEZPFBILDlQUAwYAUQNWAAJXBVYYFBIMUBAMQwIHB1EGRk8UAxoXVERXVlo6VwdOWwJVRg5YFwlYHhQOWmhVB1sFDVJEWEEBFBUVXxZDQAJcFFwIGBQADEBAVxVRFQtAB1NbDkROQVJZTFlCF0pAAhAofkYYFAcdQFdYEl1YX0AMRhdFRE5BWEVmRVMWRxBdUwxVFhYMQFUWHhQMVU9uAVkKDVMFFgpeWEoVDEcCQBQQDF8KXUINF2tCXwUWDRNTAVBVFBs=
-#EXTINF:-1 tvg-id="" tvg-logo="ABC"  group-title="IPTV-1",ABC (US)
-http://146.19.16.167:25461/10487570279212/OZLSBHqa4i/75120?play_token=ugYdReDPmY&token=GBFaURELG1sRBwwFXFdXVgdUDldYBFBdXQBTBQVcAANaUlQHUloIWQUVGRYWEUMEVg9oXAVDXg4NBABRGRtHQgZBbVkGQQNDAgMGBVdXAEMbQENcDARGAwkDBlEBAQADVQQeEhIKXUMJFQYAUVMCQxtAUk0VBBZXWVltBVBPW1IGEQheFw9VTRFYW2sBAFwAWQYVD0NQRhUaXEERFwMQcwtSQEQLQ3gIQUNQWEUpRQUZQBsXAwgQS1lBV0MPGwsIVQAQHEAAVhRdQ0dNR18TKHlAGxcEGRBcVkZbDlsbCBMXQBAcQApKPkFSRkAXAFAMUhAVD0NRRhUaWFMZalpdXw1WUUQLDFcSEQ0XBUdJEwxYDF5BDhM7SVFREFsXCAQHWgIQTQ==
-#EXTINF:-1 tvg-id="WWE" tvg-logo=" "  group-title="IPTV-1",WWE(UK)
-http://185.53.88.71:45461/CYkS5CyQip/LgA3AvcsSg/14757?play_token=mHyMejvvVj&token=TBdeBEZaGwxEUQdWUVFSVQgAVgMEAQpVDFoFCgQDUVYHBQ5VAVQOAFNAGxARRBcEWQxsC1IRCQAAVQUFGhNAQ1JHaQxREAMUV1EGB1QSSUNMCF4HFAkCBwBSBAoEBAYAGxdGDFEQA1gTDlseQFUdFV0TXQNabFdUQgtTVxQLW0VbWRpHWlxmUgMPVlwGEl9DCUMfQF9AQxMODEVeWh0XUl5BRARBVxsMCBdbXk4SBg5ND0cQTxEJE30sEh4UVE1EUltFDFpcGwxEFkQQThIMEmcTVhFCQVZQWQdCEAwTBRIbF1sETW1aWQgMUlEWWQoPS0MJQAcRHxNZDV5bQl5Hb0dcUkcPXExaCh8=
-#EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" "  group-title="IPTV-1",COLORS CINEPLEX (IN)
-http://146.19.16.177:25461/40813435093629986460381/ye9qg7HEeh/182646?play_token=Q9hI3lBl0q&token=GBFaURELG1sRAFENUVEIVwADBFZVBwEOXgADAFRdUwFWC1MGAAYNBFEVGRYWEUMEVg9oXAVDXggABwRVAxUQRBBWQG8LBxtbEQIADVZSBkMbQENcDARGAwkDBlEBAQAHWwIeEhIKXUMJWUBYCUkTBE8WUkcPAAhmXFBECFZcEAsNRl5cTkFWD2xTUFkEC1VDDUAGF01DDUpIFwhDd1FTQxdaEnELEU0EXxd5QAFLE00VAF5BEwAQXBoPXBRZVR4TAFxHXhYRQEMJFXx6R0kTBE8WUlsSCAtXGg8QFUYbHhMKQG1CBxBNE1ZWWFEXRwtDB0AbFwwAHGZbWlwPUFpGWAxdQRJYQQhDHxVYWwsMRQ5FPUdcBUNeV01ZXhw=
-#EXTINF:-1 tvg-id="BINDASS" tvg-logo=" "  group-title="IPTV-1",BINDASS (IN)
-http://146.19.16.177:25461/053OsUPZCzLFpjda5mpBU/jk61tOOC1P/182666?play_token=At1WIFWQct&token=GBFaURELG1sRBFcHAFFXUwMBBARWBwYKW1QGUgVfVAgAAVFSVFJdWFUVGRYWEUMEVg9oXAVDXggABwRXAxUQRBBWQG8LBxtbEQYBAVVcBVAVThVBCAwBGwIEBFUFDQoCUQECHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="AFRICA 24" tvg-logo=" "  group-title="IPTV-1",AFRICA 24 (ZA)
-http://45.148.146.174:2086/hawadiscord/PVuMnMQu6k/146161?token=HRsOWUpeRwoWVwwAVwECAlFYC1ADBwAEUgAMBVUCVVRQD1VdWgJRB1BGGEQSRhRSA1RmDAZDA1MCBQkCVBtHRBVcFGdQUkcKFlUAX1ILRBtATVAIB0MDUwAHCABdBFMCVhVESFBSRwpaEVgKTRADTxZcSwsDDWYGU0VRVwAVX18TVQoUG1kLb1ABWQcPVkQNQAgbSUAIShIUCVZBCVtJEwRQEkpYQgASDgpBCg0eRFQNTFcREBgbWBR6dhZJFQBJElwIS1BZCxIORkAVQx5EXhFmSwARFUsHV15dRkcNRwBEFURVWE46U1sKWgMCRg9YDEobX0BVCVIUHxpZClkMRQlLOUhQUkcKWhFYChw=
-#EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo=" "  group-title="IPTV-1",TEN SPORTS (PK)
-http://146.19.16.177:25461/isW7kVnycoLi1p0w8S3w8/syFf3wn8v7/182662?play_token=ANGHyDkYV8&token=GBFaURELG1sRBVcHA1IIUgFSAQMDVFcJCANWUFQJBldWCwICVVJbBVYVGRYWEUMEVg9oXAVDXggABwRXBxUQRBBWQG8LBxtbEQYHBFdVAlAVThVBCAwBGwIEBFUFDQoCWgYDHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-1",B4U MUSIC (IN)
-http://31.43.191.232:8080/KQCh37M0kqGuECNwB5CXx/Hbz6cCaCKG/218169?play_token=A47nbZVCD7&token=NkV1QU9WZ25hT25ZcDd2
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="IPTV-1",NAT GEO WILD HD (UK)
-http://54.38.177.96:2095/d5aiftaIng/44CklZXfdL/896?play_token=Dnz5llx3qk&token=TxRcAkYOEQlHAFQHUFMGUVVZCV5WUQEOVQpcV10CVFMHBVVXDQIBB1wXSRVBQUIBAgxvD1QRCw8NBRQWTBcHQ2tfUEEPRAIGUQRTFR4XRA0OBBJcAQUFBwALDAwBXU4TRF9QQQ9EAQBSA0cbEFBIEAYTXgdcbFVSQlpbURteDERYWhhBWghsVwBYBFlWFwpGU0McRFlAQRUOXU1YVUhAU11CRgJBAxEJRwddAAoXHEYADkUIREFIFQ4RcXobSEBUTEJRDUYPXF1HD0dDQRccRgoSbxRVQEVFUVJVUUtGWBMEFBhBWAdLbAZaC1lXVkQNDA9DRAoRABUYEVVbVw0WXkZpRApRRAkRUAdSAhBI
-#EXTINF:-1 tvg-id="AND EXPLORE HD" tvg-logo=" "  group-title="IPTV-1",AND EXPLORE HD (IN)
-http://185.83.69.164/auth/3by0FXv-QFJrM0hULfcZD2bkB7OjcxYHIS-YmX1dkqIMJyMhAgzNVl_vWRqHxXNdybiMZ71oIvOUZKirtq65EoMgYEgPKqtr5CQXDe3B8RvheeRFFGJul2whskmr4Pgekb76mrALIXagjEE4J96r3DxBgHET-OSciZajLPxzoi5VJ8hbDY5ITSlxmSB0b8WwOCwZt4IF3_8k6sn7Sf9bQ3DgQzzmksO-B5MVWPJtktrNHnOx55Bm3R2Nygb8UsmDn3l7nx7OU84UNbobEw9VFKTDEAxGn51ZcyQmeZ6ekQblLb76ttXuhobCoHPVFiqpeHrhF6JH-vPZm0vqvpxcN8g_galsCutqz4Lz9Lpm9mZd4aOZCqqzCEqywTQSjVyEASS6KVIuzgnqCGPKfwxOm5LdbPQZXW1XwIThYvznhOx3BLyMk73eIB4yiEDDw2eqOqQiUJvMRnbJcEau0kJzlPyLx-pu4LUH4qyyeZl6XTbGea1AOqO1CCZVlx3pKEP8ncf_X7mFPanW7SeJ4c3ZJi-trUSq8qihUL945njInkvshdoKQ4ZmvjS6z2sD98XUlBALhpTeSjUI4FHQ-RAI4S9fAdy6wIgLI36TyvVGod0FTrz5bvZd6rSpq0otgugjU8SHYn_FvOCSJHlGzWwuOg
-#EXTINF:-1 tvg-id="SAAMA TV" tvg-logo=" "  group-title="IPTV-1",SAAMA TV (PK)
-http://146.19.16.169:25461/g6kYSrEEo3/9v15GNx9un/192510?play_token=5kht7jLmW4&token=GBFaURELG1sRBgBSBFVTAgJTBQMHUVMKD1cEUwMLAARWV1cEAFZaWQMVGRYWEUMEVg9oXAVDXggBBwdQBRUQRBBWQG8LBxtbEQMMAFNVE00VFl5YBENeCA4BAlUNDAMHUB8QQAsHG1tdQllYSUdUGUMHRVsADTtdXUNbAlAbCF8WX14cQAxXPldSWFULARNbFVMVGUMIF0kaDxAjXVhARQoTc1kQF1wNE3tBUEtHHUNVC0NHABUBGwJbRw1ZFRBSDEZcRBAaG1sRfnsWSUdUGUMHWUYIDgobAhdGEhcVEFgQbEBVERdLBFJaUEZHXxNRFU4VWAAZO1pXW1wEVk1bXg1AEApAUhtNEVpaWgwRXhNoEl5RQ1sKTFRZTw==
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-1",AND TV HD (IN)
-http://185.83.69.164/auth/3by0FXv-QFJrM0hULfcZD8ZPFeI7QdI7OJ4Zp_tx7E6CCRcVnv5X_h43PyEH6NLNyjgPD3Tmb5WzwvHgrR38oiYJQTbj9kPJFlFCfkFfRBIx45HaxlxVRSlpQ3MQmObbfW6klC2V_2IIJSQOgsf4LlvtUwAaBxnwU2GXvjwjOJahjJu5xsXVxdrvCjrEA_Z-mbLtj-oGu5RMDMs7OmJ6LIrgiMw9AfJPIvz2AUJy808aY4_jBOg075TTR7EsCnUYWHL7iYWYiNyKVIg1bIHvGmulrYavsVMPKUrQRRCFtc-Qwq6Nfi4q35LsaUPFg3l8Y97aPS8KeyA_EhPdDYRhMCKFcokHjJYASjxl_WJRpb8kNQTOCmC-3bb6FVIBLFhiGkSK0FrBCyjKxW3FuDUBbrLkndg0U7nobrTfXKCUL5tmZ4M_dtMxmZlpPIRi3ysDaKM6ev6KI3VqUNfAJ4jybtFigZergsKDnFHd2Z1bdMzool34Bvupg_dxeklWrUytTEQhp524y3THuFsNMTPGHuDd49peFocy_QaKQkz8u8dSP_l6AGZ5Yr8mwYSk1649UQQcE698LgD6769H-msp0Q-9-kUZMQULsGc7A0BOk1NyPgrwcGIkylaT9g_VDmaaA4gZEa69iXVQLsNXg_LhzO1p4aMjlOhDsGEdZ2C5WxLJac895NOz6uz5ok0Tg-PSP9ITD2bddYGE8ux9Eoq3sA
-#EXTINF:-1 tvg-id="MBC BOLLYWOOD" tvg-logo=" "  group-title="IPTV-1",MBC BOLLYWOOD (ME)
-http://79.143.17.54:25461/pYhtvz9hk238hnK/AXem0C7dG1x9cyZ/97969?play_token=vpMnkb2DWk&token=V3ZJamNmNHE4elQ0SkVy
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo=" "  group-title="IPTV-1",ANIMAL PLANET HD (IN)
-http://185.83.69.164/auth/3by0FXv-QFJrM0hULfcZD7YyZmBJfUVYCNxJV2yHKJX1HdiAYTM2-m9IIgaZ8V__ggAMGKd8hFYPyv8g7ewDSavnL0u9ffL1Fpp0ymDZkbr9kldsRASeGxkniRN_bLOmuJ6TeAIhXM66j1cG1elnk_mnS6nmmQC-3ERUbveZPmKKDJjx3J6nlPqnoM02Tm2UZ2s0XZggWiBzGv_OaqWdXzZm9gE-qqbYGTYlYbz34jDTrt_Kxy8lUxHVKpFwWxf__cQO4hjnN0B3smWrhGsgrjgo7NgF2Sc2XDDiW0SXKRzycx_tmrGbS_Q9oAfqtEhP9i_vdzVFbVr4KSuDkDiFlpyx5GvcWZcdXsctqpX8WHSFGblDsGM_m5XhEcg7DIvNYf86tHjwzPS4J8EXkyZlibB8FWJxUXCJMYD3inQ-6DCVkasTeybCP7c7ltsXMBGoJ-m7CmZcu_w5zihpMAH4WGHkWs3PkByZJZ8ZuggL3nSQhdR_BjxZaRXmgYjdG1HWXkmUAaToaJrikCuObvWAuatFH8E0Oqyb914GJmleehs35iCfqawePzrE1Mge4NNwq958kAlJmp6DvSHG3nUg5A47Ekyvr9Ai6cSjavCpqjetGlJ-0EqWxSoEe80wymzIhZojw3RtAymSkWs60Hn-JA
-#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-logo=" "  group-title="IPTV-1",STAR SPORTS 2 HD (IN)
-http://185.217.136.222:8003/n170umR3/c7wXHSm6wL/57927?play_token=WRyMaRx5NF&token=SRdaUBcNEQ0UXFdUUwAABFtRAg9aUFYBB10FAlUDWVpWVwIBAVABUVQaHhQRRxRWAl1vUQYUWQ0CXFNRHBBNSldHbVgARwkVBwsBD1AEVRFPEkRRD1NBAgRTVVYFAgoICgceExQMVxUMVkdaDh9EVhtEVUoMVw9nUQAXD1NXGgNcQF5dSEdcWWlcV1sDXQIRWRIBGk4UCktFR1tEclpZS0ZcEnANF0dSWhh+QgYdRB9BUllMEFcXXRdfDxNcXhQbUVpHXxAXShUMGnt4QB9EVhtEVVYRXwxWF19DEkMQFBtbRm1DARZHRVNZX1MQEVwRUxIcGg9XG2dWCg8IVVFMUF1bQRNeRwIVGhpfWQxaElwRb0BRBhRZVkAJDRs=
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-1",ZEE TV (IN)
-http://5.206.230.120:8000/mag00:1A:79:14:03:DE/YozQlTX1hV/174692?play_token=oDSKVO2GK3&token=HRBaWUoKFwlBAlEDAwBRBQYGWQZXWVoJCwIAVVJfDAAABwYAXFsHBwYTHBJCFxQEVFs+DABDAggEV1dYVhUbQBVXQGdQBhcJQQIFCARaRE0XQggIAUMCCAVXUVRUCwoHUx4QSFAGFwlBAgQAA0FKQ1BOFQAWD1lVbAcEFw1aXBdcXEdUVU4XXA1uVFVcAggFFwxDVUZNGlBAE0NbCkxVWUoQUFFNEFRHBhMKEgBWUVUXGkMGCxRWTUEaQ1tGcHcXShBXQE0HW0AKXl4SC0ESEhcaQwwXPkpcQBcTBAVUXEdECBAIG04XXgJJb1NeDQgEVkIICgoSGgMRUkNNRlRWWw9GXUpmElxXQQsSAwJbUkNI
-#EXTINF:-1 tvg-id="USA" tvg-logo=" "  group-title="IPTV-1",USA (US)
-http://45.148.26.119:25461/58A5CA00D563028/XaghFp6iWU/71295?play_token=pUdbh4qlwV&token=QhUMWBEORgoaUwZRBgcHBlALU1IGUw1WBwkFV1NTCVsKB1QPUQVVAV4QGRdFERAAAFRuXwcUD1EEAl9UHkBMEFxFO1AGRF4SCgcCDQ5RW0dNG0VfDlMXXAQGUlEHUgtUCQNIGxIPABICEAYDD1VaR00bVE4XU0cIVFw5BVcUUABcFV5XFwoIHBpdW2pSAA8ED10TDEEGF0oXWRUREFhXFlVbSBsADxBCWUZQFwxHUVFTChMaQVVaE1tEFBgQWBsgeBVIGwceEFVWQVxaWEdYRxVKExpBX0Y5R1UVFUAHWA5cRUYDQFZGHBpfVE1pBg0LD1xSQgpZWxUXCkRQEE4bDlZZDU0NFDtAUVYXDxRUWlNRDhNL
-#EXTINF:-1 tvg-id="USTAV PLUS HD" tvg-logo=" "  group-title="IPTV-1",USTAV PLUS HD (UK)
-http://31.43.191.232:8080/9JZFGBvB9Edd27/hqh5qunlBq/218198?play_token=6bbQSn3iLI&token=MXFpRDJ6YmQzcjNHME9F
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-1",COLORS (UK)
-http://45.153.33.133:25461/2CC36AD35210933/oBnTPnv1rG/72509?play_token=AlfxIjObpK&token=QhUMWBEORgoaBlBWDgNaV1ZcAg9XAFBQBgUEWVEHXVILAFcLB1FUUw0QGRdFERAAAFRuXwcUD1EHBVZYHkBMEFxFO1AGRF4SCgcMAQJWW0dNG0VfDlMXXAQGUlEHUgtaCgRIGxIPABICEAYEBlJVR00bVE4XU0cIVFw5BVcUUABcFV5XFwoIHBpdW2pSAA8ED10TDEEGF0oXWRUREFhXFlVbSBsADxBCWUZQFwxHU1JWARMaQVVaE1tEFBgQWBs2ahVIGwceEFVWQVxaWEdYRxVKExpBX0Y5R1UVFUAHWA5cRUYDQFZGHBpfVE1pBg0LD1xSQgpZWxUXCkRQEE4bDlZZDU0NFDtAUVYXDxRRU1xQDxNL
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="IPTV-1",SONY HD (UK)
-http://146.19.16.177:25461/JOTFgzEi2cWfeedEmA9Pb/5IIMqYKcBn/182653?play_token=EcPNos2ic4&token=GBFaURELG1sRDgAAUFFTAlJWBQQFWFZbXgVXAlcNBQRXCgpWVAYNUAoVGRYWEUMEVg9oXAVDXggABwRUBhUQRBBWQG8LBxtbEQYCBFNdAlkVThVBCAwBGwIEBFUFDAICUAUFHEATUAURDRcBUlQHVhVOFVAZFQFLVlRePlFcRFgAVhAKDBZVDR8VWlo6AVQMVgxTF1tDVRsUF1sSRRsIEyFbU0IWChkgWkVBUQlFfRVTTBUZQwMNTUpURgQXA1xED18eEgEMTA9HRUwWX0d4LxVOFVAZFQFXS1xdDxcDEEUQER4SCxBmE1ZEQUYABFwERUANF1FDSBtVVEo+VlZcXwZQRlkNDUpDCRUEFklHXA5ZC0NaEz4UUFwXCEMADgMDUBFP
-#EXTINF:-1 tvg-id="MBC MAX" tvg-logo=" "  group-title="IPTV-1",MBC MAX (ME)
-http://146.19.16.179:25461/UKXdu6K8KXTPxbhvJxcbT/3CxBi5mtem/27506?play_token=FQIdKrXJKJ&token=GBFaURELG1sRUQcEUV0JBVEDUwNXV1IOWgUKWQYIBFJQCwMGWgBfA1cVGRYWEUMEVg9oXAVDXgsPAAJXGRtHQgZBbVkGQQNDAgYAA1FcCUMbQENcDARGAwkDBlEACQEEVAQeEhIKXUMJFQcHUFwCQxtAUk0VBBZXWVltBVBPW1IGEQheFw9VTRFYW2sBAFwAWQYVD0NQRhUaXEERFwMQcwtSQEQLQ3gIQUNQWEUpRQUZQBsXAwgQS1lBV0MPGwoJUxEeEgEMTA9HRUwWX0d4LxVOFVAZFQFXS1xdDxcDEEUQER4SCxBmE1ZEQUYABFwERUANF1FDSBtVVEo+VlZcXwZQRlkNDUpDCRUEFklHXA5ZC0NaEz4UUFwXCEMHCwcGVBFP
-#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" "  group-title="IPTV-1",STAR GOLD (IN)
-http://102.129.200.204:8080/bcWykGv9Ww/0HF7vIexFj/19647?play_token=3hAYjVmSSo&token=Q2RSdkI1R3NLTjI4bUZO
-#EXTINF:-1 tvg-id="XXX" tvg-logo=" "  group-title="IPTV-1",XXX (US)
-http://146.19.16.176:25461/85731225554181/jew6HiYlig/88555?play_token=28ZOWBSIGe&token=GBFaURELG1sRUwYHUFcJBw9bUlFUU1YBDVZRWFcPAlcAClBRAVRfUlEVGRYWEUMEVg9oXAVDXgEAAAdUGRtHQgZBbVkGQQNDAgUNDVdQAUMbQENcDARGAwkDBlEACQYDUAoeEhIKXUMJFQYBV1cHQxtAUk0VBBZXWVltBVBPW1IGEQheFw9VTRFYW2sBAFwAWQYVD0NQRhUaXEERFwMQcwtSQEQLQ3gIQUNQWEUpRQUZQBsXAwgQS1lBV0MPGwAIWgIQHEAAVhRdQ0dNR18TKHlAGxcEGRBcVkZbDlsbCBMXQBAcQApKPkFSRkAXAFAMUhAVD0NRRhUaWFMZalpdXw1WUUQLDFcSEQ0XBUdJEwxYDF5BDhM7SVFREFsXDAsAVgIQTQ==
-#EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" "  group-title="IPTV-1",COLORS CINEPLEX (IN)
-http://85.203.17.12:25461/6414DC050500/wM6F0fsk1M/72512?play_token=J25wakCcDt&token=QhUMWBEORgoaBFFUUgdbUVZaAgIHVVMDAAECUlRVWFUNDwUNUVIFVFkQGRdFERAAAFRuXwcUD1EHBVdTHkBMEFxFO1AGRF4SCgEBDQBVV0dNG0VfDlMXXAQGUlEHUg1XDgRIGxIPABICEAEFBlVXR00bVE4XU0cIVFw5BVcUUABcFV5XFwoIHBpdW2pSAA8ED10TDEEGF0oXWRUREFhXFlVbSBsADxBCWUZQFwxHU1JZABMaQVVaE1tEFBgQWBsgeBVIGwceEFVWQVxaWEdYRxVKExpBX0Y5R1UVFUAHWA5cRUYDQFZGHBpfVE1pBg0LD1xSQgpZWxUXCkRQEE4bDlZZDU0NFDtAUVYXDxRUVlVYDBNL
-#EXTINF:-1 tvg-id="" tvg-logo="OSN SERIES FIRST"  group-title="IPTV-1",OSN SERIES FIRST (ME)
-http://31.43.191.31:25461/UxmeqQTBnmqNe6MF7zwcj/bmqHIFrwgK/89939?play_token=Loo8Rdmsxt&token=TxZaVEAJRAkXVAcBVAFXVgJXUQ8DAABWAAUGUlAAAwBXDAQDVwNSClZHHxNFFkQDBVhqUFITAw0NC1YJTUdGQVFGbVxXQ1wRB1YKBgJTFEpGQVxUUxMDBAIGVQVRUQUGDBgQRVoFRAlbEF9dGkBTHhBQR1dXXWZRUUQMUwRHCVxBWF4ZEQ4IbFEAXlBYBhRcRgQXFRRYSkUWCAtFDQkfEFZdRkdSFQMRDwtGXVpOFAULQFtNREgbDxZ7KxJNR1ZKQFFcRloOCBEPR0dCFE4UDxdqR1xFRUtQVV8AQkNfEQIWGBBYUhk5UFoLXVRVFl8JCkYXAxQAGxkWXwpeCBFcQGtEW1ERWwhGWQlO
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-1",B4U MUSIC (IN)
-http://31.43.191.232:8080/5mPxhPyGGbs8CAgKmFpbH/bFJivgnuW1/218169?play_token=mLvu3RWXy4&token=MkhpbVJ0MVNwWlhpYUQy
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="IPTV-2",ANIMAL PLANET (ME)
-http://146.19.16.167:25461/kz39CkMUnwdehRIXmQPa2/haZrz2Bcm4/86655?play_token=mN10ohUdg0&token=GBFaURELG1sRAQBWXAcGVw9TUwVQV1IKCwYAAAJbBQQAVgAJBwAIUQYVGRYWEUMEVg9oXAVDXgEOAwdUGRtHQgZBbVkGQQNDAgINBFFcAUMbQENcDARGAwkDBlEACQYIVwceEhIKXUMJWUBYCUkTBE8WUkcPAAhmXFBECFZcEAsNRl5cTkFWD2xTUFkEC1VDDUAGF01DDUpIFwhDd1FTQxdaEnELEU0EXxd5QAFLE00VAF5BEwAQXBoPXBRZVR4TAFxHXhYRQEMJFXx6R0kTBE8WUlsSCAtXGg8QFUYbHhMKQG1CBxBNE1ZWWFEXRwtDB0AbFwwAHGZbWlwPUFpGWAxdQRJYQQhDHxVYWwsMRQ5FPUdcBUNeV01ZXhw=
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo=" "  group-title="IPTV-2",BOOMERANG (UK)
-http://ccta.site:8080/I3tjVTqBFX/iMKDhLarPV/199955?play_token=ANrc546OQ9&token=HRIMWRFfEltBBQNUVABUAAAEUVcCVQFXBlQCUV0BVVZRB1JbUAUGWFYRTkNGRBRXU185XAIUCgMNC19XURRHFhVVFmcLUxJbQQFXVgUSShBGWwtQRAwBBAACUFJSAFdaShIUUQYVCg8WXw5NF1UeRldACFQKaVRXQlsFB0YCCxYKXEgaDVlvBQZeAw9RElwQAxBKFw9FQBAOECUOC00BJQpRFl1Cfl4CTRFOQ1dZEkBTRgMXXFhFXlgeRAELTQsXFElGAkBiY0NPEQcZQVUIQVtdCBdcFERBFh5ECxdnFwYVRBZdA1pVE0EJQFEXHERfU0o5VglYXldXRg8NCktHWUQBRhRAWl8PCkcNE2pAD1YQCAhAClpN
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="IPTV-2",B4U MUSIC (IN)
-http://ccta.site:8080/I3tjVTqBFX/iMKDhLarPV/199565?play_token=ojviCEcWEp&token=HRIMWRFfEltBBAdVAwZWClYDAwJfDlMBUApWAwIAV1BSAVdcBFUHUwYRTkNGRBRXU185XAIUCgMNC1NUURRHFhVVFmcLUxJbQQFXVgUSShBGWwtQRAwBBAACUFJSAV1WShIUUQYVCg8WXw5NF1UeRldACFQKaVRXQlsFB0YCCxYKXEgaDVlvBQZeAw9RElwQAxBKFw9FQBAOECUOC00BJQpRFl1Cfl4CTRFOQ1dZEkBTRgMXXFhFXlgeRAELTQsXFElGAkBiY0NPEQcZQVUIQVtdCBdcFERBFh5ECxdnFwYVRBZdA1pVE0EJQFEXHERfU0o5VglYXldXRg8NCktHWUQBRhRAWl8PCkcNE2pAD1YQCAhAClpN
-#EXTINF:-1 tvg-id="X" tvg-logo=" "  group-title="IPTV-2",X (US)
-http://91.149.201.142:8080/VZZCtOPw2Z/jYwLKmg0qp/217086?play_token=koZ9RzXElS&token=GBBcUkJYRwIaDgZUU1JSBwANA1VRBgBWAwNUB1MID1MBAQZSAFJWAQ8aTkdCEUNSUVlqDVEUXAUDVlENUh0UEBBXRmxYVEcCGglXVQBTAxUcFkENWFNEDQNXVQVSAQ5WUwUYEUFZARoCGlZVCFQTGxJRTRBQRAhWXj4FUBJYVQBBCFpGXVxJGldWPQFUCFBZVBYPRgQUShVbEhEXXl9DCQ8eFlFYRBdZTF1AXxNSCAESGBcHWkMIQ0AYQw9GeHhHTxBRS0VVC0tRVwxHC0dFRBIYFw1GaRRSQRUTUAVcUxdBCBYDExxHVVlAPQZeC19SU0BcC1tFRA0QUEMZRlxZCwpGW0FuQAxcGgJAUQFRCBVN
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" "  group-title="IPTV-2",USTAV BHARAT (UK)
-http://104.149.130.34:8080/mu8eKMMcjb/6NoCc6kY34/145801?play_token=JNiGwo85Sq&token=HRpcWENeFw0WDFQDWAABBwEFVFFVCFZVBwEKCgdTUApQXAxfCFMNBgUWTUcSRUcDUFhoCgcbCFUDBQECBBtHRxVdRmZZUhcNFgdTVFYAF0oTQV4OBhsIVQEECQQNAlIBURQWSVlSFw1aQQ0JTRNQHkVQRQ0CVW0AUkZQUVAVX1wTVFgVEllbaFBRDAQPVRdcEwQVT0FQQRQVCldHWVtJEARRQEtRQlAVDloUCQ0dFwVeQFkXEUAQXhV5dxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwJEFBZUUU5qVFtaDwACRVwJX0YVWUEIEEgVXVZcXEMKQDlIXV0SDFtCWFgc
-#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="IPTV-2",SONY (UK)
-http://104.149.130.34:8080/mu8eKMMcjb/6NoCc6kY34/145786?play_token=kr5jh6oKLV&token=HRpcWENeFw0WAARdAwYBBAVTVlNTAQpXAQFbVlNWXVBRAQNfBwUDBVcWTUcSRUcDUFhoCgcbCFUDBQ4KAxtHRxVdRmZZUhcNFgdTVFYAF0oTQV4OBhsIVQEECQQNAl0LVRQWSVlSFw1aQQ0JTRNQHkVQRQ0CVW0AUkZQUVAVX1wTVFgVEllbaFBRDAQPVRdcEwQVT0FQQRQVCldHWVtJEARRQEtRQlAVDloUCQ0dFwVeQFkXEUAQXhV5dxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwJEFBZUUU5qVFtaDwACRVwJX0YVWUEIEEgVXVZcXEMKQDlIXV0SDFtCWFgc
-#EXTINF:-1 tvg-id="XXXX" tvg-logo=" "  group-title="IPTV-1",XXXX (US)
-http://151.115.42.244/auth/264172.ts?token=8_yXcaPpe1TR_rDqctaqI_gj8WUmgOmTxopeRUE9UgBYK2vT6TNig_iQPpVx5RTRL2u7lO6FOkhXppXtND8J9LrRMG7i89E-FQZj27qrLroj7tA93L235QEECRrQsmhU2l5c1I-WdAHtC2Ksv7mYMu6SYXFlW3TEVzbM--8pIpgVnzpLIXMkKIMvqQHxlJZxWM36GMb9_XW9jq_2tEUMNUx1O7VdXOBZ9JC8sMEZIjDafZHDlM976I01ddpDy0utc56aU-MDYCxkD0PaP8FwUxiIegzyaVxfwZy3zHgcSNP9_zqRYs54FKIa2tG14vXRop13MUqwvqn9qjVDyrFtjPlkcgWxCNzQ5fMEM3CZeQ5nDkYIyTEBEyHqY4W1cZrCFeRdlJZblF6HTZ_bI_3hp7iwq8QSUN7qqBb6cuW2OjJbAt2kzpYm9ZUzyObjoqg1MMZKzHsiiHVtClnI8gyIgap8BUtk34IEaNxTTEpedv-BlX5a9l0Ob6sQR_LMLwnHb4A4Y4MiL8UzeMwzudqM4ZKTHMnNcMB5We6ZzaOwYNxMSpWjp3OaZevNhE_5PsNNgorlaWbVBkWVZtyVRlJ0vNmDFLLeOc_WMPOMyNaiAoYxx2P4kg8rET04hPxwjL-26vUdEzUrgbChZoNxI9pbCw
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-2",ZEE TV (ASIA)
-http://casateste.space:8080/rpj1qwXPsV/fVMHGWkXPx/38328?play_token=4nbWmT7F4x&token=GEdaVhVQQApEXAdUUgdVBloEV10HVwcGD1VWBAsLVVsFUFZTBwAEU1JHHEYSRhZXA10+DQcQXFcAAFAKHxAQEAYXbV4CGlgSUFYDU0MeRkYLXQRGWQNQUAgFWgQFBVZPQRVbU0QCDEUKCRxGBEoQVxBeAAg8VgMSUVAHEAlcEA8PSRBYCGcGVQsEXgBDCEYDQBxDDRBCRF4acQpTQUYMQyIMQEMDVEJ8EgEeRk0QBlsWQgAQBhBcCk1fDh4RUQoWDRFATkQCQHkoRxxGBEoQVwxDCAsNEFxGTEBAHhFbFjwRAEFDFF0DXQMXEl5DAkYeQF0AHDxRCQpWVgFGWl0LEEFfEAZEFEBdCQtZEA5AO0ILVENeDUcKCEU=
-#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" "  group-title="IPTV-2",FOOD FOOD (IN)
-http://146.19.16.177:25461/dLqCD7eTtXSULoRkuX9sI/MAgvyIRXFv/182624?play_token=20Jmmwwtj7&token=GBFaURELG1sRUQEFA1AIUAYBBVYCWVVbXQwFBFRcBQMBUgAHVwJcUVAVGRYWEUMEVg9oXAVDXggABwRTARUQRBBWQG8LBxtbEQYHB1RTAlMVThVBCAwBGwIEBFUFDwoGUwYDHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-2",ZEE CINEMA (US)
-http://31.43.191.234:25461/Ri71IbAo26eSNkK3UPinG/MnuJwk4AGs/163946?play_token=wyZbAfKihV&token=GBdRU0FdEANABVUBUQUFVwZRDgdRU1dQVwwFAwBQCwQGVg4CVlYBCVZBHBoXRhMHAwhnXQFGC1RVCw4EVR0aQhBQS21bURADQFIEAFwBV1NASRpADAlUR1kJAQRTBwAAUQcMHhBFW11AWV5NCF5NQAcdTFEXClAJPFxSRgpSXRVZW0xeXhkQVgw8VF0JUw8GQF8aBUdIEwwQSBUKDURUW08XW1tGR1NNB0EKVhFeDU5ABldBCxBDHEECFXktExQVBk1NV1xGW1YMQQoaEEFDTkAMS2sXAUIREV1WXQZDGg1BBRseEFhTQT0AX1YKVwIWCwpWR0deE1RBFBVdDF9RQwxHZkJbURADDBZcVBk=
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-2",ZEE TV HD (IN)
-http://31.43.191.234:25461/Ri71IbAo26eSNkK3UPinG/Hwz75mCHsD/164096?play_token=Xkz4Ec9ons&token=GBdRU0FdEANAAlYOXVMEUltTWQwHU1VdWl4GBQFUXlVbAF8AVAACD1NBHBoXRhMHAwhnXQFGC1RVDAcJVR0aQhBQS21bURADQFIEAFwBV1NASRpADAlUR1kJAQRTBwAAVQcOHhBFW11AWV5NCF5NQAcdTFEXClAJPFxSRgpSXRVZW0xeXhkQVgw8VF0JUw8GQF8aBUdIEwwQSBUKDURUW08XW1tGR1NNB0EKVhFeDU5ABldBCxBDHEECFXktExQVBk1NV1xGW1YMQQoaEEFDTkAMS2sXAUIREV1WXQZDGg1BBRseEFhTQT0AX1YKVwIWCwpWR0deE1RBFBVdDF9RQwxHZkJbURADDBZcVBk=
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="IPTV-2",COLORS HD (IN)
-http://gobletoffire.tech:8080/mag00:1A:79:5E:3D:2D/JPaqBgAY4D/72081?play_token=oESgzoPPfU&token=SUcOBxJdFl5AXQwEV1ANUgsFUFUBBgQDWwBRAlZaV1ZRXVVTBQAMBVJHFREREUoDUgs8WVYVDQBRVV4FSBpBEVcXOQ8FFw5GVF0NAFtcGkoREgpdVxUNBlVRVgJcDwxUC0lEFghRFl5AUQ8HVFYaShEDG0RXRVlWDzoCURJRVwcQXwgTDVkYRg0LZlcHCFkIV0RZEgIVGxUKFhYWXlZBDl5JRAQIQUYFFgAbCUBcDFURSkFTXUJZQxEcRA5GcXpAHkcDHhVQWhcLClcRWEdMFRFKQVlBaEVSEBEUUQVVURAQX0RWQxkWCQMdZlANC1YDUBIKX1xEFQ1BVEQYRlVbDFsRCRQ+RV0AQF8bAlNVDVIRGw==
-#EXTINF:-1 tvg-id="PLAY BOY" tvg-logo=" "  group-title="IPTV-2",PLAY BOY (US)
-http://154.16.180.192:8880/hAaSUrE8/nGgICWJiom/521308?play_token=zw6dnAp6rc&token=TBINUUtRElhGAQMDUAwJAABQUVZfAAEJUwVRAQACDAYFBlZWAF0DUgYSHBcQTUpSUVw6DF1HAwwCBVUAChsWEURVF29RXRJYRgIADFoNDRUcExEMVAAbAwECUgAEDwxVDgVJEkhQVEBeXkVZDxUaUkhFABdXBFVmVFEQWVFSFl5ZRQlcFBtfDDtUVVgCV1wVChNURxVHUEpAFlxeR1tYSBVSDERKWEQHRgpeQA9VFBVTXhALTRdAGwoWL34QGxYBT0QAXktQXwxGChJBEBsUFVlCOhdcFk1LVVULVUAVDkYHEkkSVVhIPQdfXlsGWkxeX18WRwNHCBscFgtfXF5AC0VvFVlcGwoMEVxcSA==
-#EXTINF:-1 tvg-id="NETFLIX BOLLYWOOD HD" tvg-logo=" "  group-title="IPTV-2",NETFLIX BOLLYWOOD HD (ME)
-http://31.43.191.234:25461/jbRId8o51vaQKo6SgBueL/YHslq82kM4/99132?play_token=3RLNqBpPRA&token=GBdRU0FdEANAVFZcXAdXVFJQCA1XU1NSUwEHCVcJAFZQVg0EUVRRDFNBHBoXRhMHAwhnXQFGC1xaCQQCTxNNRAZHZltWFwgbU1cIAFwCV0BOR0xdCAETX1IOAwBVCQACVgUVEEJcVhtYDUVUCB5DBxoRXUYLBV06B11BWQBUGg0NQFVeHhddVz0HVVUFXAVAWEcJFklGWBYTGg1eFl1UG0FXUEZAVEZcQFleTQheTUABCk1aERZIR1kafn5BHRpSG0FcXEFcXVdAWRJMFxBNQAsWZ0YAF0UXBllaVRETAhVTFxUQX1RKZgEMXlYBURULDQtLFl9GAEdPGlpfDVhMWBFqSVtWFwhXFw9cRQ==
-#EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" "  group-title="IPTV-2",USTAV PLUS (UK)
-http://31.43.191.234:25461/3tLWCzrQMroxhcjpSSGaR/IWEgnHOOiA/163951?play_token=WfROrd9bFF&token=GBdRU0FdEANAV1FbBVcFUlMGXQdXVVMAAFwEAVtTDVUFU1gLUQAKWFdBHBoXRhMHAwhnXQFGC1RVCw4FUh0aQhBQS21bURADQFICCFIKUlFASRpADAlUR1kJAQRTBwEGVwAAHhBFW11AWV5NCF5NQAcdTFEXClAJPFxSRgpSXRVZW0xeXhkQVgw8VF0JUw8GQF8aBUdIEwwQSBUKDURUW08XW1tGR1NNB0EKVhFeDU5ABldBCxBDHEECFXktExQVBk1NV1xGW1YMQQoaEEFDTkAMS2sXAUIREV1WXQZDGg1BBRseEFhTQT0AX1YKVwIWCwpWR0deE1RBFBVdDF9RQwxHZkJbURADDBZcVBk=
-#EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-logo=" "  group-title="IPTV-2",STAR SPORTS 3 (IN)
-http://31.43.191.234:25461/3tLWCzrQMroxhcjpSSGaR/IWEgnHOOiA/163982?play_token=KdJN5RY0SH&token=GBdRU0FdEANAWgZbBQIAVVNVAAxTAANUUgtUCAIACVFQAF8DUwBUCVRBHBoXRhMHAwhnXQFGC1RVCw4IUR0aQhBQS21bURADQFICCFIKUlFASRpADAlUR1kJAQRTBwEGVQQKHhBFW11AWV5NCF5NQAcdTFEXClAJPFxSRgpSXRVZW0xeXhkQVgw8VF0JUw8GQF8aBUdIEwwQSBUKDURUW08XW1tGR1NNB0EKVhFeDU5ABldBCxBDHEECFXktExQVBk1NV1xGW1YMQQoaEEFDTkAMS2sXAUIREV1WXQZDGg1BBRseEFhTQT0AX1YKVwIWCwpWR0deE1RBFBVdDF9RQwxHZkJbURADDBZcVBk=
-#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="IPTV-2",ZING (IN)
-http://146.19.16.177:25461/02630965088409/849mIKJb6u/182683?play_token=iS3c0Tfzg7&token=GBFaURELG1sRVQUAV1QGWA8HA1BTWAdYCVFWVwYIU1BXBgoJVVUIVlUVGRYWEUMEVg9oXAVDXggABwRZBhUQRBBWQG8LBxtbEQYMBlJQCFUVThVBCAwBGwIEBFUFAQQAWgEAHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-2",AND TV HD (IN)
-http://185.191.126.109:8080/kkN0WJpq/ncQMzkF9Rn/136580?play_token=GxlVkDNVib&token=GhYNABZdEQkaXAkCAQFWBlcHW1BWVAZSAgJWUAEJUFNSUFVSXFYCUAkaFRAQFxAGVVhnCFNBDgZQBlRcCRRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADF8GUgBJQxVcVxECGg8AVVtRQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBU1AMBRpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFSUlEGAw5DSg==
-#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo=" "  group-title="IPTV-2",AAPKA COLORS (US)
-http://212.102.58.232:8080/kkN0WJpq/ncQMzkF9Rn/134326?play_token=GpcO6PCQD8&token=GhYNABZdEQkaDwlRBwAGVQAAXlAHVAMAW1FXUFgAAAMAUANTBwEHVQ4aFRAQFxAGVVhnCFNBDgZQBFJWDxRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADF8IVQFJQxVcVxECGg0FUlJTQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBVlYFAxpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFSUFACBA5DSg==
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="IPTV-2",NAT GEO WIL HD (IN)
-http://185.191.126.109:8080/kkN0WJpq/ncQMzkF9Rn/136665?play_token=5MaOOXv4Li&token=GhYNABZdEQkaW1sAVgVSB1ADCgdUWwwEUlZVAQoPXwdVAlcDVQdSUQAaFRAQFxAGVVhnCFNBDgZQBldSDBRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADVYAWANJQxVcVxECGggDVlBSVxYZGgRPF1FFDVENO11dEFgCUUdbC0BfXxQaVlw8BwcOVVtcQw1BBBVPEggXSRpcXxRYCU1HV1pHSllNV0FZQFEAAw1DG0FXWBZeFRZAGlwTKHpHTUdQS0ddVkpbDA1AWRZBS0MbQV1EPEIEF01KA1AMURdDXxcDERQaVFMbPAEMWltdAkMKW1kQEltGCBpKEwxbCwgRWkFsSFFdEFlBU1MNBw9SFR4=
-#EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" "  group-title="IPTV-2",USTAV PLUS (UK)
-http://185.191.126.109:8080/kkN0WJpq/ncQMzkF9Rn/136633?play_token=AAIr0Sbty2&token=GhYNABZdEQkaCA8LWlYGVFUNDQdRVwcBVwUAXFsKAwQABFVXXVQGUV0aFRAQFxAGVVhnCFNBDgZQBldXChRERBJRFz4MUREJGgsJC1BVU0EYF0wIWgYWDVIGVVQADVYDVA1JQxVcVxECGg8CVVNRQRgXXRlDBkZZAlw+AFxOD1IEFl8PEFlfHxpXV20HBg8CWlEaWxVTFhtBWRIUGwIIRA1YSUMHXEdBWUxcEFlBUFMMARpNFQBbQg1EEx0bAkR4LxZJQwBNR1ZWS1BdDUFYQUBGGk0VCkdoEVUSEEtdB1wERkdbRwURHxpVWEo8AA0NWlBbFV4MWkRBCkNVGxREXA5aDBUKR2xDUVwbCEFaV1oMABoc
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="IPTV-2",ZEE TV HD (IM)
-http://146.19.16.177:25461/1we56xkL3Q3VXj1Il4VJ5/bhJU7XmxDU/182681?play_token=WwhuCi8DDb&token=GBFaURELG1sRA1cEUFBUUlIAVQICUgJfAFFRAAYOA1RQAQABVVcJAAcVGRYWEUMEVg9oXAVDXggABwRZBBUQRBBWQG8LBxtbEQYEDFNcCVcVThVBCAwBGwIEBFUFAAcBVwMAHEATUAURDRcBVlwHVRVOFVAZFQFLVlRePlFcRFgAVhAKDBZVDR8VWlo6AVQMVgxTF1tDVRsUF1sSRRsIEyFbU0IWChkgWkVBUQlFfRVTTBUZQwMNTUpURgQXAxAAUAoGEk5BWg5GWUFGHEcLQ34sFRlDBBxNXVtBCFpXEAtBR0ESTkFQEmxFUEcRF1QAWgdFF1tDVBsUF18ATWZRXg1dV1MWClYPQBUPFlRHHUNaDVlcFQ4WZkhcVkMPGwcCVgoAEh8=
-#EXTINF:-1 tvg-id="AND FLIX HD" tvg-logo=" "  group-title="IPTV-2",AND FLIX HD (IN)
-http://185.83.69.164/auth/3by0FXv-QFJrM0hULfcZDzlxDgVgn4ZvFdHwIkf0PzaFIlUGlPVJi-XvKF7sN5ZAdHU2VffKTPL4Ro2SxbfVaK8w8oDk7Fk6R1EiR5QN9Kbz2weTrd5GJecMXHqBt5jfQXL7Us2Q9pAId3wQhrWSjb-0v7DfA0aRynVIfqirQ6fycR-fqCX5gVmY0itcEY-gT-SNW_uvIyY7UgvVFE0iUmd8CgI-EB4DFbyRPRpXk8SEYERv-DjNpV0ab3ks8r3tDjED3OHXhf_qOJdl5TOpjD5RMUALnG_QnwOYiBLjhZbRmULnT97YRDnUYVfKX75XF3V9F827N9UIqNKMxjlJHsBFDIjOc_1Rq8G29eVB4ltNxRRpmQLBAd_4ytNwfOGoV7QImgbZ6dqVGXOgj8QMBF8Kn2QNgIkVlvvw4CbKyEeeT-R1NLlQuF5Cg6Te5ODskd5_xq4p2pdNNxn7mncmv9VaTQ6KJ-EjVY5mrR6GRSKtBhJcf3qvU4YJNof7H2IvlHBU0o3ueWpiu9hPF9_lvlnHxTwfYjiNatTNY1BeJeCE4W0LY9kBEH5C2jKqA2HmAw7oT6ffYlRqrrZ6pRCShS-12wl0IKBPUfsRNZ9YYqnaF2IAFAokYGwb0UYHW__C_GlBMxVA7P_Ag3oeUB3OMA
-#EXTINF:-1 tvg-id="" tvg-logo="AND PICTURES HD"  group-title="IPTV-2",AND PICTURES HD (IN)
-http://185.83.69.164/auth/3by0FXv-QFJrM0hULfcZD5mltijP4lJH4HKPHxrNvjD_7TWOtLdyq_ZTRwBJV1RKLv4Be7LbEPIm6hUoZV2w1ZvlggC8nQr2VrLZZWbdcClPR38NHzQqfEOkpdMnVu_Vzdz7__ZvJ3kCYBvuTKBKO8udaB1lMwVHdxUOMCjhtN83pTwu-wTqrbxHmTpsl_QjHYo8m86ACJ1UByWB3Tc4m7vEcLgNyPdoQA4Ogwai9yrr1u30ZZ6abEi4ttyhdYPTGNnDtyH1RcN26IpdS8SveYclVt5ApSlTWSz_bk61GstWvXhbKD7UE4w_QsDWGHThsoVSjkaTt5KQ2B0ivGDAtCcEkffTxfBkBUG6u0SG5wjLq8fFeMNxB62xZe-leXTuBrm35Xs3UzQ7cMbeM3IgDAIMmZ3QIFu44AO6rqVIJ9lf7jIlywl2TsZi1CrkJ4LiyHuYTAfWbcyHVCcwu_G3n1xBa2Hzsi0vHTaas8ATSDHK2kuifzfZK1i7hjszz_B3F6txUJM412ujkRiu8OOYB5jB6XmCp0nUe7q86h1aUdpOiATWrHx1bL-slscBs39owBEhSCbq_Y3ryqnMOM2CqTiGymlkQ-wyMsnZL0P62v2JSWC0nTaMjOI0Kqz1qbha2pfdsaHCxq35_KX9-Lusiw
-#EXTINF:-1 tvg-id="BINDASS" tvg-logo=" "  group-title="IPTV-2",BINDASS (IN)
-http://146.19.16.177:25461/UPt1q2lfYzL26h6KkfarO/GdntYA4Lwu/182666?play_token=dZ7oMxv907&token=GBFaURELG1sRDg0DVgQHWQFUVQZUUwIBW1MDVAEOVAhaAgQJU1AJAAQVGRYWEUMEVg9oXAVDXggABwRXAxUQRBBWQG8LBxtbEQYHA1ZVCVgVThVBCAwBGwIEBFUFAAcAVAQGHEATUAURDVtBCQkdQ1IaQ1ATDwVVZ1FXF1xaVxNZXUdcDk8bDl1oUVEIBF8FFVgVBENNRlBLRRBbF3taUBFHWxAjCksVVlsVeBEBH0MbQFVcFRMFTV0XCA9AVV4dQVBdRQwXSxgRDRd9K0cdQ1IaQ1APEg1WVhcIQ0FKEB1BWkFvEAZKFUFSVFkAFxNbFVIVGUMMBUFnVl0PW1xRRQpcXENAWRtQERsXWQoLWBVYEGhFCAVGA1ZAXg1I
-#EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" "  group-title="IPTV-2",USTAV PLUS (UK)
-http://45.153.33.71:25461/MAG8150066454/bHgd1WluOv/100799?play_token=7hTqevtu9d&token=S0ZcVxENFggUUAQPUFEDVgdQUQFUVVNcAQVcVVAIUVgDXFUBWlRXAFVDGBVCFkQBAls5CwcTDAgHBlIKWxQQFEMBRmkLARYIFFABBQVbDlBBGkQWClxTGw0HUwdTCABYBVQGGkAVXVYUWxYDB1UAVEEaRAcbRVNLWVcJbAZdRAhTARYMDBBYXhpDW1luBlMJAlgCQFkTBhsbFAxAEhoID0UIWBpAB11GRABAUhNYFFdTAFZATxNVVkJYEUEbGghDeSoWGkAATEZTD0deXgwUXkFCFUBPE19KaEQAQBZKVwBdAUYUWEcEEBpDWVZJPVULDVgDARdYWVdEFF8RUxoeQ10LWl8WCkZtRghQFQtAAFZSAF9AHg==
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-2",COLORS (UK)
-http://45.153.33.71:25461/MAG8150066454/bHgd1WluOv/100811?play_token=PEFfJFScti&token=S0ZcVxENFggUV1BWVwMAUgEAUAcHAlABVlRWAwQAClRUUwRVWlEHVA9DGBVCFkQBAls5CwcTDAgHBl0CUxQQFEMBRmkLARYIFFABBQVbDlBBGkQWClxTGw0HUwdTCABYBV0NGkAVXVYUWxYFBFUGUkEaRAcbRVNLWVcJbAZdRAhTARYMDBBYXhpDW1luBlMJAlgCQFkTBhsbFAxAEhoID0UIWBpAB11GRABAUhNYFFZWBl9ATxNVVkJYEUEbGghDeSoWGkAATEZTD0deXgwUXkFCFUBPE19KaEQAQBZKVwBdAUYUWEcEEBpDWVZJPVULDVgDARdYWVdEFF8RUxoeQ10LWl8WCkZtRghQFQtAB1NXAEQf
-#EXTINF:-1 tvg-id="EXSTY HD" tvg-logo=" "  group-title="IPTV-2",EXSTY HD (US)
-http://89.163.146.164:25461/kyhOFD0f/sAHUeBGE2p/375417?play_token=Zwzfd0GbWz&token=SRtZWEMNRlsVBQNbAFRQAAENBw5WA1RWAgJXVgVXVQQHWlMPUgMFUlIXGxpGRhBdVFU6XlEUD1EGUwUFAR5HE0FcQ2ZZAUZbFQQFDAcFUBoZGhFeWFMXWABQBQUGAVRQAQEdG0AMAEMNFwYOAAZXGhkaAE9BU0cMUApuUFNEDAVXGwtXRQkITRVaWWdRVw9ZW1xHDRcHF04TD0JEFAhHJFpYQ01ZRSUIRUFSVBV+FlwbGkkVV19BEFASVBYMXBAKXhUTWl8QChVFTBUCF3ssGhkaAE9BU1sRWAlfFgwQERUQFRNQQzoWBERBRV1UXwdKFwJHBxcaFw9QHm5XWVwLA1FNWFZeFkZbFQQVFBdfDVZcTApFakZcBhNcEwUAB1dREEQ=
-#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-logo=" "  group-title="IPTV-2",STAR SPORTS 2 HD (IN)
-http://185.217.136.222:8003/n9MP97fY/m9eXoS4Zcf/57927?play_token=qM8hC8dHig&token=SRdaUBcNEQ0UDAdTB1UHB1EGVl1QBQJdAlACAwJRWw0CUwIIB1xWAAQaHhQRRxRWAl1vUQYUWQ0CXFNRHBBNSldHbVgARwkVBwsLD1MFVhFPEkRRD1NBAgRTVVcAAQoIBwQeExQMVxUMVkdaDh9EVhtEVUoMVw9nUQAXD1NXGgNcQF5dSEdcWWlcV1sDXQIRWRIBGk4UCktFR1tEclpZS0ZcEnANF0dSWhh+QgYdRB9BUllMEFcXXRdfDxNcXhQbUVpHXxAXShUMGnt4QB9EVhtEVVYRXwxWF19DEkMQFBtbRm1DARZHRVNZX1MQEVwRUxIcGg9XG2dWCg8IVVFMUF1bQRNeRwIVGhpfWQxaElwRb0BRBhRZVkAJDRs=
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="IPTV-2",STAR GOLD HD (IN)
-http://185.217.137.173:8004/n9MP97fY/m9eXoS4Zcf/57920?play_token=DOXuPDbA6O&token=SRdaUBcNEQ0UAFBSWgRfVlcJVV4DAlEPAQdRBwlTDFxQAVMBAlcGAQIaHhQRRxRWAl1vUQYUWQ0CXFNWHBBNSldHbVgARwkVBwsLD1MFVhFPEkRRD1NBAgRTVVcAAQoLBgYeExQMVxUMVkdaDh9EVhtEVUoMVw9nUQAXD1NXGgNcQF5dSEdcWWlcV1sDXQIRWRIBGk4UCktFR1tEclpZS0ZcEnANF0dSWhh+QgYdRB9BUllMEFcXXRdfDxNcXhQbUVpHXxAXShUMGnt4QB9EVhtEVVYRXwxWF19DEkMQFBtbRm1DARZHRVNZX1MQEVwRUxIcGg9XG2dWCg8IVVFMUF1bQRNeRwIVGhpfWQxaElwRb0BRBhRZVkAJDRs=
-#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo=" "  group-title="IPTV-2",COLORS RISHTEY (UK)
-http://45.94.31.88:2082/qdtrm624ph/lLO5D8x1ym/50961?play_token=8iS1tZ89AH&token=ShpcUxVdEgoVUARWBFRTUgFXVFZVBFYEUAgGVFAFUQcJXlIEUlABVlRAGxESEBMBWVs5WVMUDVdUCAZVShRHEFRKa1sCFwoSD1oEA1lGTUZMXwtVFQwGVFAAAFdUAgZUHRpEWwIXChICUQ4HUUZNRl1OElVFWFYOO1VVEg9VV0ELVkFeChkSX1k9U1YMBQ8AGgxEABUaFQsXQRJeCENeDx0aVlsSR1FEUkANEVBRUVEaGkRTWENZFhZIEl5Ef3xBHRpRShJQXkNeDVkRW0YVFxoaRFlEaUUHF0VCAQdbVxETAhYCRBkSXVYaaFAOCg8BW0IPX1lFFVhGABJIRFtdDVhMW0A5RVlUFVgVB1FSWFcaSw==
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" "  group-title="IPTV-2",SONY SAB (UK)
-http://45.94.31.88:2082/qdtrm624ph/lLO5D8x1ym/50959?play_token=Eu2Vxz5cZ4&token=ShpcUxVdEgoVVFRWBQUHBgsDVlRUAlVVUwRVUQNSBQVXCAwHUVRWCAZAGxESEBMBWVs5WVMUDVdUCAVdShRHEFRKa1sCFwoSD1oEA1lGTUZMXwtVFQwGVFAAAFdUAwdSHRpEWwIXChIEVQYLVEZNRl1OElVFWFYOO1VVEg9VV0ELVkFeChkSX1k9U1YMBQ8AGgxEABUaFQsXQRJeCENeDx0aVlsSR1FEUkANEVBQWVcaGkRTWENZFhZIEl5Ef3xBHRpRShJQXkNeDVkRW0YVFxoaRFlEaUUHF0VCAQdbVxETAhYCRBkSXVYaaFAOCg8BW0IPX1lFFVhGABJIRFtdDVhMW0A5RVlUFVgVAFZRVF0aSw==
-#EXTINF:-1 tvg-id="BBC LIFESTYLE" tvg-logo=" "  group-title="IPTV-2",BBC LIFESTYLE (ZA)
-http://154.16.180.192:8880/h35hpcDj/53Mf5UKfm6/99439?play_token=mDA8H2nL3R&token=TBINUUtRElhGBFNWW1xZD1UBUVVcVVpdBwVRAVYDUAAAAFNTXlgHAFYSHBcQTUpSUVw6DF1HAwAJAFUJHhVBF1JCOllcGwpAVgIAAFYAGhsSRQwIXEcDCAYAVwABBAJcAxxHQFFdElhGAwIAWhsUFVVJEQBLC1hVb1ADRltUUUYNXhBcVBUSDQpvVFAOWFZTEgtHVBtJG1BDREQKXEJYCBsSB1lMS1EWARIKF1IKAA8SHUcGVhBXTUJNRAoQfnpGGxIASExcXhENX14XWRtMRBIdRwxKOktcQ0AUVVNaURYVCkcAGhUSDwVIb1YMV1ZSU0UMClcWGwMSBUQcEFpbCl5ECkJnSVkGRgoSBlILDRVN
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="IPTV-2",ZEE CINEMA HD (IN)
-http://31.43.191.232:8080/sdrEedBjLl/U28LjlT2Yx/218219?play_token=y6aKeI0uTv&token=OGxRTnROTURzSXZxTzhW
 
 #EXTINF:-1 tvg-id="USTAV PLUS HD" tvg-logo=" "  group-title="IPTV-73",USTAV PLUS HD (UK)
 http://163.172.8.150:8080/1ADetHGVjy/mdwFnWHNV8/7788?play_token=uq0aZw85g3&token=TURYAhZYEAwSVwIKWQBTBlcGBgcAWgAFAwVSAlYIB1QEA1NRVFZXBANGTxBLF0AGVA9uD1IbCQEGC1wZREwVAEQ5WQdHChAHBlVWBgBTEE8XFlgLUxsJBwcHVgVVCVFcDkoSEwxUEAwSV1MGC1UQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFcMQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEA1VAlIXHw==
@@ -2106,58 +1565,17 @@ http://45.86.190.64:25461/FCjM6xDn0d/UKf2QhDnJY/34153?play_token=2zTIyVxA1C&toke
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-3",COLORS (UK)
-http://supersonictv.live:25461/135287/870031/85572
 
-#EXTINF:-1 tvg-id="STAR MOVIES" tvg-logo=" "  group-title="IPTV-5",STAR MOVIES (UME)
-http://tv1.live:25461/star7arab/WtnJQObFQO/5308
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV-6",COLORS (UK)
-http://nomorecable.xyz:80/hahaiptv-/079652/46187
-#EXTINF:-1 tvg-id="SONY" tvg-logo=" "  group-title="IPTV-6",SINY (UK)
-http://nomorecable.xyz:80/hahaiptv-/079652/43337
 
-#EXTINF:-1 tvg-id="RT" tvg-logo=" "  group-title="IPTV-7",RT (US)
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/56
 
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" "  group-title="IPTV-8",STAR PLUS (IN)
-http://hostlife.me:8089/play/RVI4JtT6W_p-w53GVuKtT0vz7RpXvdaAttdsu5s6CKgAPfcctQK3W6DyCwHU1MMc/ts
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
 
 
-#EXTINF:-1 tvg-id="AAPKA COLORS" tvg-logo=" "  group-title="IPTV-9",AAPKA COLORS (US)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/88795
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="IPTV-9",ZEE TV (UK)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/48941
 
-#EXTINF:-1 tvg-id="VUNES" tvg-logo=" "  group-title="IPTV-10",VUNES (US)
-http://51.222.43.170:36995/Luisapk/Si0yNffK39/244339
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16",USTAV PLUS (UK)
-http://163.172.8.150:8080/GXU7K5nwUr/EQ8vUxtdAM/7788?play_token=MRKdIulTyL&token=TURYAhZYEAwSUVJQDgJUUgNUVVIBWgNUUFFRDFIIBF1QVFZUAwlTDgRGTxBLF0AGVA9uD1IbCQEGC1wZREwVAEQ5WQdHChAHA1NWAglaEE8XFlgLUxsJBwcHVQJVCFZQAUoSEwxUEAwSV1EFCFMQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBlUCQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAtSBVEDQEw=
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16",USTAV GOLD (UK)
-http://163.172.8.150:8080/GXU7K5nwUr/EQ8vUxtdAM/7789?play_token=rpynGkNQPP&token=TURYAhZYEAwSV1oHD1sKAQJbUF4FCwcEBVACDAMBUQACAAcCUAACAQZGTxBLF0AGVA9uD1IbCQEGC10ZREwVAEQ5WQdHChAHA1NWAglaEE8XFlgLUxsJBwcHVQJVCFdQAkoSEwxUEAwSVVUGAVYQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSC1YCQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAtSBVICQEw=
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16",COLORS (UK)
-http://163.172.8.150:8080/GXU7K5nwUr/EQ8vUxtdAM/7797?play_token=hh6R549PuG&token=TURYAhZYEAwSBwYECFsDBg1QAl4EDQoDV1ZUDAAAUwMFBwBXVQZRAQhGTxBLF0AGVA9uD1IbCQEGClMZREwVAEQ5WQdHChAHA1NWAglaEE8XFlgLUxsJBwcHVQJVCFRXD0oSEwxUEAwSVlALDFIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpWA1YHQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAtSBFYNQEw=
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16",ZEE TV HD (ME)
-http://45.86.190.64:25461/GXU7K5nwUr/EQ8vUxtdAM/34171?play_token=QyYodKSvHc&token=TURYAhZYEAwSVAYCCVUDUA0EUFQDCQUEVwUBAF4JVlMCAAkBBAUGAwBGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVdUBwhSC0EZQEUPW1wRDAAFUARRCldXDlQcQRVZVhQKRlEFAVMEQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcChHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAA9bAVEXHw==
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16",ZEE TV (US)
-http://45.86.190.64:25461/GXU7K5nwUr/EQ8vUxtdAM/34516?play_token=iueD8nuRQk&token=TURYAhZYEAwSUldUWgAAVVRQAlIECldTAlVTVldYVAYOBQlTVlMCUgVGTxBLF0AGVA9uD1IbCQUFBlUDShsTFlMUbwoBEggUAVdUBwhSC0EZQEUPW1wRDAAFUARRCldWB1UcQRVZVhQKRlACDFoGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcChHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAQhXBFoXHw==
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" "  group-title="IPTV-16",STAR PLUS (ME)
-http://45.86.190.64:25461/GXU7K5nwUr/EQ8vUxtdAM/34159?play_token=5EInXC9SGZ&token=TURYAhZYEAwSXAIBClZQVFFVVwQFDAoBAwddVFNYAAMBUlZWAAYGVAhGTxBLF0AGVA9uD1IbCQUFAlEMShsTFlMUbwoBEggUAVdUBwhSC0EZQEUPW1wRDAAFUARRCldWA1ccQRVZVhQKRlYADVEEQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1ADWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpWAFYFVxMb
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
-http://62.210.129.108:25461/FCjM6xDn0d/UKf2QhDnJY/8106?play_token=fpCqXWVb77&token=TURYAhZYEAwSAQJRXFACW1RXUlIFDwEABVZXAVAJAlQHU1NVUgACUwlGTxBLF0AGVA9uD1IbCQ4AA1IZREwVAEQ5WQdHChAPBVVRCwBBHkFBC1wDFAMCAAUBVgFSDFJUGkRACgESCBQEVloCGk8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0ABRBobWkVBEV5bE1UKSRQEWRcXUUZTEl5BAApRB0EZQFIJQ1dHREgRXhcvd0RJFANIFwBeQV9fCkEIGhdBQRlAWBVpS1ZFRUEBVAtcFEcMRABBSRJfV0g7AF1WDVcAQQteCEUbCRQAEUgXC1YIDEIJQjwVWVYUCkZRAQpRAUFI
 
-#EXTINF:-1 tvg-id="HITS MOVIES" tvg-logo=" "  group-title="IPTV-674",HITS MOVIES (ID)
-http://185.191.127.105:8080/mag00:1A:79:3C:79:88/R80J276L0u/70036?play_token=cJTjtmbxRs&token=QhZdWUdRRwsQX15XCVNUVVYFVw9UXgAECFIFAwEHBgEBUAUOVQ5UA1QbFENCERcDVQxpXwJEXAYBAwUET0RERlxGalFQG18TCgoBVwRHSURACFtTRFxXBwUAAwFaXwUCFRZFUVAbX19HVVRNEwAdElETWFcKOQJUR1pVV0FcX0BVWBkaW1c6VVdUWQ9VR19EBUMaFA8VFhMLXUNeD0oTV1BAR1lAXEcLXExUDR1HBglBD0JEH0RcE3h9FB5BA0lBXFpGUVtXRwsQTUtDHUcMFWsTU0USFANQXFZEEFlEARcVFlhZTGYGXlxXXQJFDAoIR0MMFFdEShNcXFhbFwlDakldURoOVxBdXkQ=
-#EXTINF:-1 tvg-id="FOX SPORTS 501" tvg-logo=" "  group-title="IPTV-674",FOX SPORTS 501 (AU)
-http://185.191.127.111:8080/mag00:1A:79:3C:79:88/R80J276L0u/148521?play_token=8NLO1qEuLf&token=QhZdWUdRRwsQDQhXAABUAgNSDgFeVlNTBFVSBltUUlMIBQ0IUABQCQsbFENCERcDVQxpXwJEXAAFCwMAUkoTQEpRR2ddXUcLEAELWAdQR0oWFV9bA0RcAAcHBQdXVgEMDhgXSF1dRwsQCAxVBVNHShYETkIDFAhQXWxSVxUPUlAbDltNWFVJE11XZwVUCAQIUEMMFFdEShNYQEYQWQhEWVUYF1pdTRdQRlwaWxNUVFQBQxoUBQkTX0VBTxBZRHh7GxgXXUxNAF9BUFcPE19HEkdDGhQPFTlDVEBCQAYHXFBLFg8aBBtJE19YQD5SCgsIUQJCXwkIFRMLEQcQT0RcWlddQVdGZhVYVhsCQwBcVFcGQ0s=
-#EXTINF:-1 tvg-id="MBC BOLLYWOOD" tvg-logo=" "  group-title="IPTV-674",MBC BOLLYWOOD (ME)
-http://185.191.127.111:8080/mag00:1A:79:3C:79:88/R80J276L0u/15136?play_token=lNWG39Fzdx&token=QhZdWUdRRwsQWFkAAwYAVQZUAwQAVV4AA1UEVlpVBwxbAgcKAQlcBgsbFENCERcDVQxpXwJEXAAEAgUET0RERlxGalFQG18TCgoBVwRHSURACFtTRFxXBwUAAwZTUwgNFRZFUVAbXxMDDQxUCEdJRFEZQlMUCAddbldTRAoFVBcDWkBUWBVHXlxmXARcBAsCFlsUBkRKRFhCQxQIDRNdWRUWV1FASwRFVxsCQwldVkQYQ1VZEwgSQ0gRDBAqKBMZG1FNTFFXFlhdVxpbExEWRBhDX0U5FANCRUFTUw4DQxcDFgUaGBsIUEpmWw5fCwAFQAhZWBVEXBMAERoQDglfXE1bR2dEUAETCBsNWANRUkRJ
-#EXTINF:-1 tvg-id="B4U AFLAM" tvg-logo=" "  group-title="IPTV-674",B4U AFLAM (ME)
-http://185.191.127.111:8080/mag00:1A:79:3C:79:88/R80J276L0u/66387?play_token=ud4eE7UWMx&token=QhZdWUdRRwsQWg4FUwMHVQAHUAdeXlYJBAtQUwIABVFYAFNeAg0HBgsbFENCERcDVQxpXwJEXAcHAA4FT0RERlxGalFQG18TCgoBVwRHSURACFtTRFxXBwUAAwZTUAQBFRZFUVAbXxMGDA1VBkdJRFEZQlMUCAddbldTRAoFVBcDWkBUWBVHXlxmXARcBAsCFlsUBkRKRFhCQxQIDRNdWRUWV1FASwRFVxsCQwBWUVIWTRRVCRMIRUNKFAhBL38XFRZQQEBcC0JbVlZDC0cRFRZNFF8VORRUQkdEVwILVEcbDhcIFhVHXFNBZwJeCwsDVxVfWQgVRAsTAhQeQQteW1BAWkprSQxVEAMaVAhUUlUWHA==
-#EXTINF:-1 tvg-id="NETFLIX HORROR" tvg-logo=" "  group-title="IPTV-674",NETFLIX HORROR (US)
-http://185.191.127.105:8080/mag00:1A:79:3C:79:88/R80J276L0u/107033?play_token=oQ1qBCSPe2&token=QhZdWUdRRwsQXwlZCQBdUFFQUw9SVFdVBFdSUFpQAVNaAAZbBF9VAAcbFENCERcDVQxpXwJEXAABBAYBUEoTQEpRR2ddXUcLEAELWAdQR0oWFV9bA0RcAAcHBQdXVgkBABgXSF1dRwsQCAxZCF1HShYETkIDFAhQXWxSVxUPUlAbDltNWFVJE11XZwVUCAQIUEMMFFZEShNYQEYQWQhEWVUYF1pdTRdQRlwaWxNXV1EGQxoUBQkTX0VBTxBZRHh7GxgXXUxNAF9BUFcPE19HEkdDGhQPFTlDVEBCQAYHXFBLFg8aBBtJE19YQD5SCgsIUQJCXwkIFRMLEQcQT0RcWlddQVdGZhVYVhsCQwhRUlEWHA==
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-1", (US)
 
