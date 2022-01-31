@@ -74,7 +74,7 @@ https://indxtv.com/ytv/ytv.php?c=republic-bharat&e=.m3u8
 https://indxtv.com/ytv/ytv.php?c=indiatv&e=.m3u8
 
 
-#EXTINF:-1 tvg-id="TEHELKA TV" tvg-logo=" "  group-title="JAGO-BD",TEHELKA TV (IN)
+#EXTINF:-1 tvg-id="TEHELKA TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tehelka-tv-in.png"  group-title="JAGO-BD",TEHELKA TV (IN)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="SAMSUNG-TV",CNN (US)
