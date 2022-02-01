@@ -815,8 +815,6 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS (UK)" tvg-logo=" "  group-title="MX-TV",EURO NEWS (UK)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
-#EXTINF:-1 tvg-id="DD RETRO (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MpyTyBMh.png"  group-title="MX-TV",DD RETRO (IN)
-https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in/index.m3u8
 #EXTINF:-1 tvg-id="SANSKAR (IN)" tvg-logo=" "  group-title="MX-TV",SANSKAR (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 #EXTINF:-1 tvg-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="MX-TV",ISHWAR TV (IN)
@@ -844,11 +842,11 @@ https://m-c04-j2apps.s.llnwi.net/hls/8075.timesnownavbharat.in.m3u8
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
 https://m-c09-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8
-
-
-
-
-
+https://m-c010-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8
+https://m-c28-j2apps.s.llnwi.net/hls/8083.Timeline.in.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls/8065.DevamTV.in.m3u8
+https://m-c049-j2apps.s.llnwi.net/hls/8059.NDTVGoodTimes.in.m3u8
+https://m-c037-j2apps.s.llnwi.net/hls/8059.DArunprabha.in.m3u8
 
 
 
