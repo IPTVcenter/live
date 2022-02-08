@@ -2165,44 +2165,55 @@ http://45.86.190.64:25461/v44eGmuTRx/m3CZHSscmZ/34480?play_token=5sJCBj4ZPo&toke
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
+
+
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="TV",ZEE TV HD (ME)
+http://g.mtfxg.xyz:1111/ind1/zeetvme/l_205476579_24748408_1830.ts?nimblesessionid=95074&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgMTE6NTU6NDEgUE0maGFzaF92YWx1ZT12L0RoaHdzNWhET3ZHRW1JNlpLQ0FnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="TV",ZEE TV HD (UK)
+http://g.mtfxg.xyz:1111/ind1/zeetvuk/chunks.m3u8?nimblesessionid=95320&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgMTE6NTg6MDQgUE0maGFzaF92YWx1ZT1Pc1lQanBrdXdFdXphc0k5V3l5emVBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="TV",ZEE TV HD (IN)
+http://b.mtfxg.xyz:8081/ind1/zeetvhd/chunks.m3u8?nimblesessionid=25751851&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgMTE6NTk6MDUgUE0maGFzaF92YWx1ZT15dWZDSk1uNFd0VERrL3VvWUs5UExRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="TV",ZEE TV (IN)
+http://b.mtfxg.xyz:8081/ind1/zeetv/l_204870940_7500800_16275.ts?nimblesessionid=25752100&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgMTE6NTk6NTYgUE0maGFzaF92YWx1ZT1YMkxZWGovTnpIdm5xYkpNQ0ZjZ2NBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" "  group-title="IPTV-16",ZEE NEWS (IN)
+http://g.mtfxg.xyz:1111/ind1/zeenews/chunks.m3u8?nimblesessionid=95753&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDE6MzAgQU0maGFzaF92YWx1ZT0yeWFIVVRmL2VZMzFpc29OdktHamFBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE SALAAM" tvg-logo=" "  group-title="IPTV-16",ZEE SALAAM (IN)
+http://g.mtfxg.xyz:1111/ind1/zeesalaam/chunks.m3u8?nimblesessionid=95847&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDI6NDYgQU0maGFzaF92YWx1ZT03ZUNLNHhST2tSN0J2eGlrTldGRytRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo=" "  group-title="IPTV-16",ZEE CLASSIC (IN)
+http://g.mtfxg.xyz:1111/ind1/zeeclassic/l_205477072_7721480_1932.ts?nimblesessionid=95928&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDM6MzcgQU0maGFzaF92YWx1ZT0xd2tiOW1oVDBnSkd1MjhEWktOazFRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-16",ZEE CINEMA (UK)
+http://g.mtfxg.xyz:1111/ind1/zeecinemahduk/l_204302478_6193480_30343.ts?nimblesessionid=96047&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDQ6NDEgQU0maGFzaF92YWx1ZT1hWFNaN1dpSGVWQVhEME1kRnRRS1FRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-16",ZEE CINEMA (ME)
+http://g.mtfxg.xyz:1111/ind1/zeecinemame/chunks.m3u8?nimblesessionid=96146&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDU6MzMgQU0maGFzaF92YWx1ZT1MQ2ROdTZ6SnhrT1NhZm10cHY1OUN3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="IPTV-16",ZEE CINEMA HD (IN)
+http://b.mtfxg.xyz:8081/ind1/zeecinemahd/chunks.m3u8?nimblesessionid=25754019&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDY6MzMgQU0maGFzaF92YWx1ZT16Y3EzVnJVSVJlU0VOTFhYRlJiTkV3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="IPTV-16",ZEE CINEMA (IN)
+http://g.mtfxg.xyz:1111/ind1/zeecinema/l_205402410_14265480_3560.ts?nimblesessionid=96373&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDc6NDAgQU0maGFzaF92YWx1ZT1tUzg4czVTWkFid3BjQzlwU2QzaThBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=" "  group-title="IPTV-16",ZEE BUSINESS (IN)
+http://g.mtfxg.xyz:1111/ind1/zeebusinessnews/l_205322925_20761480_5186.ts?nimblesessionid=96474&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDg6MzMgQU0maGFzaF92YWx1ZT0yd0huZjlVczhjV1JIQzU5eUk4QXF3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="IPTV-16",ZEE ANMOL (IN)
+http://g.mtfxg.xyz:1111/ind1/zeeanmol/chunks.m3u8?nimblesessionid=96593&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MDk6NDEgQU0maGFzaF92YWx1ZT1MNnFPejh2dGdqd1c1ekVsYkl4V2ZRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="IPTV-16",ZEE ACTION (IN)
+http://g.mtfxg.xyz:1111/ind1/zeeaction/chunks.m3u8?nimblesessionid=96695&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTA6MzYgQU0maGFzaF92YWx1ZT1Jd1FCMWQwYlJsM1REeDBnZ1NzLzN3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="IPTV-16",ZEE ACTION (IN)
+http://g.mtfxg.xyz:1111/ind1/zeeaction/l_205544037_1785480_440.ts?nimblesessionid=96767&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTA6MzYgQU0maGFzaF92YWx1ZT1Jd1FCMWQwYlJsM1REeDBnZ1NzLzN3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo=" "  group-title="IPTV-16",TRAVEL XP HD (IN)
+http://g.mtfxg.xyz:1111/ind1/travelxphd/chunks.m3u8?nimblesessionid=97007&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTM6MTQgQU0maGFzaF92YWx1ZT01NDRRYXRFRDVEWHpFY1Z5Vko2ZWNBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="TIMES NOW" tvg-logo=" "  group-title="IPTV-16",TIMES NOW (IN)
+http://g.mtfxg.xyz:1111/ind2/timesnowhd/l_167117728_60957087_15234.ts?nimblesessionid=97364&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTY6MTAgQU0maGFzaF92YWx1ZT03Z1pJa0hKNVNoNU1DRWtJOFdTd29RPT0mdmFsaWRtaW51dGVzPTI=
 
 
+http://g.mtfxg.xyz:1111/ind1/rishtaycineplex/chunks.m3u8?nimblesessionid=97438&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTc6MjYgQU0maGFzaF92YWx1ZT03cjVGUVRpeXpMNHgxZVlNcUZNemNnPT0mdmFsaWRtaW51dGVzPTI=
+http://g.mtfxg.xyz:1111/ind2/rishteycineplexuk/l_167495775_36612440_9144.ts?nimblesessionid=97494&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTg6MDEgQU0maGFzaF92YWx1ZT1sc3ZOMXA1YWU3aWFtbjFTS05jbFFnPT0mdmFsaWRtaW51dGVzPTI=
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://g.mtfxg.xyz:1111/ind1/zingtv/l_205492907_7316840_1823.ts?nimblesessionid=97547&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTg6NDkgQU0maGFzaF92YWx1ZT15UkdVSmM4ZWEyMjdtNDRNblg5L29BPT0mdmFsaWRtaW51dGVzPTI=
+http://g.mtfxg.xyz:1111/ind1/zinguk/l_205477144_8657480_2163.ts?nimblesessionid=97585&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTk6MTQgQU0maGFzaF92YWx1ZT1UL2E0N0s1YkJLYWp3MUJ3V0xmb3NRPT0mdmFsaWRtaW51dGVzPTI=
+http://g.mtfxg.xyz:1111/ind1/zoomtv/l_205557441_949501_233.ts?nimblesessionid=97629&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MTk6NDUgQU0maGFzaF92YWx1ZT1RSlV5TDRKZzRNZGp3U1JDaG5WbUlBPT0mdmFsaWRtaW51dGVzPTI=
+http://g.mtfxg.xyz:1111/ind2/rishteyeu/l_167891425_9977400_2493.ts?nimblesessionid=97677&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MjA6MzAgQU0maGFzaF92YWx1ZT1ad1RURFBDbW9hZGp4SWlHRHVtbHVBPT0mdmFsaWRtaW51dGVzPTI=
+http://g.mtfxg.xyz:1111/ind2/rishtayasia/l_167939080_6040560_1507.ts?nimblesessionid=97718&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MjA6NTggQU0maGFzaF92YWx1ZT0yV3VvZG9DMTJ5R2NnRDB2QUJVR0RnPT0mdmFsaWRtaW51dGVzPTI=
+http://g.mtfxg.xyz:1111/ind2/rishteyindia/l_167904408_9001520_2240.ts?nimblesessionid=97737&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTI6MjE6MjEgQU0maGFzaF92YWx1ZT1YZlFyUkxGeFd3MXhkNzkzbUdDdGhBPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
