@@ -1083,9 +1083,9 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo=" "  group-title="DIRECT-TV",MTV BEATS HD (IN)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="DIRECT-TV",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="STREAM", (US)
 
 
 
@@ -2182,21 +2182,22 @@ http://45.86.190.64:25461/v44eGmuTRx/m3CZHSscmZ/34151?play_token=0tPvkU0mr9&toke
 http://62.210.97.13:25461/v44eGmuTRx/m3CZHSscmZ/16083?play_token=4UX0ZJ12MQ&token=TURYAhZYEAwSUVEKW1RQVwFXCFcFAQsDAQpQDAMKAwNXX1EAVAcFDwFGTxBLF0AGVA9uD1IbCQcHA1wGShsTFlMUbwoBEggUAVZbAAtUBUEZQEUPW1wRDAAFUAFWD1VTBlAcQRVZVhQKRlEDD1ACQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBC1AFQB1EVVZGWEVBHRdcGy8rFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEApSB1YFQEw=
 #EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="IPTV-16",AND TV HD (US)
 http://45.86.190.64:25461/v44eGmuTRx/m3CZHSscmZ/34480?play_token=5sJCBj4ZPo&token=TURYAhZYEAwSUAULDlABWwVbUlIDAFdUUwZdAwNfVAYPAwBSUwBQBwRGTxBLF0AGVA9uD1IbCQUFB1wFShsTFlMUbwoBEggUAVZbAAtUBUEZQEUPW1wRDAAFUAFWD1VSA1McQRVZVhQKRlUBDlsKQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFcBWhNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpWC1ACWhMb
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTV-16", ()
 
 
 
 
 
 
-
-
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+http://shinestream.in:1935/shine/shinekannada/chunklist_w892823658.m3u8
 
 
 
