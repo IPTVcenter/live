@@ -973,12 +973,18 @@ https://mayank5.herokuapp.com/?c=
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
+#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo=" "  group-title="REDBOX-TV",TRAVEL XP HD (IN)
+http://0nelivezer0.hjkm.info:11991/juno/travelxphd/chunks.m3u8?nimblesessionid=37222&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjQ2OjQ2IFBNJmhhc2hfdmFsdWU9VkVnVG0xYVRZQkF3cXdTQnhiWnhNdz09JnZhbGlkbWludXRlcz0y
 
 
-
-
-
+http://0nelivezer0.hjkm.info:11991/neptune/rishteyeu/l_4852874_4421400_440.ts?nimblesessionid=33717&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjQ5OjE0IFBNJmhhc2hfdmFsdWU9OHB5WkU5YVpxMjZ1bTlNYlFzdUgzZz09JnZhbGlkbWludXRlcz0y
+http://0nelivezer0.hjkm.info:11991/neptune/rishtayasia/l_4880556_2304320_570.ts?nimblesessionid=55359&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjQ5OjU0IFBNJmhhc2hfdmFsdWU9VnpWRDU1MlBkbW1ZM29UMzd4c3huUT09JnZhbGlkbWludXRlcz0y
+http://0nelivezer0.hjkm.info:11991/neptune/rishteyindia/chunks.m3u8?nimblesessionid=55398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjUwOjE2IFBNJmhhc2hfdmFsdWU9UGdXeHVsNVJ4czhDdHRzZjZlK1lzdz09JnZhbGlkbWludXRlcz0y
+http://0nelivezer0.hjkm.info:11991/neptune/rishteycineplexuk/l_4397282_49621440_4963.ts?nimblesessionid=55457&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjUwOjM4IFBNJmhhc2hfdmFsdWU9OFA3cTFKc0JJOXRhalVCWnMyOStCdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="MTV INDIA" tvg-logo=" "  group-title="REDBOX-TV",MTV INDIA (US)
+http://0nelivezer0.hjkm.info:11991/neptune/mtvindia/chunks.m3u8?nimblesessionid=37640&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjUxOjIxIFBNJmhhc2hfdmFsdWU9N29GSHROamp6YmNwMXpTNlVMU0V1dz09JnZhbGlkbWludXRlcz0y
+http://0nelive0ne.hjkm.info:11991/mars2/animalplanet/chunks.m3u8?nimblesessionid=553396&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDExOjUyOjAyIFBNJmhhc2hfdmFsdWU9RkJ5bGxQcWk0aW1nbkV1Z05ueU0yZz09JnZhbGlkbWludXRlcz0y
 
 
 #EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo=" "  group-title="FEEDS-TV",AAJ TAK HD (IN)
